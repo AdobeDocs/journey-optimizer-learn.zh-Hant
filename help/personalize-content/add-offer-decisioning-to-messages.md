@@ -2,13 +2,13 @@
 title: 將選件新增為個人化
 description: 了解如何將offer decisioning元件新增至Journey Optimizer中的訊息。
 kt: 8033
-thumbnail: 334086.jpg
+thumbnail: 334088.jpg
 feature: 個性化
 doc-type: feature video
 team: PM
 role: Business Practitioner
 level: Beginner
-source-git-commit: b2088add97c592d1d9d1f360217370630214cbfa
+source-git-commit: bad49acacba7c110fceecc4d21b8d2b2d2c9befd
 workflow-type: tm+mt
 source-wordcount: '60'
 ht-degree: 23%
@@ -20,7 +20,7 @@ ht-degree: 23%
 
 了解如何將offer decisioning元件新增至Journey Optimizer中的訊息。
 
->[!VIDEO](https://video.tv.adobe.com/v/334086?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/334088?quality=12)
 
 ## 其他資訊
 
