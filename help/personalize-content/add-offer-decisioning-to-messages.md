@@ -1,17 +1,17 @@
 ---
-title: '[AJO]新增選件作為個人化'
+title: 將選件新增為個人化
 description: 了解如何將offer decisioning元件新增至Journey Optimizer中的訊息。
-KT: 8033
+kt: 8033
 thumbnail: 334086.jpg
 feature: 個性化
 doc-type: feature video
 team: PM
 role: Business Practitioner
 level: Beginner
-source-git-commit: 155488b1969cdd7ecea090daf77bac63a62de893
+source-git-commit: b2088add97c592d1d9d1f360217370630214cbfa
 workflow-type: tm+mt
-source-wordcount: '61'
-ht-degree: 22%
+source-wordcount: '60'
+ht-degree: 23%
 
 ---
 
