@@ -8,10 +8,10 @@ doc-type: feature video
 team: PM
 role: Business Practitioner
 level: Beginner
-source-git-commit: 1debd81aa3cc2fa8d20a514b07a4278f1a02f13a
+source-git-commit: 486159fbdacf5e209f6e173a4b44854fd41e088a
 workflow-type: tm+mt
-source-wordcount: '71'
-ht-degree: 19%
+source-wordcount: '110'
+ht-degree: 13%
 
 ---
 
@@ -26,4 +26,7 @@ ht-degree: 19%
 
 * [Offer Decisioning 影片和教學課程](https://experienceleague.adobe.com/docs/offer-decisioning-learn/tutorials/overview.html?lang=zh-Hant)
 * [關於決策管理（檔案）](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/get-started/starting-offer-decisioning.html)
-* [新增個人化優惠方案（檔案）](https://experienceleague.adobe.com/docs/journey-optimizer/using/create-messages/deliver-personalized-offers.html)
+* 文件:
+   * [開始使用Adobe Journey Optimizer中的決策管理](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/get-started/starting-offer-decisioning.html)
+   * [在電子郵件中新增個人化優惠方案](https://experienceleague.adobe.com/docs/journey-optimizer/using/create-messages/deliver-personalized-offers.html)
+   * [使用案例：設定個人化優惠方案以在電子郵件中使用](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/offers-e2e.html)
