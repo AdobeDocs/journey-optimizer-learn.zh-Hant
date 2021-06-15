@@ -2,10 +2,10 @@
 user-guide-title: Journey Optimizer學習Tutorials
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 以下是Journey Optimizer學習Tutorials。
-source-git-commit: 9a61f655d7cdf4f85a5368e20000a6c0ba7ed16a
+source-git-commit: 4ccc9340e312db53c5414c15d37a637107afd333
 workflow-type: tm+mt
-source-wordcount: '64'
-ht-degree: 15%
+source-wordcount: '71'
+ht-degree: 14%
 
 ---
 
@@ -22,6 +22,7 @@ ht-degree: 15%
    + 決策管理配置{#decision-management-configuration}
    + 歷程設定{#journey-configuration}
 + 建立訊息 {#create-messages}
+   + [使用訊息編輯器建立電子郵件內容](/help/create-messages/create-email-content-with-the-message-editor.md)
    + [匯入及編寫HTML電子郵件內容](/help/create-messages/import-and-author-html-email-content.md)
 + 個人化內容{#personalize-content}
    + [以設定檔和區段成員資格為基礎的個人化](/help/personalize-content/profile-and-segment-membership-based-personalization.md)
