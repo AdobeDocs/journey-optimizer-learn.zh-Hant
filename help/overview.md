@@ -2,10 +2,10 @@
 title: Journey Optimizer影片和Tutorials
 description: 本使用手冊包含有關Adobe Journey Optimizer功能的影片和教學課程。
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: d2f39bb7d8e1688f6b6f20096cc6cda4242366c8
+source-git-commit: 59a67f82a74618305ea1447f2be824173538b0e3
 workflow-type: tm+mt
-source-wordcount: '146'
-ht-degree: 16%
+source-wordcount: '148'
+ht-degree: 17%
 
 ---
 
@@ -17,6 +17,8 @@ ht-degree: 16%
 Journey Optimizer可協助公司為客戶提供連結、情境式和個人化的體驗。 客戶歷程是從第一次接觸直至客戶離開，客戶與品牌互動的整個過程。 
 
 本使用手冊包含有關Adobe Journey Optimizer功能的影片和教學課程。
+
+## 員工精選
 
 <table>
 <tr>
