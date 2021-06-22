@@ -8,13 +8,13 @@ doc-type: feature video
 team: PM
 role: Business Practitioner
 level: Beginner
-source-git-commit: cd5b1ca18650e4b79564753e52fe7bc00d37bcbe
+exl-id: 4b3719de-804d-47e4-80a5-93c9ee1dc09a
+source-git-commit: 453bc6f56c7568086d579d17218fc2807c62f76d
 workflow-type: tm+mt
-source-wordcount: '110'
+source-wordcount: '111'
 ht-degree: 13%
 
 ---
-
 
 # 將選件新增為個人化
 
@@ -29,4 +29,4 @@ ht-degree: 13%
 * 文件:
    * [開始使用Adobe Journey Optimizer中的決策管理](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/get-started/starting-offer-decisioning.html)
    * [在電子郵件中新增個人化優惠方案](https://experienceleague.adobe.com/docs/journey-optimizer/using/create-messages/deliver-personalized-offers.html)
-   * [使用案例：設定個人化優惠方案以在電子郵件中使用](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/offers-e2e.html)
+   * [使用案例：設定個人化優惠方案以在電子郵件中使用](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/get-started/offers-e2e.html)
