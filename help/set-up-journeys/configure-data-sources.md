@@ -1,6 +1,6 @@
 ---
 title: 設定資料來源
-description: 了解歷程的不同狀態，以及發佈的影響。
+description: 了解什麼是資料來源，並了解如何設定Experience Platform和外部資料來源。
 kt: 7538
 thumbnail: 334256.jpg
 feature: 歷程、資料來源
@@ -8,10 +8,10 @@ doc-type: feature video
 team: PM
 role: Administrator, Developer
 level: Beginner
-source-git-commit: 5bc7711f64af5d0dbffcb47d71996c3caa1a89d8
+source-git-commit: 359377095abbf30572f671b61f363abef67074aa
 workflow-type: tm+mt
-source-wordcount: '39'
-ht-degree: 15%
+source-wordcount: '45'
+ht-degree: 13%
 
 ---
 
