@@ -1,6 +1,6 @@
 ---
 title: 建立結構
-description: 了解如何建立結構、新增欄位群組、建立和設定自訂欄位群組。
+description: 了解如何建立結構、新增欄位群組、建立及設定自訂欄位群組。
 kt: 7565
 thumbnail: 334461.jpg
 feature: 結構
@@ -8,7 +8,7 @@ doc-type: feature video
 team: PM
 role: Developer
 level: Beginner
-source-git-commit: 470f4d5e329dd2823d9498c66da2d8609f2a524c
+source-git-commit: e920c13276400fbb69467818cf49c2dfa46f28ca
 workflow-type: tm+mt
 source-wordcount: '59'
 ht-degree: 5%
@@ -18,7 +18,7 @@ ht-degree: 5%
 
 # 建立結構
 
-了解如何建立結構、新增欄位群組、建立和設定自訂欄位群組。
+了解如何建立結構、新增欄位群組、建立及設定自訂欄位群組。
 
 >[!VIDEO](https://video.tv.adobe.com/v/334461?quality=12)
 
