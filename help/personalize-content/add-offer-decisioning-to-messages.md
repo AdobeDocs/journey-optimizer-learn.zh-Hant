@@ -1,32 +1,32 @@
 ---
-title: 將選件新增為個人化
-description: 了解如何將offer decisioning元件新增至Journey Optimizer中的訊息。
+title: 將優惠新增為個人化
+description: 瞭解如何將優惠決定元件新增至 Journey Optimizer 中的訊息。
 kt: 8033
 thumbnail: 334088.jpg
-feature: 個性化
+feature: 個人化
 doc-type: feature video
 team: PM
 role: Business Practitioner
 level: Beginner
 exl-id: 4b3719de-804d-47e4-80a5-93c9ee1dc09a
 source-git-commit: 453bc6f56c7568086d579d17218fc2807c62f76d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '111'
-ht-degree: 13%
+ht-degree: 100%
 
 ---
 
-# 將選件新增為個人化
+# 將優惠新增為個人化
 
-了解如何將offer decisioning元件新增至Journey Optimizer中的訊息。
+瞭解如何將優惠決定元件新增至 Journey Optimizer 中的訊息。
 
 >[!VIDEO](https://video.tv.adobe.com/v/334088?quality=12)
 
 ## 其他資訊
 
 * [Offer Decisioning 影片和教學課程](https://experienceleague.adobe.com/docs/offer-decisioning-learn/tutorials/overview.html?lang=zh-Hant)
-* [關於決策管理（檔案）](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/get-started/starting-offer-decisioning.html)
-* 文件:
-   * [開始使用Adobe Journey Optimizer中的決策管理](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/get-started/starting-offer-decisioning.html)
-   * [在電子郵件中新增個人化優惠方案](https://experienceleague.adobe.com/docs/journey-optimizer/using/create-messages/deliver-personalized-offers.html)
-   * [使用案例：設定個人化優惠方案以在電子郵件中使用](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/get-started/offers-e2e.html)
+* [關於決定管理 (文件) ](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/get-started/starting-offer-decisioning.html?lang=zh-Hant)
+* 文件：
+   * [開始使用 Adobe Journey Optimizer 中的決定管理](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/get-started/starting-offer-decisioning.html?lang=zh-Hant)
+   * [在電子郵件中新增個人化優惠](https://experienceleague.adobe.com/docs/journey-optimizer/using/create-messages/deliver-personalized-offers.html?lang=zh-Hant)
+   * [使用案例：設定個人化優惠以在電子郵件中使用](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/get-started/offers-e2e.html?lang=zh-Hant)
