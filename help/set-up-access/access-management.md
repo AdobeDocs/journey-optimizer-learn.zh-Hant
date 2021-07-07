@@ -1,6 +1,6 @@
 ---
 title: 存取管理
-description: 了解Adobe Journey Optimizer的存取控制系統和8個自訂設定檔。 了解如何管理產品設定檔和權限，以及如何新增和管理使用者。
+description: 瞭解 Adobe Journey Optimizer 的存取控制系統和 8 個自訂設定檔。 瞭解如何管理產品設定檔和權限，以及如何新增和管理使用者。
 kt: 7677
 thumbnail: 333998.jpg
 feature: 存取管理
@@ -8,20 +8,20 @@ doc-type: feature video
 team: PM
 role: Administrator
 level: Beginner
-source-git-commit: cd5b1ca18650e4b79564753e52fe7bc00d37bcbe
-workflow-type: tm+mt
+exl-id: c1b3f804-7c41-4856-ba87-4d8e22abc5a9
+source-git-commit: ea5e6412db4fae88122c7c17d8432dcea4997ad3
+workflow-type: ht
 source-wordcount: '74'
-ht-degree: 8%
+ht-degree: 100%
 
 ---
 
-
 # 存取管理
 
-了解Adobe Journey Optimizer的存取控制系統和8個自訂設定檔。 了解如何管理產品設定檔和權限，以及如何新增和管理使用者。
+瞭解 Adobe Journey Optimizer 的存取控制系統和 8 個自訂設定檔。 瞭解如何管理產品設定檔和權限，以及如何新增和管理使用者。
 
 >[!VIDEO](https://video.tv.adobe.com/v/333998?quality=12)
 
 ## 其他資源
 
-* [產品設定檔（檔案）](https://experienceleague.adobe.com/docs/journey-optimizer/using/administration/ootb-product-profiles.html)
+* [產品設定檔 (文件)](https://experienceleague.adobe.com/docs/journey-optimizer/using/administration/ootb-product-profiles.html?lang=zh-Hant)
