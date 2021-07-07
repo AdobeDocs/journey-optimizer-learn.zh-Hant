@@ -1,23 +1,23 @@
 ---
 title: 預覽、校樣和發佈
-description: 了解如何測試各收件匣間的電子郵件呈現、如何根據測試設定檔預覽您的個人化電子郵件、傳送校樣及發佈您的電子郵件。
+description: 瞭解如何測試各收件匣間的電子郵件呈現、如何根據測試設定檔預覽您的個人化電子郵件、傳送校樣及發佈您的電子郵件。
 kt: 7533
 thumbnail: 334239.jpg
-feature: 電子郵件設計、收件匣轉譯、電子郵件轉譯
+feature: 電子郵件設計, 收件匣轉譯, 電子郵件轉譯
 doc-type: feature video
 team: PM
 role: Business Practitioner
 level: Beginner
-source-git-commit: 5d6431eea3239fbdceaf9485d6a21edee92f6c3b
-workflow-type: tm+mt
+exl-id: 01c15f13-a804-45c3-94b0-ecd46586cc4f
+source-git-commit: ea5e6412db4fae88122c7c17d8432dcea4997ad3
+workflow-type: ht
 source-wordcount: '60'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-
 # 預覽、校樣和發佈
 
-了解如何測試各收件匣間的電子郵件呈現、如何根據測試設定檔預覽您的個人化電子郵件、傳送校樣及發佈您的電子郵件。
+瞭解如何測試各收件匣間的電子郵件呈現、如何根據測試設定檔預覽您的個人化電子郵件、傳送校樣及發佈您的電子郵件。
 
 >[!VIDEO](https://video.tv.adobe.com/v/334239?quality=12)
