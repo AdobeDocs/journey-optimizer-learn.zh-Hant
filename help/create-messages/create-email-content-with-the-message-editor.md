@@ -1,6 +1,6 @@
 ---
 title: 使用訊息編輯器建立電子郵件內容
-description: 了解如何從草稿開始建立電子郵件。 了解如何使用AEM Assets Essentials資料庫中的資產、編輯回應式電子郵件設計，以及從範本建立電子郵件。
+description: 瞭解如何從頭開始建立電子郵件。 瞭解如何使用 AEM Assets Essentials 資料庫中的資產、編輯回應式電子郵件設計，以及從範本建立電子郵件。
 kt: 8057
 thumbnail: 334150.jpg
 feature: 電子郵件設計
@@ -10,22 +10,22 @@ role: Business Practitioner
 level: Beginner
 exl-id: 3186f91b-71a5-486a-9948-ec1994a19874
 source-git-commit: 453bc6f56c7568086d579d17218fc2807c62f76d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '146'
-ht-degree: 6%
+ht-degree: 100%
 
 ---
 
 # 使用訊息編輯器建立電子郵件內容
 
-了解如何從草稿開始建立電子郵件。 了解如何使用AEM Assets Essentials資料庫中的資產、編輯回應式電子郵件設計，以及從範本建立電子郵件。
+瞭解如何從頭開始建立電子郵件。 瞭解如何使用 AEM Assets Essentials 資料庫中的資產、編輯回應式電子郵件設計，以及從範本建立電子郵件。
 
 >[!VIDEO](https://video.tv.adobe.com/v/334150?quality=12)
 
 ## 其他資源
 
-* [開始使用Journey Optimizer中的電子郵件設計](https://experienceleague.adobe.com/docs/journey-optimizer/using/create-messages/email-designer/design-emails.html)
-* [在 UI 中設計您的電子郵件內容](https://experienceleague.adobe.com/docs/journey-optimizer/using/create-messages/email-designer/create-email-content.html)
-* [使用電子郵件設計工具內容元件](https://experienceleague.adobe.com/docs/journey-optimizer/using/create-messages/email-designer/content-components.html)
-* [在Journey Optimizer中使用AEM Assets Essentials](https://experienceleague.adobe.com/docs/journey-optimizer/using/create-messages/assets-essentials.html)
-* [插入連結並設定電子郵件追蹤](https://experienceleague.adobe.com/docs/journey-optimizer/using/reporting/message-tracking.html)
+* [開始使用 Journey Optimizer 中的電子郵件設計](https://experienceleague.adobe.com/docs/journey-optimizer/using/create-messages/email-designer/design-emails.html?lang=zh-Hant)
+* [在 UI 中設計您的電子郵件內容](https://experienceleague.adobe.com/docs/journey-optimizer/using/create-messages/email-designer/create-email-content.html?lang=zh-Hant)
+* [使用電子郵件設計器內容元件](https://experienceleague.adobe.com/docs/journey-optimizer/using/create-messages/email-designer/content-components.html?lang=zh-Hant)
+* [在 Journey Optimizer 中使用 AEM Assets Essentials](https://experienceleague.adobe.com/docs/journey-optimizer/using/create-messages/assets-essentials.html?lang=zh-Hant)
+* [插入連結並設定電子郵件追蹤](https://experienceleague.adobe.com/docs/journey-optimizer/using/reporting/message-tracking.html?lang=zh-Hant)
