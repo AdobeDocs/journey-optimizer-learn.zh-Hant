@@ -2,10 +2,10 @@
 title: Journey Optimizer 影片和教學課程
 description: 本使用手冊包含了 Adobe Journey Optimizer 功能和特性的相關影片和教學課程。
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: 666a96d7fb4650f108ecbc947f6da73f5c1f2a15
+source-git-commit: 766a1eb9bfdfd65c08f1c6a442d7f731df22f346
 workflow-type: tm+mt
-source-wordcount: '193'
-ht-degree: 77%
+source-wordcount: '265'
+ht-degree: 57%
 
 ---
 
@@ -19,6 +19,18 @@ Journey Optimizer 協助公司向其客戶傳送連結的、情境式和個人�
 本使用手冊包含了 Adobe Journey Optimizer 功能和特性的相關影片和教學課程。
 
 ## 新增功能
+
+* **[設定資料 — 概觀](/help/set-up-data/set-up-data-overview.md)**
+
+   *了解即時客戶設定檔資料，以及為Journey Optimizer設定客戶設定檔資料所需的步驟。*
+
+* **[對應身分](/help/set-up-data/map-identities.md)**
+
+   *了解如何將架構欄位標示為身分、如何建立命名空間、何時將身分設為主要身分，以及如何內嵌及驗證身分資料。*
+
+* **[設定資料來源](/help/set-up-data/configure-data-sources.md)**
+
+   *了解來源連接器及如何在Journey Optimizer中設定*
 
 * **[建立歷程的簡介](/help/create-journeys/introduction-to-building-a-journey.md)**
 
