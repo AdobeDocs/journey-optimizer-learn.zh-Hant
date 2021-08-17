@@ -8,14 +8,14 @@ doc-type: feature video
 team: PM
 role: Admin
 level: Beginner
-source-git-commit: 55cb22765457ad34f7deb45114d06aaa5c4466fc
+source-git-commit: f40328e297bcbdff47074558bfd3dad6884b1f7f
 workflow-type: tm+mt
-source-wordcount: '50'
-ht-degree: 8%
+source-wordcount: '52'
+ht-degree: 3%
 
 ---
 
-# 存取管理
+# 建立和管理沙箱
 
 了解哪些沙箱，以及如何區分開發沙箱和生產沙箱。 了解如何建立、重設和刪除沙箱。
 
