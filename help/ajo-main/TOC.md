@@ -3,9 +3,9 @@ user-guide-title: Journey Optimizer 學習教學課程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 以下是 Journey Optimizer 學習教學課程。
 source-git-commit: dcd0c4342392f4eed800d8a03b1ff21fe9d76e84
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '161'
-ht-degree: 88%
+ht-degree: 100%
 
 ---
 
@@ -21,10 +21,10 @@ ht-degree: 88%
    + [架構](/help/introduction/architecture.md)
 + 開始使用 {#get-started}
    + [存取管理](/help/set-up-access/access-management.md)
-   + [建立和管理沙箱](/help/set-up-access/create-and-manage-sandboxes.md)
+   + [建立及管理沙箱](/help/set-up-access/create-and-manage-sandboxes.md)
    + 資料設定 {#data-configuration}
       + [概覽](/help/set-up-data/set-up-data-overview.md)
-      + [建立結構](/help/set-up-data/create-schema.md)
+      + [建立方案](/help/set-up-data/create-schema.md)
       + [對應身分](/help/set-up-data/map-identities.md)
       + [建立資料集並內嵌資料](/help/set-up-data/create-datasets-and-ingest-data.md)
       + [設定資料來源](/help/set-up-data/configure-data-sources.md)
@@ -45,12 +45,12 @@ ht-degree: 88%
    + [使用內容事件資訊進行個人化](/help/personalize-content/use-contextual-event-information-for-personalization.md)
    + [使用協助程式功能進行個人化](/help/personalize-content/use-helper-functions-for-personalization.md)
 + 建立歷程 {#create-journeys}
-   + [建立歷程的簡介](/help/create-journeys/introduction-to-building-a-journey.md)
+   + [建立歷程簡介](/help/create-journeys/introduction-to-building-a-journey.md)
    + [使用案例 - 異動歷程](/help/create-journeys/use-case-transactional-journey.md)
    + [使用案例 - 讀取區段](/help/create-journeys/use-case-read-segment.md)
    + [使用案例 - 業務事件](/help/create-journeys/use-case-business-event.md)
    + [使用案例 - 區段資格](/help/create-journeys/use-case-read-segment-qualification.md)
-   + [使用案例 — 突發消息](/help/create-journeys/use-case-read-burst-message.md)
+   + [使用案例 — 突發訊息](/help/create-journeys/use-case-read-burst-message.md)
    + [測試歷程](/help/create-journeys/test-a-journey.md)
    + [發佈歷程](/help/create-journeys/publish-a-journey.md)
 + 報告和監視 {#report-and-monitor}
