@@ -10,7 +10,7 @@ role: User
 level: Beginner
 exl-id: 6b8b5c30-5b12-486e-8787-352670e0b164
 source-git-commit: 55cb22765457ad34f7deb45114d06aaa5c4466fc
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '113'
 ht-degree: 100%
 
@@ -26,4 +26,4 @@ ht-degree: 100%
 
 * [匯入或編碼您的電子郵件內容 (文件)](https://experienceleague.adobe.com/docs/journey-optimizer/using/create-messages/email-designer/existing-content.html?lang=zh-Hant)
 * [開始使用 Adobe Journey Optimizer 中的電子郵件設計](https://experienceleague.adobe.com/docs/journey-optimizer/using/create-messages/email-designer/design-emails.html?lang=zh-Hant)
-* [使用電子郵件設計人員內容元件](https://experienceleague.adobe.com/docs/journey-optimizer/using/create-messages/email-designer/design-emails.html)
+* [使用電子郵件設計人員內容元件](https://experienceleague.adobe.com/docs/journey-optimizer/using/create-messages/email-designer/design-emails.html?lang=zh-Hant)
