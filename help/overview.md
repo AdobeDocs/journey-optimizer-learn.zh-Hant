@@ -2,10 +2,10 @@
 title: Journey Optimizer 影片和教學課程
 description: 本使用手冊包含了 Adobe Journey Optimizer 功能和特性的相關影片和教學課程。
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: 766a1eb9bfdfd65c08f1c6a442d7f731df22f346
-workflow-type: ht
-source-wordcount: '265'
-ht-degree: 100%
+source-git-commit: 16d5e81f4fc19c62dbc700ff1dfdb06cd9d01662
+workflow-type: tm+mt
+source-wordcount: '283'
+ht-degree: 93%
 
 ---
 
@@ -19,6 +19,10 @@ Journey Optimizer 協助公司向其客戶傳送連結的、情境式和個人�
 本使用手冊包含了 Adobe Journey Optimizer 功能和特性的相關影片和教學課程。
 
 ## 新增功能
+
+* ** [建立事件](/help/set-up-journeys/create-events.md)**
+
+   *了解如何設定事件、指定串流端點和事件的裝載。*
 
 * **[設定資料 — 概覽](/help/set-up-data/set-up-data-overview.md)**
 
