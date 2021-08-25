@@ -2,10 +2,10 @@
 user-guide-title: Journey Optimizer 學習教學課程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 以下是 Journey Optimizer 學習教學課程。
-source-git-commit: c60c70732efc32ff18137b56fc54bbfd43ef256b
+source-git-commit: 4e7a0aadefdc9b48b189aface23f97dac819c758
 workflow-type: tm+mt
-source-wordcount: '163'
-ht-degree: 98%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -19,22 +19,22 @@ ht-degree: 98%
    + [Journey Optimizer 概覽第 2 部分](/help/introduction/journey-optimizer-overview-part-2.md)
    + [重要功能和使用者介面](/help/introduction/key-capabilities-and-user-interface.md)
    + [架構](/help/introduction/architecture.md)
-+ 開始使用 {#get-started}
++ 存取控制 {#access-control}
    + [存取管理](/help/set-up-access/access-management.md)
    + [建立及管理沙箱](/help/set-up-access/create-and-manage-sandboxes.md)
-   + 資料設定 {#data-configuration}
-      + [概覽](/help/set-up-data/set-up-data-overview.md)
-      + [建立方案](/help/set-up-data/create-schema.md)
-      + [對應身分](/help/set-up-data/map-identities.md)
-      + [建立資料集並內嵌資料](/help/set-up-data/create-datasets-and-ingest-data.md)
-      + [設定資料來源](/help/set-up-data/configure-data-sources.md)
-   + 頻道設定 {#channel-configuration}
-      + [設定電子郵件頻道](/help/set-up-email-channel/set-up-email-channel.md)
-   + 決定管理設定 {#decision-management-configuration}
-   + 歷程設定{#journey-configuration}
-      + [設定資料來源](/help/set-up-journeys/configure-data-sources.md)
-      + [建立事件](/help/set-up-journeys/create-events.md)
-      + [建立動作](/help/set-up-journeys/create-actions.md)
++ 資料設定 {#data-configuration}
+   + [概覽](/help/set-up-data/set-up-data-overview.md)
+   + [建立方案](/help/set-up-data/create-schema.md)
+   + [對應身分](/help/set-up-data/map-identities.md)
+   + [建立資料集並內嵌資料](/help/set-up-data/create-datasets-and-ingest-data.md)
+   + [設定資料來源](/help/set-up-data/configure-data-sources.md)
++ 頻道設定 {#channel-configuration}
+   + [設定電子郵件頻道](/help/set-up-email-channel/set-up-email-channel.md)
++ 決定管理設定 {#decision-management-configuration}
++ 歷程設定{#journey-configuration}
+   + [設定資料來源](/help/set-up-journeys/configure-data-sources.md)
+   + [建立事件](/help/set-up-journeys/create-events.md)
+   + [建立動作](/help/set-up-journeys/create-actions.md)
 + [建立區段](/help/set-up-resources/create-segments.md)
 + 建立訊息 {#create-messages}
    + [使用訊息編輯器建立電子郵件內容](/help/create-messages/create-email-content-with-the-message-editor.md)
