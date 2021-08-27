@@ -2,10 +2,10 @@
 user-guide-title: Journey Optimizer 學習教學課程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 以下是 Journey Optimizer 學習教學課程。
-source-git-commit: 4e7a0aadefdc9b48b189aface23f97dac819c758
+source-git-commit: 5e8737fdbc77b5f664795209708a5d3b5b6a566f
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '163'
+ht-degree: 98%
 
 ---
 
@@ -27,12 +27,12 @@ ht-degree: 0%
    + [建立方案](/help/set-up-data/create-schema.md)
    + [對應身分](/help/set-up-data/map-identities.md)
    + [建立資料集並內嵌資料](/help/set-up-data/create-datasets-and-ingest-data.md)
-   + [設定資料來源](/help/set-up-data/configure-data-sources.md)
+   + [設定資料來源](/help/set-up-data/configure-source-connectors.md)
 + 頻道設定 {#channel-configuration}
    + [設定電子郵件頻道](/help/set-up-email-channel/set-up-email-channel.md)
 + 決定管理設定 {#decision-management-configuration}
 + 歷程設定{#journey-configuration}
-   + [設定資料來源](/help/set-up-journeys/configure-data-sources.md)
+   + [設定資料來源](/help/set-up-journeys/configure-source-connectors.md)
    + [建立事件](/help/set-up-journeys/create-events.md)
    + [建立動作](/help/set-up-journeys/create-actions.md)
 + [建立區段](/help/set-up-resources/create-segments.md)
