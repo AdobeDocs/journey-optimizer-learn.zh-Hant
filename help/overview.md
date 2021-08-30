@@ -2,7 +2,7 @@
 title: Journey Optimizer 影片和教學課程
 description: 本使用手冊包含了 Adobe Journey Optimizer 功能和特性的相關影片和教學課程。
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: a3ac85cfb438b37c36bf97af41d6c41dc666e92d
+source-git-commit: f20dcf654fc2e552b4936860a99b825e40c0e2c6
 workflow-type: tm+mt
 source-wordcount: '210'
 ht-degree: 91%
@@ -28,7 +28,7 @@ Journey Optimizer 協助公司向其客戶傳送連結的、情境式和個人�
 
    *瞭解來源連接器及如何在 Journey Optimizer 中設定*
 
-* **[使用案例 — 突發訊息](/help/create-journeys/use-case-read-burst-message.md)**
+* **[使用案例 — 突發訊息](/help/create-journeys/use-case-burst-message.md)**
 
    *瞭解突發訊息傳送的適用使用案例。瞭解如何設定突發訊息的歷程，以及可套用的最佳實務。*
 
