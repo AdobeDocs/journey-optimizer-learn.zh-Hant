@@ -1,24 +1,24 @@
 ---
 title: Adobe Journey Optimizer 簡介
-description: 瞭解 Adobe Journey Optimizer 是什麼、此解決方案解決的業務挑戰，以及主要使用案例。
+description: 了解Adobe Journey Optimizer是什麼、此應用程式解決的業務挑戰，以及主要使用案例。
 kt: 7517
 thumbnail: 333745.jpg
-feature: 概覽
+feature: Overview
 doc-type: feature video
 team: PM
 role: User
 level: Beginner
 exl-id: e48a627a-bd36-4084-a791-78f7a78579c6
-source-git-commit: 55cb22765457ad34f7deb45114d06aaa5c4466fc
-workflow-type: ht
-source-wordcount: '76'
-ht-degree: 100%
+source-git-commit: 74369d03b19125ebf26c708caf1cc4535cb09c38
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
 # Adobe Journey Optimizer 簡介
 
-瞭解 Adobe Journey Optimizer 是什麼、此解決方案解決的業務挑戰，以及主要使用案例。
+了解Adobe Journey Optimizer是什麼、此應用程式解決的業務挑戰，以及主要使用案例。
 
 >[!VIDEO](https://video.tv.adobe.com/v/333745?quality=12)
 
