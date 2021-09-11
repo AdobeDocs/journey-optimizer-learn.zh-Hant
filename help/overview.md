@@ -2,10 +2,10 @@
 title: Journey Optimizer 影片和教學課程
 description: 本使用手冊包含了 Adobe Journey Optimizer 功能和特性的相關影片和教學課程。
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: f20dcf654fc2e552b4936860a99b825e40c0e2c6
+source-git-commit: a32d0d147fb6cd2fde1bc6052f2684d21be883da
 workflow-type: tm+mt
-source-wordcount: '210'
-ht-degree: 91%
+source-wordcount: '212'
+ht-degree: 79%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 91%
 
 ![](./assets/ajo-banner.png)
 
-Journey Optimizer 協助公司向其客戶傳送連結的、情境式和個人化體驗。客戶歷程是指從第一次接觸直至客戶離開，客戶與品牌互動的整個過程。 
+Journey Optimizer 協助公司向其客戶傳送連結的、情境式和個人化體驗。客戶歷程是客戶與品牌互動的整個過程，從聯絡的第一刻到客戶退出網站。
 
 本使用手冊包含了 Adobe Journey Optimizer 功能和特性的相關影片和教學課程。
 
