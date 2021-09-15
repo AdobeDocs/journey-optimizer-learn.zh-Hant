@@ -2,10 +2,10 @@
 user-guide-title: Journey Optimizer 學習教學課程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 以下是 Journey Optimizer 學習教學課程。
-source-git-commit: f20dcf654fc2e552b4936860a99b825e40c0e2c6
+source-git-commit: acbdb0e3fa0da0cf7af56b3fdecd9662010e5d9b
 workflow-type: tm+mt
-source-wordcount: '163'
-ht-degree: 96%
+source-wordcount: '173'
+ht-degree: 95%
 
 ---
 
@@ -31,6 +31,7 @@ ht-degree: 96%
 + 頻道設定 {#channel-configuration}
    + [設定電子郵件頻道](/help/set-up-email-channel/set-up-email-channel.md)
 + 決定管理設定 {#decision-management-configuration}
+   + [Offer decisioning](https://experienceleague.adobe.com/docs/offer-decisioning-learn/tutorials/overview.html?lang=zh-Hant)
 + 歷程設定{#journey-configuration}
    + [設定資料來源](/help/set-up-journeys/configure-data-sources.md)
    + [建立事件](/help/set-up-journeys/create-events.md)
