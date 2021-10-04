@@ -2,10 +2,10 @@
 user-guide-title: Journey Optimizer 學習教學課程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 以下是 Journey Optimizer 學習教學課程。
-source-git-commit: acbdb0e3fa0da0cf7af56b3fdecd9662010e5d9b
+source-git-commit: 7b51c728a8c73a05e89f18e9e7c908a9f835f818
 workflow-type: tm+mt
-source-wordcount: '173'
-ht-degree: 95%
+source-wordcount: '190'
+ht-degree: 97%
 
 ---
 
@@ -31,7 +31,16 @@ ht-degree: 95%
 + 頻道設定 {#channel-configuration}
    + [設定電子郵件頻道](/help/set-up-email-channel/set-up-email-channel.md)
 + 決定管理設定 {#decision-management-configuration}
-   + [Offer decisioning](https://experienceleague.adobe.com/docs/offer-decisioning-learn/tutorials/overview.html?lang=zh-Hant)
+   + [ [!DNL Offer Decisioning] 簡介](/help/set-up-decision-management/introduction-to-offer-decisioning.md)
+   + [示範 [!DNL Offer Decisioning]](/help/set-up-decision-management/demo-of-offer-decisioning.md)
+   + [建立位置](/help/set-up-decision-management/create-placements.md)
+   + [建立規則](/help/set-up-decision-management/create-rules.md)
+   + [建立標籤](/help/set-up-decision-management/create-tags.md)
+   + [建立個人化優惠](/help/set-up-decision-management/create-personalized-offers.md)
+   + [建立遞補優惠](/help/set-up-decision-management/create-fallback-offers.md)
+   + [建立集合](/help/set-up-decision-management/create-collections.md)
+   + [建立優惠方案活動](/help/set-up-decision-management/create-offer-activities.md)
+   + [以 Decisions API 傳遞優惠方案](/help/set-up-decision-management/deliver-offers-with-the-decisions-api.md)
 + 歷程設定{#journey-configuration}
    + [設定資料來源](/help/set-up-journeys/configure-data-sources.md)
    + [建立事件](/help/set-up-journeys/create-events.md)
