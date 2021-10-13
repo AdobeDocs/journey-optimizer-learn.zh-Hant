@@ -3,14 +3,15 @@ title: 建立及管理沙箱
 description: 瞭解何謂沙箱，以及如何區分開發沙箱和生產沙箱。 瞭解如何建立、重設和刪除沙箱。
 kt: 7568
 thumbnail: 334355.jpg
-feature: 存取管理
+feature: Access Management
 doc-type: feature video
 team: PM
 role: Admin
 level: Beginner
-source-git-commit: f40328e297bcbdff47074558bfd3dad6884b1f7f
-workflow-type: tm+mt
-source-wordcount: '52'
+exl-id: b1ad3aa7-2b58-4a9f-8c5c-085126586c11
+source-git-commit: 9e2e92007783b714200a8a37e3144436cb96d6dc
+workflow-type: ht
+source-wordcount: '50'
 ht-degree: 100%
 
 ---
