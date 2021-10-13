@@ -10,9 +10,9 @@ role: User
 level: Beginner
 exl-id: 3186f91b-71a5-486a-9948-ec1994a19874
 source-git-commit: 4e7a0aadefdc9b48b189aface23f97dac819c758
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '143'
+ht-degree: 100%
 
 ---
 
@@ -28,4 +28,4 @@ ht-degree: 0%
 * [在 UI 中設計您的電子郵件內容](https://experienceleague.adobe.com/docs/journey-optimizer/using/create-messages/email-designer/create-email-content.html?lang=zh-Hant)
 * [使用電子郵件設計器內容元件](https://experienceleague.adobe.com/docs/journey-optimizer/using/create-messages/email-designer/content-components.html?lang=zh-Hant)
 * [在 Journey Optimizer 中使用 AEM Assets Essentials](https://experienceleague.adobe.com/docs/journey-optimizer/using/create-messages/assets-essentials.html?lang=zh-Hant)
-* [新增連結及追蹤訊息](https://experienceleague.adobe.com/docs/journey-optimizer/using/create-messages/message-tracking.html)
+* [新增連結及追蹤訊息](https://experienceleague.adobe.com/docs/journey-optimizer/using/create-messages/message-tracking.html?lang=zh-Hant)
