@@ -27,13 +27,13 @@ ht-degree: 0%
    + [建立方案](/help/set-up-data/create-schema.md)
    + [對應身分](/help/set-up-data/map-identities.md)
    + [建立資料集並內嵌資料](/help/set-up-data/create-datasets-and-ingest-data.md)
-   + [配置源連接器](/help/set-up-data/configure-source-connectors.md)
+   + [設定來源連接器](/help/set-up-data/configure-source-connectors.md)
 + 頻道設定 {#channel-configuration}
    + [設定電子郵件頻道](/help/set-up-email-channel/set-up-email-channel.md)
 + 決定管理設定 {#decision-management-configuration}
    + [ [!DNL Offer Decisioning] 簡介](/help/set-up-decision-management/introduction-to-offer-decisioning.md)
-   + [示範 [!DNL Offer Decisioning]](/help/set-up-decision-management/demo-of-offer-decisioning.md)
-   + [建立位置](/help/set-up-decision-management/create-placements.md)
+   + [ [!DNL Offer Decisioning] 示範](/help/set-up-decision-management/demo-of-offer-decisioning.md)
+   + [建立版位](/help/set-up-decision-management/create-placements.md)
    + [建立規則](/help/set-up-decision-management/create-rules.md)
    + [建立標籤](/help/set-up-decision-management/create-tags.md)
    + [建立個人化優惠](/help/set-up-decision-management/create-personalized-offers.md)
