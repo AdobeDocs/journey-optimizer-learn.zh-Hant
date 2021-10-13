@@ -10,9 +10,9 @@ role: User
 level: Beginner
 exl-id: 4b3719de-804d-47e4-80a5-93c9ee1dc09a
 source-git-commit: 4e7a0aadefdc9b48b189aface23f97dac819c758
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '110'
+ht-degree: 100%
 
 ---
 
@@ -27,6 +27,6 @@ ht-degree: 0%
 * [Offer Decisioning 影片和教學課程](https://experienceleague.adobe.com/docs/offer-decisioning-learn/tutorials/overview.html?lang=zh-Hant)
 * [關於決定管理 (文件) ](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/get-started/starting-offer-decisioning.html?lang=zh-Hant)
 * 文件：
-   * [開始使用 Adobe Journey Optimizer 中的決定管理](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/get-started/starting-offer-decisioning.html)
-   * [在電子郵件中新增個人化優惠](https://experienceleague.adobe.com/docs/journey-optimizer/using/personalization/deliver-personalized-offers.html)
+   * [開始使用 Adobe Journey Optimizer 中的決定管理](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/get-started/starting-offer-decisioning.html?lang=zh-Hant)
+   * [在電子郵件中新增個人化優惠](https://experienceleague.adobe.com/docs/journey-optimizer/using/personalization/deliver-personalized-offers.html?lang=zh-Hant)
    * [使用案例：設定個人化優惠以在電子郵件中使用](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/get-started/offers-e2e.html?lang=zh-Hant)
