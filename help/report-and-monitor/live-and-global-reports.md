@@ -3,15 +3,15 @@ title: 即時和全域報告
 description: 瞭解即時和全域報告之間的差異、如何存取和分析歷程和訊息特定報告，以及如何修改報告控制面板。
 kt: 7690
 thumbnail: 334108.jpg
-feature: 報告
+feature: Reporting
 doc-type: feature video
 team: PM
 role: Admin
 level: Beginner
 exl-id: 9e94b335-7e5d-4753-aead-d18f42776fdd
 source-git-commit: 55cb22765457ad34f7deb45114d06aaa5c4466fc
-workflow-type: ht
-source-wordcount: '91'
+workflow-type: tm+mt
+source-wordcount: '90'
 ht-degree: 100%
 
 ---
