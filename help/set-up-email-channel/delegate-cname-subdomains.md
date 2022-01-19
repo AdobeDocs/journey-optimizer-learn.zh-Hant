@@ -8,14 +8,14 @@ doc-type: feature video
 team: PM
 role: Admin, Developer
 level: Beginner
-source-git-commit: 6c3fb260c034d7c4f536ca76d19f302d7ba0980f
+source-git-commit: 7741e6698934749eadaf12dae800b08444c6ffd2
 workflow-type: tm+mt
-source-wordcount: '33'
-ht-degree: 12%
+source-wordcount: '32'
+ht-degree: 0%
 
 ---
 
-# 設定電子郵件頻道
+# 委派CName子網域
 
 了解如何使用CNAME建立子網域，以指向Adobe特定記錄。
 
