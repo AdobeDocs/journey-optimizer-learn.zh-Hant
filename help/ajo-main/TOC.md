@@ -2,10 +2,10 @@
 user-guide-title: Journey Optimizer 學習教學課程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 以下是 Journey Optimizer 學習教學課程。
-source-git-commit: 6c3fb260c034d7c4f536ca76d19f302d7ba0980f
+source-git-commit: 1ce21795d583969e753744d52bc1cc8d822130bb
 workflow-type: tm+mt
 source-wordcount: '194'
-ht-degree: 98%
+ht-degree: 88%
 
 ---
 
@@ -30,7 +30,7 @@ ht-degree: 98%
    + [設定來源連接器](/help/set-up-data/configure-source-connectors.md)
 + 頻道設定 {#channel-configuration}
    + [設定電子郵件頻道](/help/set-up-email-channel/set-up-email-channel.md)
-   + [委派CName子網域](/help/set-up-email-channel/delegate-cname-subdomains.md)
+   + [委託CName子域](/help/set-up-email-channel/delegate-cname-subdomains.md)
 + 決定管理設定 {#decision-management-configuration}
    + [ [!DNL Offer Decisioning] 簡介](/help/set-up-decision-management/introduction-to-offer-decisioning.md)
    + [ [!DNL Offer Decisioning] 示範](/help/set-up-decision-management/demo-of-offer-decisioning.md)
@@ -58,11 +58,11 @@ ht-degree: 98%
    + [使用協助程式功能進行個人化](/help/personalize-content/use-helper-functions-for-personalization.md)
 + 建立歷程 {#create-journeys}
    + [建立歷程簡介](/help/create-journeys/introduction-to-building-a-journey.md)
-   + [使用案例 - 異動歷程](/help/create-journeys/use-case-transactional-journey.md)
-   + [使用案例 - 讀取區段](/help/create-journeys/use-case-read-segment.md)
-   + [使用案例 - 業務事件](/help/create-journeys/use-case-business-event.md)
-   + [使用案例 - 區段資格](/help/create-journeys/use-case-read-segment-qualification.md)
-   + [使用案例 — 突發訊息](/help/create-journeys/use-case-burst-message.md)
+   + [用例 — 事務性行程](/help/create-journeys/use-case-transactional-journey.md)
+   + [用例 — 讀取段](/help/create-journeys/use-case-read-segment.md)
+   + [用例 — 業務事件](/help/create-journeys/use-case-business-event.md)
+   + [使用案例 — 段資格](/help/create-journeys/use-case-read-segment-qualification.md)
+   + [用例 — 突發消息](/help/create-journeys/use-case-burst-message.md)
    + [建立測試設定檔](/help/create-journeys/test-a-journey.md)
    + [發佈歷程](/help/create-journeys/publish-a-journey.md)
 + 報告和監視 {#report-and-monitor}

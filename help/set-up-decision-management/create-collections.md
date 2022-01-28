@@ -1,13 +1,13 @@
 ---
 title: 建立集合
 description: 了解如何在  [!DNL Offer Decisioning] 中建立集合。集合具有與其相關的適用性規則，可幫助您僅向相關客戶顯示。
-feature: Offers
+feature: Offers, Collections
 kt: 6747
 thumbnail: 329376.jpg
 exl-id: a255a0cd-b4ab-46a9-9c49-a4588ae12ea4
-source-git-commit: 0ce7477bdcf1bdff8b83977791267e8afe92b57c
+source-git-commit: 1ce21795d583969e753744d52bc1cc8d822130bb
 workflow-type: tm+mt
-source-wordcount: '120'
+source-wordcount: '92'
 ht-degree: 100%
 
 ---
@@ -21,9 +21,3 @@ ht-degree: 100%
 >[!INFO]
 >
 > 此影片是[行銷人員 Offer Decisioning 快速入門課程的一部分](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning)，可在 Experience League 中免費使用！
-
-
-## 其他資源
-
-* [建立集合 (文件) ](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/managing-offers-in-the-offer-library/creating-collections.html?lang=zh-Hant)
-* [使用 API 建立集合 (文件) ](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/api-reference/offers-api/collections/create.html?lang=zh-Hant)

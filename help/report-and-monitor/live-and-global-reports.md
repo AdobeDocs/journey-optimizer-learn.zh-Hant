@@ -9,9 +9,9 @@ team: PM
 role: Admin
 level: Beginner
 exl-id: 9e94b335-7e5d-4753-aead-d18f42776fdd
-source-git-commit: 55cb22765457ad34f7deb45114d06aaa5c4466fc
+source-git-commit: 1ce21795d583969e753744d52bc1cc8d822130bb
 workflow-type: tm+mt
-source-wordcount: '90'
+source-wordcount: '62'
 ht-degree: 100%
 
 ---
@@ -21,8 +21,3 @@ ht-degree: 100%
 瞭解即時和全域報告之間的差異、如何存取和分析歷程和訊息特定報告，以及如何修改報告控制面板。  
 
 >[!VIDEO](https://video.tv.adobe.com/v/334108?quality=12)
-
-## 其他資源
-
-* [開始使用即時報告](https://experienceleague.adobe.com/docs/journey-optimizer/using/reporting/live-report/live-report.html?lang=zh-Hant)
-* [開始使用全域報告](https://experienceleague.adobe.com/docs/journey-optimizer/using/reporting/global-report/global-report.html?lang=zh-Hant)

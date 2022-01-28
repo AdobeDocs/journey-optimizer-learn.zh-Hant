@@ -1,8 +1,9 @@
 ---
 title: Journey Optimizer 影片和教學課程
 description: 本使用手冊包含了 Adobe Journey Optimizer 功能和特性的相關影片和教學課程。
+recommendations: noDisplay, noCatalog
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: 6c3fb260c034d7c4f536ca76d19f302d7ba0980f
+source-git-commit: 1ce21795d583969e753744d52bc1cc8d822130bb
 workflow-type: tm+mt
 source-wordcount: '201'
 ht-degree: 92%
@@ -20,9 +21,9 @@ Journey Optimizer 協助公司向其客戶傳送連結的、情境式和個人�
 
 ## 新增功能
 
-* **[委派CName子網域](/help/set-up-email-channel/delegate-cname-subdomains.md)**
+* **[委託CName子域](/help/set-up-email-channel/delegate-cname-subdomains.md)**
 
-   *了解如何使用CNAME建立子網域，以指向Adobe特定記錄。*
+   *瞭解如何使用CNAME建立子域以指向特定於Adobe的記錄。*
 
 * **[建立事件](/help/set-up-journeys/create-events.md)**
 

@@ -5,9 +5,9 @@ feature: Offers
 kt: 6417
 thumbnail: 326961.jpg
 exl-id: 551cce3d-58e9-4302-bfbd-fbf86f79e183
-source-git-commit: 0ce7477bdcf1bdff8b83977791267e8afe92b57c
+source-git-commit: 1ce21795d583969e753744d52bc1cc8d822130bb
 workflow-type: tm+mt
-source-wordcount: '92'
+source-wordcount: '79'
 ht-degree: 100%
 
 ---
@@ -22,8 +22,3 @@ ht-degree: 100%
 >[!INFO]
 >
 > 此影片是[行銷人員 Offer Decisioning 快速入門課程的一部分](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning)，可在 Experience League 中免費使用！
-
-## 其他資源
-
-* [ [!DNL Offer Decisioning]  示範 (影片)](demo-of-offer-decisioning.md)
-* [[!DNL Offer Decisioning] (文件)](https://experienceleague.adobe.com/docs/offer-decisioning/using/get-started/starting-offer-decisioning.html?lang=zh-Hant)

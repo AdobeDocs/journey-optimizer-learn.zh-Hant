@@ -6,16 +6,16 @@ feature: Offers, API
 kt: 6819
 thumbnail: 329919.jpg
 exl-id: 3084c52b-adc8-42bc-a203-5e39bcff77ef
-source-git-commit: 0ce7477bdcf1bdff8b83977791267e8afe92b57c
+source-git-commit: 1ce21795d583969e753744d52bc1cc8d822130bb
 workflow-type: tm+mt
-source-wordcount: '159'
-ht-degree: 100%
+source-wordcount: '152'
+ht-degree: 94%
 
 ---
 
 # 以 Decisions API 傳遞優惠方案
 
-了解如何使用 Decisions API 傳遞 [!DNL Offer Decisioning] 優惠。使用 [!DNL Postman] 來示範，會進行 API 呼叫以擷取容器 ID。 接下來，將使用活動 ID、位置 ID、身分命名空間及客戶 ID 自訂範例決策 API 呼叫，以擷取個人化優惠。 使用決策 API 擷取個人化優惠方案後，您就可以將優惠方案內容與行銷系統整合。
+瞭解如何提供 [!DNL Offer Decisioning] [提供決策API](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/api-reference/offer-delivery/deliver-offers.html?lang=zh-Hant)。 使用 [!DNL Postman] 來示範，會進行 API 呼叫以擷取容器 ID。 接下來，將使用活動 ID、位置 ID、身分命名空間及客戶 ID 自訂範例決策 API 呼叫，以擷取個人化優惠。 使用決策 API 擷取個人化優惠方案後，您就可以將優惠方案內容與行銷系統整合。
 
 >[!VIDEO](https://video.tv.adobe.com/v/329919?quality=12&learn=on)
 
@@ -25,8 +25,6 @@ ht-degree: 100%
 
 
 ## 其他資源
-
-* [使用 Decisions API 提供優惠 (文件) ](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/api-reference/offer-delivery/deliver-offers.html?lang=zh-Hant)
 * [驗證及存取 Experience Platform API (教學課程)](https://experienceleague.adobe.com/docs/platform-learn/tutorials/platform-api-authentication.html?lang=zh-Hant)
 * [[!DNL Postman] 非生產驗證的集合](https://github.com/adobe/experience-platform-postman-samples/tree/master/apis/ims)
 * [[!DNL Postman]](https://www.postman.com/)
