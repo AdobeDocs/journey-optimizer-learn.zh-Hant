@@ -9,9 +9,9 @@ team: PM
 role: User
 level: Beginner
 exl-id: 3186f91b-71a5-486a-9948-ec1994a19874
-source-git-commit: 4e7a0aadefdc9b48b189aface23f97dac819c758
+source-git-commit: cdf98075ebe732cadfbfc36b3c65683c64b15a02
 workflow-type: tm+mt
-source-wordcount: '143'
+source-wordcount: '70'
 ht-degree: 100%
 
 ---
@@ -21,11 +21,3 @@ ht-degree: 100%
 瞭解如何從頭開始建立電子郵件。 瞭解如何使用 AEM Assets Essentials 資料庫中的資產、編輯回應式電子郵件設計，以及從範本建立電子郵件。
 
 >[!VIDEO](https://video.tv.adobe.com/v/334150?quality=12)
-
-## 其他資源
-
-* [開始使用 Journey Optimizer 中的電子郵件設計](https://experienceleague.adobe.com/docs/journey-optimizer/using/create-messages/email-designer/design-emails.html?lang=zh-Hant)
-* [在 UI 中設計您的電子郵件內容](https://experienceleague.adobe.com/docs/journey-optimizer/using/create-messages/email-designer/create-email-content.html?lang=zh-Hant)
-* [使用電子郵件設計器內容元件](https://experienceleague.adobe.com/docs/journey-optimizer/using/create-messages/email-designer/content-components.html?lang=zh-Hant)
-* [在 Journey Optimizer 中使用 AEM Assets Essentials](https://experienceleague.adobe.com/docs/journey-optimizer/using/create-messages/assets-essentials.html?lang=zh-Hant)
-* [新增連結及追蹤訊息](https://experienceleague.adobe.com/docs/journey-optimizer/using/create-messages/message-tracking.html?lang=zh-Hant)
