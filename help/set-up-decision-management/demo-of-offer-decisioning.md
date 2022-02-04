@@ -6,7 +6,7 @@ kt: 6492
 thumbnail: 326841.jpg
 exl-id: 44136443-a3fd-435f-9f6d-23c7696acabe
 source-git-commit: 1ce21795d583969e753744d52bc1cc8d822130bb
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '83'
 ht-degree: 100%
 
@@ -20,4 +20,4 @@ ht-degree: 100%
 
 >[!INFO]
 >
-> 此影片是[行銷人員 Offer decisioning 快速入門課程的一部分](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning)，可在 Experience League 中免費使用！
+> 此影片是[行銷人員 Offer decisioning 快速入門課程的一部分](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning?lang=zh-Hant)，可在 Experience League 中免費使用！
