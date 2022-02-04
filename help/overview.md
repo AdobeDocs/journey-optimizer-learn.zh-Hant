@@ -4,9 +4,9 @@ description: 本使用手冊包含了 Adobe Journey Optimizer 功能和特性的
 recommendations: noDisplay, noCatalog
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
 source-git-commit: 1ce21795d583969e753744d52bc1cc8d822130bb
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '201'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
@@ -21,9 +21,9 @@ Journey Optimizer 協助公司向其客戶傳送連結的、情境式和個人�
 
 ## 新增功能
 
-* **[委託CName子域](/help/set-up-email-channel/delegate-cname-subdomains.md)**
+* **[委派 CName 子網域](/help/set-up-email-channel/delegate-cname-subdomains.md)**
 
-   *瞭解如何使用CNAME建立子域以指向特定於Adobe的記錄。*
+   *瞭解如何使用 CNAME 建立子網域以指向 Adobe 特定記錄。*
 
 * **[建立事件](/help/set-up-journeys/create-events.md)**
 
