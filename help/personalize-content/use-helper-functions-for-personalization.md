@@ -10,9 +10,9 @@ role: User
 level: Beginner
 exl-id: 20dfc3a7-aa09-4ca2-a02e-3134fd680e2b
 source-git-commit: 1ce21795d583969e753744d52bc1cc8d822130bb
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '67'
-ht-degree: 80%
+ht-degree: 100%
 
 ---
 
@@ -22,4 +22,4 @@ ht-degree: 80%
 
 >[!VIDEO](https://video.tv.adobe.com/v/334244?quality=12)
 
-請參閱產品指南以瞭解有關 [模板化語言和幫助程式功能](https://experienceleague.adobe.com/docs/journey-optimizer/using/personalization/functions/functions.html?lang=zh-Hant)。
+請參閱產品指南以瞭解更多有關[範本化語言和協助程式功能](https://experienceleague.adobe.com/docs/journey-optimizer/using/personalization/functions/functions.html?lang=zh-Hant)的資訊。
