@@ -2,7 +2,7 @@
 user-guide-title: Journey Optimizer 學習教學課程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 以下是 Journey Optimizer 學習教學課程。
-source-git-commit: 676f0b268f7f67d179bfa944b72cb68191640c74
+source-git-commit: a663d531061ef343d10b837c447242b89f020eba
 workflow-type: tm+mt
 source-wordcount: '194'
 ht-degree: 100%
@@ -32,16 +32,16 @@ ht-degree: 100%
    + [設定電子郵件頻道](/help/set-up-email-channel/set-up-email-channel.md)
    + [委派 CName 子網域](/help/set-up-email-channel/delegate-cname-subdomains.md)
 + 決策管理設定 {#decision-management-configuration}
-   + [ [!DNL Offer Decisioning] 簡介](/help/set-up-decision-management/introduction-to-offer-decisioning.md)
-   + [ [!DNL Offer Decisioning] 示範](/help/set-up-decision-management/demo-of-offer-decisioning.md)
-   + [建立版位](/help/set-up-decision-management/create-placements.md)
-   + [建立規則](/help/set-up-decision-management/create-rules.md)
-   + [建立標籤](/help/set-up-decision-management/create-tags.md)
-   + [建立個人化優惠](/help/set-up-decision-management/create-personalized-offers.md)
-   + [建立遞補優惠](/help/set-up-decision-management/create-fallback-offers.md)
-   + [建立集合](/help/set-up-decision-management/create-collections.md)
-   + [建立優惠方案活動](/help/set-up-decision-management/create-offer-activities.md)
-   + [以 Decisions API 傳遞優惠方案](/help/set-up-decision-management/deliver-offers-with-the-decisions-api.md)
+   + [ [!DNL Offer Decisioning] 簡介](/help/decision-management/introduction-to-offer-decisioning.md)
+   + [ [!DNL Offer Decisioning] 示範](/help/decision-management/demo-of-offer-decisioning.md)
+   + [建立版位](/help/decision-management/create-placements.md)
+   + [建立規則](/help/decision-management/create-rules.md)
+   + [建立標籤](/help/decision-management/create-tags.md)
+   + [建立個人化優惠](/help/decision-management/create-personalized-offers.md)
+   + [建立遞補優惠](/help/decision-management/create-fallback-offers.md)
+   + [建立集合](/help/decision-management/create-collections.md)
+   + [建立優惠方案活動](/help/decision-management/create-offer-activities.md)
+   + [以 Decisions API 傳遞優惠方案](/help/decision-management/deliver-offers-with-the-decisions-api.md)
 + 歷程設定{#journey-configuration}
    + [設定資料來源](/help/set-up-journeys/configure-data-sources.md)
    + [建立事件](/help/set-up-journeys/create-events.md)
