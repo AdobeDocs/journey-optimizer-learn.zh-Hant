@@ -3,10 +3,10 @@ title: Journey Optimizer 影片和教學課程
 description: 本使用手冊包含了 Adobe Journey Optimizer 功能和特性的相關影片和教學課程。
 recommendations: noDisplay, noCatalog
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: 01781ab4fe33afb8e8c387b53c164428d7bcdff6
+source-git-commit: 0f56a25b1254a9f7d66555c2f1a0bb020382876f
 workflow-type: tm+mt
-source-wordcount: '215'
-ht-degree: 86%
+source-wordcount: '210'
+ht-degree: 81%
 
 ---
 
@@ -21,6 +21,10 @@ Journey Optimizer 協助公司向其客戶傳送連結的、情境式和個人�
 
 ## 新增功能
 
+* **[訂閱和登陸頁面](/help/subscriptions-and-landing-pages.md)**
+
+   *瞭解如何配置訂閱和建立登錄頁。*
+
 * **[使用和管理個性化庫中保存的表達式](/help/personalize-content/use-and-manage-saved-expressions-in-personalization-library.md)**
 
    *瞭解如何在郵件中使用保存的個性化庫項目，以及如何建立和管理個性化庫項目。*
@@ -28,11 +32,6 @@ Journey Optimizer 協助公司向其客戶傳送連結的、情境式和個人�
 * **[委派 CName 子網域](/help/set-up-email-channel/delegate-cname-subdomains.md)**
 
    *瞭解如何使用 CNAME 建立子網域以指向 Adobe 特定記錄。*
-
-* **[建立事件](/help/set-up-journeys/create-events.md)**
-
-   *了解如何設定事件、指定串流端點和事件裝載。*
-
 
 ## 員工精選
 
