@@ -6,7 +6,7 @@ exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
 source-git-commit: 0f56a25b1254a9f7d66555c2f1a0bb020382876f
 workflow-type: tm+mt
 source-wordcount: '210'
-ht-degree: 81%
+ht-degree: 95%
 
 ---
 
@@ -25,9 +25,9 @@ Journey Optimizer 協助公司向其客戶傳送連結的、情境式和個人�
 
    *瞭解如何配置訂閱和建立登錄頁。*
 
-* **[使用和管理個性化庫中保存的表達式](/help/personalize-content/use-and-manage-saved-expressions-in-personalization-library.md)**
+* **[使用和管理個人化資料庫中已儲存的運算式](/help/personalize-content/use-and-manage-saved-expressions-in-personalization-library.md)**
 
-   *瞭解如何在郵件中使用保存的個性化庫項目，以及如何建立和管理個性化庫項目。*
+   *瞭解如何在訊息中使用已儲存的個人化資料庫項目，以及如何建立和管理個人化資料庫項目。*
 
 * **[委派 CName 子網域](/help/set-up-email-channel/delegate-cname-subdomains.md)**
 
