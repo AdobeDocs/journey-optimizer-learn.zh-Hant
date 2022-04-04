@@ -2,9 +2,9 @@
 user-guide-title: Journey Optimizer 學習教學課程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 以下是 Journey Optimizer 學習教學課程。
-source-git-commit: ca3c1cd1741e2e42a6067013f670e10eb7ae1a2e
+source-git-commit: 3be357a7f91c08bf768d837f32c242ff8b181749
 workflow-type: tm+mt
-source-wordcount: '236'
+source-wordcount: '235'
 ht-degree: 88%
 
 ---
@@ -46,7 +46,7 @@ ht-degree: 88%
    + [設定資料來源](/help/set-up-journeys/configure-data-sources.md)
    + [建立事件](/help/set-up-journeys/create-events.md)
    + [建立動作](/help/set-up-journeys/create-actions.md)
-+ 客戶配置檔案、段和訂閱{profiles-segments-subscriptions}
++ 客戶配置檔案、細分和訂閱 {#profiles-segments-subscriptions}
    + [統一的配置檔案和分段 — 概述](/help/set-up-resources/unified-profile-and-segmentation-overview.md)
    + [建立區段](/help/set-up-resources/create-segments.md)
    + [訂閱和登陸頁面](/help/subscriptions-and-landing-pages.md)
