@@ -1,26 +1,26 @@
 ---
-title: 配置訂閱和登錄頁
-description: '瞭解如何配置訂閱和建立登錄頁。 '
+title: 設定訂閱和登陸頁面
+description: 瞭解如何設定訂閱和建立登陸頁面。
 feature: Landing Pages, Subscriptions
 role: User
 level: Beginner
 kt: 9364
 thumbnail: 341280.jpg
-source-git-commit: 773cf0e4633a8b4fe0696d2d4a612c82dc7f8955
-workflow-type: tm+mt
+exl-id: b2da105b-ec0b-4bb8-8f68-993f92253cb4
+source-git-commit: 943ccd4a9cb1489aa30d459906d3baa9e902dbfa
+workflow-type: ht
 source-wordcount: '55'
-ht-degree: 7%
+ht-degree: 100%
 
 ---
 
+# 設定訂閱和登陸頁面
 
-# 配置訂閱和登錄頁
-
-瞭解如何配置訂閱和建立登錄頁：
+瞭解如何設定訂閱和建立登陸頁面：
 
 * 建立訂閱清單
-* 設定登錄頁，為服務提供訂閱或取消訂閱
-* 在郵件中整合（取消）訂閱選項
-* 配置相關旅程
+* 設定登陸頁面，為服務提供訂閱或取消訂閱
+* 在訊息中整合取消訂閱/訂閱選項
+* 設定相關歷程
 
 >[!VIDEO](https://video.tv.adobe.com/v/341280?quality=12&learn=on)
