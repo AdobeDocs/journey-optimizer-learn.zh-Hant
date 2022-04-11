@@ -5,7 +5,7 @@ user-guide-description: 以下是 Journey Optimizer 學習教學課程。
 source-git-commit: 4471e139da3693a2b13ec49c260c87f4787238ac
 workflow-type: tm+mt
 source-wordcount: '239'
-ht-degree: 86%
+ht-degree: 97%
 
 ---
 
@@ -46,18 +46,18 @@ ht-degree: 86%
    + [設定資料來源](/help/set-up-journeys/configure-data-sources.md)
    + [建立事件](/help/set-up-journeys/create-events.md)
    + [建立動作](/help/set-up-journeys/create-actions.md)
-+ 客戶配置檔案、細分和訂閱 {#profiles-segments-subscriptions}
-   + [統一的配置檔案和分段 — 概述](/help/set-up-resources/unified-profile-and-segmentation-overview.md)
++ 客戶設定檔、區段和訂閱 {#profiles-segments-subscriptions}
+   + [統一設定檔和分段 — 概述](/help/set-up-resources/unified-profile-and-segmentation-overview.md)
    + [建立區段](/help/set-up-resources/create-segments.md)
    + [訂閱和登陸頁面](/help/subscriptions-and-landing-pages.md)
 + [Assets Essentials](/help/assets-essentials-overview.md)
 + 建立訊息 {#create-messages}
-   + [按摩設計師概述](/help/create-messages/message-designer-overview.md)
+   + [按摩設計師概覽](/help/create-messages/message-designer-overview.md)
    + [使用訊息編輯器建立電子郵件內容](/help/create-messages/create-email-content-with-the-message-editor.md)
    + [匯入及編寫 HTML 電子郵件內容](/help/create-messages/import-and-author-html-email-content.md)
    + [預覽、校樣和發佈](/help/create-messages/preview-proof-and-publish.md)
-   + [Mobile營銷能力](/help/create-messages/mobile-capabilities.md)
-   + [Mobile設計師能力](/help/create-messages/mobile-capabilities-for-developers.md)
+   + [為行銷人員提供的行動裝置功能](/help/create-messages/mobile-capabilities.md)
+   + [為設計師提供的行動裝置功能](/help/create-messages/mobile-capabilities-for-developers.md)
 + 個人化內容 {#personalize-content}
    + [以設定檔和區段成員資格為基礎的個人化](/help/personalize-content/profile-and-segment-membership-based-personalization.md)
    + [將優惠新增為個人化](/help/personalize-content/add-offer-decisioning-to-messages.md)
@@ -65,7 +65,7 @@ ht-degree: 86%
    + [使用協助程式功能進行個人化](/help/personalize-content/use-helper-functions-for-personalization.md)
    + [使用和管理個人化資料庫中已儲存的運算式](/help/personalize-content/use-and-manage-saved-expressions-in-personalization-library.md)
 + 建立歷程 {#create-journeys}
-   + [旅程畫布概述](/help/create-journeys/overview-over-the-journey-canvas.md)
+   + [歷程畫布概述](/help/create-journeys/overview-over-the-journey-canvas.md)
    + [建立歷程簡介](/help/create-journeys/introduction-to-building-a-journey.md)
    + [使用案例 - 異動歷程](/help/create-journeys/use-case-transactional-journey.md)
    + [使用案例 - 讀取區段](/help/create-journeys/use-case-read-segment.md)
