@@ -1,21 +1,21 @@
 ---
 title: 建立個人化優惠方案
-seo-title: Create personalized offers in Offer Decisioning
-description: 了解如何在  [!DNL Offer Decisioning] 中建立個人化優惠。個人化優惠具有與其相關的適用性規則，可協助您僅向相關客戶顯示。
+seo-title: Create personalized offers for decision management
+description: 瞭解如何建立個性化的產品以用於決策管理。 個人化優惠具有與其相關的適用性規則，可協助您僅向相關客戶顯示。
 feature: Offers, Personalization
 kt: 6781
 thumbnail: 329375.jpg
 exl-id: 03428751-340f-4400-9162-b0f3021f1af1
-source-git-commit: a663d531061ef343d10b837c447242b89f020eba
-workflow-type: ht
-source-wordcount: '135'
-ht-degree: 100%
+source-git-commit: 307c19ca15e0fd63002c0932713e265824ea2621
+workflow-type: tm+mt
+source-wordcount: '139'
+ht-degree: 87%
 
 ---
 
 # 建立個人化優惠方案
 
-了解如何在 [!DNL Offer Decisioning] 中建立[個人化優惠方案](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/managing-offers-in-the-offer-library/creating-personalized-offers.html?lang=zh-Hant)。個人化優惠具有與其相關的適用性規則，可協助您僅向相關客戶顯示。 例如，您可以將雪鏟的優惠方案限制在下雪地區，而且只能在冬季進行。
+瞭解如何建立 [個性化服務](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/managing-offers-in-the-offer-library/creating-personalized-offers.html?lang=zh-Hant) 用於決策管理。 個人化優惠具有與其相關的適用性規則，可協助您僅向相關客戶顯示。 例如，您可以將雪鏟的優惠方案限制在下雪地區，而且只能在冬季進行。
 
 >[!VIDEO](https://video.tv.adobe.com/v/329375?quality=12&learn=on)
 

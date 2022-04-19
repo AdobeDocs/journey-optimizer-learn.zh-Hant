@@ -1,20 +1,20 @@
 ---
 title: 建立決定規則
-description: 了解如何在 Offer Decisioning 中建立決定規則。規則是個人化優惠方案的必要建置區塊元件之一。
+description: 瞭解如何為決策管理建立決策規則。 規則是個人化優惠方案的必要建置區塊元件之一。
 feature: Offers
 kt: 6738
 thumbnail: 329373.jpg
 exl-id: 1b4cd1cd-f082-46ec-a331-9733d7c87bde
-source-git-commit: a663d531061ef343d10b837c447242b89f020eba
-workflow-type: ht
-source-wordcount: '151'
-ht-degree: 100%
+source-git-commit: 307c19ca15e0fd63002c0932713e265824ea2621
+workflow-type: tm+mt
+source-wordcount: '153'
+ht-degree: 88%
 
 ---
 
 # 建立決定規則
 
-了解如何在 [!DNL Offer Decisioning] 中建立[決定規則](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/create-components/creating-decision-rules.html?lang=zh-Hant)。規則或「決策規則」是個人化優惠方案的必要建置區塊元件之一。 規則是以 Platform 即時客戶設定檔中的事件和屬性所建立，可形成優惠的資格限制。例如，規則可用來限制給生活在下雪地區的客戶提供雪鏟的優惠方案。
+瞭解如何建立 [決策規則](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/create-components/creating-decision-rules.html?lang=zh-Hant) 用於決策管理。 規則或「決策規則」是個人化優惠方案的必要建置區塊元件之一。 規則是以 Platform 即時客戶設定檔中的事件和屬性所建立，可形成優惠的資格限制。例如，規則可用來限制給生活在下雪地區的客戶提供雪鏟的優惠方案。
 
 >[!VIDEO](https://video.tv.adobe.com/v/329373?quality=12&learn=on)
 
