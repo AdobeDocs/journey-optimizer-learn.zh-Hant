@@ -2,10 +2,10 @@
 user-guide-title: Journey Optimizer 學習教學課程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 以下是 Journey Optimizer 學習教學課程。
-source-git-commit: cb938ea72b8d3e7f0e9d080346c605b112a7a23f
+source-git-commit: 8762d5fa187e549df0a6ccda4e42192fda07ebf6
 workflow-type: tm+mt
-source-wordcount: '238'
-ht-degree: 97%
+source-wordcount: '240'
+ht-degree: 95%
 
 ---
 
@@ -32,7 +32,7 @@ ht-degree: 97%
    + [設定電子郵件頻道](/help/set-up-email-channel/set-up-email-channel.md)
    + [委派 CName 子網域](/help/set-up-email-channel/delegate-cname-subdomains.md)
 + 決策管理設定 {#decision-management-configuration}
-   + [ [!DNL Offer Decisioning] 簡介](/help/decision-management/introduction-to-offer-decisioning.md)
+   + [決策管理簡介](/help/decision-management/introduction-to-offer-decisioning.md)
    + [演示決策管理功能](/help/decision-management/demo-of-offer-decisioning.md)
    + [建立版位](/help/decision-management/create-placements.md)
    + [建立規則](/help/decision-management/create-rules.md)
