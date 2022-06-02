@@ -1,20 +1,20 @@
 ---
 title: 建立標籤
-description: 了解如何在 Offer Decisioning 中建立標籤。標籤是優惠方案的選用基礎元件。
+description: 瞭解如何在決策管理中建立標籤。 標籤是優惠方案的選用基礎元件。
 feature: Offers
 kt: 6753
 thumbnail: 329374.jpg
 exl-id: 155a35bf-8704-4e85-8647-479aecd2a9ce
-source-git-commit: a663d531061ef343d10b837c447242b89f020eba
-workflow-type: ht
+source-git-commit: 11392272ba2de149e10f38d7aba6f8bebb4011d4
+workflow-type: tm+mt
 source-wordcount: '105'
-ht-degree: 100%
+ht-degree: 73%
 
 ---
 
 # 建立標籤
 
-了解如何在 [!DNL Offer Decisioning] 中[建立標籤](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/create-components/creating-tags.html?lang=zh-Hant)。標籤是優惠方案的選用基礎元件，可用來組織優惠方案，並在動態集合中將優惠方案分組。
+了解如何在 [!DNL Decision Management] 中[建立標籤](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/create-components/creating-tags.html?lang=zh-Hant)。標籤是優惠方案的選用基礎元件，可用來組織優惠方案，並在動態集合中將優惠方案分組。
 
 >[!VIDEO](https://video.tv.adobe.com/v/329374?quality=12&learn=on)
 
@@ -22,4 +22,4 @@ ht-degree: 100%
 
 >[!INFO]
 >
-> 此影片是[行銷人員 Offer Decisioning 快速入門](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning?lang=zh-Hant)課程的一部分，可在 Experience League 中免費使用！
+> 這段視頻是課程的一部分， [面向營銷人員的決策管理入門](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning?lang=zh-Hant)，免費Experience League!

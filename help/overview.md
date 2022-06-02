@@ -3,10 +3,10 @@ title: Journey Optimizer 影片和教學課程
 description: 我們有一系列視頻教程來向您展示如何獲得Journey Optimizer的益處。
 recommendations: noDisplay, noCatalog
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: c487f98b184b5bb1d525293660e82db319af7ce4
+source-git-commit: 11392272ba2de149e10f38d7aba6f8bebb4011d4
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '214'
+ht-degree: 78%
 
 ---
 
@@ -60,7 +60,7 @@ Journey Optimizer 協助公司向其客戶傳送連結的、情境式和個人�
     </a>
     </div>
     <p>
-    <em>此影片說明品牌如何運用 Adobe Journey Optimization 的優惠決定、即時區段資格和業務事件管理，將消費者歷程提升到新的高度。</em>
+    <em>這段視頻展示了各品牌如何利用Adobe Journey Optimizer的決策管理能力，即時分部資格和商業事件管理，將消費者的旅程提升到新的高度。</em>
     <p>
   </td>
 </table>

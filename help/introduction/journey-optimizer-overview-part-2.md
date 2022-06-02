@@ -1,6 +1,6 @@
 ---
 title: Journey Optimizer 概覽第 2 部分 - 進階功能
-description: 此影片說明品牌如何運用 Adobe Journey Optimizer 的 Offer Decisioning、即時區段資格和業務事件管理，將消費者歷程提升到新高度。
+description: 這段視頻展示了各品牌如何利用Adobe Journey Optimizer的決策管理能力，即時分部資格和商務活動管理，將消費者的旅程推向新的高度。
 kt: 8072
 thumbnail: 334175.jpg
 feature: Overview
@@ -9,15 +9,15 @@ team: Evangelism
 role: User
 level: Beginner
 exl-id: 93266ba3-d90e-4d6e-8c43-4a421650e25f
-source-git-commit: 4cfecd678937cc0ca93cc197ce552114d53457a3
+source-git-commit: 11392272ba2de149e10f38d7aba6f8bebb4011d4
 workflow-type: tm+mt
-source-wordcount: '68'
-ht-degree: 100%
+source-wordcount: '70'
+ht-degree: 17%
 
 ---
 
 # Journey Optimizer 概覽第 2 部分 - 進階功能
 
-此影片說明品牌如何運用 Adobe Journey Optimizer 的 Offer Decisioning、即時區段資格和業務事件管理，將消費者歷程提升到新高度。
+這段視頻展示了各品牌如何利用Adobe Journey Optimizer的決策管理能力，即時分部資格和商務活動管理，將消費者的旅程推向新的高度。
 
 >[!VIDEO](https://video.tv.adobe.com/v/334175?quality=12)
