@@ -3,7 +3,7 @@ title: Journey Optimizer 影片和教學課程
 description: 我們有一系列視頻教程來向您展示如何獲得Journey Optimizer的益處。
 recommendations: noDisplay, noCatalog
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: e5c8967245409984541e2e0ce9b489fd8d00f14e
+source-git-commit: 9b5107457b134a66b1464a3f6d26bd95a8211ec8
 workflow-type: tm+mt
 source-wordcount: '406'
 ht-degree: 70%
@@ -23,7 +23,7 @@ Journey Optimizer 協助公司向其客戶傳送連結的、情境式和個人�
 
 ### 教學課程
 
-* **[配置消息頻率規則](help/administration/configure-frequency-rules.md)**
+* **[配置消息頻率規則](/help/administration/configure-frequency-rules.md)**
 
    *瞭解如何建立、激活、test和報告頻率規則。 瞭解如何確定消息的繼承頻率規則*
 
