@@ -3,10 +3,10 @@ title: Journey Optimizer 影片和教學課程
 description: 我們有一系列視頻教程來向您展示如何獲得Journey Optimizer的益處。
 recommendations: noDisplay, noCatalog
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: 5b2c1d5410ed91f35e1cbb93b6c1ff1767cca7c2
+source-git-commit: 943414d073b62730da2c559dfe8b4ab7a6f7757a
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '400'
+ht-degree: 61%
 
 ---
 
@@ -34,10 +34,6 @@ Journey Optimizer 協助公司向其客戶傳送連結的、情境式和個人�
 * **[配置消息頻率規則](/help/administration/configure-frequency-rules.md)**
 
    *瞭解如何建立、激活、test和報告頻率規則。 瞭解如何確定消息的繼承頻率規則。*
-
-* **[訂閱和登陸頁面](/help/subscriptions-and-landing-pages.md)**
-
-   *瞭解如何設定訂閱和建立登陸頁面。*
 
 ### Experience League Live 活動
 
