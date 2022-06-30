@@ -3,10 +3,10 @@ title: Journey Optimizer 影片和教學課程
 description: 我們有一系列視頻教程來向您展示如何獲得Journey Optimizer的益處。
 recommendations: noDisplay, noCatalog
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: 9c867ee84af5f4f58f85e179fb8e1e44a96b3236
+source-git-commit: 5b2c1d5410ed91f35e1cbb93b6c1ff1767cca7c2
 workflow-type: tm+mt
-source-wordcount: '396'
-ht-degree: 65%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -26,6 +26,10 @@ Journey Optimizer 協助公司向其客戶傳送連結的、情境式和個人�
 * **[配置、編寫和傳遞SMS消息](/help/create-messages/configure-author-and-deliver-sms-messages.md)**
 
    *瞭解如何配置、編寫和將SMS消息包括到您的客戶旅程中。*
+
+* **[SMS的入站關鍵字支援](/help/create-messages/inbound-keyword-support-for-sms.md)**
+
+   *瞭解SMS的本機入站關鍵字支援（啟動、停止、停止）的工作原理。*
 
 * **[配置消息頻率規則](/help/administration/configure-frequency-rules.md)**
 
