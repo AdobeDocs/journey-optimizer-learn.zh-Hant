@@ -3,10 +3,10 @@ title: Journey Optimizer 影片和教學課程
 description: 我們有一系列視頻教程來向您展示如何獲得Journey Optimizer的益處。
 recommendations: noDisplay, noCatalog
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: d4af15677c5c4baacfd6cae88acffa769ee6e401
+source-git-commit: 9c867ee84af5f4f58f85e179fb8e1e44a96b3236
 workflow-type: tm+mt
-source-wordcount: '406'
-ht-degree: 70%
+source-wordcount: '396'
+ht-degree: 65%
 
 ---
 
@@ -23,6 +23,10 @@ Journey Optimizer 協助公司向其客戶傳送連結的、情境式和個人�
 
 ### 教學課程
 
+* **[配置、編寫和傳遞SMS消息](/help/create-messages/configure-author-and-deliver-sms-messages.md)**
+
+   *瞭解如何配置、編寫和將SMS消息包括到您的客戶旅程中。*
+
 * **[配置消息頻率規則](/help/administration/configure-frequency-rules.md)**
 
    *瞭解如何建立、激活、test和報告頻率規則。 瞭解如何確定消息的繼承頻率規則。*
@@ -30,10 +34,6 @@ Journey Optimizer 協助公司向其客戶傳送連結的、情境式和個人�
 * **[訂閱和登陸頁面](/help/subscriptions-and-landing-pages.md)**
 
    *瞭解如何設定訂閱和建立登陸頁面。*
-
-* **[使用和管理個人化資料庫中已儲存的運算式](/help/personalize-content/use-and-manage-saved-expressions-in-personalization-library.md)**
-
-   *瞭解如何在訊息中使用已儲存的個人化資料庫項目，以及如何建立和管理個人化資料庫項目。*
 
 ### Experience League Live 活動
 
