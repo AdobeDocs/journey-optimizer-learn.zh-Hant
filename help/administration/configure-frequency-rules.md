@@ -1,6 +1,6 @@
 ---
-title: 配置消息頻率規則
-description: 瞭解如何建立、激活、test和報告頻率規則。 瞭解如何確定消息的繼承頻率規則。
+title: 設定訊息頻率規則
+description: 瞭解如何建立、啟動、測試並報告頻率規則。 瞭解如何確定訊息繼承的頻率規則。
 kt: 9367
 thumbnail: 344451.jpg
 feature: Email, Push
@@ -8,16 +8,16 @@ doc-type: feature video
 team: PM
 role: User
 level: Beginner
-source-git-commit: d4af15677c5c4baacfd6cae88acffa769ee6e401
-workflow-type: tm+mt
+exl-id: 76d4cb7e-a9ac-470b-bc9c-5792bf5d7482
+source-git-commit: 3f01d1ba1a0968d1daf69b44a0059e1b761d162e
+workflow-type: ht
 source-wordcount: '56'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
+# 設定訊息頻率規則
 
-# 配置消息頻率規則
-
-瞭解如何建立、激活、test和報告頻率規則。 瞭解如何確定消息的繼承頻率規則。
+瞭解如何建立、啟動、測試並報告頻率規則。 瞭解如何確定訊息繼承的頻率規則。
 
 >[!VIDEO](https://video.tv.adobe.com/v/344451?quality=12)
