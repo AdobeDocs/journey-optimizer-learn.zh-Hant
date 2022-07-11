@@ -3,16 +3,16 @@ user-guide-title: Journey Optimizer 學習教學課程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 以下是 Journey Optimizer 學習教學課程。
 source-git-commit: 5b2c1d5410ed91f35e1cbb93b6c1ff1767cca7c2
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '256'
+ht-degree: 100%
 
 ---
 
 
 # Journey Optimizer 學習教學課程 {#tutorials}
 
-+ [Journey OptimizerTutorials](/help/overview.md)
++ [Journey Optimizer 教學課程](/help/overview.md)
 + Journey Optimizer 簡介 {#introduction-to-journey-optimizer}
    + [Journey Optimizer 簡介](/help/introduction/introduction.md)
    + [Journey Optimizer 概覽第 1 部分](/help/introduction/journey-optimizer-overview-part-1.md)
@@ -31,7 +31,7 @@ ht-degree: 0%
 + 頻道設定 {#channel-configuration}
    + [設定電子郵件頻道](/help/set-up-email-channel/set-up-email-channel.md)
    + [委派 CName 子網域](/help/set-up-email-channel/delegate-cname-subdomains.md)
-   + [配置消息頻率規則](/help/administration/configure-frequency-rules.md)
+   + [設定訊息頻率規則](/help/administration/configure-frequency-rules.md)
 + 決策管理 {#decision-management}
    + [決策管理簡介](/help/decision-management/introduction-to-decision-management.md)
    + [決策管理功能示範](/help/decision-management/demo-of-decision-management-capabilities.md)
@@ -59,8 +59,8 @@ ht-degree: 0%
    + [預覽、校樣和發佈](/help/create-messages/preview-proof-and-publish.md)
    + [為行銷人員提供的行動裝置功能](/help/create-messages/mobile-capabilities.md)
    + [為設計師提供的行動裝置功能](/help/create-messages/mobile-capabilities-for-developers.md)
-   + [配置、編寫和傳遞SMS消息](/help/create-messages/configure-author-and-deliver-sms-messages.md)
-   + [SMS的入站關鍵字支援](/help/create-messages/inbound-keyword-support-for-sms.md)
+   + [設定、編寫並傳遞 SMS 訊息](/help/create-messages/configure-author-and-deliver-sms-messages.md)
+   + [SMS 傳入關鍵字支援](/help/create-messages/inbound-keyword-support-for-sms.md)
 + 個人化內容 {#personalize-content}
    + [以設定檔和區段成員資格為基礎的個人化](/help/personalize-content/profile-and-segment-membership-based-personalization.md)
    + [將優惠新增為個人化](/help/personalize-content/add-offer-decisioning-to-messages.md)
