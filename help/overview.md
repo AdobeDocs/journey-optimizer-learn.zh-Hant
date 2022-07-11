@@ -1,12 +1,12 @@
 ---
 title: Journey Optimizer 影片和教學課程
-description: 我們有一系列視頻教程來向您展示如何獲得Journey Optimizer的益處。
+description: 我們有一系列影片教學課程來向您展示如何獲得 Journey Optimizer 的好處。
 recommendations: noDisplay, noCatalog
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
 source-git-commit: 943414d073b62730da2c559dfe8b4ab7a6f7757a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '400'
-ht-degree: 61%
+ht-degree: 100%
 
 ---
 
@@ -23,23 +23,23 @@ Journey Optimizer 協助公司向其客戶傳送連結的、情境式和個人�
 
 ### 教學課程
 
-* **[配置、編寫和傳遞SMS消息](/help/create-messages/configure-author-and-deliver-sms-messages.md)**
+* **[設定、編寫及傳遞 SMS 訊息](/help/create-messages/configure-author-and-deliver-sms-messages.md)**
 
-   *瞭解如何配置、編寫和將SMS消息包括到您的客戶旅程中。*
+   *瞭解如何設定、編寫並將 SMS 訊息納入您的客戶歷程。*
 
-* **[SMS的入站關鍵字支援](/help/create-messages/inbound-keyword-support-for-sms.md)**
+* **[SMS 傳入關鍵字支援](/help/create-messages/inbound-keyword-support-for-sms.md)**
 
-   *瞭解SMS的本機入站關鍵字支援（啟動、停止、停止）的工作原理。*
+   *瞭解原生 SMS 傳入關鍵字支援 (啟動、停止、取消停止) 的工作原理。*
 
-* **[配置消息頻率規則](/help/administration/configure-frequency-rules.md)**
+* **[設定訊息頻率規則](/help/administration/configure-frequency-rules.md)**
 
-   *瞭解如何建立、激活、test和報告頻率規則。 瞭解如何確定消息的繼承頻率規則。*
+   *瞭解如何建立、啟用、測試並報告頻率規則。 瞭解如何確定訊息繼承的頻率規則。*
 
 ### Experience League Live 活動
 
-* **[推送通知與Adobe Journey Optimizer](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-05-12-22.html)**
+* **[透過 Adobe Journey Optimizer 推播通知](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-05-12-22.html?lang=zh-Hant)**
 
-   *在本Experience LeagueLive節中，我們與Adobe Journey Optimizer討論推送通知的常見使用案例，並深入探討如何配置由Adobe Experience Platform支援的Push應用的技術細節。*
+   *在本次 Experience League 現場單元，我們討論了透過 Adobe Journey Optimizer 推播通知的常見使用案例及技術詳細資訊，深入了解如何設定 Adobe Experience Platform 支援的推播應用程式。*
 
 ## 員工精選
 
@@ -68,7 +68,7 @@ Journey Optimizer 協助公司向其客戶傳送連結的、情境式和個人�
     </a>
     </div>
     <p>
-    <em>這段視頻展示了各品牌如何利用Adobe Journey Optimizer的決策管理能力，即時分部資格和商業事件管理，將消費者的旅程提升到新的高度。</em>
+    <em>此影片說明品牌如何運用 Adobe Journey Optimization 的優惠決定、即時區段資格和企業活動管理，將消費者歷程提升到新的高度。</em>
     <p>
   </td>
   </td>
