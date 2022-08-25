@@ -1,12 +1,12 @@
 ---
 title: Journey Optimizer 影片和教學課程
-description: 我們有一系列影片教學課程來向您展示如何獲得 Journey Optimizer 的好處。
+description: 我們有一系列視頻教程來向您展示如何獲得Journey Optimizer的益處。
 recommendations: noDisplay, noCatalog
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: 943414d073b62730da2c559dfe8b4ab7a6f7757a
-workflow-type: ht
-source-wordcount: '400'
-ht-degree: 100%
+source-git-commit: feb1420b297cb880aaf4e679ffeef971623c3912
+workflow-type: tm+mt
+source-wordcount: '395'
+ht-degree: 83%
 
 ---
 
@@ -15,13 +15,18 @@ ht-degree: 100%
 
 ![](./assets/ajo-banner.png)
 
-Journey Optimizer 協助公司向其客戶傳送連結的、情境式和個人化體驗。客戶歷程是指從第一次接觸直至客戶離開網站，客戶與品牌互動的整個過程。 
+Journey Optimizer 協助公司向其客戶傳送連結的、情境式和個人化體驗。客戶行程是客戶與品牌互動的整個過程，從聯繫的第一刻到客戶退出現場。
 
 本使用手冊包含了 Adobe Journey Optimizer 功能和特性的相關影片和教學課程。
 
 ## 新增功能
 
 ### 教學課程
+
+* **[建立行銷活動](/help/create-champaigns/create-a-campaign.md)**
+
+   *瞭解如何通過立即執行操作或按指定的時間表將一次性內容傳送到特定用戶段。*
+
 
 * **[設定、編寫及傳遞 SMS 訊息](/help/create-messages/configure-author-and-deliver-sms-messages.md)**
 
@@ -30,10 +35,6 @@ Journey Optimizer 協助公司向其客戶傳送連結的、情境式和個人�
 * **[SMS 傳入關鍵字支援](/help/create-messages/inbound-keyword-support-for-sms.md)**
 
    *瞭解原生 SMS 傳入關鍵字支援 (啟動、停止、取消停止) 的工作原理。*
-
-* **[設定訊息頻率規則](/help/administration/configure-frequency-rules.md)**
-
-   *瞭解如何建立、啟用、測試並報告頻率規則。 瞭解如何確定訊息繼承的頻率規則。*
 
 ### Experience League Live 活動
 
