@@ -3,10 +3,10 @@ title: Journey Optimizer 影片和教學課程
 description: 我們有一系列視頻教程來向您展示如何獲得Journey Optimizer的益處。
 recommendations: noDisplay, noCatalog
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: feb1420b297cb880aaf4e679ffeef971623c3912
+source-git-commit: 775549f16b3d7ffc74bca6d26edfe100a80f46f9
 workflow-type: tm+mt
-source-wordcount: '395'
-ht-degree: 83%
+source-wordcount: '394'
+ht-degree: 84%
 
 ---
 
@@ -25,7 +25,7 @@ Journey Optimizer 協助公司向其客戶傳送連結的、情境式和個人�
 
 * **[建立行銷活動](/help/create-champaigns/create-a-campaign.md)**
 
-   *瞭解如何通過立即執行操作或按指定的時間表將一次性內容傳送到特定用戶段。*
+   *瞭解如何通過立即執行操作或按指定的時間表向特定受眾交付一次性內容。*
 
 
 * **[設定、編寫及傳遞 SMS 訊息](/help/create-messages/configure-author-and-deliver-sms-messages.md)**
