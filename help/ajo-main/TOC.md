@@ -2,7 +2,7 @@
 user-guide-title: Journey Optimizer 學習教學課程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 以下是 Journey Optimizer 學習教學課程。
-source-git-commit: feb1420b297cb880aaf4e679ffeef971623c3912
+source-git-commit: 6b655e69f4533a433ddda130ade9ba0d09398dfa
 workflow-type: tm+mt
 source-wordcount: '261'
 ht-degree: 98%
@@ -53,7 +53,7 @@ ht-degree: 98%
    + [訂閱和登陸頁面](/help/subscriptions-and-landing-pages.md)
 + [Assets Essentials](/help/assets-essentials-overview.md)
 + 建立訊息 {#create-messages}
-   + [按摩設計師概覽](/help/create-messages/message-designer-overview.md)
+   + [訊息設計器概述](/help/create-messages/message-designer-overview.md)
    + [使用訊息編輯器建立電子郵件內容](/help/create-messages/create-email-content-with-the-message-editor.md)
    + [匯入及編寫 HTML 電子郵件內容](/help/create-messages/import-and-author-html-email-content.md)
    + [預覽、校樣和發佈](/help/create-messages/preview-proof-and-publish.md)
