@@ -2,10 +2,10 @@
 user-guide-title: Journey Optimizer 學習教學課程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 以下是 Journey Optimizer 學習教學課程。
-source-git-commit: 6b655e69f4533a433ddda130ade9ba0d09398dfa
+source-git-commit: bddd702254d7b804515723e15862521ff90b32ad
 workflow-type: tm+mt
-source-wordcount: '261'
-ht-degree: 98%
+source-wordcount: '260'
+ht-degree: 95%
 
 ---
 
@@ -54,7 +54,7 @@ ht-degree: 98%
 + [Assets Essentials](/help/assets-essentials-overview.md)
 + 建立訊息 {#create-messages}
    + [訊息設計器概述](/help/create-messages/message-designer-overview.md)
-   + [使用訊息編輯器建立電子郵件內容](/help/create-messages/create-email-content-with-the-message-editor.md)
+   + [使用電子郵件設計工具建立內容](/help/create-messages/create-content-with-the-email-designer.md)
    + [匯入及編寫 HTML 電子郵件內容](/help/create-messages/import-and-author-html-email-content.md)
    + [預覽、校樣和發佈](/help/create-messages/preview-proof-and-publish.md)
    + [為行銷人員提供的行動裝置功能](/help/create-messages/mobile-capabilities.md)
@@ -67,8 +67,8 @@ ht-degree: 98%
    + [使用內容事件資訊進行個人化](/help/personalize-content/use-contextual-event-information-for-personalization.md)
    + [使用協助程式功能進行個人化](/help/personalize-content/use-helper-functions-for-personalization.md)
    + [使用和管理個人化資料庫中已儲存的運算式](/help/personalize-content/use-and-manage-saved-expressions-in-personalization-library.md)
-+ 建立市場活動 {#create-campaigns}
-   + [建立市場活動](/help/create-champaigns/create-a-campaign.md)
++ 建立促銷活動 {#create-campaigns}
+   + [建立促銷活動](/help/create-champaigns/create-a-campaign.md)
 + 建立歷程 {#create-journeys}
    + [歷程畫布概述](/help/create-journeys/overview-over-the-journey-canvas.md)
    + [建立歷程簡介](/help/create-journeys/introduction-to-building-a-journey.md)
