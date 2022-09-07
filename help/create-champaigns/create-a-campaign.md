@@ -1,6 +1,6 @@
 ---
 title: 建立行銷活動
-description: 瞭解如何通過立即執行操作或按指定的時間表向特定受眾交付一次性內容。
+description: 了解如何透過立即執行動作或依指定排程傳送一次性內容給特定對象。
 kt: 10590
 thumbnail: 346680.jpg
 feature: Journeys
@@ -8,10 +8,11 @@ doc-type: feature video
 team: PM
 role: User
 level: Beginner
-source-git-commit: 775549f16b3d7ffc74bca6d26edfe100a80f46f9
-workflow-type: tm+mt
+exl-id: 543678e6-5803-4997-a6ea-a45ed571d7d4
+source-git-commit: 537d6ed2697aed941efbf572fed8856b5f21ad24
+workflow-type: ht
 source-wordcount: '105'
-ht-degree: 5%
+ht-degree: 100%
 
 ---
 
@@ -19,10 +20,10 @@ ht-degree: 5%
 
 >[!IMPORTANT]
 >
->此功能僅對具有市場活動相關產品配置檔案（如市場活動管理員、市場活動審批人、市場活動經理和/或市場活動查看者）訪問權限的用戶可用。 有關如何分配產品配置檔案的詳細資訊，請參閱 [這個視頻](/help/set-up-access/access-management.md)。
+>此功能僅適用於具有 Campaign 相關產品設定檔存取權的使用者，例如 Campaign 管理員、Campaign 核准者、Campaign 主管和/或 Campaign 檢視者。 如需更多如何指派產品設定檔的詳細資訊，請參閱[此影片](/help/set-up-access/access-management.md)。
 
-瞭解如何通過立即執行操作或按指定的時間表向特定受眾交付一次性內容。
+了解如何透過立即執行動作或依指定排程傳送一次性內容給特定對象。
 
 >[!VIDEO](https://video.tv.adobe.com/v/346680?quality=12)
 
-請參閱 [產品文檔](https://experienceleague.adobe.com/docs/journey-optimizer/using/campaigns/get-started-with-campaigns.html?lang=en) 的子菜單。
+請參閱[產品文件](https://experienceleague.adobe.com/docs/journey-optimizer/using/campaigns/get-started-with-campaigns.html?lang=zh-Hant)以取得此功能的詳細資訊。
