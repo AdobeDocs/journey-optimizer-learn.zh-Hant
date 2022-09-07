@@ -5,7 +5,7 @@ user-guide-description: 以下是 Journey Optimizer 學習教學課程。
 source-git-commit: 9390fa4f69307f326df5946000240bf397152690
 workflow-type: tm+mt
 source-wordcount: '260'
-ht-degree: 94%
+ht-degree: 96%
 
 ---
 
@@ -67,8 +67,8 @@ ht-degree: 94%
    + [使用內容事件資訊進行個人化](/help/personalize-content/use-contextual-event-information-for-personalization.md)
    + [使用協助程式功能進行個人化](/help/personalize-content/use-helper-functions-for-personalization.md)
    + [使用和管理個人化資料庫中已儲存的運算式](/help/personalize-content/use-and-manage-saved-expressions-in-personalization-library.md)
-+ 建立促銷活動 {#create-campaigns}
-   + [建立促銷活動](/help/create-champaigns/create-a-campaign.md)
++ 建立行銷活動{#create-campaigns}
+   + [建立行銷活動](/help/create-champaigns/create-a-campaign.md)
 + 建立歷程 {#create-journeys}
    + [歷程畫布概述](/help/create-journeys/overview-over-the-journey-canvas.md)
    + [建立歷程簡介](/help/create-journeys/introduction-to-building-a-journey.md)
