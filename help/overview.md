@@ -3,10 +3,10 @@ title: Journey OptimizerTutorials — 概觀
 description: 我們有一系列影片教學課程來向您展示如何獲得 Journey Optimizer 的好處。
 recommendations: noDisplay, noCatalog
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: 641050d8a2d3487a042ecf5a5a1b8891797e63a7
+source-git-commit: 8e6534b96e8433b21e2846f7ddfeef73cf5400ea
 workflow-type: tm+mt
-source-wordcount: '392'
-ht-degree: 97%
+source-wordcount: '396'
+ht-degree: 85%
 
 ---
 
@@ -23,18 +23,17 @@ Journey Optimizer 協助公司向其客戶傳送連結的、情境式和個人�
 
 ### 教學課程
 
+* **[遮罩訊息中的資料](/help/privacy/mask-data-in-messages.md)**
+
+   *了解資料遮罩是什麼，以及為何遮罩資料。 了解如何遮罩Journey Optimizer訊息中的資料。*
+
 * **[建立行銷活動](/help/create-champaigns/create-a-campaign.md)**
 
    *了解如何透過立即執行動作或依指定排程傳送一次性內容給特定對象。*
 
-
 * **[設定、編寫及傳遞 SMS 訊息](/help/create-messages/configure-author-and-deliver-sms-messages.md)**
 
    *瞭解如何設定、編寫並將 SMS 訊息納入您的客戶歷程。*
-
-* **[SMS 傳入關鍵字支援](/help/create-messages/inbound-keyword-support-for-sms.md)**
-
-   *瞭解原生 SMS 傳入關鍵字支援 (啟動、停止、取消停止) 的工作原理。*
 
 ### Experience League Live 活動
 
@@ -127,7 +126,7 @@ Journey Optimizer 協助公司向其客戶傳送連結的、情境式和個人�
     </a>
     </div>
     <p>
-    <em>瞭解即時和全域報告之間的差異、如何存取和分析歷程和訊息特定報告，以及如何修改報告控制面板。
+    <em>了解即時和全域報表之間的差異、如何存取和分析歷程和訊息專屬報表，以及如何修改報表控制面板。
 
 </em>
     <p>

@@ -2,10 +2,10 @@
 user-guide-title: Journey Optimizer 學習教學課程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 以下是 Journey Optimizer 學習教學課程。
-source-git-commit: 9390fa4f69307f326df5946000240bf397152690
+source-git-commit: 4960b21053d6309cd64b5bb6a0a98e0d044d4afd
 workflow-type: tm+mt
-source-wordcount: '260'
-ht-degree: 96%
+source-wordcount: '265'
+ht-degree: 92%
 
 ---
 
@@ -53,7 +53,7 @@ ht-degree: 96%
    + [訂閱和登陸頁面](/help/subscriptions-and-landing-pages.md)
 + [Assets Essentials](/help/assets-essentials-overview.md)
 + 建立訊息 {#create-messages}
-   + [訊息設計器概述](/help/create-messages/message-designer-overview.md)
+   + [訊息設計工具總覽](/help/create-messages/message-designer-overview.md)
    + [使用電子郵件設計工具建立內容](/help/create-messages/create-content-with-the-email-designer.md)
    + [匯入及編寫 HTML 電子郵件內容](/help/create-messages/import-and-author-html-email-content.md)
    + [預覽、校樣和發佈](/help/create-messages/preview-proof-and-publish.md)
@@ -81,3 +81,5 @@ ht-degree: 96%
    + [發佈歷程](/help/create-journeys/publish-a-journey.md)
 + 報告和監視 {#report-and-monitor}
    + [即時和全域報告](/help/report-and-monitor/live-and-global-reports.md)
++ 隱私權 {#privacy}
+   + [遮罩訊息中的資料](/help/privacy/mask-data-in-messages.md)
