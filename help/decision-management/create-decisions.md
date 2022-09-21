@@ -4,8 +4,9 @@ description: 瞭解如何為決策管理建立決策。 決策會將您的刊登
 feature: Offers
 kt: 6791
 thumbnail: 329606.jpg
+last-update-author: 20220422
 exl-id: 8921f1b7-ab6a-4a3d-abf9-822af99e4196
-source-git-commit: 11392272ba2de149e10f38d7aba6f8bebb4011d4
+source-git-commit: 5e32059993da8a08eecf930e1d848b065f8e9bef
 workflow-type: tm+mt
 source-wordcount: '131'
 ht-degree: 84%
@@ -22,4 +23,4 @@ ht-degree: 84%
 
 >[!INFO]
 >
-> 這段視頻是課程的一部分， [面向營銷人員的決策管理入門](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning)，免費Experience League!
+> 這段視頻是課程的一部分， [行銷人員決策管理快速入門](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning)，免費提供Experience League!
