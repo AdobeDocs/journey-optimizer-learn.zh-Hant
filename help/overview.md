@@ -4,10 +4,10 @@ description: 我們有一系列影片教學課程來向您展示如何獲得 Jou
 recommendations: noDisplay, noCatalog
 doc-type: overview-page
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: b04f8f49f9b1527aad4e223d7f7df782663a29be
+source-git-commit: 6dd50efeaac9f37bd1e6669d1b15b62f882faff8
 workflow-type: tm+mt
-source-wordcount: '396'
-ht-degree: 85%
+source-wordcount: '417'
+ht-degree: 81%
 
 ---
 
@@ -23,6 +23,10 @@ Journey Optimizer 協助公司向其客戶傳送連結的、情境式和個人�
 ## 新增功能
 
 ### 教學課程
+
+* **[將歷程複製至其他沙箱](/help/create-journeys/copy-a-journey.md)**
+
+   *了解如何將歷程及其相依物件從一個沙箱複製到另一個沙箱。*
 
 * **[遮罩訊息中的資料](/help/privacy/mask-data-in-messages.md)**
 

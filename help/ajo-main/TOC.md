@@ -2,10 +2,10 @@
 user-guide-title: Journey Optimizer 學習教學課程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 以下是 Journey Optimizer 學習教學課程。
-source-git-commit: 4960b21053d6309cd64b5bb6a0a98e0d044d4afd
+source-git-commit: 6dd50efeaac9f37bd1e6669d1b15b62f882faff8
 workflow-type: tm+mt
-source-wordcount: '265'
-ht-degree: 92%
+source-wordcount: '271'
+ht-degree: 90%
 
 ---
 
@@ -79,6 +79,7 @@ ht-degree: 92%
    + [使用案例 - 突發訊息](/help/create-journeys/use-case-burst-message.md)
    + [建立測試設定檔](/help/create-journeys/test-a-journey.md)
    + [發佈歷程](/help/create-journeys/publish-a-journey.md)
+   + [將歷程複製至其他沙箱](/help/create-journeys/copy-a-journey.md)
 + 報告和監視 {#report-and-monitor}
    + [即時和全域報告](/help/report-and-monitor/live-and-global-reports.md)
 + 隱私權 {#privacy}
