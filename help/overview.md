@@ -4,10 +4,10 @@ description: 我們有一系列影片教學課程來向您展示如何獲得 Jou
 recommendations: noDisplay, noCatalog
 doc-type: overview-page
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: 561963022fe2e36f07c54e868a183a9b17d46640
+source-git-commit: 9e0cae3c34550703cdd15bd7f9f096a649fe712f
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '492'
+ht-degree: 62%
 
 ---
 
@@ -23,6 +23,10 @@ Journey Optimizer 協助公司向其客戶傳送連結的、情境式和個人�
 ## 新增功能
 
 ### 教學課程
+
+* **[使用條件規則產生器建立動態內容](/help/personalize-content/create-dynamic-content.md)**
+
+   *了解如何建立和儲存條件規則，以及如何將這些條件規則套用至所有管道的內容。*
 
 * **[使用警報](/help/administration/alerts.md)**
 
