@@ -4,7 +4,7 @@ description: 我們有一系列影片教學課程來向您展示如何獲得 Jou
 recommendations: noDisplay, noCatalog
 doc-type: overview-page
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: 9e0cae3c34550703cdd15bd7f9f096a649fe712f
+source-git-commit: 2941ac46f36112f488a0d60e3afeaf2979ddb6f4
 workflow-type: tm+mt
 source-wordcount: '492'
 ht-degree: 62%
@@ -19,6 +19,8 @@ ht-degree: 62%
 Journey Optimizer 協助公司向其客戶傳送連結的、情境式和個人化體驗。客戶歷程是指從第一次接觸直至客戶離開網站，客戶與品牌互動的整個過程。 
 
 本使用手冊包含了 Adobe Journey Optimizer 功能和特性的相關影片和教學課程。
+
+<div id="whats-new-section">
 
 ## 新增功能
 
@@ -40,6 +42,7 @@ Journey Optimizer 協助公司向其客戶傳送連結的、情境式和個人�
 
    *了解資料遮罩是什麼，以及為何遮罩資料。 了解如何遮罩Journey Optimizer訊息中的資料。*
 
+</div>
 
 ### Experience League Live 活動
 
@@ -50,6 +53,8 @@ Journey Optimizer 協助公司向其客戶傳送連結的、情境式和個人�
 * **[透過 Adobe Journey Optimizer 推播通知](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-05-12-22.html?lang=zh-Hant)**
 
    *在本次 Experience League 現場單元，我們討論了透過 Adobe Journey Optimizer 推播通知的常見使用案例及技術詳細資訊，深入了解如何設定 Adobe Experience Platform 支援的推播應用程式。*
+
+<div id="staff-picks-section">
 
 ## 員工精選
 
@@ -143,3 +148,5 @@ Journey Optimizer 協助公司向其客戶傳送連結的、情境式和個人�
   </td>
 </tr>
 </table>
+
+</div>
