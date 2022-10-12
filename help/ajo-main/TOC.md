@@ -2,10 +2,10 @@
 user-guide-title: Journey Optimizer 學習教學課程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 以下是 Journey Optimizer 學習教學課程。
-source-git-commit: 9e0cae3c34550703cdd15bd7f9f096a649fe712f
+source-git-commit: 990ba063c251df6d0f191e5020937bfd6867634f
 workflow-type: tm+mt
-source-wordcount: '281'
-ht-degree: 87%
+source-wordcount: '274'
+ht-degree: 90%
 
 ---
 
@@ -53,7 +53,6 @@ ht-degree: 87%
    + [訂閱和登陸頁面](/help/subscriptions-and-landing-pages.md)
 + [Assets Essentials](/help/assets-essentials-overview.md)
 + 建立訊息 {#create-messages}
-   + [訊息設計工具總覽](/help/create-messages/message-designer-overview.md)
    + [使用電子郵件設計工具建立內容](/help/create-messages/create-content-with-the-email-designer.md)
    + [匯入及編寫 HTML 電子郵件內容](/help/create-messages/import-and-author-html-email-content.md)
    + [預覽、校樣和發佈](/help/create-messages/preview-proof-and-publish.md)
@@ -77,12 +76,11 @@ ht-degree: 87%
    + [使用案例 - 讀取區段](/help/create-journeys/use-case-read-segment.md)
    + [使用案例 - 業務事件](/help/create-journeys/use-case-business-event.md)
    + [使用案例 - 區段資格](/help/create-journeys/use-case-read-segment-qualification.md)
-   + [使用案例 - 突發訊息](/help/create-journeys/use-case-burst-message.md)
    + [建立測試設定檔](/help/create-journeys/test-a-journey.md)
    + [發佈歷程](/help/create-journeys/publish-a-journey.md)
-   + [將歷程複製至其他沙箱](/help/create-journeys/copy-a-journey.md)
+   + [將歷程複製到另一個沙箱](/help/create-journeys/copy-a-journey.md)
 + 報告和監視 {#report-and-monitor}
    + [即時和全域報告](/help/report-and-monitor/live-and-global-reports.md)
-   + [使用警報](/help/administration/alerts.md)
+   + [使用警示](/help/administration/alerts.md)
 + 隱私權 {#privacy}
    + [遮罩訊息中的資料](/help/privacy/mask-data-in-messages.md)
