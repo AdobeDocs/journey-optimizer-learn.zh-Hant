@@ -4,10 +4,10 @@ description: 我們有一系列影片教學課程來向您展示如何獲得 Jou
 recommendations: noDisplay, noCatalog
 doc-type: overview-page
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: 2941ac46f36112f488a0d60e3afeaf2979ddb6f4
+source-git-commit: c06bfb31fe7964a3bba81873884ee66fd16908a1
 workflow-type: tm+mt
 source-wordcount: '492'
-ht-degree: 62%
+ht-degree: 72%
 
 ---
 
@@ -30,19 +30,22 @@ Journey Optimizer 協助公司向其客戶傳送連結的、情境式和個人�
 
    *了解如何建立和儲存條件規則，以及如何將這些條件規則套用至所有管道的內容。*
 
-* **[使用警報](/help/administration/alerts.md)**
+* **[使用警示](/help/administration/alerts.md)**
 
-   *了解如何訂閱預先定義的警報，以發生非預期的歷程行為，並透過電子郵件、Journey Optimizer內或使用API收到通知。*
+   *了解如何訂閱預先定義的警示以了解非預期的歷程行為，並透過電子郵件、在 Journey Optimizer 中或使用 API 接獲通知。*
 
-* **[將歷程複製至其他沙箱](/help/create-journeys/copy-a-journey.md)**
+* **[將歷程複製到另一個沙箱](/help/create-journeys/copy-a-journey.md)**
 
-   *了解如何將歷程及其相依物件從一個沙箱複製到另一個沙箱。*
+   *了解如何在不同沙箱之間複製歷程及其相依物件。*
 
 * **[遮罩訊息中的資料](/help/privacy/mask-data-in-messages.md)**
 
    *了解資料遮罩是什麼，以及為何遮罩資料。 了解如何遮罩Journey Optimizer訊息中的資料。*
 
 </div>
+
+
+<div id="events-section">
 
 ### Experience League Live 活動
 
@@ -53,6 +56,15 @@ Journey Optimizer 協助公司向其客戶傳送連結的、情境式和個人�
 * **[透過 Adobe Journey Optimizer 推播通知](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-05-12-22.html?lang=zh-Hant)**
 
    *在本次 Experience League 現場單元，我們討論了透過 Adobe Journey Optimizer 推播通知的常見使用案例及技術詳細資訊，深入了解如何設定 Adobe Experience Platform 支援的推播應用程式。*
+
+</div>
+
+<div id="recs-overview-body-1"></div>
+<div id="recs-overview-body-2"></div>
+<div id="recs-overview-body-3"></div>
+<div id="recs-overview-body-4"></div>
+<div id="recs-overview-body-5"></div>
+<div id="recs-overview-body-6"></div>
 
 <div id="staff-picks-section">
 
