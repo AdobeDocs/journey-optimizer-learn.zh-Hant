@@ -4,15 +4,15 @@ description: 我們有一系列影片教學課程來向您展示如何獲得 Jou
 recommendations: noDisplay, noCatalog
 doc-type: overview-page
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: c06bfb31fe7964a3bba81873884ee66fd16908a1
+source-git-commit: c1416263c925dcd435c2b9aa2af7a897c2b62850
 workflow-type: tm+mt
-source-wordcount: '492'
-ht-degree: 72%
+source-wordcount: '490'
+ht-degree: 71%
 
 ---
 
 
-# Journey OptimizerTutorials — 概觀
+# Journey Optimizer教學課程
 
 ![](./assets/ajo-banner.png)
 
@@ -23,8 +23,6 @@ Journey Optimizer 協助公司向其客戶傳送連結的、情境式和個人�
 <div id="whats-new-section">
 
 ## 新增功能
-
-### 教學課程
 
 * **[使用條件規則產生器建立動態內容](/help/personalize-content/create-dynamic-content.md)**
 
@@ -47,7 +45,7 @@ Journey Optimizer 協助公司向其客戶傳送連結的、情境式和個人�
 
 <div id="events-section">
 
-### Experience League Live 活動
+## Experience League即時事件
 
 * **[在Adobe Journey Optimizer中執行行銷活動](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-09-22-22.html?lang=zh-Hant)**
 
