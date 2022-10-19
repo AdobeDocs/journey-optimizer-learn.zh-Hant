@@ -4,8 +4,8 @@ user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 以下是 Journey Optimizer 學習教學課程。
 source-git-commit: 2874a7c5bc9ef8fd553a573069911453f5bc5f2b
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '279'
+ht-degree: 98%
 
 ---
 
@@ -57,7 +57,7 @@ ht-degree: 0%
    + [匯入及編寫 HTML 電子郵件內容](/help/create-messages/import-and-author-html-email-content.md)
    + [預覽、校樣和發佈](/help/create-messages/preview-proof-and-publish.md)
    + [為行銷人員提供的行動裝置功能](/help/create-messages/mobile-capabilities.md)
-   + [面向開發人員的行動功能](/help/create-messages/mobile-capabilities-for-developers.md)
+   + [為開發人員提供的行動裝置功能](/help/create-messages/mobile-capabilities-for-developers.md)
    + [設定、編寫並傳遞 SMS 訊息](/help/create-messages/configure-author-and-deliver-sms-messages.md)
    + [SMS 傳入關鍵字支援](/help/create-messages/inbound-keyword-support-for-sms.md)
    + 應用程式內 {#in-app}

@@ -1,5 +1,5 @@
 ---
-title: Journey OptimizerTutorials — 概觀
+title: Journey Optimizer 教學課程 – 概觀
 description: 我們有一系列影片教學課程來向您展示如何獲得 Journey Optimizer 的好處。
 recommendations: noDisplay, noCatalog
 doc-type: overview-page
@@ -7,7 +7,7 @@ exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
 source-git-commit: c1416263c925dcd435c2b9aa2af7a897c2b62850
 workflow-type: tm+mt
 source-wordcount: '490'
-ht-degree: 71%
+ht-degree: 98%
 
 ---
 
@@ -38,7 +38,7 @@ Journey Optimizer 協助公司向其客戶傳送連結的、情境式和個人�
 
 * **[遮罩訊息中的資料](/help/privacy/mask-data-in-messages.md)**
 
-   *了解資料遮罩是什麼，以及為何遮罩資料。 了解如何遮罩Journey Optimizer訊息中的資料。*
+   *了解資料遮罩是什麼，以及為何遮罩資料。 了解如何遮罩 Journey Optimizer 訊息中的資料。*
 
 </div>
 
@@ -47,9 +47,9 @@ Journey Optimizer 協助公司向其客戶傳送連結的、情境式和個人�
 
 ## Experience League即時事件
 
-* **[在Adobe Journey Optimizer中執行行銷活動](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-09-22-22.html?lang=zh-Hant)**
+* **[在 Adobe Journey Optimizer 中執行行銷活動](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-09-22-22.html?lang=zh-Hant)**
 
-   *在這個原始於2022年9月22日的「Experience League即時」集中，請觀看主持人Sandra Hausmann和產品專家Bridgette Darling和Frederic Mary，討論此新功能涵蓋的使用案例，並示範如何輕鬆設定和執行Journey Optimizer的促銷活動。*
+   *在這個原定於 2022 年 9 月 22 日進行的「Experience League」現場單元中，請觀看主持人 Sandra Hausmann 和產品專家 Bridgette Darling 以及 Frederic Mary，討論此新功能涵蓋的使用案例，並示範如何輕鬆設定和執行 Journey Optimizer 的行銷活動。*
 
 * **[透過 Adobe Journey Optimizer 推播通知](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-05-12-22.html?lang=zh-Hant)**
 
@@ -66,7 +66,7 @@ Journey Optimizer 協助公司向其客戶傳送連結的、情境式和個人�
 
 <div id="staff-picks-section">
 
-## 員工精選
+## 工作人員選擇
 
 <table>
 <tr>
@@ -151,7 +151,7 @@ Journey Optimizer 協助公司向其客戶傳送連結的、情境式和個人�
     </a>
     </div>
     <p>
-    <em>了解即時和全域報表之間的差異、如何存取和分析歷程和訊息專屬報表，以及如何修改報表控制面板。
+    <em>瞭解即時和全域報告之間的差異、如何存取和分析歷程和訊息特定報告，以及如何修改報告控制面板。
 
 </em>
     <p>
