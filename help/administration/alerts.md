@@ -1,6 +1,6 @@
 ---
-title: 使用警報
-description: 了解如何訂閱預先定義的警報，以發生非預期的歷程行為，並透過電子郵件、Journey Optimizer內或使用API收到通知。
+title: 使用警示
+description: 了解如何訂閱預先定義的警示以了解非預期的歷程行為，並透過電子郵件、在 Journey Optimizer 中或使用 API 接獲通知。
 kt: 11081
 thumbnail: 336218.jpg
 feature: Alerts
@@ -9,24 +9,24 @@ team: PM
 role: Admin
 last-substantial-update: 2022-09-28T00:00:00Z
 source-git-commit: 2941ac46f36112f488a0d60e3afeaf2979ddb6f4
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '109'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# 使用警報
+# 使用警示
 
-了解如何訂閱預先定義的警報，以發生非預期的歷程行為，並透過電子郵件、Journey Optimizer內或使用API收到通知。
+了解如何訂閱預先定義的警示以了解非預期的歷程行為，並透過電子郵件、在 Journey Optimizer 中或使用 API 接獲通知。
 
 >[!NOTE]
 >
->影片會在Adobe Experience Platform使用者介面中顯示警報功能。 可在Journey Optimizer中從左側導覽「管理>警報」存取此功能。
+>影片顯示了 Adobe Experience Platform 使用者介面中的警報功能。 可在 Journey Optimizer 中從左側導覽「管理>警報」存取此功能。
 >
 >
->從Journey Optimizer存取警報時，依預設只會顯示您即時歷程的特定警報。
+>從 Journey Optimizer 存取警報時，預設情況下只會顯示您即時歷程的特定警報。
 
 >[!VIDEO](https://video.tv.adobe.com/v/336218?quality=12)
 
-請參閱 [產品檔案](https://experienceleague.adobe.com/docs/journey-optimizer/using/reporting/alerts.html?lang=en) 以取得更多資訊。
+如需詳細資訊，請參閱[產品文件](https://experienceleague.adobe.com/docs/journey-optimizer/using/reporting/alerts.html?lang=zh-Hant)。
