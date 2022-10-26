@@ -5,14 +5,14 @@ recommendations: noDisplay, noCatalog
 doc-type: overview-page
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
 source-git-commit: c1416263c925dcd435c2b9aa2af7a897c2b62850
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '490'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
 
-# Journey Optimizer教學課程
+# Journey Optimizer 教學課程
 
 ![](./assets/ajo-banner.png)
 
@@ -45,7 +45,7 @@ Journey Optimizer 協助公司向其客戶傳送連結的、情境式和個人�
 
 <div id="events-section">
 
-## Experience League即時事件
+## Experience League Live 活動
 
 * **[在 Adobe Journey Optimizer 中執行行銷活動](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-09-22-22.html?lang=zh-Hant)**
 
