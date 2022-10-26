@@ -3,9 +3,9 @@ user-guide-title: Journey Optimizer 學習教學課程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 以下是 Journey Optimizer 學習教學課程。
 source-git-commit: e8d052ad806f0da48c316921e20a860e74e922b4
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '292'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
@@ -42,12 +42,12 @@ ht-degree: 92%
       + [使用電子郵件設計工具建立內容](/help/create-messages/create-content-with-the-email-designer.md)
       + [匯入及編寫 HTML 電子郵件內容](/help/create-messages/import-and-author-html-email-content.md)
       + [預覽、校樣和發佈](/help/create-messages/preview-proof-and-publish.md)
-   + 建立SMS文字訊息 {#create-sms}
+   + 建立 SMS 文字訊息 {#create-sms}
       + [設定、編寫並傳遞 SMS 訊息](/help/create-messages/configure-author-and-deliver-sms-messages.md)
       + [SMS 傳入關鍵字支援](/help/create-messages/inbound-keyword-support-for-sms.md)
    + 建立應用程式內訊息 {#create-in-app}
       + [行銷活動的應用程式內訊息](/help/create-messages/in-app-messaging-for-campaigns.md)
-      + [製作應用程式內訊息](/help/create-messages/author-in-app-messages.md)
+      + [撰寫應用程式內訊息](/help/create-messages/author-in-app-messages.md)
 + [Assets Essentials](/help/assets-essentials-overview.md)
 + 個人化內容 {#personalize-content}
    + [以設定檔和區段成員資格為基礎的個人化](/help/personalize-content/profile-and-segment-membership-based-personalization.md)
