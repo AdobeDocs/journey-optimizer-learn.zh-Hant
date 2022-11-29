@@ -5,13 +5,13 @@ feature: Journeys
 role: Admin
 level: Beginner
 hide: true
-source-git-commit: 3cd8b1a5b98adbe822cd82db8c27137b534c16e3
+exl-id: 87a79560-c098-4e72-abec-6b750ec730ee
+source-git-commit: 8e06a9ac16b3ac77cd9d76f7f81b35592e8606a2
 workflow-type: tm+mt
-source-wordcount: '452'
-ht-degree: 7%
+source-wordcount: '391'
+ht-degree: 8%
 
 ---
-
 
 # Journey Optimizer挑戰 — 簡介和先決條件
 
@@ -25,22 +25,23 @@ ht-degree: 7%
 
 ### 系統要求
 
-* 存取Journey Optimizer沙箱
-* 建議您在專屬的訓練沙箱中完成挑戰。 請參閱 [設定訓練沙箱教學課程](https://experienceleague.adobe.com//docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites.html) 的說明。
-* 您需要下列存取權限：
-   * *Journey Manager* 或 *歷程管理員* 權利
-   * 檢視測試設定檔及其屬性
+* 存取Journey Optimizer沙箱 — 我們建議您在專屬的訓練沙箱中完成挑戰。
 * AEM Assets Essentials必須布建給您的執行個體
 * 必須為交易式和行銷訊息設定電子郵件通道
 
+### 存取權限
+
+您需要下列存取權限：
+* *Journey Manager* 或 *歷程管理員*
+* 檢視測試設定檔及其屬性
+
 >[!NOTE]
-> 這些練習是根據Luma樣本資料編製的。 建議您設定使用範例資料設定的訓練沙箱。 請造訪教學課程 [將範例資料匯入Adobe Experience Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/import-sample-data.html?lang=en) 以取得詳細指示。
+> 這些練習是根據Luma樣本資料編製的。 建議您設定使用範例資料設定的訓練沙箱。 請造訪教學課程 [設定訓練沙箱](/help/tutorial-configure-a-training-sandbox/introduction-and-prerequisites.md) 以取得詳細指示。
 
 ### 必要動作
 
 * 如果您是Adobe Journey Optimizer的新手，請完成本課程 [歷程管理員和管理員專用Journey Optimizer快速入門](https://experienceleague.adobe.com/?recommended=JourneyOptimizer-U-1-2021.1).
-* 開始之前，請先下載 [luma-assets.zip](/help/challenges/assets/email-assets/luma-assets.zip) 檔案。 它包含完成挑戰所需的所有資產
-* 從下載資料夾中，移動 `luma-assets.zip` 檔案移至您電腦上的所需位置，然後加以解壓縮。
+
 
 ## 故事
 
