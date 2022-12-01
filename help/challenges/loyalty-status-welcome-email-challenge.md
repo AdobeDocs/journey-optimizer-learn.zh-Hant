@@ -7,7 +7,7 @@ role: User
 level: Beginner
 hide: true
 exl-id: 6fd58b8e-7178-495d-a85d-eb67fc4f3acf
-source-git-commit: 30d2e0b2cad59385c8b9bc98f7db671027f7906a
+source-git-commit: bcd4e8f01ebb83444934d641d3ee3aafe420bd6b
 workflow-type: tm+mt
 source-wordcount: '457'
 ht-degree: 7%
@@ -55,8 +55,7 @@ Luma提供忠誠計畫，作為吸引及留住客戶的方式。 該計畫提供
    1. 建立標題為的交易式電子郵件訊息 `(your name)_Luma – New Status – Diamond – Transactional email message`.
    1. 為電子郵件提供主旨行 `Welcome to Diamond Status, (recipient's first name)!`.
    1. 使用提供的HTML檔案 **[DiamondStatusEmail.html](/help/challenges/assets/email-assets/DiamondStatusEmail.html)** 用於電子郵件內文。
-
-1. 完成後，將歷程置於測試模式，並觸發歷程以傳送給您自己  
+4. 完成後，將歷程置於測試模式，並觸發歷程以傳送給您自己  
 
 ### 建立Luma — 新狀態 — Diamond — 交易式電子郵件訊息
 
