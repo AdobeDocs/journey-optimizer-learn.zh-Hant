@@ -7,12 +7,13 @@ role: User
 level: Beginner
 hide: true
 exl-id: ec86e2ac-081d-47aa-a948-007107baa2b4
-source-git-commit: 8a2062f0719e799dd2d039488e6bba943fb458c4
+source-git-commit: c6e28361e1aca183a4cc2906ac90825218141e13
 workflow-type: tm+mt
-source-wordcount: '754'
-ht-degree: 3%
+source-wordcount: '683'
+ht-degree: 4%
 
 ---
+
 
 # 建立訂單確認交易式電子郵件
 
@@ -26,21 +27,27 @@ ht-degree: 3%
 
 ## 故事
 
-Luma正在啟動其線上商店，並希望在客戶下訂單後，提供訂單確認電子郵件，以確保提供良好的客戶體驗。
+Luma正在啟動其線上商店，希望在客戶下訂單後，提供訂單確認電子郵件，以確保提供良好的客戶體驗。
 
-建立並個人化交易式訂單確認訊息。
 
-## 有你需要的嗎？
 
 ## 您的挑戰
 
-建立訂單確認電子郵件，此電子郵件會在Luma客戶完成線上訂單時觸發。
+建立歷程，當Luma客戶完成線上訂單時傳送訂單確認電子郵件。
 
-### 建立訂單確認電子郵件
+>[!BEGINTABS]
 
-建立名為「（您的名稱）_Luma — 訂購確認」的新電子郵件訊息。 主旨行必須與收件者的名字個人化，且必須包含「感謝您購買」的片語
+>[!TAB 工作]
 
-依照Luma品牌准則，電子郵件的結構應如下：
+1. 建立名為「您的姓名_訂購確認」的歷程
+2. 使用事件：LumaOnlinePurchase作為觸發器
+
+3. 建立訂單確認電子郵件：
+
+* 類別交易 — 請務必選取交易式電子郵件表面
+* 主旨行必須與收件者的名字個人化，且必須包含「感謝您購買」的片語
+
+依照Luma品牌准則，電子郵件的結構應如下 — 您可以使用 **Luma — 訂單摘要** 範本並加以修改：
 
 <table>
 <tr>
@@ -56,7 +63,6 @@ Luma正在啟動其線上商店，並希望在客戶下訂單後，提供訂單�
     <li>大小35%，居中為白色背景 </li>
     <li>應該會有luma網站的連結：https://publish1034.adobedemo.com/content/luma/us/en.html</li>
     <p>
-    提示：您會在資產資料夾中找到名為訊息影像的所有影像。 <p>
     </td>
   </tr>
   <tr>
@@ -71,7 +77,7 @@ Luma正在啟動其線上商店，並希望在客戶下訂單後，提供訂單�
     <li>利潤：頂部、底部(10)<div>
     <p>
     <strong>文字</strong><p>
-    <em>謝謝你的購買！</em><p>
+    <em>嗨{名字}</em><p>
     <li>對齊方式：lef  </li>
    <li>文本顏色：rgb(101, 106, 119);font-size:14px</li>
     <li>邊框間距：左(95)、右(95)</li><div>
@@ -82,10 +88,13 @@ Luma正在啟動其線上商店，並希望在客戶下訂單後，提供訂單�
     <li>對齊方式：lef  </li>
     <li>文本顏色：rgb(101, 106, 119);font-size:14px </li>
     <li>邊框間距：左(95)、右(95)</li><div>
-    </a>
-    <p>
-    <strong>按鈕:</strong>
-   <p><em>查看訂單</em></p>
+    </a><p>
+    <em>收貨方：<p>
+    <p>名字姓氏</p>
+    街<p>
+    城市、州、郵遞區號</p></em>
+    <strong>按鈕:</strong></p>
+   <p><em>檢視順序</em></p>
       <li>背景顏色：rgb(25, 121, 195)</li>
       <li>文本顏色：白色</li>
       <li>無邊框</li>
@@ -99,9 +108,10 @@ Luma正在啟動其線上商店，並希望在客戶下訂單後，提供訂單�
      <strong>訂單詳細資訊部分</strong>
       </div>
       <p>提示:
-      <li>這是內容事件資訊。 只有在將訊息新增至歷程後（請參閱步驟2），您才能在內容中新增。 將您的電子郵件新增至歷程並使用內容事件資訊加以修改之前，請勿發佈電子郵件！</li>
+      <li>這是內容事件資訊。</li>
       <li>使用幫助程式函式：每個</li>
-      <li>使用HTML編輯器格式化內容資料。使用DIV標籤將資訊放入容器中。</li>
+      <li>切換至程式碼編輯器格式以新增內容資料。 <li>
+      <li>使用DIV標籤將資訊放入容器中。</li>
   </td>
   <td>
     <strong>Header</strong>
@@ -141,19 +151,13 @@ Luma正在啟動其線上商店，並希望在客戶下訂單後，提供訂單�
   </tr>
 </table>
 
-### 建立歷程
-
-1. 將歷程呼叫為「您的名稱_Luma-Order Confirmation」
-1. 使用事件：LumaOnlinePurchase
-1. 動作：新增您在步驟1建立的訊息
-1. 返回訊息並新增內容屬性
-1. 發佈電子郵件
 
 >[!TIP]
 >
 >若要讓您疑難排解歷程，最佳實務是在逾時或錯誤的情況下，為所有訊息動作新增替代路徑。
 
-+++成功標準
+
+>[!TAB 檢查您的工作]
 
 觸發您在測試模式中建立的歷程，並傳送電子郵件給您自己：
 
@@ -181,17 +185,20 @@ Luma正在啟動其線上商店，並希望在客戶下訂單後，提供訂單�
 
    華盛頓特里埃爾泰勒斯43913 20099
 
-+++
 
-+++檢查您的工作
+>[!TAB 成功標準]
+
+** 歷程
+
+![歷程](/help/challenges/assets/c2-journey.png)
+
+
+** 電子郵件
 
 **主旨行：**
 
 {{ profile.person.name.firstName }}，感謝您的購買！
 
-**標題和確認區段：**
-
-![題頭和訂單確認](/help/challenges/assets/c2-header.png)
 
 **訂單詳細資訊部分：**
 
@@ -230,11 +237,4 @@ Total: ${{context.journey.events.1627840522.commerce.order.priceTotal}}
 {{profile.homeAddress.city}},{{profile.homeAddress.state}} {{profile.homeAddress.postalCode}}
 ```
 
-**頁尾：**
-![頁腳](/help/challenges/assets/c2-footer.png)
-
-**歷程**
-
-![歷程](/help/challenges/assets/c2-journey.png)
-
-+++
+>[!ENDTABS]
