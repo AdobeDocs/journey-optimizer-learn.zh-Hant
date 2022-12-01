@@ -1,5 +1,5 @@
 ---
-title: 建立訂單確認
+title: 建立訂單確認電子郵件
 description: 測試您關於如何建立和個人化交易式訊息的知識
 kt: 7531
 feature: Journeys
@@ -7,7 +7,7 @@ role: User
 level: Beginner
 hide: true
 exl-id: ec86e2ac-081d-47aa-a948-007107baa2b4
-source-git-commit: c6e28361e1aca183a4cc2906ac90825218141e13
+source-git-commit: 0e83d8fbad6bd87ed25980251970898cb5b94bc0
 workflow-type: tm+mt
 source-wordcount: '683'
 ht-degree: 4%
@@ -15,7 +15,7 @@ ht-degree: 4%
 ---
 
 
-# 建立訂單確認交易式電子郵件
+# 建立訂單確認電子郵件
 
 ![訂購確認](/help/challenges/assets/email-assets/luma-transactional-order-confirmation.png)
 

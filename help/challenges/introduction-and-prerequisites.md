@@ -6,10 +6,10 @@ role: Admin
 level: Beginner
 hide: true
 exl-id: 87a79560-c098-4e72-abec-6b750ec730ee
-source-git-commit: 8e06a9ac16b3ac77cd9d76f7f81b35592e8606a2
+source-git-commit: 0e83d8fbad6bd87ed25980251970898cb5b94bc0
 workflow-type: tm+mt
-source-wordcount: '391'
-ht-degree: 8%
+source-wordcount: '449'
+ht-degree: 12%
 
 ---
 
@@ -61,11 +61,10 @@ Luma正尋求推廣其最新的服裝和齒輪系列，並推動現有客戶的�
       </div>
   </td>
   <td>
-   <a href="summer-collection-announcement-challenge.md">
-    <strong>建立夏季系列公告 </strong>
+   <strong><a href="summer-collection-announcement-challenge.md">建立夏季系列公告 </strong>
     </a>
       <p>
-      <em>推廣新的Luma夏季系列。 </em>
+      <em>建立歷程，將夏季系列公告電子郵件傳送至現有客戶的區段。 </em>
       <p>
       <b>所需技能：</b>
       <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html"> 建立區段</li>
@@ -82,26 +81,29 @@ Luma正尋求推廣其最新的服裝和齒輪系列，並推動現有客戶的�
   </td>
   <td>
       <a href="order-confirmation-challenge.md">
-    <strong>建立訂單確認</strong>
+    <strong><a href="order-confirmation-challenge.md">建立訂單確認</strong>
     </a>
     <div>
     <p>
-    <em>當某人完成線上購買時，傳送訂單確認電子郵件
+    <em>測試您關於如何建立和個人化交易式訊息的知識
     </em>
     <p>
+    <b>所需技能：</b>
+      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/create-email-content-with-the-message-editor.html"> 使用訊息編輯器建立電子郵件內容</li>
+      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/use-contextual-event-information-for-personalization.html">使用內容事件資訊進行個人化</li>
+      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/use-helper-functions-for-personalization.html?lang=en">使用協助程式功能進行個人化</li>
   </td>
   </tr>
   <tr>
     <td>
     <div>
-    <a href="product-replenishment-challenge.md">
-      <img alt="Luma 網站" src="./assets/email-assets/luma-ProductReplenishment.png"/>
+    <a>
+      <img alt="Luma產品補充" src="./assets/email-assets/luma-ProductReplenishment.png"/>
     </a>
     </div>
     <td>
     <div >
-      <a href="product-replenishment-challenge.md">
-    <strong>建立產品補充通知 </strong>
+      <strong>建立產品補充通知（即將推出）</strong>
     </a>
     </div>
     <p>
@@ -112,14 +114,14 @@ Luma正尋求推廣其最新的服裝和齒輪系列，並推動現有客戶的�
   <tr>
     <td>
     <div>
-    <a href="loyalty-status-welcome-email-challenge.md">
+    <a>
       <img alt="歡迎" src="./assets/email-assets/luma-transactional-onboarding-1.png"/>
     </a>
     </div>
     <td>
     <div >
-      <a href="loyalty-status-welcome-email-challenge.md">
-    <strong>建立忠誠度狀態歡迎電子郵件 </strong>
+      <a>
+    <strong>建立忠誠度狀態歡迎電子郵件（即將推出） </strong>
     </a>
     </div>
     <p>
