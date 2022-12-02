@@ -7,10 +7,10 @@ level: Beginner
 last-substantial-update: 2022-11-16T00:00:00Z
 hide: true
 exl-id: ae457be7-2c67-4950-a072-1d7030b0e17b
-source-git-commit: 8a2062f0719e799dd2d039488e6bba943fb458c4
+source-git-commit: 697f4e6b11e7c40be726471ab368781f32dad165
 workflow-type: tm+mt
-source-wordcount: '1250'
-ht-degree: 2%
+source-wordcount: '1138'
+ht-degree: 1%
 
 ---
 
@@ -24,21 +24,14 @@ ht-degree: 2%
 | 所需技能 | <ul><li>[建立區段](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html?lang=en)</li><li> [匯入及編寫 HTML 電子郵件內容](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/create-emails/import-and-author-html-email-content.html?lang=en)</li><li>[使用案例 - 讀取區段](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-read-segment.html?lang=en)</li> |
 | 要下載的資產 | [季節性收集電子郵件檔案](/help/challenges/assets/email-assets/emails-seasonal-collection-announcement.zip) |
 
->[!NOTE]
-> 這些練習是根據Luma樣本資料編製的。 我們建議設定一個訓練沙箱，並以範例資料進行設定。 請造訪教學課程 [將範例資料匯入Adobe Experience Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/import-sample-data.html?lang=zh-Hant) 以取得詳細指示。
-
 ## 故事
 
 虛構的運動服裝公司Luma正尋求推廣其最新的服裝和服裝系列，並推動現有客戶的銷售。 Luma即將推出新的夏季系列，並想明確鎖定不同的客戶區段。
 
 ## 您的挑戰
 
-Luma行銷團隊會要求您在Journey Optimizer中實施夏季系列行銷活動。
+Luma行銷團隊會要求您在Journey Optimizer中實施夏季系列行銷活動。 您的難題是在Journey Optimizer中建立歷程。 尤其是，您必須建立必要的區段、建立四則訊息，並建置歷程。
 
-您的難題是在Journey Optimizer中建立歷程。 尤其是，您必須建立必要的區段、建立四則訊息，並建置歷程。
-
->[!NOTE]
-> 如果您在共用訓練沙箱中工作，最佳作法是在您建立之任何元素的名稱中新增您的名稱或縮寫為首碼。
 
 ### 步驟1:定義區段 — 作用中客戶
 
@@ -46,7 +39,7 @@ Luma行銷團隊會要求您在Journey Optimizer中實施夏季系列行銷活�
 
 >[!TAB 工作]
 
-在Journey Optimizer中建立區段，稱為 **您的名稱 — 活動客戶**.
+在Journey Optimizer中建立區段，稱為 **有效客戶**.
 
 * 區段必須僅包含有效的Luma客戶。
 * 活躍客戶的定義是在Luma的忠誠度計畫（銀級、金級、白金級或鑽石級）中擁有層級的客戶。
@@ -54,7 +47,10 @@ Luma行銷團隊會要求您在Journey Optimizer中實施夏季系列行銷活�
 
 >[!TAB 成功標準]
 
-在區段產生器中，您可以看到預估合格設定檔數。 如果您在使用Luma範例資料的訓練沙箱中工作，則 [!UICONTROL 估計合格用戶] 應該是292個500個用戶檔案。
+在區段產生器中，您可以看到預估合格設定檔數。
+
+>[!NOTE]
+>由於需要回填現有設定檔，因此現有設定檔可能需要最多24小時才會顯示區段成員資格。
 
 **區段已新增合格設定檔：**
 
@@ -66,9 +62,6 @@ Luma行銷團隊會要求您在Journey Optimizer中實施夏季系列行銷活�
 
 您也可以檢查 [!UICONTROL 區段成員資格] 標籤：您的區段應已列出。
 
->[!NOTE]
->由於需要回填現有設定檔，因此現有設定檔可能需要最多24小時才會顯示區段成員資格。
-
 ![區段成員資格](assets/C1-S1-profile-segment-membership.png)
 
 >[!TAB 檢查您的工作]
@@ -79,12 +72,10 @@ Luma行銷團隊會要求您在Journey Optimizer中實施夏季系列行銷活�
 
 ![區段 — 活躍客戶](/help/challenges/assets/C1-S1.png)
 
-在「編輯」區段畫面右下角的「事件」下方，勾選代碼。
-
 程式碼應如下所示：
 
 ```javascript
-loyalty.tier.equals("diamond", false) or loyalty.tier.equals("gold", false) or loyalty.tier.equals("platinum", false) or loyalty.tier.equals("silver", false)
+stringCompare("equals", loyalty.tier, ["diamond", "gold", "platinum", "silver"], false)
 ```
 
 >[!ENDTABS]
@@ -127,7 +118,7 @@ loyalty.tier.equals("diamond", false) or loyalty.tier.equals("gold", false) or l
 
 #### 預覽電子郵件
 
-**電子郵件#1-新季節性收集公告**
+**電子郵件#1 — 新的季節性收集公告**
 
 使用身分命名空間預覽電子郵件： *電子郵件* 和Identity值： *Jenna_Palmer9530@emailsim.io*
 
