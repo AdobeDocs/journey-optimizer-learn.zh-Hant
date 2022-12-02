@@ -7,10 +7,10 @@ level: Beginner
 last-substantial-update: 2022-11-16T00:00:00Z
 hide: true
 exl-id: ae457be7-2c67-4950-a072-1d7030b0e17b
-source-git-commit: 697f4e6b11e7c40be726471ab368781f32dad165
+source-git-commit: e6364990cbe6e157ddc2754c1095052ce133ea8e
 workflow-type: tm+mt
-source-wordcount: '1138'
-ht-degree: 1%
+source-wordcount: '1118'
+ht-degree: 2%
 
 ---
 
@@ -30,8 +30,10 @@ ht-degree: 1%
 
 ## 您的挑戰
 
-Luma行銷團隊會要求您在Journey Optimizer中實施夏季系列行銷活動。 您的難題是在Journey Optimizer中建立歷程。 尤其是，您必須建立必要的區段、建立四則訊息，並建置歷程。
+Luma行銷團隊會要求您在Journey Optimizer中實施夏季系列行銷活動。 您面臨的挑戰是：
 
+* 建立區段，定義哪些設定檔有資格接收促銷活動。
+* 建立歷程
 
 ### 步驟1:定義區段 — 作用中客戶
 
@@ -39,15 +41,16 @@ Luma行銷團隊會要求您在Journey Optimizer中實施夏季系列行銷活�
 
 >[!TAB 工作]
 
-在Journey Optimizer中建立區段，稱為 **有效客戶**.
+#### 在Journey Optimizer中建立區段
 
+* 在Journey Optimizer中建立區段，稱為 `Active Customers`.
 * 區段必須僅包含有效的Luma客戶。
 * 活躍客戶的定義是在Luma的忠誠度計畫（銀級、金級、白金級或鑽石級）中擁有層級的客戶。
 
 
 >[!TAB 成功標準]
 
-在區段產生器中，您可以看到預估合格設定檔數。
+在區段產生器中，您可以看到預估合格設定檔數。 如果您使用訓練沙箱資料，1.29 K中會有約753個合格設定檔。
 
 >[!NOTE]
 >由於需要回填現有設定檔，因此現有設定檔可能需要最多24小時才會顯示區段成員資格。
@@ -87,31 +90,38 @@ stringCompare("equals", loyalty.tier, ["diamond", "gold", "platinum", "silver"],
 
 >[!TAB 工作]
 
-將夏季系列公告傳送至推廣新Luma夏季系列之現有客戶電子郵件區段。
+#### 傳送夏季系列公告
 
-一家機構向您提供了四份HTML檔案，其中包含電子郵件的設計： [下載季節性收集電子郵件檔案](/help/challenges/assets/email-assets/emails-seasonal-collection-announcement.zip)
+一家機構向您提供了四份HTML檔案，其中包含電子郵件的設計：
 
-建立以下歷程： `(your name) - Summer collection announcement` 根據下列准則：
+* SeasonalCollectionEmail.html
+* Luma Men&#39;s Collection電子郵件
+* Luma Women&#39;s Collection電子郵件
+* Luma — 收集電子郵件的折扣為20%
 
-1. 傳送Luma — 新的季節性收集公告電子郵件至Luma-Active Customers區段，將10%的受眾視為控制組
-   * 訊息標題 `(your name)_Luma New Seasonal Collection Announcement`.
-   * 主旨行 `(recipient's first name), the new Luma collection is here!`.
-   * 使用提供的HTML檔案 *CherryCollectionEmail.html* 用於電子郵件內文。
-2. 等候兩天，然後傳送後續電子郵件訊息，其中包含更具針對性的內容：
-   * 男性客戶應接收 **Luma Men&#39;s Collection電子郵件**
-      * 訊息標題： **（您的名稱）_Luma男裝系列**
-      * 主旨行： **（收件人的名字），探索男子新運動裝備！**
-      * 電子郵件內文： *MensCollectionEmail.html* 用於電子郵件內文。
-   * 女性客戶應 **Luma Women&#39;s Collection電子郵件**
-      * 訊息標題： **（您的名稱）_Luma Women&#39;s Collection**
-      * 主旨行： **（收件者的名字），請探索Luma的Women Collection!**
-      * 電子郵件內文： *WomensCollectionEmail.html*
-   * 其他客戶應接收 **Luma — 收集電子郵件的折扣為20%**
-      * 訊息標題： **（您的名稱）_Luma - 20%關閉集合**
-      * 主旨行：**（收件者的名字），享受20%的銷售額！**
-      * 電子郵件內文： *20OffCollectionEmail.html*
-3. 在上方傳送目標電子郵件後，請等待兩天才開啟電子郵件
-4. 如果目標電子郵件未在2天內開啟，請傳送 **Luma - 20 %off集合電子郵件** 作為最終的重新定位嘗試
+1. [下載季節性收集電子郵件檔案](/help/challenges/assets/email-assets/emails-seasonal-collection-announcement.zip).
+
+2. 建立以下歷程： `Luma - Summer collection announcement` 根據下列准則：
+
+   1. 傳送 *Luma — 新的季節性收藏公告* 電子郵件至 *有效客戶* 區段，將10%的受眾視為控制組
+      * 訊息標題 `Luma New Seasonal Collection Announcement`.
+      * 主旨行 `(recipient's first name), the new Luma collection is here!`.
+      * 使用提供的HTML檔案 *CherryCollectionEmail.html* 用於電子郵件內文。
+   2. 等候兩天，然後傳送後續電子郵件訊息，其中包含更具針對性的內容：
+      * 男性客戶應接收 **Luma Men&#39;s Collection電子郵件**
+         * 訊息標題： `Luma Men's Collection`
+         * 主旨行： `(recipient's first name), explore Men's New athletic gear!`
+         * 電子郵件內文： *MensCollectionEmail.html* 用於電子郵件內文。
+      * 女性客戶應 **Luma Women&#39;s Collection電子郵件**
+         * 訊息標題： `Luma Women's Collection`
+         * 主旨行： `(recipient's first name), explore Luma's Women Collection!`
+         * 電子郵件內文： *WomensCollectionEmail.html*
+      * 其他客戶應接收 **Luma — 收集電子郵件的折扣為20%**
+         * 訊息標題： `Luma - 20 % off Collection`
+         * 主旨行： `(recipient's first name), enjoy 20% off sales!`
+         * 電子郵件內文： *20OffCollectionEmail.html*
+   3. 在上方傳送目標電子郵件後，請等待兩天才開啟電子郵件
+   4. 如果目標電子郵件未在2天內開啟，請傳送 **Luma - 20 %off集合電子郵件** 作為最終的重新定位嘗試
 
 
 >[!TAB 成功標準]
