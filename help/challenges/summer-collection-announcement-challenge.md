@@ -7,7 +7,7 @@ level: Beginner
 last-substantial-update: 2022-11-16T00:00:00Z
 hide: true
 exl-id: ae457be7-2c67-4950-a072-1d7030b0e17b
-source-git-commit: 4314f8090d4462ea8735279078fa53b70c5de551
+source-git-commit: 121faea2357883ad9672aee2eba1b7ab8278e5c2
 workflow-type: tm+mt
 source-wordcount: '1161'
 ht-degree: 2%
@@ -147,9 +147,9 @@ stringCompare("equals", loyalty.tier, ["diamond", "gold", "platinum", "silver"],
 
 1. 新增測試設定檔：斯坦利·斯托克：
    1. 身份命名空間： *Luma CRM ID*
-   2. 身分值： `4f34057d9d9e792c28ba18ecae378e98`
+   1. 身分值： `4f34057d9d9e792c28ba18ecae378e98`
 1. 選取測試設定檔：斯坦利·斯托克
-2. 向自己發證
+1. 向自己發證
 
 結果:\
 您應會收到電子郵件。 主題應該是「斯坦利，探索男子新運動裝備！」 而電子郵件內文應與您在預覽中看到的內容相符： [鹿馬門集](/help/challenges/assets/email-assets/MensCollectionEmail.html)
