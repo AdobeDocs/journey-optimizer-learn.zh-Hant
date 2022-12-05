@@ -7,9 +7,9 @@ level: Beginner
 last-substantial-update: 2022-11-16T00:00:00Z
 hide: true
 exl-id: ae457be7-2c67-4950-a072-1d7030b0e17b
-source-git-commit: 121faea2357883ad9672aee2eba1b7ab8278e5c2
+source-git-commit: 8e79a4e474e3b6fc7692578fb2d5920e0772d9b0
 workflow-type: tm+mt
-source-wordcount: '1161'
+source-wordcount: '1149'
 ht-degree: 2%
 
 ---
@@ -172,7 +172,6 @@ stringCompare("equals", loyalty.tier, ["diamond", "gold", "platinum", "silver"],
 * 主題行應為： *露易絲，享受20%的銷量！*
 * 電子郵件內文應與您在預覽中看到的內容相符： [Luma優惠20%](/help/challenges/assets/email-assets/20OOffCollectionEmail.html)
 
-**別忘了發佈電子郵件！**
 
 #### 測試您的歷程
 
@@ -200,10 +199,10 @@ stringCompare("equals", loyalty.tier, ["diamond", "gold", "platinum", "silver"],
 2. 一次選取單一設定檔
 3. 等待時間：將計時器設為120秒（在欄位中輸入）。
 4. 觸發配置檔案入口
-5. 您可以使用下列其中一個電子郵件地址作為設定檔識別碼，以測試每個分支：
-   * 女性：Louise Petti，身份價值： *d1f132f9f9502bba047a6ec86c4b61f9*
+5. 您可以使用以下任一項來測試每個分支 *Luma CRM Id* 作為設定檔識別碼：
+   * 女性：Leora Dietsche，身份值：`a8f14eab3b483c2b96171b575ecd90b1`
    * 男性：Stanleigh Stooke，身份值： `4f34057d9d9e792c28ba18ecae378e98`
-   * 未指定性別：Leora Dietsche, a8f14eab3b483c2b96171b575ecd90b1
+   * 未指定性別：Louise Petti，身份價值：&#39;d1f132f9f9502bba047a6ec86c4b61f9&#39;
 
 6. 一旦觸發設定檔入口，您應該會收到第一封電子郵件，標題應該會根據您所選取的設定檔個人化。
 7. 歷程應繼續進入個別分支，您應會收到相關電子郵件（例如，如果您選擇Jenna，應會收到「Luma Women&#39;s Collection」電子郵件）。
@@ -216,9 +215,9 @@ stringCompare("equals", loyalty.tier, ["diamond", "gold", "platinum", "silver"],
 
 * Luma — 新的季節性收藏公告
 * 根據您使用的測試設定檔，您應會收到下列其中一封電子郵件：
-   * 珍娜：鹿馬女子集
-   * 克里斯：鹿馬門集
-   * 本尼：Luma — 優惠20%
+   * 萊奧拉：鹿馬女子集
+   * 斯坦利：鹿馬門集
+   * 露易絲：Luma — 優惠20%
 * 如果您未開啟第二封電子郵件：Luma,20%的優惠
 
 >[!TAB 檢查您的工作]
