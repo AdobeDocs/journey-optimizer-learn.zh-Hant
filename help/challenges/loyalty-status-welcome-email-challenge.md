@@ -7,7 +7,7 @@ role: User
 level: Beginner
 hide: true
 exl-id: 6fd58b8e-7178-495d-a85d-eb67fc4f3acf
-source-git-commit: 7ef41f1ddd9369d45b60e1e257121ef4daabbc0e
+source-git-commit: 27139d8f3b7fc5d6bb2a862789116f5e1f911766
 workflow-type: tm+mt
 source-wordcount: '445'
 ht-degree: 4%
@@ -57,7 +57,7 @@ Luma提供忠誠計畫，作為吸引及留住客戶的方式。 該計畫提供
 1. 請確定 [!UICONTROL 閱讀區段活動] 有 [!UICONTROL 命名空間] 設為 **[!DNL Luma CRM id(lumaCrmId)]**
 2. 覆寫預設值 [!UICONTROL 電子郵件參數] 並將其設定為您自己的電子郵件地址
 
-+++ 按一下這裡以取得如何覆寫 [!!UICONTROL電子郵件參數].
++++按一下這裡以取得如何覆寫 [!!UICONTROL電子郵件參數].
 
 * 按一下眼睛符號來顯示隱藏的值。
 * 在 [!UICONTROL 電子郵件參數]，按一下T符號（啟用參數覆蓋）
