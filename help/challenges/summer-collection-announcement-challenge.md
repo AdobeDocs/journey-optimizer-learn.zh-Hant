@@ -7,9 +7,9 @@ level: Beginner
 last-substantial-update: 2022-11-16T00:00:00Z
 hide: true
 exl-id: ae457be7-2c67-4950-a072-1d7030b0e17b
-source-git-commit: 8e79a4e474e3b6fc7692578fb2d5920e0772d9b0
+source-git-commit: fa78749a6b768bd637ef5b5a7cda907a7b2030f4
 workflow-type: tm+mt
-source-wordcount: '1149'
+source-wordcount: '1138'
 ht-degree: 2%
 
 ---
@@ -50,7 +50,7 @@ Luma行銷團隊會要求您在Journey Optimizer中實施夏季系列行銷活�
 
 >[!TAB 成功標準]
 
-在區段產生器中，您可以看到預估合格設定檔數。 如果您使用訓練沙箱資料，1.29 K中會有約753個合格設定檔。
+在區段產生器中，您可以看到預估合格設定檔數。 如果您使用訓練沙箱資料，1.29 K中有約753個合格設定檔。
 
 >[!NOTE]
 >由於需要回填現有設定檔，因此現有設定檔可能需要最多24小時才會顯示區段成員資格。
@@ -202,7 +202,7 @@ stringCompare("equals", loyalty.tier, ["diamond", "gold", "platinum", "silver"],
 5. 您可以使用以下任一項來測試每個分支 *Luma CRM Id* 作為設定檔識別碼：
    * 女性：Leora Dietsche，身份值：`a8f14eab3b483c2b96171b575ecd90b1`
    * 男性：Stanleigh Stooke，身份值： `4f34057d9d9e792c28ba18ecae378e98`
-   * 未指定性別：Louise Petti，身份價值：&#39;d1f132f9f9502bba047a6ec86c4b61f9&#39;
+   * 未指定性別：Louise Petti，身份價值： `d1f132f9f9502bba047a6ec86c4b61f9`
 
 6. 一旦觸發設定檔入口，您應該會收到第一封電子郵件，標題應該會根據您所選取的設定檔個人化。
 7. 歷程應繼續進入個別分支，您應會收到相關電子郵件（例如，如果您選擇Jenna，應會收到「Luma Women&#39;s Collection」電子郵件）。
