@@ -7,9 +7,9 @@ role: User
 level: Beginner
 hide: true
 exl-id: ec86e2ac-081d-47aa-a948-007107baa2b4
-source-git-commit: 0e83d8fbad6bd87ed25980251970898cb5b94bc0
+source-git-commit: eb31a78738ec32e4f468f620a96525714997ad04
 workflow-type: tm+mt
-source-wordcount: '683'
+source-wordcount: '682'
 ht-degree: 4%
 
 ---
@@ -40,7 +40,7 @@ Luma正在啟動其線上商店，希望在客戶下訂單後，提供訂單確�
 >[!TAB 工作]
 
 1. 建立名為「您的姓名_訂購確認」的歷程
-2. 使用事件：LumaOnlinePurchase作為觸發器
+2. 使用事件： [!DNL LumaOnlinePurchase] 作為觸發器
 
 3. 建立訂單確認電子郵件：
 
