@@ -6,9 +6,9 @@ role: Admin
 level: Beginner
 hide: true
 exl-id: 87a79560-c098-4e72-abec-6b750ec730ee
-source-git-commit: 0e83d8fbad6bd87ed25980251970898cb5b94bc0
+source-git-commit: e148101f8404c8e2019ee17823bcf1d7a9668bc5
 workflow-type: tm+mt
-source-wordcount: '449'
+source-wordcount: '428'
 ht-degree: 12%
 
 ---
@@ -72,6 +72,24 @@ Luma正尋求推廣其最新的服裝和齒輪系列，並推動現有客戶的�
       <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-read-segment.html">使用案例 - 讀取區段</li>
   </td>
   </tr>
+   <tr>
+    <td>
+    <div>
+    <a>
+      <img alt="歡迎" src="./assets/email-assets/luma-transactional-onboarding-1.png"/>
+    </a>
+    </div>
+    <td>
+    <div >
+      <a>
+    <strong>建立忠誠度狀態歡迎電子郵件（即將推出） </strong>
+    </a>
+    </div>
+    <p>
+    <em>當忠誠度客戶移至新層級時，請傳送電子郵件，祝賀並告知他們新的優點</em>
+    <p>
+  </td>
+  </tr>
   <tr>
   <td>
   <div>
@@ -93,40 +111,4 @@ Luma正尋求推廣其最新的服裝和齒輪系列，並推動現有客戶的�
       <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/use-contextual-event-information-for-personalization.html">使用內容事件資訊進行個人化</li>
       <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/use-helper-functions-for-personalization.html?lang=en">使用協助程式功能進行個人化</li>
   </td>
-  </tr>
-  <tr>
-    <td>
-    <div>
-    <a>
-      <img alt="Luma產品補充" src="./assets/email-assets/luma-ProductReplenishment.png"/>
-    </a>
-    </div>
-    <td>
-    <div >
-      <strong>建立產品補充通知（即將推出）</strong>
-    </a>
-    </div>
-    <p>
-    <em>當先前缺貨的項目重新存貨時，通知客戶</em>
-    <p>
-  </td>
-  </tr>
-  <tr>
-    <td>
-    <div>
-    <a>
-      <img alt="歡迎" src="./assets/email-assets/luma-transactional-onboarding-1.png"/>
-    </a>
-    </div>
-    <td>
-    <div >
-      <a>
-    <strong>建立忠誠度狀態歡迎電子郵件（即將推出） </strong>
-    </a>
-    </div>
-    <p>
-    <em>當忠誠度客戶移至新層級時，請傳送電子郵件，祝賀並告知他們新的優點</em>
-    <p>
-  </td>
-  </tr>
 </table>

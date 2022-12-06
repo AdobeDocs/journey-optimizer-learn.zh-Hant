@@ -7,7 +7,7 @@ level: Beginner
 last-substantial-update: 2022-11-16T00:00:00Z
 hide: true
 exl-id: ae457be7-2c67-4950-a072-1d7030b0e17b
-source-git-commit: fa78749a6b768bd637ef5b5a7cda907a7b2030f4
+source-git-commit: e148101f8404c8e2019ee17823bcf1d7a9668bc5
 workflow-type: tm+mt
 source-wordcount: '1138'
 ht-degree: 2%
@@ -45,7 +45,7 @@ Luma行銷團隊會要求您在Journey Optimizer中實施夏季系列行銷活�
 
 * 在Journey Optimizer中建立區段，稱為 `Active Customers`.
 * 區段必須僅包含有效的Luma客戶。
-* 活躍客戶的定義是在Luma的忠誠度計畫（銀級、金級、白金級或鑽石級）中擁有層級的客戶。
+* 活躍客戶是指在Luma的忠誠度計畫（銅、銀、金或白金）中擁有層級的客戶。
 
 
 >[!TAB 成功標準]

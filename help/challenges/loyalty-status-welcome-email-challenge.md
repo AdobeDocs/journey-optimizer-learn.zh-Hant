@@ -7,10 +7,10 @@ role: User
 level: Beginner
 hide: true
 exl-id: 6fd58b8e-7178-495d-a85d-eb67fc4f3acf
-source-git-commit: 0e83d8fbad6bd87ed25980251970898cb5b94bc0
+source-git-commit: e148101f8404c8e2019ee17823bcf1d7a9668bc5
 workflow-type: tm+mt
-source-wordcount: '457'
-ht-degree: 7%
+source-wordcount: '454'
+ht-degree: 4%
 
 ---
 
@@ -21,65 +21,68 @@ ht-degree: 7%
 | 挑戰 | 建立忠誠度狀態歡迎電子郵件 |
 |---|---|
 | 角色 | Journey Manager |
-| 所需技能 | <ul><li>[使用訊息編輯器建立電子郵件內容](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/create-email-content-with-the-message-editor.html?lang=en)</li> <li>[使用內容事件資訊進行個人化](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/use-contextual-event-information-for-personalization.html?lang=en)</li><li>[使用協助程式功能進行個人化](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/use-helper-functions-for-personalization.html?lang=en)</li></ul> |
-| 要下載的資產 | [訂購確認資產](/help/challenges/assets/email-assets/order-confirmation-assets.zip) |
+| 所需技能 | <ul><li>[建立區段](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html)</li> <li>[區段資格](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-read-segment-qualification.html)</li><li>[匯入HTML內容](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/create-emails/import-and-author-html-email-content.html)</li></ul> |
+| 要下載的資產 | [platinumStatusEmail.zip](/help/challenges/assets/email-assets/platinumStatusEmail.zip) |
 
 ## 故事
 
-Luma提供忠誠計畫，作為吸引及留住客戶的方式。 該計畫提供四個不同級別：銀，金，白金，鑽石。
+Luma提供忠誠計畫，作為吸引及留住客戶的方式。 該計畫提供四個不同級別：銅、銀、金和鉑。 每個忠誠度等級會獲得不同的等級或獎勵、折扣和其他特殊獎勵，作為對其重複業務的獎勵。
 
-每個忠誠度等級會獲得不同的等級或獎勵、折扣和其他特殊獎勵，作為對其重複業務的獎勵。
-
-加上特殊鑽石狀態。 Luma想要在客戶到達鑽石階層時，傳送歡迎電子郵件給客戶。
+強調特殊白金狀態。 Luma想要在客戶達到白金級時，傳送歡迎電子郵件給客戶。
 
 ## 您的挑戰
 
-您的任務是設定歷程，當客戶達到鑽石忠誠度等級時，會自動傳送歡迎電子郵件給客戶。
-
->[!NOTE]
-> 如果您在共用訓練沙箱中工作，最佳實務是將您的名稱或縮寫為預先修正，加入您建立之任何元素的名稱。
+系統已要求您設定歷程，當客戶達到白金級忠誠度時，會自動傳送歡迎電子郵件給客戶。
 
 >[!BEGINTABS]
 
 >[!TAB 工作]
 
-當忠誠度客戶移至Diamond層級時，請傳送電子郵件，祝賀並告知他們新的優點。 The
+當忠誠客戶符合白金級資格時，他們應會收到並寄送電子郵件，祝賀並告知他們新的優點。 創意團隊已提供HTML檔案 **[Luma — 狀態升級 — 歡迎電子郵件](/help/challenges/assets/email-assets/StatusUpgradeEmail.zip)** 郵件內文。
 
-1. 在Journey Optimizer中建立區段，稱為 **Luma — 鑽石狀態**
-2. 建立當客戶移入鑽石新忠誠度層時觸發的歷程（尤其是當客戶進入為新鑽石層級成員定義的區段時），以傳送「Luma — 新狀態 — 鑽石 — 交易」電子郵件
-   1. 建立標題為的交易式電子郵件訊息 `(your name)_Luma – New Status – Diamond – Transactional email message`.
-   2. 為電子郵件提供主旨行 `Welcome to Diamond Status, (recipient's first name)!`.
-   3. 使用提供的HTML檔案 **[DiamondStatusEmail.html](/help/challenges/assets/email-assets/DiamondStatusEmail.html)** 用於電子郵件內文。
-3. 完成後，將歷程置於測試模式，並觸發歷程以傳送給您自己  
+1. 在Journey Optimizer中建立區段，稱為 `Luma – status upgrade`.
+2. 建立名為「Luma — 新狀態 — 白金」的歷程。
+   1. 客戶符合白金忠誠度等級資格時，即會進入歷程。
+   2. 客戶應會收到標示為 `Luma – Platinum Status - Welcome`，並搭配主旨行 `Welcome to Platinum Status, (recipient's first name)!` 由創意團隊提供的身體。
+   3. 上傳HTML檔案時，您注意到電子郵件是指「鑽石」狀態，而非「白金」。 請更新電子郵件設計工具中的電子郵件，而不是向創意團隊請求新檔案。
 
-   1. 建立標題為的交易式電子郵件訊息 `(your name)_Luma – New Status – Diamond – Transactional email message`.
-   1. 為電子郵件提供主旨行 `Welcome to Diamond Status, (recipient's first name)!`.
-   1. 使用提供的HTML檔案 **[DiamondStatusEmail.html](/help/challenges/assets/email-assets/DiamondStatusEmail.html)** 用於電子郵件內文。
-4. 完成後，將歷程置於測試模式，並觸發歷程以傳送給您自己  
-
-### 建立Luma — 新狀態 — Diamond — 交易式電子郵件訊息
-
-建立歡迎電子郵件訊息
-
-### **Journey #3 - Diamond狀態升級歡迎電子郵件**
+>[小費！]
+> 確認Luma — 白金狀態 — 歡迎電子郵件為交易式電子郵件。
 
 
 >[!TAB 成功標準]
 
 測試您的歷程:
 
-1. 請確定區段資格事件具有「命名空間=電子郵件」
-1. 覆寫預設的電子郵件參數，並將其設為您自己的電子郵件地址
-1. 將歷程設為測試模式
-1. 觸發事件
-1. 將下列電子郵件地址新增至「設定檔識別碼」欄位：Jenna_Palmer9530@emailsim.io
+1. 請確定「讀取區段活動」的命名空間已設為 **Luma CRM id(lumaCrmId)**
+2. 覆寫預設的電子郵件參數，並將其設為您自己的電子郵件地址
 
-您應會收到個人化的「Luma — 新狀態 — 鑽石交易」電子郵件。
++++ 按一下這裡以取得如何覆寫的詳細資訊
+   * 按一下眼睛符號來顯示隱藏的值。
+   * 在電子郵件參數中，按一下T符號（啟用參數覆蓋）
+
+   ![覆寫電子郵件參數](/help/challenges/assets/c3-override-email-paramters.jpg)
+
+   * 按一下「Address（地址）」欄位
+   * 在下一個畫面中，以括弧新增您的電子郵件地址： `"yourname@yourdomain"` 在運算式編輯器中，按一下「確定」。
++++
+
+
+3. 將歷程設為測試模式
+4. 觸發事件
+5. 在「設定檔識別碼」欄位中新增Stanleigh Stooke的下列CRM ID: `4f34057d9d9e792c28ba18ecae378e98`
+
+您應會收到個人化 *Luma — 白金狀態 — 歡迎* 電子郵件。
 
 >[!TAB 檢查您的工作]
 
 以下是您歷程的外觀：
 
-![Diamond-status-upgrade-journey](/help/challenges/assets/journey-luma-diamond-status-upgrade.png)
+![platinum-status-upgrade-journey](/help/challenges/assets/journey-luma-status-upgrade.png)
+
+
+這是電子郵件的外觀：
+
+![Luma — 狀態升級 — 歡迎電子郵件](/help/challenges/assets/status-upgrade-welcome-email.png)
 
 >[!ENDTABS]
