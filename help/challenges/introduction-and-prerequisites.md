@@ -6,10 +6,10 @@ role: Admin
 level: Beginner
 hide: true
 exl-id: 87a79560-c098-4e72-abec-6b750ec730ee
-source-git-commit: e148101f8404c8e2019ee17823bcf1d7a9668bc5
+source-git-commit: 758d0af0a93f110fd1692d8b0c364a3bbdac7494
 workflow-type: tm+mt
-source-wordcount: '428'
-ht-degree: 12%
+source-wordcount: '447'
+ht-degree: 11%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 12%
 
 挑戰提供了實施您所學知識所需的方案和要求。 挑戰可幫助您評估您的技能水準並找出知識差距。
 
-本節中的每個挑戰都說明您將實施的不重複使用案例。 目標對象（角色）和所需技能將列在每個挑戰的開頭。
+本節中的每個挑戰都說明您所實作的獨特使用案例。 目標對象（角色）和所需技能將列在每個挑戰的開頭。
 
 ## 先決條件
 
@@ -68,8 +68,8 @@ Luma正尋求推廣其最新的服裝和齒輪系列，並推動現有客戶的�
       <p>
       <b>所需技能：</b>
       <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html"> 建立區段</li>
-      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/create-emails/import-and-author-html-email-content.html">匯入及編寫 HTML 電子郵件內容</li>
-      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-read-segment.html">使用案例 - 讀取區段</li>
+      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-read-segment.html">讀取區段</li>
+       <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/create-emails/import-and-author-html-email-content.html">匯入HTML電子郵件內容</li>
   </td>
   </tr>
    <tr>
@@ -82,12 +82,16 @@ Luma正尋求推廣其最新的服裝和齒輪系列，並推動現有客戶的�
     <td>
     <div >
       <a>
-    <strong>建立忠誠度狀態歡迎電子郵件（即將推出） </strong>
+    <strong><a href="loyalty-status-welcome-email-challenge.md">建立忠誠度狀態歡迎電子郵件 </strong>
     </a>
     </div>
     <p>
-    <em>當忠誠度客戶移至新層級時，請傳送電子郵件，祝賀並告知他們新的優點</em>
+    <em>當忠誠度客戶移至新層級時，請傳送電子郵件，祝賀並告知他們新的優點。</em>
     <p>
+    <b>所需技能：</b>
+      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html"> 建立區段</li>
+      <li><a [href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-read-segment-qualification.html">區段資格</li>
+      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/create-emails/import-and-author-html-email-content.html">匯入及編寫 HTML 電子郵件內容</li>
   </td>
   </tr>
   <tr>
@@ -107,7 +111,7 @@ Luma正尋求推廣其最新的服裝和齒輪系列，並推動現有客戶的�
     </em>
     <p>
     <b>所需技能：</b>
-      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/create-email-content-with-the-message-editor.html"> 使用訊息編輯器建立電子郵件內容</li>
+      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/create-content-with-the-email-designer.html"> 使用訊息編輯器建立電子郵件內容</li>
       <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/use-contextual-event-information-for-personalization.html">使用內容事件資訊進行個人化</li>
       <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/use-helper-functions-for-personalization.html?lang=en">使用協助程式功能進行個人化</li>
   </td>
