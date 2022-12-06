@@ -7,7 +7,7 @@ role: User
 level: Beginner
 hide: true
 exl-id: 6fd58b8e-7178-495d-a85d-eb67fc4f3acf
-source-git-commit: 758d0af0a93f110fd1692d8b0c364a3bbdac7494
+source-git-commit: 7ef41f1ddd9369d45b60e1e257121ef4daabbc0e
 workflow-type: tm+mt
 source-wordcount: '445'
 ht-degree: 4%
@@ -58,19 +58,19 @@ Luma提供忠誠計畫，作為吸引及留住客戶的方式。 該計畫提供
 2. 覆寫預設值 [!UICONTROL 電子郵件參數] 並將其設定為您自己的電子郵件地址
 
 +++ 按一下這裡以取得如何覆寫 [!!UICONTROL電子郵件參數].
-   * 按一下眼睛符號來顯示隱藏的值。
-   * 在 [!UICONTROL 電子郵件參數]，按一下T符號（啟用參數覆蓋）
 
-   ![覆寫電子郵件參數](/help/challenges/assets/c3-override-email-paramters.jpg)
+* 按一下眼睛符號來顯示隱藏的值。
+* 在 [!UICONTROL 電子郵件參數]，按一下T符號（啟用參數覆蓋）
 
-   * 按一下 [!UICONTROL 地址欄位]
-   * 在下一個畫面中，以括弧新增您的電子郵件地址： `"yourname@yourdomain"` 在運算式編輯器中，按一下「確定」。
+![覆寫電子郵件參數](/help/challenges/assets/c3-override-email-paramters.jpg)
+
+* 按一下 [!UICONTROL 地址欄位]
+* 在下一個畫面中，以括弧新增您的電子郵件地址： `"yourname@yourdomain"` 在運算式編輯器中，按一下「確定」。
 +++
 
-
-3. 將歷程設為測試模式
-4. 觸發事件
-5. 新增下列項目 [!DNL CRM ID] for [!DNL Stanleigh Stooke] 進入 [!UICONTROL 設定檔識別碼] 欄位： `4f34057d9d9e792c28ba18ecae378e98`
+1. 將歷程設為測試模式
+2. 觸發事件
+3. 新增下列項目 [!DNL CRM ID] for [!DNL Stanleigh Stooke] 進入 [!UICONTROL 設定檔識別碼] 欄位： `4f34057d9d9e792c28ba18ecae378e98`
 
 您應會收到個人化 *Luma — 白金狀態 — 歡迎* 電子郵件。
 
