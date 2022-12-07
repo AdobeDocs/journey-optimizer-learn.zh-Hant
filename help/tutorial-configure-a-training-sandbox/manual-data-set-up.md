@@ -9,7 +9,7 @@ level: Beginner
 recommendations: noDisplay, noCatalog
 hide: true
 exl-id: de870229-d9a6-4051-9f76-13d402cce3b4
-source-git-commit: b358ede4a9855b290ce4efa8611173f44e689b61
+source-git-commit: f86140ed3d39462ec245303efecade64a610a938
 workflow-type: tm+mt
 source-wordcount: '1063'
 ht-degree: 6%
@@ -60,11 +60,11 @@ ht-degree: 6%
 
 * [[!DNL Luma Product Inventory Events]](#create-luma-product-inventory-event-schema)
 
-* [[!DNL Luma CRM]](#create-luma-crm-and-luma-product-interactions-schemas)
+* [[!DNL Luma CRM Schema]](#create-luma-crm-and-luma-product-interactions-schemas)
 
-* [[!DNL Luma Product Interactions]](#create-luma-crm-and-luma-product-interactions-schemas)
+* [[!DNL Luma Web Events Schema]](#create-luma-crm-and-luma-product-interactions-schemas)
 
-* [[!DNL Luma Test Profiles]](#create-luma-crm-and-luma-product-interactions-schemas)
+* [[!DNL Luma Test Profiles Schema]](#create-luma-crm-and-luma-product-interactions-schemas)
 
 >[!TIP]
 >
@@ -224,7 +224,7 @@ ht-degree: 6%
 
    * 顯示名稱： `Luma Product Catalog Field Group`
 
-2. 將下列欄位新增至 **[!DNL Luma Product Catalog Field Group]**.
+1. 將下列欄位新增至 **[!DNL Luma Product Catalog Field Group]**.
 
    * 欄位名稱: `product`
 
@@ -234,9 +234,9 @@ ht-degree: 6%
 
    * 欄位群組: [!DNL Luma Product Catalog Field Group]
 
-3. 選擇 **[!UICONTROL 套用]**.
+1. 選擇 **[!UICONTROL 套用]**.
 
-4. 將下列欄位新增至 **[!DNL Product]** 物件：
+1. 將下列欄位新增至 **[!DNL Product]** 物件：
 
    | [!UICONTROL 欄位名稱] | [!UICONTROL 顯示名稱] | [!UICONTROL 類型] |
    |-------------|-----------|----------|
@@ -250,9 +250,9 @@ ht-degree: 6%
    | `ImageURL` | `Image URL` | [!UICONTROL 字串] |
    | `stockQuantity` | `Stock Quantity` | [!UICONTROL 字串] |
 
-5. 新增 **[!UICONTROL 顯示名稱]** `Luma Product Catalog Field Group` 到 [!UICONTROL 欄位群組].
+1. 新增 **[!UICONTROL 顯示名稱]** `Luma Product Catalog Field Group` 到 [!UICONTROL 欄位群組].
 
-6. 選取「**[!UICONTROL 儲存]**」。
+1. 選取「**[!UICONTROL 儲存]**」。
 
 
 ### 建立 [!DNL Luma Product Inventory Event Schema] {#create-luma-product-inventory-event-schema}
