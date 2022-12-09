@@ -7,9 +7,9 @@ level: Beginner
 last-substantial-update: 2022-11-16T00:00:00Z
 hide: true
 exl-id: ae457be7-2c67-4950-a072-1d7030b0e17b
-source-git-commit: cfd438e198fdf62859569eed0c6ac22087ddbc75
+source-git-commit: f5b0529ee13067fe945e32494a164959adfd7d6c
 workflow-type: tm+mt
-source-wordcount: '1176'
+source-wordcount: '1175'
 ht-degree: 2%
 
 ---
@@ -196,7 +196,7 @@ stringCompare("equals", loyalty.tier, ["diamond", "gold", "platinum", "silver"],
 測試歷程，並將電子郵件傳送至您自己的帳戶：
 
 1. 將歷程置於測試模式。
-1. 一次選取單一設定檔。
+1. 選擇 **[!UICONTROL 一次單一設定檔]**.
 1. 等待時間：將計時器設為120秒（在欄位中輸入）。
 1. 觸發配置檔案入口
 1. 您可以使用以下任一項來測試每個分支 *Luma CRM Id* 作為設定檔識別碼：
