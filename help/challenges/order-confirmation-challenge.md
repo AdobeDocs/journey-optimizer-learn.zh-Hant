@@ -7,9 +7,9 @@ role: User
 level: Beginner
 hide: true
 exl-id: ec86e2ac-081d-47aa-a948-007107baa2b4
-source-git-commit: eb31a78738ec32e4f468f620a96525714997ad04
+source-git-commit: 08dfd48d34fac09d05e57438728e1afa5f6cdef9
 workflow-type: tm+mt
-source-wordcount: '682'
+source-wordcount: '706'
 ht-degree: 4%
 
 ---
@@ -39,16 +39,15 @@ Luma正在啟動其線上商店，希望在客戶下訂單後，提供訂單確�
 
 >[!TAB 工作]
 
-1. 建立名為「您的姓名_訂購確認」的歷程
-2. 使用事件： [!DNL LumaOnlinePurchase] 作為觸發器
-
-3. 建立訂單確認電子郵件：
+1. 建立以下歷程： `Luma - Order Confirmation`
+1. 使用事件： [!DNL LumaOnlinePurchase] 作為觸發器
+1. 建立訂單確認電子郵件，名為 `Luma - Order Confirmation`
 
 * 類別交易 — 請務必選取交易式電子郵件表面
 * 主旨行必須與收件者的名字個人化，且必須包含「感謝您購買」的片語
+* 使用 **Luma — 訂單摘要** 範本並加以修改：
 
-依照Luma品牌准則，電子郵件的結構應如下 — 您可以使用 **Luma — 訂單摘要** 範本並加以修改：
-
+依照Luma品牌准則，電子郵件的結構應如下：
 <table>
 <tr>
 <td>
@@ -79,22 +78,30 @@ Luma正在啟動其線上商店，希望在客戶下訂單後，提供訂單確�
     <strong>文字</strong><p>
     <em>嗨{名字}</em><p>
     <li>對齊方式：lef  </li>
-   <li>文本顏色：rgb(101, 106, 119);font-size:14px</li>
-    <li>邊框間距：左(95)、右(95)</li><div>
+   <li>文本顏色：rgb(69, 97, 162)#4461a2; 
+   <li>字型大小：20px</li>
+   <div>
     <p>
      <em>已下訂單。
     <p>您的包出貨後，我們會向您發送一封包含跟蹤號碼的電子郵件，以便您跟蹤訂單。</p></em>
-    </strong><p>
-    <li>對齊方式：lef  </li>
-    <li>文本顏色：rgb(101, 106, 119);font-size:14px </li>
-    <li>邊框間距：左(95)、右(95)</li><div>
-    </a><p>
-    <em>收貨方：<p>
-    <p>名字姓氏</p>
-    街<p>
-    城市、州、郵遞區號</p></em>
-    <strong>按鈕:</strong></p>
-   <p><em>檢視順序</em></p>
+    </strong>
+    </tr>
+  </td>
+ <td>
+  <div>
+     <strong> 收貨區</strong>
+      </div>
+      <p><li>將範本中的硬式編碼位址取代為來自設定檔的位址裝載
+      <li> 移除折扣、總計、到達</p>
+  </td>
+  <td>
+  <p> 收貨方：</p>
+      <em>名字姓氏<br>
+      街<br>
+      城市、州、郵遞區號</em></p>
+
+    &lt;strong>按鈕：&lt;/strong>&lt;/p>
+<p><em>檢視順序</em></p>
       <li>背景顏色：rgb(25, 121, 195)</li>
       <li>文本顏色：白色</li>
       <li>無邊框</li>
@@ -107,11 +114,13 @@ Luma正在啟動其線上商店，希望在客戶下訂單後，提供訂單確�
   <div>
      <strong>訂單詳細資訊部分</strong>
       </div>
-      <p>提示:
-      <li>這是內容事件資訊。</li>
-      <li>使用幫助程式函式：每個</li>
-      <li>切換至程式碼編輯器格式以新增內容資料。 <li>
-      <li>使用DIV標籤將資訊放入容器中。</li>
+       <p><li>在 <b>收貨方</b> 區段和 <b>檢視順序</b> 按鈕
+      </p><br>
+      <p><b>提示:</b>
+      <li>這是內容事件資訊。
+      <li>使用！UICONTROL幫助程式函式]:[!UICONTROL各]
+      <li>切換至程式碼編輯器格式以新增內容資料。
+      <li>使用DIV標籤將資訊放入容器中。
   </td>
   <td>
     <strong>Header</strong>
@@ -156,8 +165,7 @@ Luma正在啟動其線上商店，希望在客戶下訂單後，提供訂單確�
 >
 >若要讓您疑難排解歷程，最佳實務是在逾時或錯誤的情況下，為所有訊息動作新增替代路徑。
 
-
->[!TAB 檢查您的工作]
+>[!TAB 成功標準]
 
 觸發您在測試模式中建立的歷程，並傳送電子郵件給您自己：
 
@@ -186,7 +194,8 @@ Luma正在啟動其線上商店，希望在客戶下訂單後，提供訂單確�
    華盛頓特里埃爾泰勒斯43913 20099
 
 
->[!TAB 成功標準]
+
+>[!TAB 檢查您的工作]
 
 ** 歷程
 

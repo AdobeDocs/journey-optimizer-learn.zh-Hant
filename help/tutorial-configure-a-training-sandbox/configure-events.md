@@ -8,9 +8,9 @@ role: Admin
 level: Beginner
 recommendations: noDisplay, noCatalog
 exl-id: c7826818-c28a-493b-8aba-9d8a8102336d
-source-git-commit: 8a2062f0719e799dd2d039488e6bba943fb458c4
+source-git-commit: 08dfd48d34fac09d05e57438728e1afa5f6cdef9
 workflow-type: tm+mt
-source-wordcount: '222'
+source-wordcount: '224'
 ht-degree: 8%
 
 ---
@@ -37,7 +37,7 @@ ht-degree: 8%
    | [!UICONTROL 類型] | [!UICONTROL 單一] |
    | [!UICONTROL 事件ID類型] | [!UICONTROL 規則型] |
    | [!UICONTROL 方案] | Luma產品互動 |
-   | [!UICONTROL 欄位] | EventType <br>Order.priceTotal<br>purchaseOrderNumber<br>productListItems.quantity<br><b>在產品清單項目> Luma產品> _*[!DNL yourOrganizationID]* >產品：</b> <br> 名稱<br>價格<br>ProductImageURL<br>ProductURL |
+   | [!UICONTROL 欄位] | EventType <br>Order.priceTotal<br>purchaseOrderNumber<br>productListItems.quantity<br><b>在產品清單項目> Luma產品目錄結構> _*[!DNL yourOrganizationID]* >產品：</b> <br> 名稱<br>價格<br>ProductImageURL<br>ProductURL |
 
 1. 新增 [!UICONTROL 事件ID條件]: **[!DNL LumaOnlinePurchase.eventType is commerce.purchases]**
 
@@ -49,9 +49,9 @@ ht-degree: 8%
 
 ![新增事件條件](/help/tutorial-configure-a-training-sandbox/assets/Event-lumaOnlinePurchase-condition-1.png)
 
-1. 選擇 [!UICONTROL 命名空間]: `Email(Email)`
+1. 選擇 [!UICONTROL 命名空間]: `Luma CRM ID (lumaCrmId)`
 
-1. 選取「**[!UICONTROL 儲存]**」。
+2. 選取「**[!UICONTROL 儲存]**」。
 
 ## 建立 *[!DNL Luma Wishlist Add]* 事件
 
