@@ -7,9 +7,9 @@ role: User
 level: Beginner
 hide: true
 exl-id: ec86e2ac-081d-47aa-a948-007107baa2b4
-source-git-commit: 08dfd48d34fac09d05e57438728e1afa5f6cdef9
+source-git-commit: cc9d123e4b8efd82eea348c31f5b993556438074
 workflow-type: tm+mt
-source-wordcount: '706'
+source-wordcount: '701'
 ht-degree: 4%
 
 ---
@@ -41,13 +41,13 @@ Luma正在啟動其線上商店，希望在客戶下訂單後，提供訂單確�
 
 1. 建立以下歷程： `Luma - Order Confirmation`
 1. 使用事件： [!DNL LumaOnlinePurchase] 作為觸發器
-1. 建立訂單確認電子郵件，名為 `Luma - Order Confirmation`
+1. 建立訂單確認電子郵件，名為 `Luma - Order Confirmation`:
 
 * 類別交易 — 請務必選取交易式電子郵件表面
 * 主旨行必須與收件者的名字個人化，且必須包含「感謝您購買」的片語
 * 使用 **Luma — 訂單摘要** 範本並加以修改：
 
-依照Luma品牌准則，電子郵件的結構應如下：
+電子郵件的結構應如下：
 <table>
 <tr>
 <td>
@@ -118,7 +118,7 @@ Luma正在啟動其線上商店，希望在客戶下訂單後，提供訂單確�
       </p><br>
       <p><b>提示:</b>
       <li>這是內容事件資訊。
-      <li>使用！UICONTROL幫助程式函式]:[!UICONTROL各]
+      <li>使用[!UICONTROL幫助程式函式]:[!UICONTROL各]
       <li>切換至程式碼編輯器格式以新增內容資料。
       <li>使用DIV標籤將資訊放入容器中。
   </td>

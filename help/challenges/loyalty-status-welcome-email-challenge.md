@@ -7,9 +7,9 @@ role: User
 level: Beginner
 hide: true
 exl-id: 6fd58b8e-7178-495d-a85d-eb67fc4f3acf
-source-git-commit: 1b6f6cadc2d85a8baa5c95aca026f868a27e78fa
+source-git-commit: cc9d123e4b8efd82eea348c31f5b993556438074
 workflow-type: tm+mt
-source-wordcount: '432'
+source-wordcount: '430'
 ht-degree: 4%
 
 ---
@@ -26,7 +26,7 @@ ht-degree: 4%
 
 ## 故事
 
-Luma提供忠誠計畫，作為吸引及留住客戶的方式。 該計畫提供四個不同級別：銅、銀、金和鉑。 每個忠誠度等級會獲得不同的等級或獎勵、折扣和其他特殊獎勵，作為對其重複業務的獎勵。
+Luma提供忠誠計畫，作為吸引及留住客戶的方式。 該計畫提供四個不同的層：銅、銀、金和鉑。 每個忠誠度等級會獲得不同的獎勵、折扣和其他特殊獎勵，作為對其重複業務的獎勵。
 
 強調特殊白金狀態。 Luma想要在客戶達到白金級時，傳送歡迎電子郵件給客戶。
 
