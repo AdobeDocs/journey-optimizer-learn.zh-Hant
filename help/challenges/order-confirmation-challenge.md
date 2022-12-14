@@ -7,9 +7,9 @@ role: User
 level: Beginner
 hide: true
 exl-id: ec86e2ac-081d-47aa-a948-007107baa2b4
-source-git-commit: cc9d123e4b8efd82eea348c31f5b993556438074
+source-git-commit: d361a15661642f770ab7f5527f561eb0bce16b9d
 workflow-type: tm+mt
-source-wordcount: '701'
+source-wordcount: '671'
 ht-degree: 4%
 
 ---
@@ -33,19 +33,19 @@ Luma正在啟動其線上商店，希望在客戶下訂單後，提供訂單確�
 
 ## 您的挑戰
 
-建立歷程，當Luma客戶完成線上訂單時傳送訂單確認電子郵件。
+建立歷程，當Luma客戶完成線上訂單時傳送訂單確認電子郵件。 盧瑪
 
 >[!BEGINTABS]
 
 >[!TAB 工作]
 
 1. 建立以下歷程： `Luma - Order Confirmation`
-1. 使用事件： [!DNL LumaOnlinePurchase] 作為觸發器
-1. 建立訂單確認電子郵件，名為 `Luma - Order Confirmation`:
+2. 使用事件： `LumaOnlinePurchase` 作為觸發器
+3. 建立訂單確認電子郵件，名為 `Luma - Order Confirmation`:
 
 * 類別交易 — 請務必選取交易式電子郵件表面
 * 主旨行必須與收件者的名字個人化，且必須包含「感謝您購買」的片語
-* 使用 **Luma — 訂單摘要** 範本並加以修改：
+* 使用 `Luma - Order summary` 範本並加以修改：
 
 電子郵件的結構應如下：
 <table>
@@ -59,7 +59,6 @@ Luma正在啟動其線上商店，希望在客戶下訂單後，提供訂單確�
     <strong>Luma標誌</strong>
       <p>
      <li>luma_logo.png</li>
-    <li>大小35%，居中為白色背景 </li>
     <li>應該會有luma網站的連結：https://publish1034.adobedemo.com/content/luma/us/en.html</li>
     <p>
     </td>
@@ -71,9 +70,6 @@ Luma正在啟動其線上商店，希望在客戶下訂單後，提供訂單確�
     </strong>
   </td>
   <td>
-    <strong>影像</strong><p>
-    <li>luma-transactional-order-confirmation-2.jpg </li>
-    <li>利潤：頂部、底部(10)<div>
     <p>
     <strong>文字</strong><p>
     <em>嗨{名字}</em><p>
@@ -91,23 +87,15 @@ Luma正在啟動其線上商店，希望在客戶下訂單後，提供訂單確�
   <div>
      <strong> 收貨區</strong>
       </div>
-      <p><li>將範本中的硬式編碼位址取代為來自設定檔的位址裝載
+      <p><li>將範本中的硬式編碼地址更換為運送地址 
+      <li>詳細資料是來自事件的情境屬性（街道、城市、郵遞區號、州）
+      <li>名字和姓氏來自設定檔
       <li> 移除折扣、總計、到達</p>
   </td>
   <td>
   <p> 收貨方：</p>
       <em>名字姓氏<br>
-      街<br>
-      城市、州、郵遞區號</em></p>
-
-    &lt;strong>按鈕：&lt;/strong>&lt;/p>
-<p><em>檢視順序</em></p>
-      <li>背景顏色：rgb(25, 121, 195)</li>
-      <li>文本顏色：白色</li>
-      <li>無邊框</li>
-      <li>高度：40</li>
-      <li>將連結新增至您所選擇的網站 </li>
-      <li>左對齊上面的文字(提示：使用容器邊界)</li>
+      地址<br></em></p>
   </td>
  <tr>
 <td>
