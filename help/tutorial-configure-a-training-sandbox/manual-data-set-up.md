@@ -9,9 +9,9 @@ level: Beginner
 recommendations: noDisplay, noCatalog
 hide: true
 exl-id: de870229-d9a6-4051-9f76-13d402cce3b4
-source-git-commit: cc9d123e4b8efd82eea348c31f5b993556438074
+source-git-commit: db681243c066911af03b75f045a4dc4a990daa7d
 workflow-type: tm+mt
-source-wordcount: '1065'
+source-wordcount: '1058'
 ht-degree: 6%
 
 ---
@@ -286,9 +286,9 @@ ht-degree: 6%
 
    * 類型： [!UICONTROL 物件]
 
-   * 欄位組： [!DNLLUma產品庫存事件詳細資訊欄位組]
+   * 欄位群組: `Luma Product Inventory Event Details Field Group`
 
-1. 將下列欄位新增至 **[!DNL Product Inventory Event Details]** 物件：
+1. 將下列欄位新增至 `Product Inventory Event Details` 物件：
 
    | [!UICONTROL 欄位名稱] | [!UICONTROL 顯示名稱] | [!UICONTROL 類型] |
    |-------------|-----------|----------|
@@ -311,9 +311,9 @@ ht-degree: 6%
 
       ![列舉](assets/enum.png)
 
-2. 設定 `productId` 欄位 **[!UICONTROL 主要身分]** 使用 **[!DNL Luma Product namespace]**.
+1. 設定 `productId` 欄位 **[!UICONTROL 主要身分]** 使用 **[!DNL Luma Product namespace]**.
 
-3. 選取 `sku` 欄位並定義與 `product.sku` 欄位 **[!DNL Luma Product catalog Schema]** 結構：
+1. 選取 `sku` 欄位並定義與 `product.sku` 欄位 **[!DNL Luma Product catalog Schema]** 結構：
 
    1. 向下捲動至 **[!UICONTROL 欄位屬性]**.
 
@@ -329,9 +329,9 @@ ht-degree: 6%
       ![SKU關係](assets/sku_relationship.png)
 
 
-4. 啟用 **設定檔**.
+1. 啟用 **設定檔**.
 
-5. 選擇 [!UICONTROL 儲存] 以儲存結構。
+1. 選擇 [!UICONTROL 儲存] 以儲存結構。
 
 ### 建立 [!DNL Luma CRM] 和 [!DNL Luma Product Interactions] 綱要 {#create-luma-crm-and-luma-product-interactions-schemas}
 
