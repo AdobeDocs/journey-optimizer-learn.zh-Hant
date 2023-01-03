@@ -8,7 +8,7 @@ exl-id: 71d6fa23-e6e7-49d7-997c-c1b58207dff0
 source-git-commit: 11392272ba2de149e10f38d7aba6f8bebb4011d4
 workflow-type: tm+mt
 source-wordcount: '122'
-ht-degree: 83%
+ht-degree: 100%
 
 ---
 
@@ -22,4 +22,4 @@ ht-degree: 83%
 
 >[!INFO]
 >
-> 這段視頻是課程的一部分， [面向營銷人員的決策管理入門](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning)，免費Experience League!
+> 此影片是[行銷人員決策管理快速入門課程](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning)的一部分，可在 Experience League 中免費使用！

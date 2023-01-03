@@ -1,6 +1,6 @@
 ---
 title: 新增個人化的優惠方案新增訊息
-description: 瞭解如何將決策管理元件添加到Journey Optimizer的郵件中。
+description: 了解如何將決策管理元件新增至Journey Optimizer中的訊息。
 kt: 8033
 thumbnail: 334088.jpg
 feature: Personalization, Offers
@@ -18,6 +18,6 @@ ht-degree: 35%
 
 # 新增個人化的優惠方案新增訊息
 
-瞭解如何將決策管理元件添加到Journey Optimizer的郵件中。
+了解如何將決策管理元件新增至Journey Optimizer中的訊息。
 
 >[!VIDEO](https://video.tv.adobe.com/v/334088?quality=12)

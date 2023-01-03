@@ -8,7 +8,7 @@ last-substantial-update: 2022-11-16T00:00:00Z
 hide: true
 exl-id: ae457be7-2c67-4950-a072-1d7030b0e17b
 source-git-commit: f5b0529ee13067fe945e32494a164959adfd7d6c
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '1175'
 ht-degree: 100%
 
@@ -181,13 +181,15 @@ stringCompare("equals", loyalty.tier, ["diamond", "gold", "platinum", "silver"],
 >
 >1. 請確定[!UICONTROL 閱讀區段活動]命名空間已設為 **Luma CRM id(lumaCrmId)**
 >1. 對於每封電子郵件，覆寫電子郵件的預設電子郵件參數，以便將其傳送至您的電子郵件地址：
->    * 按一下眼睛符號來顯示隱藏的值。
->    * 在電子郵件參數中，按一下 T 符號 (啟用參數覆寫)。
->
->      ![覆寫電子郵件參數](/help/challenges/assets/c3-override-email-paramters.jpg)
-> 
->    * 按一下[!UICONTROL 地址]欄位
->    * 在下一個畫面中，以括弧新增您的電子郵件地址：運算式編輯器中的`"yourname@yourdomain"`，按一下「確定」。
+   >    * 按一下眼睛符號來顯示隱藏的值。
+   >    * 在電子郵件參數中，按一下 T 符號 (啟用參數覆寫)。
+
+      >
+      >      ![覆寫電子郵件參數](/help/challenges/assets/c3-override-email-paramters.jpg)
+   > 
+   >    * 按一下[!UICONTROL 地址]欄位
+   >    * 在下一個畫面中，以括弧新增您的電子郵件地址：運算式編輯器中的`"yourname@yourdomain"`，按一下「確定」。
+
 >
 
 

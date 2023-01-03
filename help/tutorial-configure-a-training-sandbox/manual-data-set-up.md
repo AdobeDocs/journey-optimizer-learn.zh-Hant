@@ -52,7 +52,7 @@ ht-degree: 6%
 
 ## 步驟2:建立結構
 
-在此步驟中，您需建立6個範例資料來定義結構 [[!UICONTROL 綱要]](https://experienceleague.adobe.com/docs/experience-platform/xdm/schema/composition.html):
+在此步驟中，您需建立6個範例資料來定義結構 [[!UICONTROL 綱要]](https://experienceleague.adobe.com/docs/experience-platform/xdm/schema/composition.html?lang=zh-Hant):
 
 * [[!DNL Luma Loyalty Schema]](#create-luma-loyalty-schema)
 

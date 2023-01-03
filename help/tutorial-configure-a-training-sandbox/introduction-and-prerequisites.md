@@ -10,7 +10,7 @@ exl-id: 8fa673de-9be9-4ab2-94cf-cfa8ac518223
 source-git-commit: 8a2062f0719e799dd2d039488e6bba943fb458c4
 workflow-type: tm+mt
 source-wordcount: '349'
-ht-degree: 5%
+ht-degree: 9%
 
 ---
 
@@ -20,7 +20,7 @@ ht-degree: 5%
 
 本教學課程專為負責提供Adobe Journey Optimizer訓練環境的管理員和資料工程師所設計。 了解設定結構、擷取範例資料和建立事件所需的步驟。 您也將建立三個測試設定檔，讓學習者檢查其工作。
 
-提供的樣本資料基於一個虛構的運動服裝公司，該公司稱為 _[!DNL Luma]_. [!DNL Luma] 在多個國家/地區擁有商店、線上網站和行動應用。 [!DNL Luma] 使用Adobe Journey Optimizer為客戶提供連結、情境式和個人化的體驗。
+提供的樣本資料基於一個虛構的運動服裝公司，該公司稱為 _[!DNL Luma]_. [!DNL Luma] 在多個國家/地區擁有商店、線上網站和行動應用。 [!DNL Luma] 使用 Adobe Journey Optimizer 來為客戶提供連結、情境式和個人化的體驗。
 
 在本教學課程結束時，您會有一個沙箱可支援 [!DNL Luma] 在 [Journey Optimizer挑戰](/help/challenges/introduction-and-prerequisites.md) 區段。
 
@@ -43,7 +43,7 @@ ht-degree: 5%
 
       這些檔案包含您內嵌至沙箱的範例資料。
 
-   1. 開啟每個檔案並查找 **`yourOrganizationID`** 將其替換為 [組織ID](https://experienceleague.adobe.com/docs/core-services/interface/administration/organizations.html?lang=en).
+   1. 開啟每個檔案並查找 **`yourOrganizationID`** 將其替換為 [組織ID](https://experienceleague.adobe.com/docs/core-services/interface/administration/organizations.html?lang=zh-Hant).
 
    1. 儲存檔案。
 
