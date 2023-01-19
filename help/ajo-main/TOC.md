@@ -2,10 +2,10 @@
 user-guide-title: Journey Optimizer 教學課程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 這裡有 Journey Optimizer 教學課程。
-source-git-commit: 615038fe6d2a3e8e48d9533a6e87a452bf3d7447
+source-git-commit: 8f2b7582a3d7bf4964d8780413b19e29f44b472b
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '289'
+ht-degree: 94%
 
 ---
 
@@ -78,13 +78,13 @@ ht-degree: 0%
       + [設定來源連接器](/help/set-up-data/configure-source-connectors.md)
    + 設定通道 {#channel-configuration}
       + [設定電子郵件頻道](/help/set-up-channels/set-up-email-channel.md)
-      + [設定SMS API憑證和通道介面](/help/set-up-channels/set-up-sms-channel.md)
       + [委派 CName 子網域](/help/set-up-channels/delegate-cname-subdomains.md)
+      + [設定SMS API憑證和通道介面](/help/set-up-channels/set-up-sms-channel.md)
       + [設定訊息頻率規則](/help/administration/configure-frequency-rules.md)
    + 設定歷程 {#journey-configuration}
-      + [設定資料來源](/help/set-up-journeys/configure-data-sources.md)
-      + [建立事件](/help/set-up-journeys/create-events.md)
-      + [建立動作](/help/set-up-journeys/create-actions.md)
+   + [設定資料來源](/help/set-up-journeys/configure-data-sources.md)
+   + [建立事件](/help/set-up-journeys/create-events.md)
+   + [建立動作](/help/set-up-journeys/create-actions.md)
 + 存取控制 {#access-control}
    + [存取管理](/help/set-up-access/access-management.md)
    + [建立及管理沙箱](/help/set-up-access/create-and-manage-sandboxes.md)
