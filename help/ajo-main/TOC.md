@@ -2,10 +2,10 @@
 user-guide-title: Journey Optimizer 教學課程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 這裡有 Journey Optimizer 教學課程。
-source-git-commit: cba8982f4be9c60ab1d9efe9a6009033369f10a3
+source-git-commit: 615038fe6d2a3e8e48d9533a6e87a452bf3d7447
 workflow-type: tm+mt
-source-wordcount: '291'
-ht-degree: 95%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -19,10 +19,10 @@ ht-degree: 95%
    + [Journey Optimizer 概覽第 2 部分](/help/introduction/journey-optimizer-overview-part-2.md)
    + [重要功能和使用者介面](/help/introduction/key-capabilities-and-user-interface.md)
    + [架構](/help/introduction/architecture.md)
-   + [為行銷人員提供的行動裝置功能](/help/create-messages/mobile-capabilities.md)
-   + [為開發人員提供的行動裝置功能](/help/create-messages/mobile-capabilities-for-developers.md)
+   + [為行銷人員提供的行動裝置功能](/help/channels/mobile-capabilities.md)
+   + [為開發人員提供的行動裝置功能](/help/channels/mobile-capabilities-for-developers.md)
 + 行銷活動 {#create-campaigns}
-   + [建立行銷活動](/help/create-champaigns/create-a-campaign.md)
+   + [建立行銷活動](/help/create-campaigns/create-a-campaign.md)
 + 歷程 {#create-journeys}
    + [歷程畫布概述](/help/create-journeys/overview-over-the-journey-canvas.md)
    + [建立歷程簡介](/help/create-journeys/introduction-to-building-a-journey.md)
@@ -33,22 +33,20 @@ ht-degree: 95%
    + [建立測試設定檔](/help/create-journeys/test-a-journey.md)
    + [發佈歷程](/help/create-journeys/publish-a-journey.md)
    + [將歷程複製到另一個沙箱](/help/create-journeys/copy-a-journey.md)
-+ SMS 頻道{#sms-channel}
-   + [設定SMS API憑證和通道介面](/help/set-up-channels/set-up-sms-channel.md)
++ 電子郵件頻道{#email-channel}
+   + [使用電子郵件設計工具建立內容](/help/channels/create-content-with-the-email-designer.md)
+   + [匯入及編寫 HTML 電子郵件內容](/help/channels/import-and-author-html-email-content.md)
+   + [預覽、校樣和發佈](/help/channels/preview-proof-and-publish.md)
++ 應用程式內頻道{#in-app-channel}
+   + [行銷活動的應用程式內訊息](/help/channels/in-app-messaging-for-campaigns.md)
+   + [撰寫應用程式內訊息](/help/channels/author-in-app-messages.md)
++ 簡訊頻道{#sms-channel}
    + [製作和傳送SMS訊息](/help/channels/author-and-deliver-sms-messages.md)
    + [SMS 傳入關鍵字支援](/help/channels/inbound-keyword-support-for-sms.md)
 + 客戶設定檔、區段和訂閱 {#profiles-segments-subscriptions}
    + [統一設定檔和分段 — 概述](/help/set-up-resources/unified-profile-and-segmentation-overview.md)
    + [建立區段](/help/set-up-resources/create-segments.md)
    + [訂閱和登陸頁面](/help/subscriptions-and-landing-pages.md)
-+ 建立訊息 {#create-messages}
-   + 建立電子郵件 {#create-emails}
-      + [使用電子郵件設計工具建立內容](/help/create-messages/create-content-with-the-email-designer.md)
-      + [匯入及編寫 HTML 電子郵件內容](/help/create-messages/import-and-author-html-email-content.md)
-      + [預覽、校樣和發佈](/help/create-messages/preview-proof-and-publish.md)
-   + 建立應用程式內訊息 {#create-in-app}
-      + [行銷活動的應用程式內訊息](/help/create-messages/in-app-messaging-for-campaigns.md)
-      + [撰寫應用程式內訊息](/help/create-messages/author-in-app-messages.md)
 + [Assets Essentials](/help/assets-essentials-overview.md)
 + 個人化內容 {#personalize-content}
    + [以設定檔和區段成員資格為基礎的個人化](/help/personalize-content/profile-and-segment-membership-based-personalization.md)
@@ -80,6 +78,7 @@ ht-degree: 95%
       + [設定來源連接器](/help/set-up-data/configure-source-connectors.md)
    + 設定通道 {#channel-configuration}
       + [設定電子郵件頻道](/help/set-up-channels/set-up-email-channel.md)
+      + [設定SMS API憑證和通道介面](/help/set-up-channels/set-up-sms-channel.md)
       + [委派 CName 子網域](/help/set-up-channels/delegate-cname-subdomains.md)
       + [設定訊息頻率規則](/help/administration/configure-frequency-rules.md)
    + 設定歷程 {#journey-configuration}
