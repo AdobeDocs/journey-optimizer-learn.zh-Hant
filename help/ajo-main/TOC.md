@@ -2,10 +2,10 @@
 user-guide-title: Journey Optimizer 教學課程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 這裡有 Journey Optimizer 教學課程。
-source-git-commit: 2a934b9e833f1dde36a995bcd565fca585e320ec
+source-git-commit: cba8982f4be9c60ab1d9efe9a6009033369f10a3
 workflow-type: tm+mt
-source-wordcount: '289'
-ht-degree: 100%
+source-wordcount: '291'
+ht-degree: 95%
 
 ---
 
@@ -21,9 +21,9 @@ ht-degree: 100%
    + [架構](/help/introduction/architecture.md)
    + [為行銷人員提供的行動裝置功能](/help/create-messages/mobile-capabilities.md)
    + [為開發人員提供的行動裝置功能](/help/create-messages/mobile-capabilities-for-developers.md)
-+ 建立行銷活動 {#create-campaigns}
++ 行銷活動 {#create-campaigns}
    + [建立行銷活動](/help/create-champaigns/create-a-campaign.md)
-+ 建立歷程 {#create-journeys}
++ 歷程 {#create-journeys}
    + [歷程畫布概述](/help/create-journeys/overview-over-the-journey-canvas.md)
    + [建立歷程簡介](/help/create-journeys/introduction-to-building-a-journey.md)
    + [使用案例 - 異動歷程](/help/create-journeys/use-case-transactional-journey.md)
@@ -33,6 +33,10 @@ ht-degree: 100%
    + [建立測試設定檔](/help/create-journeys/test-a-journey.md)
    + [發佈歷程](/help/create-journeys/publish-a-journey.md)
    + [將歷程複製到另一個沙箱](/help/create-journeys/copy-a-journey.md)
++ SMS 頻道{#sms-channel}
+   + [設定SMS API憑證和通道介面](/help/set-up-channels/set-up-sms-channel.md)
+   + [製作和傳送SMS訊息](/help/channels/author-and-deliver-sms-messages.md)
+   + [SMS 傳入關鍵字支援](/help/channels/inbound-keyword-support-for-sms.md)
 + 客戶設定檔、區段和訂閱 {#profiles-segments-subscriptions}
    + [統一設定檔和分段 — 概述](/help/set-up-resources/unified-profile-and-segmentation-overview.md)
    + [建立區段](/help/set-up-resources/create-segments.md)
@@ -42,9 +46,6 @@ ht-degree: 100%
       + [使用電子郵件設計工具建立內容](/help/create-messages/create-content-with-the-email-designer.md)
       + [匯入及編寫 HTML 電子郵件內容](/help/create-messages/import-and-author-html-email-content.md)
       + [預覽、校樣和發佈](/help/create-messages/preview-proof-and-publish.md)
-   + 建立 SMS 文字訊息 {#create-sms}
-      + [設定、編寫並傳遞 SMS 訊息](/help/create-messages/configure-author-and-deliver-sms-messages.md)
-      + [SMS 傳入關鍵字支援](/help/create-messages/inbound-keyword-support-for-sms.md)
    + 建立應用程式內訊息 {#create-in-app}
       + [行銷活動的應用程式內訊息](/help/create-messages/in-app-messaging-for-campaigns.md)
       + [撰寫應用程式內訊息](/help/create-messages/author-in-app-messages.md)
@@ -78,8 +79,8 @@ ht-degree: 100%
       + [建立資料集並內嵌資料](/help/set-up-data/create-datasets-and-ingest-data.md)
       + [設定來源連接器](/help/set-up-data/configure-source-connectors.md)
    + 設定通道 {#channel-configuration}
-      + [設定電子郵件頻道](/help/set-up-email-channel/set-up-email-channel.md)
-      + [委派 CName 子網域](/help/set-up-email-channel/delegate-cname-subdomains.md)
+      + [設定電子郵件頻道](/help/set-up-channels/set-up-email-channel.md)
+      + [委派 CName 子網域](/help/set-up-channels/delegate-cname-subdomains.md)
       + [設定訊息頻率規則](/help/administration/configure-frequency-rules.md)
    + 設定歷程 {#journey-configuration}
       + [設定資料來源](/help/set-up-journeys/configure-data-sources.md)
