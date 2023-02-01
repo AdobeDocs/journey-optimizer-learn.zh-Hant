@@ -7,10 +7,10 @@ role: User
 level: Beginner
 hide: true
 exl-id: ec86e2ac-081d-47aa-a948-007107baa2b4
-source-git-commit: e0180f75e2bb8d4a7fd9d485b5d9230cf8479ac0
+source-git-commit: 02625ddf2348f2754c821c8e49a1e70154fd6e63
 workflow-type: tm+mt
-source-wordcount: '654'
-ht-degree: 61%
+source-wordcount: '653'
+ht-degree: 50%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 61%
 | 挑戰 | 建立訂單確認異動電子郵件 |
 |---|---|
 | 角色 | Journey Manager |
-| 所需技能 | <ul><li>[使用訊息編輯器建立電子郵件內容](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/create-email-content-with-the-message-editor.html?lang=zh-Hant)</li> <li>[使用內容事件資訊進行個人化](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/use-contextual-event-information-for-personalization.html?lang=zh-Hant)</li><li>[使用協助程式功能進行個人化](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/use-helper-functions-for-personalization.html?lang=zh-Hant)</li></ul> |
+| 所需技能 | <ul><li>[使用訊息編輯器建立電子郵件內容](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/create-content-with-the-email-designer.html?lang=en)</li> <li>[使用內容事件資訊進行個人化](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/use-contextual-event-information-for-personalization.html?lang=zh-Hant)</li><li>[使用協助程式功能進行個人化](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/use-helper-functions-for-personalization.html?lang=zh-Hant)</li></ul> |
 | 要下載的資產 | [訂購確認資產](/help/challenges/assets/email-assets/order-confirmation-assets.zip) |
 
 ## 故事
@@ -129,7 +129,7 @@ Luma 正在啟動其線上商店，希望在客戶下訂單後，提供訂單確
 
 >[!TIP]
 >
->若要讓您疑難排解歷程，最佳實務是在逾時或錯誤的情況下，為所有訊息動作新增替代路徑。
+>若要讓您疑難排解歷程，最佳作法是在有逾時或錯誤時，為所有訊息動作新增替代路徑。
 
 >[!TAB 成功標準]
 
@@ -137,7 +137,7 @@ Luma 正在啟動其線上商店，希望在客戶下訂單後，提供訂單確
 
 1. 在切換至測試模式之前，請先覆寫電子郵件參數，以傳送至測試電子郵件至您的電子郵件地址：
    1. 開啟電子郵件詳細資訊檢視。
-   2. 在電子郵件參數中，按一下 T 符號 (啟用參數覆寫
+   2. 在「電子郵件參數」區段中，按一下T符號（啟用參數覆寫）
    3. 按一下「地址」欄位
    4. 在下一個畫面中，以括弧新增您的電子郵件地址： *&quot;yourname@yourdomain&quot;* 在運算式編輯器中，按一下「確定」。
 2. 將歷程置於測試模式
@@ -159,7 +159,7 @@ Luma 正在啟動其線上商店，希望在客戶下訂單後，提供訂單確
 
 * 以下是您電子郵件內文的外觀：
 
-![電子郵件](//help/challenges/assets/c2-email.png)
+![電子郵件](/help/challenges/assets/c2-email.png)
 
 >[!TAB 檢查您的工作]
 
@@ -184,11 +184,11 @@ Luma 正在啟動其線上商店，希望在客戶下訂單後，提供訂單確
 {{context.journey.events.454181416.commerce.shipping.address.city}}, {{context.journey.events.454181416.commerce.shipping.address.state}} {{context.journey.events.454181416.commerce.shipping.address.postalCode}}
 ```
 
-*event.45481416* 會是另一個數字。
+*event.45481416* 是另一個數字。
 
 提示：每一列都進行個人化
 
-**訂購詳細資訊：**
+**訂購詳細資訊區段:**
 
 以下是您的程式碼應呈現的外觀：
 
@@ -200,7 +200,7 @@ Order #: {{context.journey.events.1627840522.commerce.order.purchaseOrderNumber}
 
 **產品清單：**
 
-使用協助程式函式「each」來建立產品清單。 在一個表格中顯示它們。這是程式碼應該看起來的樣子（搭配您的特定變數，例如事件ID），而非 `454181416` 和你的組織I，而不是 `techmarketingdemos` ):
+使用協助程式函式「each」來建立產品清單。 在一個表格中顯示它們。這是程式碼應該看起來的樣子（搭配您的特定變數，例如事件ID），而非 `454181416` 和組織I，而不是 `techmarketingdemos` ):
 
 ```javascript
 {{#each context.journey.events.454181416.productListItems as |product|}}<tr> <th class="colspan33"><div class="acr-fragment acr-component image-container" data-component-id="image" style="width:100%;text-align:center;" contenteditable="false"><!--[if mso]><table cellpadding="0" cellspacing="0" border="0" width="100%"><tr><td style="text-align: center;" ><![endif]--><img src="{{context.journey.events.454181416.productListItems.VYG__902489191a0a40e67f51f17f3ea9e2dfaf2dea3bd0bebe8b._techmarketingdemos.product.imageUrl}}" style="height:auto;width:100%;" height="233" width="233"><!--[if mso]></td></tr></table><![endif]--></div></th> <th class="colspan66"><div class="acr-fragment acr-component" data-component-id="text" contenteditable="false"><div class="text-container" contenteditable="true"><p><span style="font-weight:700;">{{context.journey.events.454181416.productListItems.VYG__902489191a0a40e67f51f17f3ea9e2dfaf2dea3bd0bebe8b._techmarketingdemos.product.name}}</span></p></div></div><div class="acr-fragment acr-component" data-component-id="text" contenteditable="false"><div class="text-container" contenteditable="true"><p>${{context.journey.events.454181416.productListItems.VYG__902489191a0a40e67f51f17f3ea9e2dfaf2dea3bd0bebe8b._techmarketingdemos.product.price}}.00</p></div></div></th></tr> {{/each}}
