@@ -6,10 +6,10 @@ role: Admin
 level: Beginner
 hide: true
 exl-id: 87a79560-c098-4e72-abec-6b750ec730ee
-source-git-commit: 71f2711dbc80cc59973d615429e9f8dac8f3719f
+source-git-commit: e0180f75e2bb8d4a7fd9d485b5d9230cf8479ac0
 workflow-type: tm+mt
 source-wordcount: '454'
-ht-degree: 100%
+ht-degree: 97%
 
 ---
 
@@ -27,7 +27,7 @@ ht-degree: 100%
 
 * 存取 Journey Optimizer 沙箱 - 我們建議您在專屬的訓練沙箱中完成挑戰。
 * 必須為您的執行個體佈建 AEM Assets Essentials
-* 必須為異動和行銷訊息設定電子郵件頻道
+* 必須為交易式和行銷訊息設定電子郵件通道
 
 ### 存取權
 

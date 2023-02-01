@@ -7,10 +7,10 @@ role: User
 level: Beginner
 hide: true
 exl-id: ec86e2ac-081d-47aa-a948-007107baa2b4
-source-git-commit: 70815c3cd30de22aad7ec667b8baf9b4c8642491
+source-git-commit: e0180f75e2bb8d4a7fd9d485b5d9230cf8479ac0
 workflow-type: tm+mt
-source-wordcount: '635'
-ht-degree: 82%
+source-wordcount: '654'
+ht-degree: 61%
 
 ---
 
@@ -41,10 +41,9 @@ Luma 正在啟動其線上商店，希望在客戶下訂單後，提供訂單確
 
 1. 建立名為`Luma - Order Confirmation`的歷程
 2. 使用事件： `LumaOnlinePurchase`
-3. 建立訂單確認電子郵件，名為`Luma - Order Confirmation`：
+3. 建立 **異動**  電子郵件 `Luma - Order Confirmation`
 
-* 類別異動 - 請務必選取異動電子郵件表面
-* 主旨列必須以收件者的名字個人化，且必須包含「感謝您的購買」的片語
+* 主題行「感謝您的購買， `FirstName`&quot;
 * 使用`Luma - Order summary`範本並加以修改：
    * 移除 `You may also like` 區段
    * 在電子郵件底部新增取消訂閱連結
@@ -60,7 +59,7 @@ Luma 正在啟動其線上商店，希望在客戶下訂單後，提供訂單確
   <td>
       <p>
      <li>luma_logo.png</li>
-    <li>應該會有 Luma 網站的連結：https://publish1034.adobedemo.com/content/luma/us/en.html</li>
+    <li>它應連結至luma網站：https://luma.enablementadobe.com/content/luma/us/en.html</li>
     <p>
     </td>
   </tr>
@@ -73,7 +72,7 @@ Luma 正在啟動其線上商店，希望在客戶下訂單後，提供訂單確
   <td>
     <p>
     <strong>文字</strong><p>
-    <em>嗨{firstName}</em><p>
+    <em>嗨{firstName},</em><p>
    <div>
     <p>
      <em>已下訂單。
@@ -89,7 +88,7 @@ Luma 正在啟動其線上商店，希望在客戶下訂單後，提供訂單確
       <li>名字和姓氏來自設定檔
       <li>以 <b>運送地址</b>
       <li>地址詳細資料是來自事件的情境屬性（街1號、城市、郵遞區號、州）
-      <li> 移除折扣、總計、送達</p>
+      <li> 移除 <i>折扣，總計，到達</i></p>
   </td>
   <td>
   <p> 收貨方：</p>
@@ -105,7 +104,7 @@ Luma 正在啟動其線上商店，希望在客戶下訂單後，提供訂單確
        <p><li>在 <b>收貨方</b> 區段。
       </p><br>
       <p><b>提示:</b>
-      <li>對本節使用結構元件「左1:2列」
+      <li>使用結構元件 <b>左1:2欄</b> 本節
       <li>這是內容事件資訊。
       <li>使用 [!UICONTROL helper function]: [!UICONTROL Each]
       <li>切換至程式碼編輯器格式以新增內容資料。
@@ -113,13 +112,16 @@ Luma 正在啟動其線上商店，希望在客戶下訂單後，提供訂單確
   <td>
     <strong>Header</strong>
     <p>
-    <em>順序：`purchaseOrderNumber`</em>
+  順序： <em>{purchaseOrderNumber}</em>
     </p>
     <strong>訂購的產品清單：
   </strong>
-  <p>每個項目的格式應如下所示：
+  <p>在訂單中列出每個產品，並附上影像、價格和名稱。
+  <p>每個項目的版面應如下所示：
    <img alt="訂購" src="./assets/c2-order.png"> 
-</p>
+<p><b>將連結新增至購物車</b>
+<p>將URL中的訂單ID取代為採購訂單編號：
+   <i>https://luma.enablementadobe.com/content/luma/us/en/user/account/order-history/order-details.html?orderId=90845952-c2ea-4872-8466-5289183e4607</i>
 </td>
   </tr>
 </table>
@@ -133,28 +135,31 @@ Luma 正在啟動其線上商店，希望在客戶下訂單後，提供訂單確
 
 觸發您在測試模式中建立的歷程，並傳送電子郵件給您自己：
 
-1. 按一下眼睛符號來顯示隱藏的值：
-   1. 在電子郵件參數中，按一下 T 符號 (啟用參數覆寫
-      ![覆寫電子郵件參數](/help/challenges/assets/c3-override-email-paramters.jpg)
-   2. 按一下「地址」欄位
-   3. 在下一個畫面中，以括弧新增您的電子郵件地址： 在運算式編輯器中新增 *yourname@yourdomain* ，並按一下「確定」。
+1. 在切換至測試模式之前，請先覆寫電子郵件參數，以傳送至測試電子郵件至您的電子郵件地址：
+   1. 開啟電子郵件詳細資訊檢視。
+   2. 在電子郵件參數中，按一下 T 符號 (啟用參數覆寫
+   3. 按一下「地址」欄位
+   4. 在下一個畫面中，以括弧新增您的電子郵件地址： *&quot;yourname@yourdomain&quot;* 在運算式編輯器中，按一下「確定」。
 2. 將歷程置於測試模式
 3. 使用下列參數觸發事件：
    * 將設定檔識別碼設為：身分值：`a8f14eab3b483c2b96171b575ecd90b1`
    * 事件類型：commerce.purchases
    * `Quantity`: 1
    * `Price Total:` 69
-   * `Purchase Order Number:` 6253728
+   * `Purchase Order Number:` 90845952-c2ea-4872-8466-5289183e4607
    * `SKU:` LLMH09
-   * `City:` 華盛頓
-   * `Postal Code:` 20099
-   * `State`:DC
-   * `Street:` 蒂埃勒特勒斯
+   * `City:`San Jose
+   * `Postal Code:` 95119
+   * `State`: CA
+   * `Street:` 公園大道245號
 
-您應會收到包含指定產品的個人化購買確認電子郵件。
+您應會收到個人化購買確認電子郵件。
 
 * 主旨列應有測試設定檔的名字：Leora
-* 訂單詳細資訊區段應填入您在測試時輸入的訂購詳細資料
+
+* 以下是您電子郵件內文的外觀：
+
+![電子郵件](//help/challenges/assets/c2-email.png)
 
 >[!TAB 檢查您的工作]
 
@@ -168,10 +173,6 @@ Luma 正在啟動其線上商店，希望在客戶下訂單後，提供訂單確
 **主旨列：**
 
 謝謝你的購買， {{ profile.person.name.firstName }}!
-
-以下是您電子郵件內文的外觀：
-
-![電子郵件](//help/challenges/assets/c2-email.png)
 
 **收貨區段：**
 
@@ -202,8 +203,12 @@ Order #: {{context.journey.events.1627840522.commerce.order.purchaseOrderNumber}
 使用協助程式函式「each」來建立產品清單。 在一個表格中顯示它們。這是程式碼應該看起來的樣子（搭配您的特定變數，例如事件ID），而非 `454181416` 和你的組織I，而不是 `techmarketingdemos` ):
 
 ```javascript
-{{#each context.journey.events.454181416.productListItems as |product|}}<tr> <th class="colspan33"><div class="acr-fragment acr-component image-container" data-component-id="image" style="width:100%;text-align:center;" contenteditable="false"><!--[if mso]><table cellpadding="0" cellspacing="0" border="0" width="100%"><tr><td style="text-align: center;" ><![endif]--><img src="{{context.journey.events.454181416.productListItems.VYG__902489191a0a40e67f51f17f3ea9e2dfaf2dea3bd0bebe8b._techmarketingdemos.product.imageUrl}}" style="height:auto;width:100%;" height="233" width="233"><!--[if mso]></td></tr></table><![endif]--></div></th> <th class="colspan66"><div class="acr-fragment acr-component" data-component-id="text" contenteditable="false"><div class="text-container" contenteditable="true"><p><span style="font-weight:700;">{{context.journey.events.454181416.productListItems.VYG__902489191a0a40e67f51f17f3ea9e2dfaf2dea3bd0bebe8b._techmarketingdemos.product.name}}</span></p></div></div><div class="acr-fragment acr-component" data-component-id="text" contenteditable="false"><div class="text-container" contenteditable="true"><p>${{context.journey.events.454181416.productListItems.VYG__902489191a0a40e67f51f17f3ea9e2dfaf2dea3bd0bebe8b._techmarketingdemos.product.price}}.00</p><p>Quantity: {{context.journey.events.454181416.productListItems.quantity}}</p></div></div></th></tr> {{/each}}
+{{#each context.journey.events.454181416.productListItems as |product|}}<tr> <th class="colspan33"><div class="acr-fragment acr-component image-container" data-component-id="image" style="width:100%;text-align:center;" contenteditable="false"><!--[if mso]><table cellpadding="0" cellspacing="0" border="0" width="100%"><tr><td style="text-align: center;" ><![endif]--><img src="{{context.journey.events.454181416.productListItems.VYG__902489191a0a40e67f51f17f3ea9e2dfaf2dea3bd0bebe8b._techmarketingdemos.product.imageUrl}}" style="height:auto;width:100%;" height="233" width="233"><!--[if mso]></td></tr></table><![endif]--></div></th> <th class="colspan66"><div class="acr-fragment acr-component" data-component-id="text" contenteditable="false"><div class="text-container" contenteditable="true"><p><span style="font-weight:700;">{{context.journey.events.454181416.productListItems.VYG__902489191a0a40e67f51f17f3ea9e2dfaf2dea3bd0bebe8b._techmarketingdemos.product.name}}</span></p></div></div><div class="acr-fragment acr-component" data-component-id="text" contenteditable="false"><div class="text-container" contenteditable="true"><p>${{context.journey.events.454181416.productListItems.VYG__902489191a0a40e67f51f17f3ea9e2dfaf2dea3bd0bebe8b._techmarketingdemos.product.price}}.00</p></div></div></th></tr> {{/each}}
 ```
+
+**查看訂單按鈕：**
+
+`https://luma.enablementadobe.com/content/luma/us/en/user/account/order-history/order-details.html?orderId={{context.journey.events.454181416.commerce.order.purchaseOrderNumber}}`
 
 **總價：**
 
