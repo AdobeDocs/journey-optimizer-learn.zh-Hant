@@ -8,9 +8,9 @@ role: Admin
 level: Beginner
 recommendations: noDisplay, noCatalog
 exl-id: c7826818-c28a-493b-8aba-9d8a8102336d
-source-git-commit: 70815c3cd30de22aad7ec667b8baf9b4c8642491
+source-git-commit: 2bddc86066f265cda1d2063db8eb37c9f211eb76
 workflow-type: tm+mt
-source-wordcount: '198'
+source-wordcount: '195'
 ht-degree: 9%
 
 ---
@@ -68,7 +68,7 @@ ht-degree: 9%
 | [!UICONTROL 名稱] | `LumaProductRestock` |
 | [!UICONTROL 類型] | [!UICONTROL 商務] |
 | [!UICONTROL 方案] | [!DNL Luma Product Inventory Events] |
-| [!UICONTROL 欄位] | productID <br> stockEventType<br><b>在產品> Luma產品> *[!DNL yourOrganizationID]* >產品：</b> <br>名稱<br>價格<br> ProductImageURL<br>說明 |
+| [!UICONTROL 欄位] | SKU <br> stockEventType<br><b> yourOrganizationID > product:</b> <br>名稱<br>價格<br> ImageURL<br>說明 |
 | [!UICONTROL 條件] | LumaProductRestock。_`your organization's ID`.inventoryEvent.stockEventType為重新存貨 |
 
 ## 恭喜
