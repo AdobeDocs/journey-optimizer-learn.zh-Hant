@@ -7,7 +7,7 @@ role: User
 level: Beginner
 hide: true
 exl-id: ec86e2ac-081d-47aa-a948-007107baa2b4
-source-git-commit: 02625ddf2348f2754c821c8e49a1e70154fd6e63
+source-git-commit: e377ddb8b84dccd503274caf9ffa3d4c73eedc28
 workflow-type: tm+mt
 source-wordcount: '653'
 ht-degree: 50%
@@ -42,7 +42,6 @@ Luma 正在啟動其線上商店，希望在客戶下訂單後，提供訂單確
 1. 建立名為`Luma - Order Confirmation`的歷程
 2. 使用事件： `LumaOnlinePurchase`
 3. 建立 **異動**  電子郵件 `Luma - Order Confirmation`
-
 * 主題行「感謝您的購買， `FirstName`&quot;
 * 使用`Luma - Order summary`範本並加以修改：
    * 移除 `You may also like` 區段
