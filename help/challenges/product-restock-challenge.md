@@ -7,10 +7,10 @@ role: User
 level: Beginner
 hide: true
 exl-id: 305aaf4c-7f5d-4f6f-abeb-466208f1fe48
-source-git-commit: 2f7074e5d9109cdbc1db69f6f5c48667b2276da7
+source-git-commit: 7ecbed1b722d7f05ffd4a7c7071358d993cb1392
 workflow-type: tm+mt
-source-wordcount: '581'
-ht-degree: 86%
+source-wordcount: '580'
+ht-degree: 72%
 
 ---
 
@@ -19,12 +19,12 @@ ht-degree: 86%
 | 挑戰 | 產品補充 |
 |---|---|
 | 角色 | Journey Manager |
-| 所需技能 | <ul><li>[建立區段](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-segments.html?lang=zh-Hant)</li><li> [匯入及編寫 HTML 電子郵件內容](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/import-and-author-html-email-content.html?lang=zh-Hant)</li><li>[使用案例 - 讀取區段](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-read-segment.html?lang=zh-Hant)</li> |
+| 所需技能 | <ul><li>[建立區段](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html?lang=zh-Hant)</li><li> [匯入及編寫 HTML 電子郵件內容](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/import-and-author-html-email-content.html?lang=en)</li><li>[使用案例 - 讀取區段](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-read-segment.html?lang=zh-Hant)</li> |
 | 要下載的資產 | [產品重新儲存電子郵件檔案](/help/challenges/assets/email-assets/ProductRestockEmail.html.zip) |
 
 ## 故事
 
-瀏覽 Luma 網站時，客戶可將他們感興趣的產品新增至願望清單。 此舉可讓 Luma 傳送客戶目標式行銷訊息和產品資訊。
+瀏覽Luma網站時，客戶可將他們感興趣的產品新增至願望清單，這可讓Luma傳送客戶目標式行銷訊息和產品相關資訊。
 
 ## 您的挑戰
 
@@ -39,7 +39,7 @@ Luma 要求您在 Journey Optimizer 中實施歷程，當此項目有庫存時�
 若要在產品已補充庫存時鎖定潛在感興趣的客戶，請建立由客戶組成的區段:
 
 * 已將至少一個項目新增至其願望清單(使用事件類型： [!UICONTROL 商務儲存以供延遲使用])
-* 這是最近 3 個月無庫存 (使用庫存量= 0) 的項目
+* 過去三個月無存貨（使用存貨量= 0）
 * 而且自那時起就沒有購買過商品。
 
 >[!TIP]
@@ -54,7 +54,7 @@ Luma 要求您在 Journey Optimizer 中實施歷程，當此項目有庫存時�
 
 1. 呼叫歷程： `Product Restock`
 2. 當產品重新補充庫存時，即應觸發歷程
-3. 傳送 *產品重新儲存電子郵件* 電子郵件至
+3. 傳送 *產品重新儲存電子郵件* to
 4. 已將此項目新增至其願望清單 (無庫存) 的使用者
 
 >[!TAB 成功標準]
@@ -101,7 +101,7 @@ Luma 要求您在 Journey Optimizer 中實施歷程，當此項目有庫存時�
 > * 將 SKU 拖曳至「儲存以便稍後使用」欄位時，請使用比較選項
 
 
-在「編輯」區段畫面右下角的「事件」下方，核取代碼。 程式碼應如下所示：
+在「編輯」區段畫面右下角的「事件」下方，勾選代碼。 程式碼應如下所示：
 
 程式碼:
 ```(Include have at least 1 Save For Laters event where ((Stock Quantity equals 0)) THENExclude all  Purchases events where ((SKU equals Save For Laters1 SKU)) ) and occurs in last 3 month(s)```
@@ -116,7 +116,7 @@ Luma 要求您在 Journey Optimizer 中實施歷程，當此項目有庫存時�
 
 >[!TIP]
 >
-> 使用現有業務事件。 您需要新增條件，以檢查重新補充庫存的 SKU 是否包含在 (任何) 事件類型中，以備稍後使用。
+> 使用現有業務事件。 新增條件，以檢查重新儲存的SKU是否包含在（任何）事件類型中，並儲存至延遲。
 
 
 
