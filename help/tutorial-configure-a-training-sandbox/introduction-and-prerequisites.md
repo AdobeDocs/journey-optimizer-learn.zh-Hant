@@ -8,7 +8,7 @@ role: Admin
 level: Beginner
 hide: true
 exl-id: 8fa673de-9be9-4ab2-94cf-cfa8ac518223
-source-git-commit: e377ddb8b84dccd503274caf9ffa3d4c73eedc28
+source-git-commit: 8538fbc0a4e33991ce1f65aeb92d29cc4ac51a56
 workflow-type: tm+mt
 source-wordcount: '340'
 ht-degree: 9%
@@ -41,4 +41,6 @@ ht-degree: 9%
 
 ## 開始吧
 
-從 [手動設定資料](/help/tutorial-configure-a-training-sandbox/manual-data-set-up.md). 在此步驟中，您會定義所需的資料結構。 完成資料設定後，您可以將資料內嵌至沙箱，然後設定事件。
+從 [手動設定資料](/help/tutorial-configure-a-training-sandbox/manual-data-set-up.md).
+
+在此步驟中，您會定義所需的資料結構。 完成資料設定後，您可以將資料內嵌至沙箱，然後設定事件。
