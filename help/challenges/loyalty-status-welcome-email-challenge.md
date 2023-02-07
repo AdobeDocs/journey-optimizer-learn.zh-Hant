@@ -7,7 +7,7 @@ role: User
 level: Beginner
 hide: true
 exl-id: 6fd58b8e-7178-495d-a85d-eb67fc4f3acf
-source-git-commit: 7ecbed1b722d7f05ffd4a7c7071358d993cb1392
+source-git-commit: a4f2d3e7f5cd4255d029315ffb21dd44609ebf38
 workflow-type: tm+mt
 source-wordcount: '425'
 ht-degree: 85%
@@ -69,7 +69,7 @@ Luma 提供忠誠計畫，作為吸引及留住客戶的方式。 該計畫提�
 
 這是區段應呈現的樣子：
 
-![Luma — 白金狀態 — 區段](/)
+![Luma — 白金狀態 — 區段](/help/challenges/assets/segment-luma-platinum-status.png)
 
 以下是您歷程的外觀：
 
