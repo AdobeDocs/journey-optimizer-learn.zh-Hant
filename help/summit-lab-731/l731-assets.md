@@ -8,13 +8,13 @@ level: Beginner
 recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
-source-git-commit: ce271a2bbddd7cd36d773cc9360d9a0724f0c77d
+exl-id: ffc5e8c8-8729-4e7e-aa51-d74f91b0cf29
+source-git-commit: 5557b1d2005c62ce738120e80c3450545725ba65
 workflow-type: tm+mt
-source-wordcount: '160'
+source-wordcount: '178'
 ht-degree: 6%
 
 ---
-
 
 # Summit Lab L731
 
@@ -38,7 +38,12 @@ ht-degree: 6%
 
 ## 第3課建立全頻道歷程
 
-| 訊息 | 文字 | 連結 |
+| 訊息 | 文字 | 連結 | 影像 |
 |----|----|----|
 | SMS | 歡迎來維加斯逗留。 跳過線路並使用行動應用程式簽入：lab://checkin |  |
-| 推播 | 歡迎來維加斯逗留。 略過線路並使用行動應用程式簽入 | lab://checkin |
+| 推播 | 歡迎來維加斯逗留。 略過線路並使用行動應用程式簽入 | lab://checkin |  |
+
+
+這是我們用於SMS和推播通知的影像：
+
+![線上簽入](/help/assets/vegas_online_check_in.jpeg)
