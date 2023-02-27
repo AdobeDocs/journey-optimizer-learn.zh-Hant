@@ -9,10 +9,10 @@ recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
 exl-id: ffc5e8c8-8729-4e7e-aa51-d74f91b0cf29
-source-git-commit: 5557b1d2005c62ce738120e80c3450545725ba65
+source-git-commit: 16031e0e4ef29f5243a7a2e933aa83d7b1fbd7ac
 workflow-type: tm+mt
-source-wordcount: '178'
-ht-degree: 6%
+source-wordcount: '188'
+ht-degree: 5%
 
 ---
 
@@ -38,12 +38,12 @@ ht-degree: 6%
 
 ## 第3課建立全頻道歷程
 
-| 訊息 | 文字 | 連結 | 影像 |
-|----|----|----|
+| 訊息 | 文字 | 深層連結 | 媒體 |
+|----|----|----|----|
+| 推播 | 歡迎來維加斯逗留。 略過線路並使用行動應用程式簽入 | lab://checkin | https://experienceleague.adobe.com/docs/journey-optimizer-learn/assets/vegas_online_check_in.jpg |
 | SMS | 歡迎來維加斯逗留。 跳過線路並使用行動應用程式簽入：lab://checkin |  |
-| 推播 | 歡迎來維加斯逗留。 略過線路並使用行動應用程式簽入 | lab://checkin |  |
 
 
 這是我們用於SMS和推播通知的影像：
 
-![線上簽入](/help/assets/vegas_online_check_in.jpeg)
+![線上簽入](/help/assets/vegas_online_check_in.jpg)
