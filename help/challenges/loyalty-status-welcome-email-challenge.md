@@ -8,9 +8,9 @@ level: Beginner
 hide: true
 exl-id: 6fd58b8e-7178-495d-a85d-eb67fc4f3acf
 source-git-commit: a4f2d3e7f5cd4255d029315ffb21dd44609ebf38
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '425'
-ht-degree: 85%
+ht-degree: 100%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 85%
 | 挑戰 | 建立忠誠度狀態歡迎電子郵件 |
 |---|---|
 | 角色 | Journey Manager |
-| 所需技能 | <ul><li>[建立區段](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html?lang=zh-Hant)</li> <li>[區段資格](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-read-segment-qualification.html?lang=zh-Hant)</li><li>[匯入 HTML 內容](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/import-and-author-html-email-content.html)</li></ul> |
+| 所需技能 | <ul><li>[建立區段](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html?lang=zh-Hant)</li> <li>[區段資格](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-read-segment-qualification.html?lang=zh-Hant)</li><li>[匯入 HTML 內容](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/import-and-author-html-email-content.html?lang=zh-Hant)</li></ul> |
 | 要下載的資產 | [StatusUpgradeEmail.zip](/help/challenges/assets/email-assets/StatusUpgradeEmail.zip) |
 
 ## 故事
@@ -38,13 +38,13 @@ Luma 提供忠誠計畫，作為吸引及留住客戶的方式。 該計畫提�
 
 >[!TAB 工作]
 
-當忠誠客戶符合白金級資格時，他們應會收到電子郵件，祝賀並告知他們新的優點。 創意團隊已提供 HTML 檔案 **[Luma – 狀態升級 – 歡迎電子郵件](/help/challenges/assets/email-assets/StatusUpgradeEmail.zip)** 郵件內文。
+當忠誠客戶符合白金級資格時，他們應該會收到一封電子郵件，祝賀並告知他們新的權益。創意團隊已提供 HTML 檔案 **[Luma – 狀態升級 – 歡迎電子郵件](/help/challenges/assets/email-assets/StatusUpgradeEmail.zip)** 郵件內文。
 
 1. 在 Journey Optimizer 建立一個名為`Luma – platinum status`的[!UICONTROL 區段]。
 2. 建立名為`Luma – New Status – platinum`的歷程。
    1. 當客戶符合白金忠誠度等級資格時，即會進入歷程。
    2. 客戶應會收到標示為`Luma – Platinum Status - Welcome`的電子郵件，主旨列為`Welcome to Platinum Status, {firstName}!`以及創意團隊提供的電子郵件內文。 這是[!UICONTROL 異動]電子郵件。
-   3. 上傳 HTML 檔案時，您會注意到電子郵件指的是「鑽石」狀態，而非「白金」。 請更新中的電子郵件，而非向創意團隊請求新檔案 [!UICONTROL 電子郵件設計工具].
+   3. 上傳 HTML 檔案時，您會注意到電子郵件指的是「鑽石」狀態，而非「白金」。 請更新[!UICONTROL 電子郵件設計工具]中的電子郵件，而不必向創意團隊請求新檔案。
 
 >[!TAB 成功標準]
 
@@ -52,11 +52,11 @@ Luma 提供忠誠計畫，作為吸引及留住客戶的方式。 該計畫提�
 
 1. 請確定[!UICONTROL 閱讀區段活動]的[!UICONTROL 命名空間]設為&#x200B;**[!DNL Luma CRM id(lumaCrmId)]**
 2. 覆寫預設的[!UICONTROL 電子郵件參數]，並將其設定為您自己的電子郵件地址
-   * 在[!UICONTROL 電子郵件參數]，按一下 T 符號 (啟用參數覆寫)
+   * 在[!UICONTROL 電子郵件參數]中，按一下 T 符號 (啟用參數覆寫
    * 按一下[!UICONTROL 地址欄位]
    * 在下一個畫面中，以括弧新增您的電子郵件地址：運算式編輯器中的`"yourname@yourdomain"`，按一下「確定」。
 3. 將歷程設為測試模式
-4. 選擇 **觸發事件**
+4. 選取&#x200B;**觸發事件**
 5. 將以下[!DNL CRM ID]`Stanleigh Stooke`加入至[!UICONTROL 設定檔識別碼]欄位：`4f34057d9d9e792c28ba18ecae378e98`
 
 **結果：**&#x200B;您應會收到個人化 *Luma – 白金狀態 – 歡迎*&#x200B;電子郵件。
@@ -67,9 +67,9 @@ Luma 提供忠誠計畫，作為吸引及留住客戶的方式。 該計畫提�
 
 >[!TAB 檢查您的工作]
 
-這是區段應呈現的樣子：
+區段可能會以這種方式呈現：
 
-![Luma — 白金狀態 — 區段](/help/challenges/assets/segment-luma-platinum-status.png)
+![Luma - 白金狀態 - 區段](/help/challenges/assets/segment-luma-platinum-status.png)
 
 以下是您歷程的外觀：
 
