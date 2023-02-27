@@ -5,7 +5,7 @@ user-guide-description: 這些是 Journey Optimizer 教學課程。
 source-git-commit: 3bc6680939544f5c4e054a658d1e17e077b9fa63
 workflow-type: tm+mt
 source-wordcount: '293'
-ht-degree: 94%
+ht-degree: 99%
 
 ---
 
@@ -42,8 +42,8 @@ ht-degree: 94%
    + [行銷活動的應用程式內訊息](/help/channels/in-app-messaging-for-campaigns.md)
    + [撰寫應用程式內訊息](/help/channels/author-in-app-messages.md)
 + 簡訊頻道{#sms-channel}
-   + [製作和傳送SMS訊息](/help/channels/author-and-deliver-sms-messages.md)
-   + [SMS 傳入關鍵字支援](/help/channels/inbound-keyword-support-for-sms.md)
+   + [編寫及傳遞簡訊訊息](/help/channels/author-and-deliver-sms-messages.md)
+   + [簡訊傳入關鍵字支援](/help/channels/inbound-keyword-support-for-sms.md)
 + 客戶設定檔、區段和訂閱 {#profiles-segments-subscriptions}
    + [統一設定檔和分段 — 概述](/help/set-up-resources/unified-profile-and-segmentation-overview.md)
    + [建立區段](/help/set-up-resources/create-segments.md)
@@ -80,7 +80,7 @@ ht-degree: 94%
    + 設定通道 {#channel-configuration}
       + [設定電子郵件頻道](/help/set-up-channels/set-up-email-channel.md)
       + [委派 CName 子網域](/help/set-up-channels/delegate-cname-subdomains.md)
-      + [設定SMS API憑證和通道介面](/help/set-up-channels/set-up-sms-channel.md)
+      + [設定簡訊 API 憑證及頻道介面](/help/set-up-channels/set-up-sms-channel.md)
       + [設定訊息頻率規則](/help/administration/configure-frequency-rules.md)
    + 設定歷程 {#journey-configuration}
    + [設定資料來源](/help/set-up-journeys/configure-data-sources.md)
