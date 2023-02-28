@@ -9,10 +9,10 @@ recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
 exl-id: ffc5e8c8-8729-4e7e-aa51-d74f91b0cf29
-source-git-commit: 16031e0e4ef29f5243a7a2e933aa83d7b1fbd7ac
+source-git-commit: 01216aba7c23af67ad131aa24f017f95e6fa9025
 workflow-type: tm+mt
-source-wordcount: '188'
-ht-degree: 5%
+source-wordcount: '214'
+ht-degree: 4%
 
 ---
 
@@ -20,13 +20,21 @@ ht-degree: 5%
 
 本頁包含L731 Summit Lab中使用的文本和連結。 它可讓您複製內容並貼到您的Journey Optimizer訊息中。
 
-## 第1課 — 下載並安裝應用程式
+## 練習1.1 — 下載並安裝應用程式
 
-[http://ajolab.s3-website-us-east-1.amazonaws.com/index.html](http://ajolab.s3-website-us-east-1.amazonaws.com/index.html)
+[按一下這裡以安裝應用程式](https://testflight.apple.com/join/H0N5iWvW)
 
-## 第2課 — 建立行動行銷活動
+## 練習1.3:登入Adobe Journey Optimizer
 
-### 練習2.1建立應用程式內促銷活動
+[按一下這裡以登入Journey Optimizer](https://experience.adobe.com/#/@techmarketingdemos/sname:summit-2023-ajo-lab/journey-optimizer/home)
+
+**登入詳細資料：**
+
+* 用戶名： `L731+<your seat number>@summitlab.us`
+* 密碼：Adobe2023!
+
+
+## 練習2.1建立應用程式內促銷活動
 
 | 欄位 | 文字 | 連結 |
 |----|----|----|
@@ -34,6 +42,7 @@ ht-degree: 5%
 | 標題 | 正在發生，正在直播！ |  |
 | 主體 | Adobe Summit於2023年3月21日至23日回到拉斯維加斯。 準備好激發靈感的演講者、擴展技能的會議以及新的聯繫。 |  |
 | 按鈕 | 立即預訂酒店並節省10% | lab://booking?suite=presidential&amp;discount=10 |
+
 
 
 ## 第3課建立全頻道歷程
