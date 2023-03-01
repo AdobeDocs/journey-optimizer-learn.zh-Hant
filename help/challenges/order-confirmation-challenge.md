@@ -1,16 +1,16 @@
 ---
 title: 建立訂單確認電子郵件
-description: 測試您關於如何建立和個人化異動訊息的知識
+description: 測試您關於如何建立和個人化異動訊息的知識。
 kt: 7531
 feature: Journeys
 role: User
 level: Beginner
 hide: true
 exl-id: ec86e2ac-081d-47aa-a948-007107baa2b4
-source-git-commit: e377ddb8b84dccd503274caf9ffa3d4c73eedc28
-workflow-type: ht
-source-wordcount: '653'
-ht-degree: 100%
+source-git-commit: 6737f81f9cd9fc34740ce60e10c8036e29f97f68
+workflow-type: tm+mt
+source-wordcount: '657'
+ht-degree: 93%
 
 ---
 
@@ -25,11 +25,11 @@ ht-degree: 100%
 | 所需技能 | <ul><li>[使用訊息編輯器建立電子郵件內容](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/create-content-with-the-email-designer.html?lang=zh-Hant)</li> <li>[使用內容事件資訊進行個人化](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/use-contextual-event-information-for-personalization.html?lang=zh-Hant)</li><li>[使用協助程式功能進行個人化](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/use-helper-functions-for-personalization.html?lang=zh-Hant)</li></ul> |
 | 要下載的資產 | [訂購確認資產](/help/challenges/assets/email-assets/order-confirmation-assets.zip) |
 
+{style=&quot;table-layout:auto&quot;}
+
 ## 故事
 
-Luma 正在啟動其線上商店，希望在客戶下訂單後，提供訂單確認電子郵件，以保障良好的客戶體驗。
-
-
+Luma正在推出線上商店，希望確保提供良好的客戶體驗。 客戶下訂單後，他們會提供訂單確認電子郵件。
 
 ## 您的挑戰
 
@@ -37,15 +37,21 @@ Luma 正在啟動其線上商店，希望在客戶下訂單後，提供訂單確
 
 >[!BEGINTABS]
 
->[!TAB 工作]
+>[!TAB 任務]
 
-1. 建立名為`Luma - Order Confirmation`的歷程
-2. 使用事件： `LumaOnlinePurchase`
-3. 建立稱為`Luma - Order Confirmation`的&#x200B;**異動**&#x200B;電子郵件
-* 主旨列為「感謝您的購買， `FirstName`」
-* 使用`Luma - Order summary`範本並加以修改：
-   * 移除`You may also like`區段
-   * 在電子郵件底部新增取消訂閱連結
+1. 建立名為`Luma - Order Confirmation`的歷程。
+
+1. 使用事件： `LumaOnlinePurchase`.
+
+1. 建立 **異動**  電子郵件 `Luma - Order Confirmation`.
+
+   * 主旨列為「感謝您的購買， `FirstName`」
+
+   * 使用`Luma - Order summary`範本並加以修改：
+
+      * 移除`You may also like`區段
+
+      * 在電子郵件底部新增取消訂閱連結
 
 電子郵件應有如下的結構：
 <table>
@@ -65,7 +71,7 @@ Luma 正在啟動其線上商店，希望在客戶下訂單後，提供訂單確
   <tr>
   <td>
   <div>
-    <strong>訂購確認區段
+    <strong>訂單確認部分
     </strong>
   </td>
   <td>
@@ -98,7 +104,7 @@ Luma 正在啟動其線上商店，希望在客戶下訂單後，提供訂單確
  <tr>
 <td>
   <div>
-     <strong>訂購詳細資料區段</strong>
+     <strong>訂單詳細資訊部分</strong>
       </div>
        <p><li>將此區段新增至<b>收貨方</b>區段下方。
       </p><br>
@@ -125,7 +131,6 @@ Luma 正在啟動其線上商店，希望在客戶下訂單後，提供訂單確
   </tr>
 </table>
 
-
 >[!TIP]
 >
 >為了使您能夠對歷程進行疑難排解，最佳做法是在逾時或錯誤時向所有訊息動作新增替代路徑。
@@ -136,11 +141,11 @@ Luma 正在啟動其線上商店，希望在客戶下訂單後，提供訂單確
 
 1. 在切換至測試模式之前，請先覆寫電子郵件參數以將測試電子郵件傳送至您的電子郵件地址：
    1. 開啟電子郵件詳細資料檢視。
-   2. 在電子郵件參數區段，按一下 T 符號 (啟動參數覆寫
-   3. 按一下「地址」欄位
-   4. 在下一個畫面的運算式編輯器中，新增您的電子郵件地址：*「yourname@yourdomain」* ，並加上括弧，然後按一下「確定」。
-2. 將歷程置於測試模式
-3. 使用下列參數觸發事件：
+   1. 在電子郵件參數區段，按一下 T 符號 (啟動參數覆寫
+   1. 按一下「地址」欄位
+   1. 在下一個畫面的運算式編輯器中，新增您的電子郵件地址：*「yourname@yourdomain」* ，並加上括弧，然後按一下「確定」。
+1. 將歷程置於測試模式
+1. 使用下列參數觸發事件：
    * 將設定檔識別碼設為：身分值：`a8f14eab3b483c2b96171b575ecd90b1`
    * 事件類型：commerce.purchases
    * `Quantity`: 1
