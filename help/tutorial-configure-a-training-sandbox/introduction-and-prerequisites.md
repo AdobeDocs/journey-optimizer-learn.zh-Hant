@@ -8,9 +8,9 @@ role: Admin
 level: Beginner
 hide: true
 exl-id: 8fa673de-9be9-4ab2-94cf-cfa8ac518223
-source-git-commit: 7ecbed1b722d7f05ffd4a7c7071358d993cb1392
+source-git-commit: 2a671ad01f1cdb60c731a707b0584bf2f4262d9b
 workflow-type: tm+mt
-source-wordcount: '340'
+source-wordcount: '338'
 ht-degree: 9%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 9%
 
 ![橫幅教學課程 — 設定訓練沙箱](./assets/ajo-banner-configure-training-sandbox.png)
 
-本教學課程專為負責提供Adobe Journey Optimizer訓練環境的管理員和資料工程師所設計。 了解設定結構、擷取範例資料和建立事件所需的步驟。 您也可以建立三個測試設定檔，讓學習者檢查其工作。
+本教學課程專為負責提供Adobe的管理員和資料工程師所設計 [!DNL Journey Optimizer] 訓練環境。 了解設定結構、擷取範例資料和建立事件所需的步驟。 您也可以建立三個測試設定檔，讓學習者檢查其工作。
 
 提供的樣本資料基於一個虛構的運動服裝公司，該公司稱為 _[!DNL Luma]_. [!DNL Luma] 在多個國家/地區擁有商店、線上網站和行動應用。 [!DNL Luma] 使用 Adobe Journey Optimizer 來為客戶提供連結、情境式和個人化的體驗。
 
@@ -30,13 +30,23 @@ ht-degree: 9%
 開始設定訓練沙箱之前，請確定您具備：
 
 1. 專屬開發 [沙箱](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/access-control/create-and-manage-sandboxes.html?lang=en).
+
 1. [電子郵件訊息預設集](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/set-up-email-channel.html?lang=en) 已針對行銷和交易式訊息設定。
+
 1. **[!UICONTROL 歷程管理員]** 和 **[!UICONTROL 資料管理員]** 訓練沙箱的權限。
+
 1. 您的 [組織ID](https://experienceleague.adobe.com/docs/core-services/interface/administration/organizations.html?lang=zh-Hant).
+
 1. 包含範例資料的JSON檔案，已設定至您的Journey Optimizer例項：
+
    1. 下載 `luma-sample-data.zip` 檔案 [此處](/help/tutorial-configure-a-training-sandbox/assets/luma-data/luma-sample-data.zip)，其中包含本教學課程所需的所有JSON檔案。
-   1. 從下載資料夾中，移動 `luma-data.zip` 檔案移至您電腦上的所需位置，然後加以解壓縮。 這些檔案包含訓練沙箱的範例資料。
+
+   1. 從下載資料夾中，移動 `luma-data.zip` 檔案移至您電腦上的所需位置，然後加以解壓縮。
+
+      這些檔案包含訓練沙箱的範例資料。
+
    1. 開啟每個檔案並查找 **`yourOrganizationID`** 將其替換為 [組織ID](https://experienceleague.adobe.com/docs/core-services/interface/administration/organizations.html?lang=zh-Hant).
+
    1. 儲存檔案。
 
 ## 開始吧

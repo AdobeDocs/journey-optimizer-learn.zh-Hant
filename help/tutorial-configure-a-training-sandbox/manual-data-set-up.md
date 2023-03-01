@@ -9,9 +9,9 @@ level: Beginner
 hide: true
 recommendations: noDisplay, noCatalog
 exl-id: de870229-d9a6-4051-9f76-13d402cce3b4
-source-git-commit: 7ecbed1b722d7f05ffd4a7c7071358d993cb1392
+source-git-commit: 4df1bdca81a585f728aa68519aa7ec7cd0c2f014
 workflow-type: tm+mt
-source-wordcount: '1027'
+source-wordcount: '1020'
 ht-degree: 9%
 
 ---
@@ -29,7 +29,7 @@ ht-degree: 9%
 
 首先，建立 [!UICONTROL 命名空間] 針對 [!DNL Luma Loyalty ID] 方案：
 
-1. 在Journey Optimizer使用者介面中，前往***[!UICONTROL 客戶]** > **[!UICONTROL 身分]** 的下一頁。
+1. 在Journey Optimizer使用者介面中，前往 **[!UICONTROL 客戶]** > **[!UICONTROL 身分]** 的下一頁。
 
 1. 選擇 **[!UICONTROL 建立身分命名空間]**.
 
@@ -72,28 +72,27 @@ ht-degree: 9%
 >
 >觀看教學課程影片： [建立結構](/help/set-up-data/create-schema.md) 開始之前。
 
-### 建立 [!DNL Luma Loyalty] [!UICONTROL 結構] {#create-luma-loyalty-schema}
+### 建立 [!DNL Luma Loyalty Schema] {#create-luma-loyalty-schema}
+
+本節說明如何建立 [!DNL Luma Loyalty] 結構和配置欄位組。
 
 #### 建立結構
-
-從建立 [!DNL Luma Loyalty] 方案：
 
 1. 前往 **[!UICONTROL 資料管理]** > **[!UICONTROL 結構]** 的下一頁。
 
 1. 選擇 **[!UICONTROL 建立結構]** 在右上角。
 
-1. 從下拉式功能表中，選取 **[!UICONTROL XDM個別設定檔]**，因為您要建立個別客戶的屬性模型（點、狀態等）。
+1. 從下拉式功能表中，選取 **[!UICONTROL XDM個別設定檔]**.
 
+   您選取此選項，是因為您要對個別客戶的屬性（點、狀態等）進行建模。
 
 #### 新增現有欄位群組
 
-接著，系統會提示您將欄位群組新增至架構。 使用群組將所有欄位新增至結構。 您正在新增現有欄位群組，且必須建立欄位群組。
+接著，系統會提示您使用群組，將欄位群組新增至架構。 您必須新增現有欄位群組並建立欄位群組。
 
->[!NOTE]
->
->若 [!UICONTROL 欄位群組] 強制回應不會自動在 [!UICONTROL 結構] 頁面，選取 **[!UICONTROL 新增]** （如下圖所示）。
+1. 在 [!UICONTROL 結構] 頁面，如果欄位群組強制回應未自動開啟，請選取 **[!UICONTROL 新增]**.
 
-![新增欄位群組](assets/add_field_group.png)
+   ![新增欄位群組](assets/add_field_group.png)
 
 1. 在 **[!UICONTROL 新增欄位群組]** 頁，啟用下列欄位群組：
 
@@ -109,9 +108,9 @@ ht-degree: 9%
 
 1. 選取架構的頂端節點。
 
-1. 輸入 `Luma Loyalty Schema` 作為 [!UICONTROL 顯示名稱].
+1. 輸入 `Luma Loyalty Schema` 作為 **[!UICONTROL 顯示名稱]**.
 
-#### 建立 [!UICONTROL 欄位群組]
+#### 建立 [!UICONTROL 欄位群組] {#create-field-group}
 
 為幫助確保架構之間的一致性，Adobe建議管理單個組中的所有系統標識符：
 
@@ -174,7 +173,7 @@ ht-degree: 9%
 
    4. 啟用 **[!UICONTROL 主要身分]** 框。
 
-   5. 選取 `Luma Loyalty Id` 命名空間 **[!UICONTROL 身分識別命名空間]** 下拉式清單。
+   5. 選取 `Luma Loyalty Id` 命名空間 **[!UICONTROL 身分識別命名空間]** 下拉式功能表。
 
    6. 選取&#x200B;**[!UICONTROL 「套用」]**。
 
@@ -206,21 +205,21 @@ ht-degree: 9%
 
 1. 選取「**[!UICONTROL 儲存]**」。
 
-### 建立 [!DNL Luma Product catalog Schema] {#create-luma-product-catalog-schema}
+### 建立 [!DNL Luma Product Catalog Schema] {#create-luma-product-catalog-schema}
 
-1. 前往 [!UICONTROL 資料管理] -> **[!UICONTROL 結構]** 的下一頁。
+1. 前往 **[!UICONTROL 資料管理]** > **[!UICONTROL 結構]** 的下一頁。
 
-1. 選取 **[!UICONTROL 建立結構]** 按鈕。
+1. 選擇 **[!UICONTROL 建立結構]** （右上）。
 
-1. 從下拉式功能表中，選取 **[!UICONTROL 瀏覽所有架構類型]**，可讓您建立類別。
+1. 要建立類，請選擇 **[!UICONTROL 瀏覽所有架構類型]** 從下拉式功能表。
 
-1. 選擇**[!UICONTROL 建立新類].
+1. 選擇 **[!UICONTROL 建立新類]**.
 
 1. 添加顯示名稱： `Luma Product Catalog Class`.
 
 1. 分配類。
 
-1. 建立 [!UICONTROL 欄位群組]:
+1. 建立 [!UICONTROL 欄位組]:
 
    * 顯示名稱： `Luma Product Catalog Field Group`
 
@@ -251,16 +250,14 @@ ht-degree: 9%
    | `stockQuantity` | `Product Stock Quantity` | [!UICONTROL 字串] |
    | `url` | `Product URL` | [!UICONTROL 字串] |
 
-1. 設定 **[!DNL SKU]** 作為主要身分
+1. 設定 **[!DNL SKU]** 作為主要身分。
 1. 新增 **[!UICONTROL 顯示名稱]** `Luma Product Catalog Field Group` 到 [!UICONTROL 欄位群組].
 
 1. 選取「**[!UICONTROL 儲存]**」。
 
-
 ### 建立 [!DNL Luma Product Inventory Event Schema] {#create-luma-product-inventory-event-schema}
 
-
-1. 前往 **[!UICONTROL 資料管理]** -> **[!UICONTROL 結構]** 的下一頁。
+1. 前往 **[!UICONTROL 資料管理]** > **[!UICONTROL 結構]** 的下一頁。
 
 1. 選取 **[!UICONTROL 建立結構]** 按鈕。
 
