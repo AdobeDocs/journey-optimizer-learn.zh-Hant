@@ -1,6 +1,6 @@
 ---
-title: L731資產
-description: 本頁包含L731 Summit Lab中使用的文本和連結。
+title: L731 資產
+description: 本頁面包含 L731 Summit Lab 正在使用的文字及連結。
 feature: In App, SMS, Push, Email
 doc-type: article
 role: User
@@ -12,13 +12,13 @@ exl-id: ffc5e8c8-8729-4e7e-aa51-d74f91b0cf29
 source-git-commit: b9c836756122dd555cbc1e6150f91e5e5ff9b176
 workflow-type: tm+mt
 source-wordcount: '219'
-ht-degree: 5%
+ht-degree: 77%
 
 ---
 
 # Summit Lab L731
 
-本頁包含L731 Summit Lab中使用的文本和連結。 它可讓您複製內容並貼到您的Journey Optimizer訊息中。
+本頁面包含 L731 Summit Lab 正在使用的文字及連結。 它可讓您將內容複製並貼上到 Journey Optimizer 訊息。
 
 ## 練習1.1 — 下載並安裝應用程式
 
@@ -34,27 +34,27 @@ ht-degree: 5%
 * 密碼：Adobe2023!
 
 
-## 練習2.1建立應用程式內促銷活動
+## 練習 2.1 建立應用程式內行銷活動
 
 | 欄位 | 文字 | 連結 |
 |----|----|----|
 | 促銷活動名稱 | `<your seat number> March Vegas Campaign` |  |
-| 媒體URL選項 |  | https://mcfadyen.com/wp-content/uploads/2023/01/Adobe-Summit-2023-Banner.png |
-| 標題 | 正在發生，正在直播！ |  |
-| 主體 | Adobe Summit於2023年3月21日至23日回到拉斯維加斯。 準備好激發靈感的演講者、擴展技能的會議以及新的聯繫。 |  |
-| 按鈕 | 立即預訂酒店並節省10% | lab://booking?suite=presidential&amp;discount=10 |
+| 媒體 URL 選項 |  | https://mcfadyen.com/wp-content/uploads/2023/01/Adobe-Summit-2023-Banner.png |
+| 標題 | 正在發生，而且是線上即時！ |  |
+| 內文 | Adobe Summit 將於 2023 年 3 月 21 日至 23 日重返拉斯維加斯。準備好迎接鼓舞人心的演講者、技能擴展會議以及認識新的人。 |  |
+| 按鈕 | 立即預訂酒店並節省 10% 費用 | lab://booking?suite=presidential&amp;discount=10 |
 | 基礎 URL |  | lab:// |
 
 
 
-## 第3課建立全頻道歷程
+## 第 3 課建立全通路歷程
 
-| 訊息 | 文字 | 深層連結 | 媒體 |
+| 訊息 | 文字 | 深度連結 | 媒體 |
 |----|----|----|----|
-| 推播 | 歡迎來維加斯逗留。 略過線路並使用行動應用程式簽入 | lab://checkin | https://experienceleague.adobe.com/docs/journey-optimizer-learn/assets/vegas_online_check_in.jpg |
-| SMS | 歡迎來維加斯逗留。 跳過線路並使用行動應用程式簽入：lab://checkin |  |
+| 推播 | 歡迎來到 Vegas Stay。 免排隊並使用行動應用程式辦理登記入住手續 | lab://checkin | https://experienceleague.adobe.com/docs/journey-optimizer-learn/assets/vegas_online_check_in.jpg |
+| 簡訊 | 歡迎來到 Vegas Stay。 免排隊並使用行動應用程式辦理登記入住手續：lab://checkin |  |
 
 
-這是我們用於SMS和推播通知的影像：
+這是我們用於簡訊及推播通知的影像：
 
-![線上簽入](/help/assets/vegas_online_check_in.jpg)
+![線上登記入住](/help/assets/vegas_online_check_in.jpg)
