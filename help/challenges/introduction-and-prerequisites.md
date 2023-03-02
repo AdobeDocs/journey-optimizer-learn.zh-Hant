@@ -6,10 +6,10 @@ role: Admin
 level: Beginner
 hide: true
 exl-id: 87a79560-c098-4e72-abec-6b750ec730ee
-source-git-commit: 7ecbed1b722d7f05ffd4a7c7071358d993cb1392
-workflow-type: ht
-source-wordcount: '456'
-ht-degree: 100%
+source-git-commit: dfa4c8a0fd984bdd1a99e4b0a819dbb9cbd4c321
+workflow-type: tm+mt
+source-wordcount: '463'
+ht-degree: 83%
 
 ---
 
@@ -23,15 +23,18 @@ ht-degree: 100%
 
 ## 先決條件
 
+確認符合下列必要條件。
+
 ### 系統需求
 
-* 存取 Journey Optimizer 沙箱 - 建議您在專屬的訓練沙箱中完成挑戰。
-* 必須為您的執行個體佈建 AEM Assets Essentials
-* 必須為異動及行銷訊息設定電子郵件頻道
+* 存取Journey Optimizer沙箱 — 建議您在專屬的訓練沙箱中完成挑戰。
+* AEM Assets Essentials必須布建給您的執行個體。
+* 必須為異動及行銷訊息設定電子郵件頻道.
 
 ### 存取權
 
 您需要下列存取權限：
+
 * *Journey Manager* 或 *歷程管理員*
 * 檢視測試設定檔及其屬性
 
@@ -40,8 +43,7 @@ ht-degree: 100%
 
 ### 必要的動作
 
-* 如果您剛接觸 Adobe Journey Optimizer，請完成本課程[歷程管理員和管理員專屬 Journey Optimizer 快速入門](https://experienceleague.adobe.com/docs/courses/using/journeyoptimizer-u-1-2022-1-1-0.html?lang=zh-Hant)。
-
+* 如果您是Adobe Journey Optimizer的新手，請完成本課程 [歷程管理員和管理員專用Journey Optimizer快速入門](https://experienceleague.adobe.com/docs/courses/using/journeyoptimizer-u-1-2022-1-1-0.html?lang=zh-Hant).
 
 ## 故事
 
