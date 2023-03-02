@@ -7,9 +7,9 @@ level: Beginner
 last-substantial-update: 2022-11-16T00:00:00Z
 hide: true
 exl-id: ae457be7-2c67-4950-a072-1d7030b0e17b
-source-git-commit: f5b0529ee13067fe945e32494a164959adfd7d6c
+source-git-commit: fc439f6e3875e859f5c4b9a6012c98b8d5d4be32
 workflow-type: tm+mt
-source-wordcount: '1175'
+source-wordcount: '1178'
 ht-degree: 100%
 
 ---
@@ -23,6 +23,8 @@ ht-degree: 100%
 | 角色 | Journey Manager |
 | 所需技能 | <ul><li>[建立區段](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html?lang=zh-Hant)</li><li> [匯入及編寫 HTML 電子郵件內容](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/create-emails/import-and-author-html-email-content.html?lang=zh-Hant)</li><li>[使用案例 - 讀取區段](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-read-segment.html?lang=zh-Hant)</li> |
 | 要下載的資產 | [季節性系列電子郵件檔案](/help/challenges/assets/email-assets/emails-seasonal-collection-announcement.zip) |
+
+{style=&quot;table-layout:auto&quot;}
 
 ## 故事
 
@@ -69,7 +71,7 @@ Luma 行銷團隊會要求您在 Journey Optimizer 中實施夏季系列行銷�
 
 >[!TAB 檢查您的工作]
 
-區段欄位：[!UICONTROL 屬性] > [!UICONTROL XDM 個人設定檔] > [!UICONTROL 忠誠度] > [!UICONTROL 層級]
+區段欄位：**[!UICONTROL 屬性]** > **[!UICONTROL XDM 個人設定檔]** > **[!UICONTROL 忠誠度]** > **[!UICONTROL 層級]**
 
 區段可能會以這種方式呈現：
 
@@ -101,13 +103,13 @@ stringCompare("equals", loyalty.tier, ["diamond", "gold", "platinum", "silver"],
 
 1. [下載季節性系列電子郵件檔案](/help/challenges/assets/email-assets/emails-seasonal-collection-announcement.zip)。
 
-2. 根據下列准則，建立名為 *Luma - 夏季系列發佈*&#x200B;歷程 ：
+1. 根據下列准則，建立名為 *Luma - 夏季系列發佈*&#x200B;歷程 ：
 
    1. 傳送 *Luma - 全新夏季系列發佈*&#x200B;電子郵件至&#x200B;*活躍客戶*&#x200B;區段，將 10% 的對象視為控制組
       * 訊息標題 *Luma - 夏季系列發佈*
       * 主旨列 *(收件者的名字)，新的 Luma 夏季系列已推出！*
       * 使用提供的 HTML 檔案 `SeasonalCollectionEmail.html` 用於電子郵件內文。
-   2. 等候兩天，然後傳送後續電子郵件訊息，其中包含更具針對性的內容：
+   1. 等候兩天，然後傳送後續電子郵件訊息，其中包含更具針對性的內容：
       * 男性客戶應接收 **Luma 男士系列**&#x200B;電子郵件。
          * 訊息標題：*Luma 男士系列*
          * 主旨列：*(收件者的名字)，探索男士新運動用具！*
@@ -117,11 +119,11 @@ stringCompare("equals", loyalty.tier, ["diamond", "gold", "platinum", "silver"],
          * 主旨列：*(收件者的名字)，探索 Luma 女士系列！*
          * 電子郵件內文：`WomensCollectionEmail.html`
       * 其他客戶應收到 **Luma - 八折系列**&#x200B;電子郵件。
-         * 訊息標題： *Luma - 八折系列*
-         * 主旨列： *(收件者的名字)，享受八折優惠！*
-         * 電子郵件內文：`20OOffCollectionEmail.html`
-   3. 在上方傳送目標電子郵件後，請等待兩天再開啟電子郵件
-   4. 如果目標電子郵件未在兩天內開啟，請傳送 **Luma - 八折系列電子郵件**&#x200B;作為最終的重新定位嘗試
+      * 訊息標題： *Luma - 八折系列*
+      * 主旨列： *(收件者的名字)，享受八折優惠！*
+      * 電子郵件內文：`20OOffCollectionEmail.html`
+   1. 在上方傳送目標電子郵件後，請等待兩天再開啟電子郵件
+   1. 如果目標電子郵件未在兩天內開啟，請傳送 **Luma - 八折系列電子郵件**&#x200B;作為最終的重新定位嘗試
 
 
 >[!TAB 成功標準]
@@ -133,21 +135,21 @@ stringCompare("equals", loyalty.tier, ["diamond", "gold", "platinum", "silver"],
 預覽電子郵件：
 
 1. 新增測試設定檔：Louise Petti：
-   1. 身分命名空間： *Luma CRM ID*
-   2. 身分值： *d1f132f9f9502bba047a6ec86c4b61f9*
+   * 身分命名空間： *Luma CRM ID*
+   * 身分值： *d1f132f9f9502bba047a6ec86c4b61f9*
 
 結果:
+
 * 主旨列應為：Louise，新的 Luma 系列已推出！
 * 電子郵件內文應與您在預覽中看到的內容相符：[新的季節性系列發佈](/help/challenges/assets/email-assets/SeasonalCollectionEmail.html)
-
 
 **電子郵件 #2 - Luma 男士系列**
 
 向自己傳送一份證明：
 
 1. 新增測試設定檔：Stanleigh Stooke：
-   1. 身分命名空間：*Luma CRM ID*
-   1. 身分值：`4f34057d9d9e792c28ba18ecae378e98`
+   * 身分命名空間：*Luma CRM ID*
+   * 身分值：`4f34057d9d9e792c28ba18ecae378e98`
 1. 選取測試設定檔：Stanleigh Stooke。
 1. 向自己傳送一份證明。
 
@@ -164,14 +166,12 @@ stringCompare("equals", loyalty.tier, ["diamond", "gold", "platinum", "silver"],
 * 主旨列應為： *Louise，探索 Luma 女士系列！*
 * 電子郵件內文應與您在預覽中看到的內容相符： [Luma 女士系列](/help/challenges/assets/email-assets/WomensCollectionEmail.html)
 
-
 **電子郵件訊息 #4 - Luma 八折系列**
 
 使用測試設定檔預覽電子郵件 *Louise Petti。*
 
 * 主旨列應為： *Louise，享受八折優惠！*
 * 電子郵件內文應與您在預覽中看到的內容相符： [Luma 八折系列](/help/challenges/assets/email-assets/20OOffCollectionEmail.html)
-
 
 #### 測試您的歷程
 
@@ -181,13 +181,15 @@ stringCompare("equals", loyalty.tier, ["diamond", "gold", "platinum", "silver"],
 >
 >1. 請確定[!UICONTROL 閱讀區段活動]命名空間已設為 **Luma CRM id(lumaCrmId)**
 >1. 對於每封電子郵件，覆寫電子郵件的預設電子郵件參數，以便將其傳送至您的電子郵件地址：
->    * 按一下眼睛符號來顯示隱藏的值。
->    * 在電子郵件參數中，按一下 T 符號 (啟用參數覆寫)。
->
->      ![覆寫電子郵件參數](/help/challenges/assets/c3-override-email-paramters.jpg)
-> 
->    * 按一下[!UICONTROL 地址]欄位
->    * 在下一個畫面中，以括弧新增您的電子郵件地址：運算式編輯器中的`"yourname@yourdomain"`，按一下「確定」。
+   >    * 按一下眼睛符號來顯示隱藏的值。
+   >    * 在電子郵件參數中，按一下 T 符號 (啟用參數覆寫)。
+
+      >
+      >      ![覆寫電子郵件參數](/help/challenges/assets/c3-override-email-paramters.jpg)
+   > 
+   >    * 按一下[!UICONTROL 地址]欄位
+   >    * 在下一個畫面中，以括弧新增您的電子郵件地址：運算式編輯器中的`"yourname@yourdomain"`，按一下「確定」。
+
 >
 
 
