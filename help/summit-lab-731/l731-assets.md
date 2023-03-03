@@ -9,10 +9,10 @@ recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
 exl-id: ffc5e8c8-8729-4e7e-aa51-d74f91b0cf29
-source-git-commit: 5d9b95a5953994708686a2fbd83d0522fbbeaeb5
+source-git-commit: c7cd250f01610e7a882b2a58676a931e7991e51a
 workflow-type: tm+mt
-source-wordcount: '222'
-ht-degree: 75%
+source-wordcount: '215'
+ht-degree: 78%
 
 ---
 
@@ -22,7 +22,10 @@ ht-degree: 75%
 
 ## 練習1.1 — 下載並安裝應用程式
 
-[按一下這裡以安裝應用程式](https://testflight.apple.com/join/H0N5iWvW)
+### iOS
+
+![適用於iOS的QR碼](/help/assets/lab731-ios-qr-code.png)
+
 
 ## 練習1.3:登入Adobe Journey Optimizer
 
