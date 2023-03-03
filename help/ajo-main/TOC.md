@@ -2,10 +2,10 @@
 user-guide-title: Journey Optimizer 教學課程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 這些是 Journey Optimizer 教學課程。
-source-git-commit: 5d9b95a5953994708686a2fbd83d0522fbbeaeb5
+source-git-commit: 5e9829459bc3092e60375fca3e759a2aac88446f
 workflow-type: tm+mt
-source-wordcount: '301'
-ht-degree: 97%
+source-wordcount: '313'
+ht-degree: 93%
 
 ---
 
@@ -92,6 +92,6 @@ ht-degree: 97%
 + 隱私權 {#privacy}
    + [遮罩訊息中的資料](/help/privacy/mask-data-in-messages.md)
 + 練習與挑戰 {#exercises-and-challenges}
-   + [設定訓練沙箱](/https://experienceleague.adobe.com/docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites.html)
-   + [挑戰](/https://experienceleague.adobe.com/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites.html)
+   + [設定訓練沙箱](https://experienceleague.adobe.com/docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites.html)
+   + [挑戰](https://experienceleague.adobe.com/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites.html)
 + [Summit Lab](/help/summit-lab-731/l731-assets.md)
