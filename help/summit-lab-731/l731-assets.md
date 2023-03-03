@@ -1,5 +1,5 @@
 ---
-title: L731 資產
+title: L731速查表
 description: 本頁面包含 L731 Summit Lab 正在使用的文字及連結。
 feature: In App, SMS, Push, Email
 doc-type: article
@@ -9,14 +9,14 @@ recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
 exl-id: ffc5e8c8-8729-4e7e-aa51-d74f91b0cf29
-source-git-commit: b9c836756122dd555cbc1e6150f91e5e5ff9b176
+source-git-commit: 5d9b95a5953994708686a2fbd83d0522fbbeaeb5
 workflow-type: tm+mt
-source-wordcount: '219'
-ht-degree: 77%
+source-wordcount: '222'
+ht-degree: 75%
 
 ---
 
-# Summit Lab L731
+# Summit Lab L731  — 速查表
 
 本頁面包含 L731 Summit Lab 正在使用的文字及連結。 它可讓您將內容複製並貼上到 Journey Optimizer 訊息。
 
