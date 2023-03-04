@@ -1,16 +1,16 @@
 ---
 title: 建立忠誠度狀態歡迎電子郵件 - 挑戰
-description: 瞭解在歷程畫布中建立歷程的基本概念。
+description: 建立歷程，當客戶達到忠誠度等級時，會自動傳送歡迎電子郵件給客戶。
 kt: 8109
 feature: Journeys
 role: User
 level: Beginner
 last-substantial-update: 2023-02-01T00:00:00Z
 exl-id: 6fd58b8e-7178-495d-a85d-eb67fc4f3acf
-source-git-commit: f7bfe367411f2bae23631ac4ecb34ad1d250381c
+source-git-commit: aaf273b8b6fe0a5f33c132cc0113ec2460152349
 workflow-type: tm+mt
-source-wordcount: '425'
-ht-degree: 65%
+source-wordcount: '430'
+ht-degree: 61%
 
 ---
 
