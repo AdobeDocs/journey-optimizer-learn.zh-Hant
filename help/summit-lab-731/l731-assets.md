@@ -9,10 +9,10 @@ recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
 exl-id: ffc5e8c8-8729-4e7e-aa51-d74f91b0cf29
-source-git-commit: c7cd250f01610e7a882b2a58676a931e7991e51a
+source-git-commit: 28da398f6813b1926c79b5cd45f415e2cfa9f40f
 workflow-type: tm+mt
-source-wordcount: '215'
-ht-degree: 78%
+source-wordcount: '229'
+ht-degree: 67%
 
 ---
 
@@ -33,29 +33,34 @@ ht-degree: 78%
 
 **登入詳細資料：**
 
-* 用戶名： `L731+<your seat number>@summitlab.us`
+* 用戶名： `L731+<your seat number>@summitlab.us` (範例：L731+001@summitlab.us)
 * 密碼：Adobe2023!
 
 
 ## 練習 2.1 建立應用程式內行銷活動
 
+
+
 | 欄位 | 文字 | 連結 |
 |----|----|----|
 | 促銷活動名稱 | `<your seat number> March Vegas Campaign` |  |
+| 符合 | 布恩 |  |
 | 媒體 URL 選項 |  | https://mcfadyen.com/wp-content/uploads/2023/01/Adobe-Summit-2023-Banner.png |
 | 標題 | 正在發生，而且是線上即時！ |  |
 | 內文 | Adobe Summit 將於 2023 年 3 月 21 日至 23 日重返拉斯維加斯。準備好迎接鼓舞人心的演講者、技能擴展會議以及認識新的人。 |  |
 | 按鈕 | 立即預訂酒店並節省 10% 費用 | lab://booking?suite=presidential&amp;discount=10 |
+| 按鈕：互動式事件 | 應用程式內CTA |  |
 | 基礎 URL |  | lab:// |
 
 
 
 ## 第 3 課建立全通路歷程
 
-| 訊息 | 文字 | 深度連結 | 媒體 |
-|----|----|----|----|
-| 推播 | 歡迎來到 Vegas Stay。 免排隊並使用行動應用程式辦理登記入住手續 | lab://checkin | https://experienceleague.adobe.com/docs/journey-optimizer-learn/assets/vegas_online_check_in.jpg |
-| 簡訊 | 歡迎來到 Vegas Stay。 免排隊並使用行動應用程式辦理登記入住手續：lab://checkin |  |
+| 訊息 | 標題/主旨行 | 文字 | 連結 |
+|----|----|----|----|----|
+| 推播 | 維加斯逗留歡迎你！ | 免排隊並使用行動應用程式辦理登記入住手續 | lab://checkin |  |
+| 簡訊 |  | 歡迎來到 Vegas Stay。 免排隊並使用行動應用程式辦理登記入住手續：lab://checkin |  |
+| 電子郵件 | {{profile.person.name.firstName}}，您已登入，現在請查看我們的優惠方案以供您入住！ |  |  |
 
 
 這是我們用於簡訊及推播通知的影像：
