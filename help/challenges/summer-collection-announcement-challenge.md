@@ -23,7 +23,7 @@ ht-degree: 100%
 | 所需技能 | <ul><li>[建立區段](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html?lang=zh-Hant)</li><li> [匯入及編寫 HTML 電子郵件內容](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/create-emails/import-and-author-html-email-content.html?lang=zh-Hant)</li><li>[使用案例 - 讀取區段](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-read-segment.html?lang=zh-Hant)</li> |
 | 要下載的資產 | [季節性系列電子郵件檔案](/help/challenges/assets/email-assets/emails-seasonal-collection-announcement.zip) |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 ## 故事
 
@@ -180,15 +180,13 @@ stringCompare("equals", loyalty.tier, ["diamond", "gold", "platinum", "silver"],
 >
 >1. 請確定[!UICONTROL 閱讀區段活動]命名空間已設為 **Luma CRM id(lumaCrmId)**
 >1. 對於每封電子郵件，覆寫電子郵件的預設電子郵件參數，以便將其傳送至您的電子郵件地址：
-   >    * 按一下眼睛符號來顯示隱藏的值。
-   >    * 在電子郵件參數中，按一下 T 符號 (啟用參數覆寫)。
-
-      >
-      >      ![覆寫電子郵件參數](/help/challenges/assets/c3-override-email-paramters.jpg)
-   > 
-   >    * 按一下[!UICONTROL 地址]欄位
-   >    * 在下一個畫面中，以括弧新增您的電子郵件地址：運算式編輯器中的`"yourname@yourdomain"`，按一下「確定」。
-
+>    * 按一下眼睛符號來顯示隱藏的值。
+>    * 在電子郵件參數中，按一下 T 符號 (啟用參數覆寫)。
+>
+>      ![覆寫電子郵件參數](/help/challenges/assets/c3-override-email-paramters.jpg)
+> 
+>    * 按一下[!UICONTROL 地址]欄位
+>    * 在下一個畫面中，以括弧新增您的電子郵件地址：運算式編輯器中的`"yourname@yourdomain"`，按一下「確定」。
 >
 
 
