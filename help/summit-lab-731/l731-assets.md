@@ -9,10 +9,10 @@ recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
 exl-id: ffc5e8c8-8729-4e7e-aa51-d74f91b0cf29
-source-git-commit: e2312c022f589ebf1218e1767bbc129b57fa1e2a
+source-git-commit: 16a2a4ab090b96f52555b543cd9d1924dc9f09cb
 workflow-type: tm+mt
-source-wordcount: '239'
-ht-degree: 64%
+source-wordcount: '271'
+ht-degree: 49%
 
 ---
 
@@ -22,14 +22,19 @@ ht-degree: 64%
 
 ## 練習1.1 — 下載並安裝應用程式
 
-### iOS
+掃描QR碼以下載應用程式
+
+>[!BEGINTABS]
+
+>[!TAB iOS]
 
 ![適用於iOS的QR碼](/help/assets/lab731-ios-qr-code.png)
 
-### Android — 預留位置
+>[!TAB Android]
 
 ![Android適用的QR碼](/help/assets/lab731-ios-qr-code.png)
 
+>[!ENDTABS]
 
 ## 練習1.3:登入Adobe Journey Optimizer
 
@@ -43,8 +48,6 @@ ht-degree: 64%
 
 ## 練習 2.1 建立應用程式內行銷活動
 
-
-
 | 欄位 | 文字 | 連結 |
 |----|----|----|
 | 促銷活動名稱 | `<your seat number> March Vegas Campaign` |  |
@@ -57,16 +60,39 @@ ht-degree: 64%
 | 基礎 URL |  | iOS:lab:// <br>Android:https://lab |
 
 
-
 ## 第 3 課建立全通路歷程
 
-| 訊息 | 標題/主旨行 | 文字 | 連結 |
-|----|----|----|----|----|
-| 推播 | 維加斯逗留歡迎你！ | 免排隊並使用行動應用程式辦理登記入住手續 | lab://checkin |  |
-| 簡訊 |  | 歡迎來到 Vegas Stay。 免排隊並使用行動應用程式辦理登記入住手續：lab://checkin |  |
-| 電子郵件 | {{profile.person.name.firstName}}，您已登入，現在請查看我們的優惠方案以供您入住！ |  |  |
+>[!BEGINTABS]
+
+>[!TAB 推送訊息]
+
+**標題:**\
+維加斯逗留歡迎你！
+
+**內文:**\
+免排隊並使用行動應用程式辦理登記入住手續
+
+**深層連結：** lab://checkin
+
+**媒體:**
+
+https://experienceleague.adobe.com/docs/journey-optimizer-learn/assets/vegas_online_check_in.jpg?lang=en
 
 
-這是我們用於簡訊及推播通知的影像：
+這是我們用於推播通知的影像：
 
 ![線上登記入住](/help/assets/vegas_online_check_in.jpg)
+
+|簡訊| || |電子郵件|{{profile.person.name.firstName}}，您已登入，現在請查看您的優惠方案！||
+
+>[!TAB SMS訊息]
+
+**訊息：**
+歡迎來維加斯逗留。 免排隊並使用行動應用程式辦理登記入住手續：lab://checkin
+
+>[!TAB 電子郵件訊息]
+
+**主旨行：**
+{{profile.person.name.firstName}}，您已登入，現在請查看我們的優惠方案以供您入住！
+
+>[!ENDTABS]
