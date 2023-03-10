@@ -9,9 +9,9 @@ recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
 exl-id: ffc5e8c8-8729-4e7e-aa51-d74f91b0cf29
-source-git-commit: c0b7fa47fac1ad16121d0f568de358c83de44a90
+source-git-commit: 066b26ab466094c90edbde1887867f1aa0a618dc
 workflow-type: tm+mt
-source-wordcount: '258'
+source-wordcount: '259'
 ht-degree: 51%
 
 ---
@@ -30,7 +30,7 @@ ht-degree: 51%
 
 ![適用於iOS的QR碼](/help/assets/lab731-ios-qr-code.png)
 
->[!TAB Android]
+>[!TAB Android™]
 
 ![Android適用的QR碼](/help/assets/lab731-android-qr-code.png)
 
@@ -57,7 +57,7 @@ ht-degree: 51%
 | 內文 | Adobe Summit 將於 2023 年 3 月 21 日至 23 日重返拉斯維加斯。準備好迎接鼓舞人心的演講者、技能擴展會議以及認識新的人。 |  |
 | 按鈕 | 立即預訂酒店並節省 10% 費用 | lab://booking?suite=presidential&amp;discount=10 |
 | 按鈕：互動式事件 | 應用程式內CTA |  |
-| 基礎 URL |  | iOS:lab:// <br>Android:https://lab |
+| 基礎 URL |  | iOS:lab:// <br>Android™:https://lab |
 
 
 ## 第 3 課建立全通路歷程
