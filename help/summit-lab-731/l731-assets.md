@@ -9,10 +9,10 @@ recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
 exl-id: ffc5e8c8-8729-4e7e-aa51-d74f91b0cf29
-source-git-commit: 16a2a4ab090b96f52555b543cd9d1924dc9f09cb
+source-git-commit: c0b7fa47fac1ad16121d0f568de358c83de44a90
 workflow-type: tm+mt
-source-wordcount: '271'
-ht-degree: 49%
+source-wordcount: '258'
+ht-degree: 51%
 
 ---
 
@@ -32,7 +32,7 @@ ht-degree: 49%
 
 >[!TAB Android]
 
-![Android適用的QR碼](/help/assets/lab731-ios-qr-code.png)
+![Android適用的QR碼](/help/assets/lab731-android-qr-code.png)
 
 >[!ENDTABS]
 
@@ -82,8 +82,6 @@ https://experienceleague.adobe.com/docs/journey-optimizer-learn/assets/vegas_onl
 這是我們用於推播通知的影像：
 
 ![線上登記入住](/help/assets/vegas_online_check_in.jpg)
-
-|簡訊| || |電子郵件|{{profile.person.name.firstName}}，您已登入，現在請查看您的優惠方案！||
 
 >[!TAB SMS訊息]
 
