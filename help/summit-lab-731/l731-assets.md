@@ -9,10 +9,10 @@ recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
 exl-id: ffc5e8c8-8729-4e7e-aa51-d74f91b0cf29
-source-git-commit: 55d91b1ebe1b55a2c0a7d2a7e4ff1a63187b7fdf
+source-git-commit: 8e9f7460410a117031598096d81eabd3090647af
 workflow-type: tm+mt
-source-wordcount: '325'
-ht-degree: 40%
+source-wordcount: '327'
+ht-degree: 39%
 
 ---
 
@@ -65,7 +65,7 @@ ht-degree: 40%
 | 促銷活動名稱 | `<your seat number> March Vegas Campaign` |  |
 | 符合 | 布恩 |  |
 | 媒體 URL 選項 |  | https://mcfadyen.com/wp-content/uploads/2023/01/Adobe-Summit-2023-Banner.png |
-| 標題 | 正在發生，而且是線上即時！ |  |
+| 標題 | 正在發生且正在運行！ |  |
 | 內文 | Adobe Summit 將於 2023 年 3 月 21 日至 23 日重返拉斯維加斯。準備好迎接鼓舞人心的演講者、技能擴展會議以及認識新的人。 |  |
 | 按鈕 | 立即預訂酒店並節省 10% 費用 | lab://booking?suite=presidential&amp;discount=10 |
 | 按鈕：互動式事件 | 應用程式內CTA |  |
