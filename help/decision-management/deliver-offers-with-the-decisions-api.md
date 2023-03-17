@@ -1,15 +1,15 @@
 ---
 title: 使用 Decisions Hub API 傳遞優惠方案
-description: 了解如何使用Decisions API提供決策管理優惠方案。
+description: 瞭解如何使用 Decisions API 傳遞決策管理優惠方案。
 role: Developer
 feature: Offers
 kt: 6819
 thumbnail: 329919.jpg
 exl-id: 3084c52b-adc8-42bc-a203-5e39bcff77ef
 source-git-commit: 11392272ba2de149e10f38d7aba6f8bebb4011d4
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '155'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
