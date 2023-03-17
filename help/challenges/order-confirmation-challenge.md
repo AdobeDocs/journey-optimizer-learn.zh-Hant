@@ -8,9 +8,9 @@ level: Beginner
 last-substantial-update: 2023-02-01T00:00:00Z
 exl-id: ec86e2ac-081d-47aa-a948-007107baa2b4
 source-git-commit: f7bfe367411f2bae23631ac4ecb34ad1d250381c
-workflow-type: tm+mt
-source-wordcount: '657'
-ht-degree: 93%
+workflow-type: ht
+source-wordcount: '654'
+ht-degree: 100%
 
 ---
 
@@ -25,11 +25,11 @@ ht-degree: 93%
 | 所需技能 | <ul><li>[使用訊息編輯器建立電子郵件內容](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/create-content-with-the-email-designer.html?lang=zh-Hant)</li> <li>[使用內容事件資訊進行個人化](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/use-contextual-event-information-for-personalization.html?lang=zh-Hant)</li><li>[使用協助程式功能進行個人化](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/use-helper-functions-for-personalization.html?lang=zh-Hant)</li></ul> |
 | 要下載的資產 | [訂購確認資產](/help/challenges/assets/email-assets/order-confirmation-assets.zip) |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 ## 故事
 
-Luma正在推出線上商店，希望確保提供良好的客戶體驗。 客戶下訂單後，他們會提供訂單確認電子郵件。
+Luma 正在推出線上商店，希望確保提供良好的客戶體驗。 客戶下訂單後，他們會提供訂單確認電子郵件。
 
 ## 您的挑戰
 
@@ -41,9 +41,9 @@ Luma正在推出線上商店，希望確保提供良好的客戶體驗。 客戶
 
 1. 建立名為`Luma - Order Confirmation`的歷程。
 
-1. 使用事件： `LumaOnlinePurchase`.
+1. 使用事件：`LumaOnlinePurchase`。
 
-1. 建立 **異動**  電子郵件 `Luma - Order Confirmation`.
+1. 建立名為`Luma - Order Confirmation`的&#x200B;**異動**&#x200B;電子郵件。
 
    * 主旨列為「感謝您的購買， `FirstName`」
 
@@ -58,7 +58,7 @@ Luma正在推出線上商店，希望確保提供良好的客戶體驗。 客戶
 <tr>
 <td>
   <div>
-     <strong> 標題區段</strong>
+     <strong>標題區段</strong>
       </div>
   </td>
   <td>
@@ -71,8 +71,8 @@ Luma正在推出線上商店，希望確保提供良好的客戶體驗。 客戶
   <tr>
   <td>
   <div>
-    <strong>訂單確認部分
-    </strong>
+    <strong>訂購確認區段
+ </strong>
   </td>
   <td>
     <p>
@@ -104,7 +104,7 @@ Luma正在推出線上商店，希望確保提供良好的客戶體驗。 客戶
  <tr>
 <td>
   <div>
-     <strong>訂單詳細資訊部分</strong>
+     <strong>訂購詳細資訊區段</strong>
       </div>
        <p><li>將此區段新增至<b>收貨方</b>區段下方。
       </p><br>
