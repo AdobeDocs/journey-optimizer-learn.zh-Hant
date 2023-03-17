@@ -1,19 +1,19 @@
 ---
-title: Journey Optimizer挑戰 — 簡介和先決條件
-description: 挑戰提供了實施您所學知識所需的情境和要求。每個挑戰都說明了您實作的獨特使用案例。
+title: Journey Optimizer 挑戰 - 簡介和先決條件
+description: 挑戰提供了實施您所學知識所需的情境和要求。 每個挑戰都說明了您所實施的獨特使用案例。
 feature: Journeys
 role: Admin
 level: Beginner
 last-substantial-update: 2023-02-01T00:00:00Z
 exl-id: 87a79560-c098-4e72-abec-6b750ec730ee
 source-git-commit: aaf273b8b6fe0a5f33c132cc0113ec2460152349
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '475'
-ht-degree: 81%
+ht-degree: 100%
 
 ---
 
-# Journey Optimizer挑戰 — 簡介和先決條件
+# Journey Optimizer 挑戰 - 簡介和先決條件
 
 ![AJO 挑戰橫幅](./assets/ajo-banner-challenges.png)
 
@@ -23,13 +23,13 @@ ht-degree: 81%
 
 ## 先決條件
 
-確認符合下列必要條件。
+確認是否符合下列先決條件。
 
 ### 系統需求
 
-* 存取Journey Optimizer沙箱 — 建議您在專屬的訓練沙箱中完成挑戰。
-* AEM Assets Essentials必須布建給您的執行個體。
-* 必須為異動及行銷訊息設定電子郵件頻道.
+* 存取 Journey Optimizer 沙箱 - 建議您在專屬的訓練沙箱中完成挑戰。
+* 必須為您的執行個體佈建 AEM Assets Essentials。
+* 必須為異動及行銷訊息設定電子郵件頻道。
 
 ### 存取權
 
@@ -43,7 +43,7 @@ ht-degree: 81%
 
 ### 必要的動作
 
-* 如果您是Adobe Journey Optimizer的新手，請完成本課程 [歷程管理員和管理員專用Journey Optimizer快速入門](https://experienceleague.adobe.com/docs/courses/using/journeyoptimizer-u-1-2022-1-1-0.html?lang=zh-Hant).
+* 如果您剛接觸 Adobe Journey Optimizer，請完成本課程[歷程管理員和管理員專屬 Journey Optimizer 快速入門](https://experienceleague.adobe.com/docs/courses/using/journeyoptimizer-u-1-2022-1-1-0.html?lang=zh-Hant)。
 
 ## 故事
 
@@ -88,7 +88,7 @@ Luma 正尋求推廣其最新的服裝和用具系列，並努力推動現有客
     </a>
     </div>
     <p>
-    <em>當忠誠度客戶移至新層級時，請傳送電子郵件，祝賀並告知他們新的優點。</em>
+    <em>當忠誠客戶移至新階層時，請傳送電子郵件，祝賀並告知他們新的權益。</em>
     <p>
     <b>所需技能：</b>
       <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html?lang=zh-Hant"> 建立區段</li>
