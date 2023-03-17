@@ -6,9 +6,9 @@ breadcrumb-url: /docs/journey-optimizer-learn/challenges/introduction-and-prereq
 index: false
 hide: true
 source-git-commit: 4fbb578555827ead66aa0d908b70a61f9280516a
-workflow-type: ht
-source-wordcount: '55'
-ht-degree: 100%
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
