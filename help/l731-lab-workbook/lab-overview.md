@@ -8,7 +8,7 @@ level: Advanced
 recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
-source-git-commit: 84d1ad8ed2ffa48ccdd5cb8faac1079a98f33c7f
+source-git-commit: 675f402b8c2ad8511736bbb683922fc07763e247
 workflow-type: tm+mt
 source-wordcount: '108'
 ht-degree: 0%
@@ -19,6 +19,7 @@ ht-degree: 0%
 # L731 — 透過Journey Optimizer建立個人化行動時刻
 
 ## 實驗概述
+
 在此實作實驗中，您將學習如何實作多管道行銷策略，其中包括應用程式內、推播通知、簡訊，以及電子郵件訊息促銷活動和Adobe Journey Optimizer歷程。
 
 ## 主要優點
