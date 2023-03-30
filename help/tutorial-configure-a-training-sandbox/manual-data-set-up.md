@@ -8,10 +8,10 @@ role: Admin
 level: Beginner
 recommendations: noDisplay, noCatalog
 exl-id: de870229-d9a6-4051-9f76-13d402cce3b4
-source-git-commit: f7bfe367411f2bae23631ac4ecb34ad1d250381c
+source-git-commit: b91d6ccdb54213873b91b7ffa9d95d7cb5261ee8
 workflow-type: tm+mt
-source-wordcount: '1020'
-ht-degree: 100%
+source-wordcount: '1021'
+ht-degree: 98%
 
 ---
 
@@ -245,7 +245,7 @@ ht-degree: 100%
    | `size` | `Product Size` | [!UICONTROL 字串] |
    | `price` | `Product Price` | [!UICONTROL 雙倍] |
    | `description` | `Product Description` | [!UICONTROL 字串] |
-   | `imageURL` | `Product Image URL` | [!UICONTROL 字串] |
+   | `imageUrl` | `Product Image URL` | [!UICONTROL 字串] |
    | `stockQuantity` | `Product Stock Quantity` | [!UICONTROL 字串] |
    | `url` | `Product URL` | [!UICONTROL 字串] |
 
@@ -345,4 +345,4 @@ ht-degree: 100%
 
 ## 後續步驟
 
-現在您已建立資料結構，您[建立資料集和內嵌範例資料](/help/tutorial-configure-a-training-sandbox/manual-data-ingestion.md)。
+現在您已建立資料結構，便可以 [建立資料集和內嵌範例資料](/help/tutorial-configure-a-training-sandbox/manual-data-ingestion.md).
