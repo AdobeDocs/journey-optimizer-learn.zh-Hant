@@ -1,24 +1,24 @@
 ---
-title: 練習1.1
-description: 下載並安裝行動應用程式
+title: 練習 1.1
+description: 下載並安裝應用程式
 feature: In App, SMS, Push, Email
 doc-type: article
 role: User
 recommendations: noDisplay, noCatalog
 hide: true
 source-git-commit: c3f1e87ad556d630d03a359408edb7c23f1cf3e9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '121'
-ht-degree: 4%
+ht-degree: 100%
 
 ---
 
 
-# 練習1.1:下載並安裝行動應用程式
+# 練習 1.1 - 下載並安裝應用程式
 
-我們為本實驗室建立了移動酒店預訂應用。 它可讓您以客戶身分互動並體驗使用者歷程。
+我們為本實驗建立了行動旅館預訂應用程式。 它可讓您以客戶身分進行互動並體驗使用者歷程。
 
-掃描QR碼以下載應用程式
+掃描 QR 碼以下載應用程式
 
 >[!BEGINTABS]
 
@@ -26,20 +26,20 @@ ht-degree: 4%
 
 ![適用於 iOS 的 QR 碼](/help/assets/lab731-ios-qr-code.png)
 
-系統會要求您安裝Testflight。 安裝Testflight後，請按照步驟安裝Vegas Stay App:
+系統會要求您安裝 Testflight。 於安裝 Testflight 後，請按照步驟安裝 Vegas Stay 應用程式：
 
-![安裝iOS的步驟](/help/assets/lab731-install-ios.png)
+![iOS 安裝步驟](/help/assets/lab731-install-ios.png)
 
 >[!TAB Android;]
 
-![Android適用的QR碼](/help/assets/lab731-android-qr-code.png)
+![適用於 Android 的 QR 碼](/help/assets/lab731-android-qr-code.png)
 
-如果您使用Android模擬器，請使用此連結： [https://ajolab.s3.amazonaws.com/ajolabapp-release.apk](https://ajolab.s3.amazonaws.com/ajolabapp-release.apk)
+如果您使用 Android 模擬器，請使用此連結：[https://ajolab.s3.amazonaws.com/ajolabapp-release.apk](https://ajolab.s3.amazonaws.com/ajolabapp-release.apk)
 
-由於應用程式未在Google Play商店註冊，因此您會收到警告訊息：
+由於應用程式未於 Google Play 商店註冊，因此您會收到警告訊息：
 
-![Android警告畫面](/help/assets/lab731-install-android.png)
+![Android 警告畫面](/help/assets/lab731-install-android.png)
 
-按一下 **仍要安裝**
+按一下&#x200B;**仍要安裝**
 
 >[!ENDTABS]
