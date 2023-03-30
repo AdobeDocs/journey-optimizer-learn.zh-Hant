@@ -10,9 +10,9 @@ hide: true
 hidefromtoc: true
 exl-id: ffc5e8c8-8729-4e7e-aa51-d74f91b0cf29
 source-git-commit: a3ac293c29e9965344c518215c2f034caa41557e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '357'
-ht-degree: 52%
+ht-degree: 100%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 52%
 
 ## 練習 1.1 - 下載並安裝應用程式
 
-掃描QR碼以下載應用程式
+掃描 QR 碼以下載應用程式
 
 >[!BEGINTABS]
 
@@ -30,7 +30,7 @@ ht-degree: 52%
 
 ![適用於 iOS 的 QR 碼](/help/assets/lab731-ios-qr-code.png)
 
-系統會要求您安裝Testflight，步驟1至4。 安裝Testflight後，請按照步驟5到8安裝Vegas Stay App:
+系統會要求您安裝 Testflight，步驟 1 至 4。 安裝 Testflight 後，請按照步驟 5 到 8 安裝 Vegas Stay 應用程式：
 
 <table>
 <tr>
@@ -92,7 +92,7 @@ ht-degree: 52%
  <div>
       <p>
       <a>
-      <b>步驟6 </b>
+     <b>步驟 6 </b>
       <p>
         <img alt="testflight 1" src="../assets/l731-ios-install/ios-install-6.PNG"/>
       </a>
@@ -102,7 +102,7 @@ ht-degree: 52%
  <div>
       <p>
       <a>
-      <b>步驟7 </b>
+      <b>步驟 7 </b>
       <p>
         <img alt="testflight 1" src="../assets/l731-ios-install/ios-install-7.PNG"/>
       </a>
@@ -112,7 +112,7 @@ ht-degree: 52%
  <div>
       <p>
       <a>
-      <b>步驟8 </b>
+      <b>步驟 8 </b>
       <p>
         <img alt="testflight 1" src="../assets/l731-ios-install/ios-install-8.PNG"/>
       </a>
@@ -123,15 +123,15 @@ ht-degree: 52%
 
 >[!TAB Android]
 
-![Android適用的QR碼](/help/assets/lab731-android-qr-code.png)
+![適用於 Android 的 QR 碼](/help/assets/lab731-android-qr-code.png)
 
-如果您使用Android模擬器，請使用此連結： [https://ajolab.s3.amazonaws.com/ajolabapp-release.apk](https://ajolab.s3.amazonaws.com/ajolabapp-release.apk)
+如果您使用 Android 模擬器，請使用此連結：[https://ajolab.s3.amazonaws.com/ajolabapp-release.apk](https://ajolab.s3.amazonaws.com/ajolabapp-release.apk)
 
-由於應用程式未在Google Play商店註冊，因此您會收到警告訊息：
+由於應用程式未於 Google Play 商店註冊，因此您會收到警告訊息：
 
-![Android警告畫面](/help/assets/lab731-install-android.png)
+![Android 警告畫面](/help/assets/lab731-install-android.png)
 
-按一下 **仍要安裝**
+按一下&#x200B;**仍要安裝**
 
 >[!ENDTABS]
 
@@ -141,8 +141,8 @@ ht-degree: 52%
 
 **登入詳細資料：**
 
-* **用戶名：** `L731+<your seat number>@summitlab.us` (範例：L731+001@summitlab.us)
-* **密碼：** Adobe2023!
+* **使用者名稱：**`L731+<your seat number>@summitlab.us`(範例：L731+001@summitlab.us)
+* **密碼：Adobe2023!**
 
 
 ## 練習 2.1 建立應用程式內行銷活動
@@ -152,21 +152,21 @@ ht-degree: 52%
 | 行銷活動名稱 | `<your seat number> March Vegas Campaign` |  |
 | 符合 | 現在預訂 |  |
 | 媒體 URL 選項 |  | https://mcfadyen.com/wp-content/uploads/2023/01/Adobe-Summit-2023-Banner.png |
-| 標題 | 正在發生且正在運行！ |  |
+| 標題 | 正在發生並且就在現場！ |  |
 | 內文 | Adobe Summit 將於 2023 年 3 月 21 日至 23 日重返拉斯維加斯。準備好迎接鼓舞人心的演講者、技能擴展會議以及認識新的人。 |  |
 | 按鈕 | 立即預訂酒店並節省 10% 費用 | lab://booking?suite=presidential&amp;discount=10 |
 | 按鈕：互動式事件 | 應用程式內 CTA |  |
-| 基礎 URL |  | iOS:lab:// <br>Android&amp;:https://lab |
+| 基礎 URL |  | iOS: lab:// <br>Android&amp;: https://lab |
 
 
 ## 第 3 課建立全通路歷程
 
 **歷程標籤：**
-`<your seat number>`  — 歡迎歷程
+`<your seat number>` - 歡迎歷程
 
 >[!BEGINTABS]
 
->[!TAB 推送訊息]
+>[!TAB 推播訊息]
 
 **標籤：**
 歡迎訊息
@@ -177,7 +177,7 @@ ht-degree: 52%
 **內文:**\
 免排隊並使用行動應用程式辦理登記入住手續
 
-**深層連結：** iOS:lab://,Android&amp;:https://lab
+**深層連結：** iOS: lab://, Android&amp;: https://lab
 
 **媒體:**
 
@@ -188,20 +188,20 @@ https://experienceleague.adobe.com/docs/journey-optimizer-learn/assets/vegas_onl
 
 ![線上登記入住](/help/assets/vegas_online_check_in.jpg)
 
->[!TAB SMS訊息]
+>[!TAB SMS 訊息]
 
 **標籤：**
 歡迎訊息
 
 **訊息：**
-歡迎來維加斯逗留。 免排隊並使用行動應用程式辦理登記入住手續：lab://checkin
+迎來到 Vegas Stay。 免排隊並使用行動應用程式辦理登記入住手續：lab://checkin
 
 >[!TAB 電子郵件訊息]
 
 **標籤：**
 確認訊息
 
-**主旨行：**
-{{profile.person.name.firstName}}，您已登入，現在請查看我們的優惠方案以供您入住！
+**主旨列：**
+{{profile.person.name.firstName}}，您已辦理入住手續，現在請查看我們的住宿優惠！
 
 >[!ENDTABS]
