@@ -9,7 +9,7 @@ team: PM
 role: Admin
 last-substantial-update: 2022-09-28T00:00:00Z
 exl-id: f4979b56-ee11-45f6-b538-b93a94f6ac41
-source-git-commit: e1dc0c6b12812854368bba162eea4747a3d76db3
+source-git-commit: b2afc28f82967324ebed0ee17e291e83c85c3a4c
 workflow-type: tm+mt
 source-wordcount: '109'
 ht-degree: 100%
@@ -27,6 +27,6 @@ ht-degree: 100%
 >
 >從 Journey Optimizer 存取警報時，預設情況下只會顯示您即時歷程的特定警報。
 
->[!VIDEO](https://video.tv.adobe.com/v/336218?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/336218?quality=12&learn=on)
 
 如需詳細資訊，請參閱[產品文件](https://experienceleague.adobe.com/docs/journey-optimizer/using/reporting/alerts.html?lang=zh-Hant)。

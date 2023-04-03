@@ -9,7 +9,7 @@ team: PM
 role: User
 level: Beginner
 exl-id: 38be6d24-2760-4fb4-b5d4-c9be53419e6e
-source-git-commit: 55cb22765457ad34f7deb45114d06aaa5c4466fc
+source-git-commit: b2afc28f82967324ebed0ee17e291e83c85c3a4c
 workflow-type: tm+mt
 source-wordcount: '56'
 ht-degree: 100%
@@ -20,4 +20,4 @@ ht-degree: 100%
 
 瞭解業務事件的適用使用案例。 瞭解如何使用業務事件建立歷程，以及套用哪些最佳實務。
 
->[!VIDEO](https://video.tv.adobe.com/v/334234?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/334234?quality=12&learn=on)

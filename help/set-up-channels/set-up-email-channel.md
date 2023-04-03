@@ -11,7 +11,7 @@ level: Beginner
 exl-id: 8b96e3b0-84f4-4aa8-b2f5-1bf30e3e4106
 hide: true
 hidefromtoc: true
-source-git-commit: cba8982f4be9c60ab1d9efe9a6009033369f10a3
+source-git-commit: b2afc28f82967324ebed0ee17e291e83c85c3a4c
 workflow-type: tm+mt
 source-wordcount: '52'
 ht-degree: 100%
@@ -22,4 +22,4 @@ ht-degree: 100%
 
 瞭解如何建立訊息預設集、如何使用這些預設集，以及如何委派子網域和建立 IP 集區。
 
->[!VIDEO](https://video.tv.adobe.com/v/334343?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/334343?quality=12&learn=on)
