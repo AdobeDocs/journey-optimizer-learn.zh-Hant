@@ -7,9 +7,9 @@ level: Beginner
 last-substantial-update: 2023-02-01T00:00:00Z
 exl-id: 87a79560-c098-4e72-abec-6b750ec730ee
 source-git-commit: b91d6ccdb54213873b91b7ffa9d95d7cb5261ee8
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '482'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -29,7 +29,7 @@ ht-degree: 96%
 
 * 存取 Journey Optimizer 沙箱 - 建議您在專屬的訓練沙箱中完成挑戰。
 * 必須為您的執行個體佈建 AEM Assets Essentials。
-* 此 [必須設定電子郵件通道](https://experienceleague.adobe.com/docs/journey-optimizer/using/configuration/channel-surfaces.html) （適用於交易式和行銷訊息）。
+* 必須為異動及行銷訊息[設定電子郵件頻道](https://experienceleague.adobe.com/docs/journey-optimizer/using/configuration/channel-surfaces.html?lang=zh-Hant)。
 
 ### 存取權
 
