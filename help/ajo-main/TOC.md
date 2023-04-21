@@ -2,10 +2,10 @@
 user-guide-title: Journey Optimizer 教學課程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 這些是 Journey Optimizer 教學課程。
-source-git-commit: a2bb2d9aa79887aad8b891e6460ecacf1b6536c7
+source-git-commit: 3a70dc06dee3e0e35557455ca0aa933873f787fe
 workflow-type: tm+mt
-source-wordcount: '331'
-ht-degree: 99%
+source-wordcount: '321'
+ht-degree: 97%
 
 ---
 
@@ -74,16 +74,11 @@ ht-degree: 99%
    + [對應身分](/help/set-up-data/map-identities.md)
    + [建立資料集並內嵌資料](/help/set-up-data/create-datasets-and-ingest-data.md)
    + [設定來源連接器](/help/set-up-data/configure-source-connectors.md)
+   + [將資料集匯出至雲端儲存位置](/help/set-up-data/export-datasets.md)
 + 報告和監視 {#report-and-monitor}
    + [即時和全域報告](/help/report-and-monitor/live-and-global-reports.md)
    + [使用警示](/help/administration/alerts.md)
 + 設定 {#configuration}
-   + 設定資料 {#data-configuration}
-      + [概覽](/help/set-up-data/set-up-data-overview.md)
-      + [建立方案](/help/set-up-data/create-schema.md)
-      + [對應身分](/help/set-up-data/map-identities.md)
-      + [建立資料集並內嵌資料](/help/set-up-data/create-datasets-and-ingest-data.md)
-      + [設定來源連接器](/help/set-up-data/configure-source-connectors.md)
    + 設定通道 {#channel-configuration}
       + [設定電子郵件頻道](/help/set-up-channels/set-up-email-channel.md)
       + [委派 CName 子網域](/help/set-up-channels/delegate-cname-subdomains.md)
