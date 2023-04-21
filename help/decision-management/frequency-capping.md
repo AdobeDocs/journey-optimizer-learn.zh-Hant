@@ -1,6 +1,6 @@
 ---
 title: 決策管理 - 頻率限定
-description: 了解 Offer Decisioning 的頻率限定如何運作。了解如何設定自訂事件的頻率限定，以及如何透過定義頻率來設定增量。
+description: 了解 Offer decisioning 的頻率限定運作方式。 了解如何為自訂事件設定頻率限定，以及如何透過定義頻率來設定增量。
 feature: Offers
 role: User
 level: Beginner
@@ -18,6 +18,6 @@ ht-degree: 100%
 
 # 決策管理 - 頻率限定
 
-了解 Offer Decisioning 的頻率限定如何運作。了解如何設定自訂事件的頻率限定，以及如何透過定義頻率來設定增量。
+了解 Offer decisioning 的頻率限定運作方式。 了解如何為自訂事件設定頻率限定，以及如何透過定義頻率來設定增量。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3417853/?quality=12&learn=on)
