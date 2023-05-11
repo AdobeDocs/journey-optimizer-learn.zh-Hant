@@ -3,9 +3,9 @@ user-guide-title: Journey Optimizer 教學課程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 這些是 Journey Optimizer 教學課程。
 source-git-commit: 58333495c7a4fba108f171b28a977cdb8f36b758
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '331'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -44,7 +44,7 @@ ht-degree: 95%
 + 簡訊頻道{#sms-channel}
    + [編寫及傳遞簡訊訊息](/help/channels/author-and-deliver-sms-messages.md)
    + [簡訊傳入關鍵字支援](/help/channels/inbound-keyword-support-for-sms.md)
-+ Web頻道 {#web-channel}
++ 網路頻道{#web-channel}
    + [建立網路行銷活動](/help/channels/create-a-web-campaign.md)
    + [製作網路行銷活動](/help/channels/author-a-web-campaign.md)
 + 客戶設定檔、區段和訂閱 {#profiles-segments-subscriptions}
@@ -77,7 +77,7 @@ ht-degree: 95%
    + [對應身分](/help/set-up-data/map-identities.md)
    + [建立資料集並內嵌資料](/help/set-up-data/create-datasets-and-ingest-data.md)
    + [設定來源連接器](/help/set-up-data/configure-source-connectors.md)
-   + [將資料集匯出至雲端儲存位置](/help/set-up-data/export-datasets.md)
+   + [將資料集匯出至雲端儲存空間位置](/help/set-up-data/export-datasets.md)
 + 報告和監視 {#report-and-monitor}
    + [即時和全域報告](/help/report-and-monitor/live-and-global-reports.md)
    + [使用警示](/help/administration/alerts.md)
