@@ -6,10 +6,10 @@ role: User
 level: Beginner
 last-substantial-update: 2023-02-01T00:00:00Z
 exl-id: ae457be7-2c67-4950-a072-1d7030b0e17b
-source-git-commit: f7bfe367411f2bae23631ac4ecb34ad1d250381c
+source-git-commit: 1cde681f2604982ddcdc68fc6cb7b6e9186b6d8f
 workflow-type: tm+mt
-source-wordcount: '1175'
-ht-degree: 100%
+source-wordcount: '1126'
+ht-degree: 98%
 
 ---
 
@@ -140,7 +140,6 @@ stringCompare("equals", loyalty.tier, ["diamond", "gold", "platinum", "silver"],
 結果:
 
 * 主旨列應為：Louise，新的 Luma 系列已推出！
-* 電子郵件內文應與您在預覽中看到的內容相符：[新的季節性系列發佈](/help/challenges/assets/email-assets/SeasonalCollectionEmail.html)
 
 **電子郵件 #2 - Luma 男士系列**
 
@@ -149,11 +148,11 @@ stringCompare("equals", loyalty.tier, ["diamond", "gold", "platinum", "silver"],
 1. 新增測試設定檔：Stanleigh Stooke：
    * 身分命名空間：*Luma CRM ID*
    * 身分值：`4f34057d9d9e792c28ba18ecae378e98`
-1. 選取測試設定檔：Stanleigh Stooke。
-1. 向自己傳送一份證明。
+2. 選取測試設定檔：Stanleigh Stooke。
+3. 向自己傳送一份證明。
 
 結果:\
-您應會收到電子郵件。 主旨列應為 *Stanleigh，探索男士新運動用具！* 和電子郵件內文應與您在預覽中看到的內容相符：[Luma 男士系列](/help/challenges/assets/email-assets/MensCollectionEmail.html)
+您應會收到電子郵件。 主旨列應為 *Stanleigh，探索男士新運動用具！* 電子郵件正文應與您在預覽中看到的內容相匹配。
 
 >[!NOTE]
 >你可能需要幾分鐘才能收到證明。
@@ -163,14 +162,12 @@ stringCompare("equals", loyalty.tier, ["diamond", "gold", "platinum", "silver"],
 使用測試設定檔預覽電子郵件 *Louise Petti。*
 
 * 主旨列應為： *Louise，探索 Luma 女士系列！*
-* 電子郵件內文應與您在預覽中看到的內容相符： [Luma 女士系列](/help/challenges/assets/email-assets/WomensCollectionEmail.html)
 
 **電子郵件訊息 #4 - Luma 八折系列**
 
 使用測試設定檔預覽電子郵件 *Louise Petti。*
 
 * 主旨列應為： *Louise，享受八折優惠！*
-* 電子郵件內文應與您在預覽中看到的內容相符： [Luma 八折系列](/help/challenges/assets/email-assets/20OOffCollectionEmail.html)
 
 #### 測試您的歷程
 
@@ -180,13 +177,15 @@ stringCompare("equals", loyalty.tier, ["diamond", "gold", "platinum", "silver"],
 >
 >1. 請確定[!UICONTROL 閱讀區段活動]命名空間已設為 **Luma CRM id(lumaCrmId)**
 >1. 對於每封電子郵件，覆寫電子郵件的預設電子郵件參數，以便將其傳送至您的電子郵件地址：
->    * 按一下眼睛符號來顯示隱藏的值。
->    * 在電子郵件參數中，按一下 T 符號 (啟用參數覆寫)。
->
->      ![覆寫電子郵件參數](/help/challenges/assets/c3-override-email-paramters.jpg)
-> 
->    * 按一下[!UICONTROL 地址]欄位
->    * 在下一個畫面中，以括弧新增您的電子郵件地址：運算式編輯器中的`"yourname@yourdomain"`，按一下「確定」。
+   >    * 按一下眼睛符號來顯示隱藏的值。
+   >    * 在電子郵件參數中，按一下 T 符號 (啟用參數覆寫)。
+
+      >
+      >      ![覆寫電子郵件參數](/help/challenges/assets/c3-override-email-paramters.jpg)
+   > 
+   >    * 按一下[!UICONTROL 地址]欄位
+   >    * 在下一個畫面中，以括弧新增您的電子郵件地址：運算式編輯器中的`"yourname@yourdomain"`，按一下「確定」。
+
 >
 
 
