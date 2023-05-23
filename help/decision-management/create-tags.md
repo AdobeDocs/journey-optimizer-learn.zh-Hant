@@ -5,9 +5,9 @@ feature: Offers
 kt: 6753
 thumbnail: 329374.jpg
 exl-id: 155a35bf-8704-4e85-8647-479aecd2a9ce
-source-git-commit: 11392272ba2de149e10f38d7aba6f8bebb4011d4
+source-git-commit: 042837da01abdb2859b3d149770e5db6381bd021
 workflow-type: tm+mt
-source-wordcount: '105'
+source-wordcount: '80'
 ht-degree: 100%
 
 ---
@@ -20,6 +20,4 @@ ht-degree: 100%
 
 要瞭解有關如何使用 API 建立標籤的詳細資訊，請參閱[產品指南](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/api-reference/offers-api/tags/create.html?lang=zh-Hant)
 
->[!INFO]
->
-> 此影片是[行銷人員決策管理快速入門課程](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning?lang=zh-Hant)的一部分，可在 Experience League 中免費使用！
+{{experienceplatform-u-1-2020-1-offerdecisioning}}
