@@ -5,18 +5,18 @@ source-wordcount: '82'
 ht-degree: 10%
 
 ---
-# AJO片段
+# AJO代碼片段
 
-## 課程為管理員配置Journey Optimizer {#journeyoptimizer-a-1-2021-1}
-
->[!INFO]
->
-> 這段視頻是課程的一部分 [為管理員配置Journey Optimizer](https://experienceleague.adobe.com/docs/courses/using/journeyoptimizer-a-1-2021-1.html)，免費Experience League!
-
-## 課程面向營銷人員的決策管理入門 {#experienceplatform-u-1-2020-1-offerdecisioning}
+## 為管理員設定Journey Optimizer的課程 {#journeyoptimizer-a-1-2021-1}
 
 >[!INFO]
 >
-> 這段視頻是課程的一部分 [課程面向營銷人員的決策管理入門](https://experienceleague.adobe.com/docs/courses/using/experienceplatform-u-1-2020-1-offerdecisioning.html?lang=zh-Hant)，免費Experience League!
+> 本影片是課程的一部分 [為管理員設定Journey Optimizer](https://experienceleague.adobe.com/docs/courses/using/journeyoptimizer-a-1-2021-1.html)，免費Experience League！
 
-## Journey Administrators和Managers的Journey Optimizer入門課程 {#}
+## 行銷人員決策管理快速入門 {#experienceplatform-u-1-2020-1-offerdecisioning}
+
+>[!INFO]
+>
+> 本影片是課程的一部分 [行銷人員決策管理快速入門](https://experienceleague.adobe.com/docs/courses/using/experienceplatform-u-1-2020-1-offerdecisioning.html?lang=zh-Hant)，免費Experience League！
+
+## 歷程管理員專用Journey Optimizer快速入門 {#}

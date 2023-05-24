@@ -152,7 +152,7 @@ stringCompare("equals", loyalty.tier, ["diamond", "gold", "platinum", "silver"],
 3. 向自己傳送一份證明。
 
 結果:\
-您應會收到電子郵件。 主旨列應為 *Stanleigh，探索男士新運動用具！* 電子郵件正文應與您在預覽中看到的內容相匹配。
+您應會收到電子郵件。 主旨列應為 *Stanleigh，探索男士新運動用具！* 和電子郵件內文應與您在預覽中看到的內容相符。
 
 >[!NOTE]
 >你可能需要幾分鐘才能收到證明。
