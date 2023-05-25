@@ -2,10 +2,10 @@
 user-guide-title: Journey Optimizer 教學課程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 這些是 Journey Optimizer 教學課程。
-source-git-commit: 5d7f2e530af5f1aa3c756c2f10bcc3488a71a7fc
+source-git-commit: 6a490db336065781dea510d25c3bf9fc8e0b3181
 workflow-type: tm+mt
-source-wordcount: '336'
-ht-degree: 98%
+source-wordcount: '342'
+ht-degree: 96%
 
 ---
 
@@ -23,6 +23,7 @@ ht-degree: 98%
    + [為開發人員提供的行動裝置功能](/help/channels/mobile-capabilities-for-developers.md)
 + 行銷活動 {#create-campaigns}
    + [建立行銷活動](/help/create-campaigns/create-a-campaign.md)
+   + [建立電子郵件行銷活動的內容實驗](/help/create-campaigns/content-experiments.md)
 + 歷程 {#create-journeys}
    + [歷程畫布概述](/help/create-journeys/overview-over-the-journey-canvas.md)
    + [建立歷程簡介](/help/create-journeys/introduction-to-building-a-journey.md)
