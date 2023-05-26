@@ -2,10 +2,10 @@
 user-guide-title: Journey Optimizer 教學課程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 這些是 Journey Optimizer 教學課程。
-source-git-commit: 88c1c616fe8f7de8356358a8fe5cc73153c35afb
+source-git-commit: 917e7bc02046311b731111e3ea54ef34829078a6
 workflow-type: tm+mt
-source-wordcount: '375'
-ht-degree: 92%
+source-wordcount: '380'
+ht-degree: 91%
 
 ---
 
@@ -72,6 +72,7 @@ ht-degree: 92%
    + [建立規則](/help/decision-management/create-rules.md)
    + [建立標籤](/help/decision-management/create-tags.md)
    + [建立個人化優惠](/help/decision-management/create-personalized-offers.md)
+   + [建立個人化排名模型](/help/decision-management/create-a-personalized-ranking-model.md)
    + [建立遞補優惠](/help/decision-management/create-fallback-offers.md)
    + [建立集合](/help/decision-management/create-collections.md)
    + [建立決定](/help/decision-management/create-decisions.md)
