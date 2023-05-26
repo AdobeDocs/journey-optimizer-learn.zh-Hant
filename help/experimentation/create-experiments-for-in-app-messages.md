@@ -1,5 +1,5 @@
 ---
-title: 建立應用程式內訊息的實驗
+title: 建立應用程式內訊息的內容實驗
 description: 瞭解如何設定實驗以A/B測試應用程式內訊息。
 feature: In App, Experimentation
 role: User
@@ -8,15 +8,15 @@ doc-type: Feature Video
 last-substantial-update: 2023-05-25T00:00:00Z
 jira: KT-13341
 thumbnail: 3419898.jpeg
-source-git-commit: 572f0e9bf9f4221597ca655803d0583865df281b
+source-git-commit: 3c5d14fd27b2df28f89b6642ad5749f0ef9d3ce9
 workflow-type: tm+mt
-source-wordcount: '32'
+source-wordcount: '34'
 ht-degree: 0%
 
 ---
 
 
-# 建立應用程式內訊息的實驗
+# 建立應用程式內訊息的內容實驗
 
 瞭解如何設定實驗以A/B測試應用程式內訊息。
 
