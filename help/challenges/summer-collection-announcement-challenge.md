@@ -7,9 +7,9 @@ level: Beginner
 last-substantial-update: 2023-02-01T00:00:00Z
 exl-id: ae457be7-2c67-4950-a072-1d7030b0e17b
 source-git-commit: 1cde681f2604982ddcdc68fc6cb7b6e9186b6d8f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1126'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -152,7 +152,7 @@ stringCompare("equals", loyalty.tier, ["diamond", "gold", "platinum", "silver"],
 3. 向自己傳送一份證明。
 
 結果:\
-您應會收到電子郵件。 主旨列應為 *Stanleigh，探索男士新運動用具！* 和電子郵件內文應與您在預覽中看到的內容相符。
+您應會收到電子郵件。 主旨列應為 *Stanleigh，探索男士新運動用具！* 與電子郵件內文應與您在預覽中看到的內容相符。
 
 >[!NOTE]
 >你可能需要幾分鐘才能收到證明。
