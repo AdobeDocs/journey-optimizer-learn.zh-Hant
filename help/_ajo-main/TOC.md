@@ -2,10 +2,10 @@
 user-guide-title: Journey Optimizer 教學課程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 這些是 Journey Optimizer 教學課程。
-source-git-commit: 42c9b46a628c8655fe56112cd3fad06fcaa8269f
+source-git-commit: f999fc9a893f88b0d1ed7a65c3dc4aebc483a843
 workflow-type: tm+mt
-source-wordcount: '371'
-ht-degree: 92%
+source-wordcount: '382'
+ht-degree: 97%
 
 ---
 
@@ -24,7 +24,7 @@ ht-degree: 92%
 + 行銷活動 {#create-campaigns}
    + [建立行銷活動](/help/create-campaigns/create-a-campaign.md)
    + [建立應用程式內行銷活動](/help/create-campaigns/in-app.md)
-   + [建立網路行銷活動](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/web-channel/create-a-web-campaign.html)
+   + [建立網路行銷活動](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/web-channel/create-a-web-campaign.html?lang=zh-Hant)
    + [建立電子郵件行銷活動的內容實驗](/help/create-campaigns/content-experiments.md)
 + 歷程 {#create-journeys}
    + [歷程畫布概述](/help/create-journeys/overview-over-the-journey-canvas.md)
@@ -100,6 +100,7 @@ ht-degree: 92%
    + [建立動作](/help/set-up-journeys/create-actions.md)
 + 存取控制 {#access-control}
    + [存取管理](/help/set-up-access/access-management.md)
+   + [設定以屬性為基礎的存取控制](https://experienceleague.adobe.com/docs/platform-learn/tutorials/admin/configure-attribute-based-access-control.html)
    + [建立及管理沙箱](/help/set-up-access/create-and-manage-sandboxes.md)
 + 隱私權 {#privacy}
    + [遮罩訊息中的資料](/help/privacy/mask-data-in-messages.md)
