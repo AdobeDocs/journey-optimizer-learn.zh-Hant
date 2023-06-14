@@ -2,9 +2,9 @@
 user-guide-title: Journey Optimizer 教學課程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 這些是 Journey Optimizer 教學課程。
-source-git-commit: f999fc9a893f88b0d1ed7a65c3dc4aebc483a843
+source-git-commit: d755729d2a426e291f6b417546346cbd78900898
 workflow-type: tm+mt
-source-wordcount: '382'
+source-wordcount: '383'
 ht-degree: 97%
 
 ---
@@ -48,8 +48,8 @@ ht-degree: 97%
    + [撰寫應用程式內訊息](/help/channels/author-in-app-messages.md)
    + [設定應用程式內訊息的內容實驗](/help/experimentation/content-experiments-for-in-app-messages.md)
 + 簡訊頻道{#sms-channel}
-   + [編寫及傳遞簡訊訊息](/help/channels/author-and-deliver-sms-messages.md)
-   + [簡訊傳入關鍵字支援](/help/channels/inbound-keyword-support-for-sms.md)
+   + [設定、編寫並傳遞 SMS 訊息](/help/channels/author-sms-messages.md)
+   + [SMS 傳入關鍵字支援](/help/channels/inbound-keyword-support-for-sms.md)
 + 網路頻道{#web-channel}
    + [建立網路行銷活動](/help/channels/create-a-web-campaign.md)
    + [製作網路行銷活動](/help/channels/author-a-web-campaign.md)
