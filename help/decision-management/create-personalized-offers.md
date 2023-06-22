@@ -3,10 +3,10 @@ title: 建立個人化優惠方案
 seo-title: Create personalized offers for decision management
 description: 瞭解如何建立個人化的產品以用於決策管理。 個人化優惠具有與其相關的適用性規則，可協助您僅向相關客戶顯示。
 feature: Offers, Personalization
-kt: 6781
+jira: KT-6781
 thumbnail: 329375.jpg
 exl-id: 03428751-340f-4400-9162-b0f3021f1af1
-source-git-commit: 042837da01abdb2859b3d149770e5db6381bd021
+source-git-commit: 81f5cc22d46f89ee1c7164a92988311ca6036b8b
 workflow-type: ht
 source-wordcount: '114'
 ht-degree: 100%
