@@ -1,12 +1,12 @@
 ---
 title: 建立夏季系列發佈 - 挑戰
 description: 傳送夏季系列發佈至現有客戶區段，以推廣新的 Luma 夏季系列。
-kt: 8109
+jira: KT-8109
 role: User
 level: Beginner
 last-substantial-update: 2023-02-01T00:00:00Z
 exl-id: ae457be7-2c67-4950-a072-1d7030b0e17b
-source-git-commit: 1cde681f2604982ddcdc68fc6cb7b6e9186b6d8f
+source-git-commit: 81f5cc22d46f89ee1c7164a92988311ca6036b8b
 workflow-type: ht
 source-wordcount: '1126'
 ht-degree: 100%
@@ -185,7 +185,6 @@ stringCompare("equals", loyalty.tier, ["diamond", "gold", "platinum", "silver"],
 >    * 按一下[!UICONTROL 地址]欄位
 >    * 在下一個畫面中，以括弧新增您的電子郵件地址：運算式編輯器中的`"yourname@yourdomain"`，按一下「確定」。
 >
-
 
 測試歷程，並將電子郵件傳送至您自己的帳戶：
 
