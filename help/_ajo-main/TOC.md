@@ -3,9 +3,9 @@ user-guide-title: Journey Optimizer 教學課程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 這些是 Journey Optimizer 教學課程。
 source-git-commit: d755729d2a426e291f6b417546346cbd78900898
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '383'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -47,7 +47,7 @@ ht-degree: 97%
    + [建立應用程式內行銷活動](/help/channels/create-an-in-app-campaign.md)
    + [撰寫應用程式內訊息](/help/channels/author-in-app-messages.md)
    + [設定應用程式內訊息的內容實驗](/help/experimentation/content-experiments-for-in-app-messages.md)
-+ 簡訊頻道{#sms-channel}
++ SMS 頻道{#sms-channel}
    + [設定、編寫並傳遞 SMS 訊息](/help/channels/author-sms-messages.md)
    + [SMS 傳入關鍵字支援](/help/channels/inbound-keyword-support-for-sms.md)
 + 網路頻道{#web-channel}
@@ -100,7 +100,7 @@ ht-degree: 97%
    + [建立動作](/help/set-up-journeys/create-actions.md)
 + 存取控制 {#access-control}
    + [存取管理](/help/set-up-access/access-management.md)
-   + [設定以屬性為基礎的存取控制](https://experienceleague.adobe.com/docs/platform-learn/tutorials/admin/configure-attribute-based-access-control.html)
+   + [設定以屬性為基礎的存取控制](https://experienceleague.adobe.com/docs/platform-learn/tutorials/admin/configure-attribute-based-access-control.html?lang=zh-Hant)
    + [建立及管理沙箱](/help/set-up-access/create-and-manage-sandboxes.md)
 + 隱私權 {#privacy}
    + [遮罩訊息中的資料](/help/privacy/mask-data-in-messages.md)
