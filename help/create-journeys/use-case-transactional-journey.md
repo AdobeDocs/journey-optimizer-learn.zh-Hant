@@ -1,6 +1,6 @@
 ---
 title: 使用案例 - 異動歷程
-description: 瞭解異動歷程的適用使用案例，並瞭解如何建立異動歷程。
+description: 了解異動歷程的適用使用案例，以及了解如何建置異動歷程。
 jira: KT-8030
 thumbnail: 334202.jpg
 feature: Journeys
@@ -13,14 +13,14 @@ last-substantial-update: 2023-06-15T00:00:00Z
 hidefromtoc: false
 hide: false
 source-git-commit: 81f5cc22d46f89ee1c7164a92988311ca6036b8b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '38'
-ht-degree: 21%
+ht-degree: 100%
 
 ---
 
 # 使用案例 - 異動歷程
 
-瞭解異動歷程的適用使用案例，並瞭解如何建立異動歷程。
+了解異動歷程的適用使用案例，以及了解如何建置異動歷程。
 
 >[!VIDEO](https://video.tv.adobe.com/v/334202?quality=12&learn=on)
