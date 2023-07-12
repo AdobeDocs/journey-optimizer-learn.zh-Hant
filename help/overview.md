@@ -2,10 +2,13 @@
 title: Journey Optimizer 教學課程 – 概觀
 description: 我們有一系列影片教學課程來向您展示如何獲得 Journey Optimizer 的好處。
 recommendations: noDisplay, noCatalog
+feature: Get Started
+role: User, Developer, Admin, Leader
+level: Beginner, Intermediate, Experienced
 doc-type: overview-page
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: 2a934b9e833f1dde36a995bcd565fca585e320ec
-workflow-type: tm+mt
+source-git-commit: 542ed8b8a55d7f1a2153313c6184b759c68f33e2
+workflow-type: ht
 source-wordcount: '490'
 ht-degree: 100%
 
@@ -25,20 +28,16 @@ Journey Optimizer 協助公司向其客戶傳送連結的、情境式和個人�
 ## 新增功能
 
 * **[使用條件規則產生器建立動態內容](/help/personalize-content/create-dynamic-content.md)**
-
-   *了解如何建立和儲存條件規則，以及如何將這些條件規則套用至所有管道的內容。*
+  *了解如何建立和儲存條件規則，以及如何將這些條件規則套用至所有管道的內容。*
 
 * **[使用警示](/help/administration/alerts.md)**
-
-   *了解如何訂閱預先定義的警示以了解非預期的歷程行為，並透過電子郵件、在 Journey Optimizer 中或使用 API 接獲通知。*
+  *了解如何訂閱預先定義的警示以了解非預期的歷程行為，並透過電子郵件、在 Journey Optimizer 中或使用 API 接獲通知。*
 
 * **[將歷程複製到另一個沙箱](/help/create-journeys/copy-a-journey.md)**
-
-   *了解如何在不同沙箱之間複製歷程及其相依物件。*
+  *了解如何在不同沙箱之間複製歷程及其相依物件。*
 
 * **[遮罩訊息中的資料](/help/privacy/mask-data-in-messages.md)**
-
-   *了解資料遮罩是什麼，以及為何遮罩資料。 了解如何遮罩 Journey Optimizer 訊息中的資料。*
+  *了解資料遮罩是什麼，以及為何遮罩資料。 了解如何遮罩 Journey Optimizer 訊息中的資料。*
 
 </div>
 
@@ -48,12 +47,10 @@ Journey Optimizer 協助公司向其客戶傳送連結的、情境式和個人�
 ## Experience League Live 活動
 
 * **[在 Adobe Journey Optimizer 中執行行銷活動](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-09-22-22.html?lang=zh-Hant)**
-
-   *在這個原定於 2022 年 9 月 22 日進行的「Experience League」現場單元中，請觀看主持人 Sandra Hausmann 和產品專家 Bridgette Darling 以及 Frederic Mary，討論此新功能涵蓋的使用案例，並示範如何輕鬆設定和執行 Journey Optimizer 的行銷活動。*
+  *在這個原定於 2022 年 9 月 22 日進行的「Experience League」現場單元中，請觀看主持人 Sandra Hausmann 和產品專家 Bridgette Darling 以及 Frederic Mary，討論此新功能涵蓋的使用案例，並示範如何輕鬆設定和執行 Journey Optimizer 的行銷活動。*
 
 * **[透過 Adobe Journey Optimizer 推播通知](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-05-12-22.html?lang=zh-Hant)**
-
-   *在本次 Experience League 現場單元，我們討論了透過 Adobe Journey Optimizer 推播通知的常見使用案例及技術詳細資訊，深入了解如何設定 Adobe Experience Platform 支援的推播應用程式。*
+  *在本次 Experience League 現場單元，我們討論了透過 Adobe Journey Optimizer 推播通知的常見使用案例及技術詳細資訊，深入了解如何設定 Adobe Experience Platform 支援的推播應用程式。*
 
 </div>
 
