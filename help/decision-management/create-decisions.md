@@ -3,10 +3,12 @@ title: 建立決定
 description: 瞭解如何為決策管理建立決策。 決策會將您的刊登和收藏合併為一個實體，決策會傳遞最相關的活動內容給客戶。
 feature: Offers
 jira: KT-6791
+role: User
+level: Beginner
 thumbnail: 329606.jpg
 last-substantial-update: 2022-09-30T00:00:00Z
 exl-id: 8921f1b7-ab6a-4a3d-abf9-822af99e4196
-source-git-commit: 81f5cc22d46f89ee1c7164a92988311ca6036b8b
+source-git-commit: 542ed8b8a55d7f1a2153313c6184b759c68f33e2
 workflow-type: ht
 source-wordcount: '106'
 ht-degree: 100%
