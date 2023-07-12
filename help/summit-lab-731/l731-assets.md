@@ -9,10 +9,10 @@ recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
 exl-id: ffc5e8c8-8729-4e7e-aa51-d74f91b0cf29
-source-git-commit: 4c2215615647da8db51914ea48f1af32936ccc57
-workflow-type: ht
-source-wordcount: '357'
-ht-degree: 100%
+source-git-commit: e7deb1d6c57a5b582448542a2679de6aeef44750
+workflow-type: tm+mt
+source-wordcount: '342'
+ht-degree: 92%
 
 ---
 
@@ -125,8 +125,6 @@ ht-degree: 100%
 
 ![適用於 Android 的 QR 碼](/help/assets/lab731-android-qr-code.png)
 
-如果您使用 Android 模擬器，請使用此連結：[https://ajolab.s3.amazonaws.com/ajolabapp-release.apk](https://ajolab.s3.amazonaws.com/ajolabapp-release.apk)
-
 由於應用程式未於 Google Play 商店註冊，因此您會收到警告訊息：
 
 ![Android 警告畫面](/help/assets/lab731-install-android.png)
@@ -149,14 +147,14 @@ ht-degree: 100%
 
 | 欄位 | 文字 | 連結 |
 |----|----|----|
-| 行銷活動名稱 | `<your seat number> March Vegas Campaign` |  |
+| 行銷活動名稱 | `<your seat number> Vegas Stay Campaign` |  |
 | 符合 | 現在預訂 |  |
 | 媒體 URL 選項 |  | https://mcfadyen.com/wp-content/uploads/2023/01/Adobe-Summit-2023-Banner.png |
-| 標題 | 正在發生並且就在現場！ |  |
-| 內文 | Adobe Summit 將於 2023 年 3 月 21 日至 23 日重返拉斯維加斯。準備好迎接鼓舞人心的演講者、技能擴展會議以及認識新的人。 |  |
-| 按鈕 | 立即預訂酒店並節省 10% 費用 | lab://booking?suite=presidential&amp;discount=10 |
+| 標題 | 搶先購買優惠券！ |  |
+| 內文 | Adobe Summit於2024年返回拉斯維加斯。 準備好迎接鼓舞人心的演講者、技能擴展會議以及認識新的人。立即預定套裝，可享受10%優惠。 |  |
+| 按鈕 | 立即預訂 | lab://booking?suite=presidential&amp;discount=10 |
 | 按鈕：互動式事件 | 應用程式內 CTA |  |
-| 基礎 URL |  | iOS: lab:// <br>Android&amp;: https://lab |
+| 基礎 URL |  | **iOS：** lab:// <br>**Android**： https://lab |
 
 
 ## 第 3 課建立全通路歷程
