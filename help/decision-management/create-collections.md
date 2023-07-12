@@ -2,10 +2,12 @@
 title: 建立集合
 description: 瞭解如何為決策管理建立集合。 集合具有與其相關的適用性規則，可幫助您僅向相關客戶顯示。
 feature: Offers
+role: User
+level: Beginner
 jira: KT-6747
 thumbnail: 329376.jpg
 exl-id: a255a0cd-b4ab-46a9-9c49-a4588ae12ea4
-source-git-commit: 81f5cc22d46f89ee1c7164a92988311ca6036b8b
+source-git-commit: 542ed8b8a55d7f1a2153313c6184b759c68f33e2
 workflow-type: ht
 source-wordcount: '74'
 ht-degree: 100%
