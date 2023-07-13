@@ -9,9 +9,9 @@ recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
 exl-id: ffc5e8c8-8729-4e7e-aa51-d74f91b0cf29
-source-git-commit: d44943b27a1681a2f264e762a2eac9d993ce46be
+source-git-commit: c3081f196d271f8b32084b0477639ba0fe889e92
 workflow-type: tm+mt
-source-wordcount: '285'
+source-wordcount: '286'
 ht-degree: 76%
 
 ---
@@ -162,6 +162,6 @@ ht-degree: 76%
 | 欄位 | 文字 | 連結 |
 |----|----|----|
 | 行銷活動名稱 | `<your seat number> Max Push Campaign` |  |
-| 媒體 URL 選項 |  | https://i.ibb.co/NstLhjW/Firefly-Poster-with-heading-Adobe-Max-84773.jpg |
+| 媒體 URL 選項 |  | https://i.ibb.co/1M0BnZn/Firefly-Big-conference-big-stage-with-ADBE-text-on-screen-40178.jpg |
 | 標題 | 嗨！ |  |
 | 內文 | 您知道Adobe·麥克斯要回拉斯維加斯嗎？ 立即預訂您的房間，可享受10%的折扣。 |  |
