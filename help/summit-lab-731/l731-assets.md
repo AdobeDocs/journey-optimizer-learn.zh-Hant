@@ -9,9 +9,9 @@ recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
 exl-id: ffc5e8c8-8729-4e7e-aa51-d74f91b0cf29
-source-git-commit: 152435650d2160fd6def2614d50fc06ade79f24c
+source-git-commit: af22cd4dfe86ade11a88428cd44460fad721942a
 workflow-type: tm+mt
-source-wordcount: '306'
+source-wordcount: '305'
 ht-degree: 71%
 
 ---
@@ -30,10 +30,12 @@ ht-degree: 71%
 
 ![適用於 iOS 的 QR 碼](/help/assets/lab731-ios-qr-code.png)
 
->[!Tip]
+>[!IMPORTANT]
 >
 >若系統詢問兌換代碼，請關閉TestFlight應用程式，並再次掃描二維碼。
->**請允許「通知」。**
+>
+>請允許通知。
+>
 
 系統會要求您安裝 Testflight，步驟 1 至 4。 安裝 Testflight 後，請按照步驟 5 到 8 安裝 Vegas Stay 應用程式：
 
