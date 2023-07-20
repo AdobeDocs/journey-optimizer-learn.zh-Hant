@@ -2,10 +2,10 @@
 user-guide-title: Journey Optimizer 教學課程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 這些是 Journey Optimizer 教學課程。
-source-git-commit: 7dd39b0bc8b2aa17522310d38140afff9bb1e727
+source-git-commit: 88499f15c1019c8f5d9531eb3a0dec3f4c1949a7
 workflow-type: tm+mt
 source-wordcount: '382'
-ht-degree: 98%
+ht-degree: 95%
 
 ---
 
@@ -30,9 +30,9 @@ ht-degree: 98%
    + [歷程畫布概述](/help/create-journeys/overview-over-the-journey-canvas.md)
    + [建立歷程簡介](/help/create-journeys/introduction-to-building-a-journey.md)
    + [使用案例 - 異動歷程](/help/create-journeys/use-case-transactional-journey.md)
-   + [使用案例 - 讀取區段](/help/create-journeys/use-case-read-segment.md)
    + [使用案例 - 業務事件](/help/create-journeys/use-case-business-event.md)
-   + [使用案例 - 區段資格](/help/create-journeys/use-case-read-segment-qualification.md)
+   + [使用案例 — 讀取對象](/help/create-journeys/use-case-read-audience.md)
+   + [使用案例 — 對象資格](/help/create-journeys/use-case-audience-qualification.md)
    + [建立測試設定檔](/help/create-journeys/test-a-journey.md)
    + [發佈歷程](/help/create-journeys/publish-a-journey.md)
    + [將歷程複製到另一個沙箱](/help/create-journeys/copy-a-journey.md)
@@ -59,7 +59,7 @@ ht-degree: 98%
    + [訂閱和登陸頁面](/help/subscriptions-and-landing-pages.md)
 + [Assets Essentials](/help/assets-essentials-overview.md)
 + 個人化內容 {#personalize-content}
-   + [以設定檔和區段成員資格為基礎的個人化](/help/personalize-content/profile-and-segment-membership-based-personalization.md)
+   + [設定檔和受眾成員資格型個人化](/help/personalize-content/profile-and-audience-membership-based-personalization.md)
    + [將優惠新增為個人化](/help/personalize-content/add-offer-decisioning-to-messages.md)
    + [使用內容事件資訊進行個人化](/help/personalize-content/use-contextual-event-information-for-personalization.md)
    + [使用協助程式功能進行個人化](/help/personalize-content/use-helper-functions-for-personalization.md)
@@ -95,9 +95,9 @@ ht-degree: 98%
       + [設定簡訊 API 憑證及頻道介面](/help/set-up-channels/set-up-sms-channel.md)
       + [設定訊息頻率規則](/help/administration/configure-frequency-rules.md)
    + 設定歷程 {#journey-configuration}
-   + [設定資料來源](/help/set-up-journeys/configure-data-sources.md)
-   + [建立事件](/help/set-up-journeys/create-events.md)
-   + [建立動作](/help/set-up-journeys/create-actions.md)
+      + [設定資料來源](/help/set-up-journeys/configure-data-sources.md)
+      + [建立事件](/help/set-up-journeys/create-events.md)
+      + [建立動作](/help/set-up-journeys/create-actions.md)
 + 存取控制 {#access-control}
    + [存取管理](/help/set-up-access/access-management.md)
    + [設定以屬性為基礎的存取控制](https://experienceleague.adobe.com/docs/platform-learn/tutorials/admin/configure-attribute-based-access-control.html?lang=zh-Hant)
