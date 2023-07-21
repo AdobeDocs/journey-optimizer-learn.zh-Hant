@@ -9,10 +9,10 @@ recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
 exl-id: ffc5e8c8-8729-4e7e-aa51-d74f91b0cf29
-source-git-commit: af22cd4dfe86ade11a88428cd44460fad721942a
+source-git-commit: 056965ea13a84a182971b10138e5d9a75522d5c7
 workflow-type: tm+mt
-source-wordcount: '305'
-ht-degree: 71%
+source-wordcount: '326'
+ht-degree: 66%
 
 ---
 
@@ -142,7 +142,7 @@ ht-degree: 71%
 
 ## 練習 1：登入 Adobe Journey Optimizer
 
-[按一下這裡以登入 Journey Optimizer](https://experience.adobe.com/#/@techmarketingdemos/sname:summit-2023-ajo-lab/journey-optimizer/home)
+[按一下這裡以登入 Journey Optimizer](https://experience.adobe.com/#/@techmarketingdemos/sname:summit-2023-ajo-lab/journey-optimizer/home){target="_blank"}
 
 **登入詳細資料：**
 
@@ -152,16 +152,16 @@ ht-degree: 71%
 
 ## 練習 2 建立應用程式內行銷活動
 
-| 欄位 | 文字 | 連結 |
-|----|----|----|
-| 行銷活動名稱 | `<your seat number> Vegas Stay Campaign` |  |
-| 符合 | 現在預訂 |  |
-| 媒體 URL 選項 |  | https://i.ibb.co/NstLhjW/Firefly-Poster-with-heading-Adobe-Max-84773.jpg |
-| 標題 | 搶先購買優惠券！ |  |
-| 內文 | Adobe Max回到拉斯維加斯。 準備好迎接鼓舞人心的演講者、技能擴展會議以及認識新的人。立即預定套裝，可享受10%優惠。 |  |
-| 按鈕 | 享受10%的折扣！ | lab://booking?suite=presidential&amp;discount=10 |
-| 按鈕：互動式事件 | 應用程式內 CTA |  |
-| 基礎 URL 在裝置上預覽時使用 |  | **iOS：** lab:// <br>**Android**： https://lab |
+| 區域 | 欄位 | 文字 | 連結 |
+|----|----|----|----|
+| **屬性** |  | 行銷活動名稱 | `<your seat number> Vegas Stay Campaign` |  |
+| **觸發器** | 狀態 | 現在預訂 |  |
+| **編輯內容：** 媒體 | 媒體 URL 選項 |  | https://i.ibb.co/NstLhjW/Firefly-Poster-with-heading-Adobe-Max-84773.jpg |
+| **編輯內容：** 內容 | 標題 | 搶先購買優惠券！ |  |
+| **編輯內容：** 內容 | 內文 | Adobe Max回到拉斯維加斯。 準備好迎接鼓舞人心的演講者、技能擴展會議以及認識新的人。立即預定套裝，可享受10%優惠。 |  |
+| **編輯內容：** 按鈕 | 按鈕 | 享受10%的折扣！ | lab://booking?suite=presidential&amp;discount=10 |
+| **編輯內容：** 內容 |  | 按鈕：互動事件 | 應用程式內 CTA |  |
+| **在裝置上預覽** |  | 要在裝置上預覽的基本URL |  | **iOS：** lab:// <br>**Android**： https://lab |
 
 
 ## 練習3：建立推播通知
