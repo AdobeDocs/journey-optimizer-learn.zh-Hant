@@ -9,7 +9,7 @@ recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
 exl-id: ffc5e8c8-8729-4e7e-aa51-d74f91b0cf29
-source-git-commit: 2f0412400db4d5bdddbb84d41e8bde17ea2533b2
+source-git-commit: 01869838bb08e0d7848934f345afdd54824aaa75
 workflow-type: tm+mt
 source-wordcount: '325'
 ht-degree: 66%
@@ -144,7 +144,7 @@ ht-degree: 66%
 
 [按一下這裡以登入 Journey Optimizer](https://experience.adobe.com/#/@techmarketingdemos/sname:summit-2023-ajo-lab/journey-optimizer/home){target="_blank"}
 
-**登入詳細資料：**
+**登入詳細資料**
 
 * **使用者名稱：**`L731+<your seat number>@summitlab.us`(範例：L731+001@summitlab.us)
 * **密碼：Adobe2023!**
@@ -161,7 +161,7 @@ ht-degree: 66%
 | **編輯內容：** 內容 | 內文 | Adobe Max回到拉斯維加斯。 準備好迎接鼓舞人心的演講者、技能擴展會議以及認識新的人。立即預定套裝，可享受10%優惠。 |  |
 | **編輯內容：** 按鈕 | 按鈕 | 享受10%的折扣！ | lab://booking?suite=presidential&amp;discount=10 |
 | **編輯內容：** 按鈕 | 互動事件 | 應用程式內 CTA |  |
-| **在裝置上預覽** |  | 要在裝置上預覽的基本URL |  | **iOS：** lab:// <br>**Android**： https://lab |
+| **在裝置上預覽** | 要在裝置上預覽的基本URL |  | **iOS：** lab:// <br>**Android**： https://lab |
 
 ## 練習3：建立推播通知
 
