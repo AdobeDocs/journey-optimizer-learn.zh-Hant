@@ -2,10 +2,10 @@
 user-guide-title: Journey Optimizer 教學課程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 這些是 Journey Optimizer 教學課程。
-source-git-commit: 88499f15c1019c8f5d9531eb3a0dec3f4c1949a7
+source-git-commit: 16c874b46254d067795bc92bfe06e8f91fca3a10
 workflow-type: tm+mt
-source-wordcount: '382'
-ht-degree: 95%
+source-wordcount: '390'
+ht-degree: 93%
 
 ---
 
@@ -47,6 +47,8 @@ ht-degree: 95%
    + [建立應用程式內行銷活動](/help/channels/create-an-in-app-campaign.md)
    + [撰寫應用程式內訊息](/help/channels/author-in-app-messages.md)
    + [設定應用程式內訊息的內容實驗](/help/experimentation/content-experiments-for-in-app-messages.md)
++ 推播頻道{#push-channel}
+   + [設定並傳送推播行銷活動](/help/channels/create-a-push-campaign.md)
 + SMS 頻道{#sms-channel}
    + [設定、編寫並傳遞 SMS 訊息](/help/channels/author-sms-messages.md)
    + [SMS 傳入關鍵字支援](/help/channels/inbound-keyword-support-for-sms.md)
@@ -59,7 +61,7 @@ ht-degree: 95%
    + [訂閱和登陸頁面](/help/subscriptions-and-landing-pages.md)
 + [Assets Essentials](/help/assets-essentials-overview.md)
 + 個人化內容 {#personalize-content}
-   + [設定檔和受眾成員資格型個人化](/help/personalize-content/profile-and-audience-membership-based-personalization.md)
+   + [以設定檔和對象成員資格為基礎的個人化](/help/personalize-content/profile-and-audience-membership-based-personalization.md)
    + [將優惠新增為個人化](/help/personalize-content/add-offer-decisioning-to-messages.md)
    + [使用內容事件資訊進行個人化](/help/personalize-content/use-contextual-event-information-for-personalization.md)
    + [使用協助程式功能進行個人化](/help/personalize-content/use-helper-functions-for-personalization.md)
