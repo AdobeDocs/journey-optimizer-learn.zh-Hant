@@ -12,7 +12,7 @@ exl-id: ffc5e8c8-8729-4e7e-aa51-d74f91b0cf29
 source-git-commit: 01869838bb08e0d7848934f345afdd54824aaa75
 workflow-type: tm+mt
 source-wordcount: '325'
-ht-degree: 66%
+ht-degree: 90%
 
 ---
 
@@ -32,7 +32,7 @@ ht-degree: 66%
 
 >[!IMPORTANT]
 >
->若系統詢問兌換代碼，請關閉TestFlight應用程式，並再次掃描二維碼。
+>若系統要求提供兌換代碼，請關閉 TestFlight 應用程式，然後再次掃描 QR 碼。
 >
 >請允許通知。
 >
@@ -157,17 +157,17 @@ ht-degree: 66%
 | **屬性** | 行銷活動名稱 | `<your seat number> Vegas Stay Campaign` |  |
 | **觸發器** | 狀態 | 現在預訂 |  |
 | **編輯內容：** 媒體 | 媒體 URL 選項 |  | https://i.ibb.co/NstLhjW/Firefly-Poster-with-heading-Adobe-Max-84773.jpg |
-| **編輯內容：** 內容 | 標題 | 搶先購買優惠券！ |  |
-| **編輯內容：** 內容 | 內文 | Adobe Max回到拉斯維加斯。 準備好迎接鼓舞人心的演講者、技能擴展會議以及認識新的人。立即預定套裝，可享受10%優惠。 |  |
-| **編輯內容：** 按鈕 | 按鈕 | 享受10%的折扣！ | lab://booking?suite=presidential&amp;discount=10 |
+| **編輯內容：** 內容 | 標題 | 取得早鳥折扣！ |  |
+| **編輯內容：** 內容 | 內文 | Adobe Max 重返拉斯維加斯。 準備好迎接鼓舞人心的演講者、技能擴展會議以及認識新的人。立即預訂套裝，可享有九折優惠。 |  |
+| **編輯內容：** 按鈕 | 按鈕 | 取得九折優惠！ | lab://booking?suite=presidential&amp;discount=10 |
 | **編輯內容：** 按鈕 | 互動事件 | 應用程式內 CTA |  |
-| **在裝置上預覽** | 要在裝置上預覽的基本URL |  | **iOS：** lab:// <br>**Android**： https://lab |
+| **在裝置上預覽** | 要在裝置上預覽的基本URL |  | **iOS:** lab:// <br>**Android**: https://lab |
 
-## 練習3：建立推播通知
+## 練習 3：建立推播通知
 
 | 欄位 | 文字 | 連結 |
 |----|----|----|
 | 行銷活動名稱 | `<your seat number> Max Push Campaign` |  |
-| 標題 | 嗨！ |  |
-| 內文 | 您知道Adobe·麥克斯要回拉斯維加斯嗎？ 立即預訂您的房間，可享受10%的折扣。 |  |
+| 標題 | 您好！ |  |
+| 內文 | 您知道嗎，Adobe Max 即將重返拉斯維加斯。立即預訂您的房間，可享有九折優惠。 |  |
 | 媒體 URL 選項 |  | https://i.ibb.co/1M0BnZn/Firefly-Big-conference-big-stage-with-ADBE-text-on-screen-40178.jpg |

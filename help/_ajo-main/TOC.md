@@ -5,7 +5,7 @@ user-guide-description: 這些是 Journey Optimizer 教學課程。
 source-git-commit: 391abc80e405fee1e56bbf534d6c0cc822fbc389
 workflow-type: tm+mt
 source-wordcount: '396'
-ht-degree: 92%
+ht-degree: 96%
 
 ---
 
@@ -31,8 +31,8 @@ ht-degree: 92%
    + [建立歷程簡介](/help/create-journeys/introduction-to-building-a-journey.md)
    + [使用案例 - 異動歷程](/help/create-journeys/use-case-transactional-journey.md)
    + [使用案例 - 業務事件](/help/create-journeys/use-case-business-event.md)
-   + [使用案例 — 讀取對象](/help/create-journeys/use-case-read-audience.md)
-   + [使用案例 — 對象資格](/help/create-journeys/use-case-audience-qualification.md)
+   + [使用案例 - 讀取對象](/help/create-journeys/use-case-read-audience.md)
+   + [使用案例 - 對象資格](/help/create-journeys/use-case-audience-qualification.md)
    + [建立測試設定檔](/help/create-journeys/test-a-journey.md)
    + [發佈歷程](/help/create-journeys/publish-a-journey.md)
    + [將歷程複製到另一個沙箱](/help/create-journeys/copy-a-journey.md)
