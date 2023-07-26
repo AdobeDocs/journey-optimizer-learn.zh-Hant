@@ -1,5 +1,5 @@
 ---
-title: 使用案例 — 讀取對象
+title: 使用案例 - 讀取對象
 description: 了解讀取對象歷程的適用使用案例。 瞭解如何建立批次式歷程，以及套用哪些最佳實務。
 jira: KT-7694
 thumbnail: 334206.jpg
@@ -10,16 +10,16 @@ role: User
 level: Beginner
 exl-id: 7116a20e-f46a-4676-8b16-21699723828a
 source-git-commit: 88499f15c1019c8f5d9531eb3a0dec3f4c1949a7
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '62'
-ht-degree: 38%
+ht-degree: 100%
 
 ---
 
-# 使用案例 — 讀取對象
+# 使用案例 - 讀取對象
 
 >[!NOTE]
->請注意下列使用者介面變更： **區段** 現在稱為 **受眾**.
+>請注意下列使用者介面變更： **區段**&#x200B;現在稱為&#x200B;**對象**。
 
 了解讀取對象歷程的適用使用案例。 瞭解如何建立批次式歷程，以及套用哪些最佳實務。
 
