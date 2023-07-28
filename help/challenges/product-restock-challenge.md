@@ -8,10 +8,10 @@ level: Beginner
 hide: true
 hidefromtoc: true
 exl-id: 305aaf4c-7f5d-4f6f-abeb-466208f1fe48
-source-git-commit: 81f5cc22d46f89ee1c7164a92988311ca6036b8b
-workflow-type: ht
+source-git-commit: 5c763ec877c75c07132f4cc714d63695e12638dc
+workflow-type: tm+mt
 source-wordcount: '580'
-ht-degree: 100%
+ht-degree: 97%
 
 ---
 
@@ -37,7 +37,7 @@ Luma 要求您在 Journey Optimizer 中實施歷程，當客戶願望清單上�
 
 ## 1. 定義區段 - 缺貨願望清單項目
 
-若要在產品已補充庫存時鎖定潛在感興趣的客戶，請建立由客戶組成的區段:
+若要在產品已補充庫存時鎖定潛在感興趣的客戶，請建立由客戶組成的對象：
 
 * 已將至少一個項目新增至其願望清單 (使用事件類型：[!UICONTROL Commerce 儲存以供稍後使用])
 * 過去三個月缺貨 (使用庫存量 = 0)
