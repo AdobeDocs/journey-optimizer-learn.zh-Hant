@@ -9,17 +9,14 @@ team: PM
 role: User
 level: Beginner
 exl-id: 3a11a1ac-9bc7-4485-a1c2-a6b1beabcce4
-source-git-commit: c5e5a2fc5a0c4ded46565b998e36f10a26db15df
+source-git-commit: 84a5a9944d26f1a11bb65b5caebec9aaa4316392
 workflow-type: tm+mt
-source-wordcount: '68'
-ht-degree: 32%
+source-wordcount: '56'
+ht-degree: 17%
 
 ---
 
 # 以設定檔和對象成員資格為基礎的個人化
-
->[!NOTE]
->請注意下列使用者介面變更： **區段**&#x200B;現在稱為&#x200B;**對象**。
 
 瞭解如何在訊息中新增設定檔的個人化，以及如何使用對象成員資格作為個人化區塊的先決條件。
 
