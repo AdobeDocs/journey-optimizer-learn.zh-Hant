@@ -1,6 +1,6 @@
 ---
 title: 建立夏季系列發佈 - 挑戰
-description: 傳送夏季系列發佈給現有客戶的對象，以推廣新的Luma夏季系列。
+description: 向現有客戶對象傳送夏季系列發佈，以推廣新的 Luma 夏季系列。
 jira: KT-8109
 feature: Segments, Journeys, Email
 role: User
@@ -8,9 +8,9 @@ level: Beginner
 last-substantial-update: 2023-02-01T00:00:00Z
 exl-id: ae457be7-2c67-4950-a072-1d7030b0e17b
 source-git-commit: 5c763ec877c75c07132f4cc714d63695e12638dc
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1125'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -28,24 +28,24 @@ ht-degree: 94%
 
 ## 故事
 
-虛擬的運動服裝公司 Luma 正在推廣其最新的服裝和用具系列，並努力推動現有客戶的銷售。 Luma即將推出新的夏季系列，並且想要特別鎖定不同的對象。
+虛擬的運動服裝公司 Luma 正在推廣其最新的服裝和用具系列，並努力推動現有客戶的銷售。 Luma 即將推出新的夏季系列，並且想要特別鎖定不同的對象。
 
 ## 您的挑戰
 
 Luma 行銷團隊會要求您在 Journey Optimizer 中實施夏季系列行銷活動。 您面臨的挑戰是：
 
-* 建立受眾，定義哪些設定檔符合接收促銷活動的資格。
-* 建立歷程.
+* 建立對象，定義哪些設定檔有資格收到促銷活動。
+* 建立歷程。
 
-### 步驟1：定義對象 — 活躍客戶
+### 步驟 1：定義對象 - 活躍客戶
 
 >[!BEGINTABS]
 
 >[!TAB 任務]
 
-#### 在中建立對象 [!DNL Journey Optimizer]
+#### 在 [!DNL Journey Optimizer] 中建立對象
 
-* 在中建立對象 [!DNL Journey Optimizer] 已呼叫 *活躍客戶*.
+* 在 [!DNL Journey Optimizer] 中建立稱為&#x200B;*活躍客戶*&#x200B;的對象。
 * 區段必須僅包含活躍的 Luma 客戶。
 * 活躍客戶是指處於 Luma 的忠誠度計畫 (銅、銀、金或白金) 某一層級中的客戶。
 
