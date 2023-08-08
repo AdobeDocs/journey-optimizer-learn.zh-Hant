@@ -7,8 +7,8 @@ role: User
 level: Beginner
 last-substantial-update: 2023-02-01T00:00:00Z
 exl-id: ec86e2ac-081d-47aa-a948-007107baa2b4
-source-git-commit: 81f5cc22d46f89ee1c7164a92988311ca6036b8b
-workflow-type: ht
+source-git-commit: 8b8d163b65dbd34f769a26231638f0bfeb6eb0b1
+workflow-type: tm+mt
 source-wordcount: '654'
 ht-degree: 100%
 
@@ -54,6 +54,7 @@ Luma 正在推出線上商店，希望確保提供良好的客戶體驗。 客�
       * 在電子郵件底部新增取消訂閱連結
 
 電子郵件應有如下的結構：
+
 <table>
 <tr>
 <td>
@@ -176,7 +177,7 @@ Luma 正在推出線上商店，希望確保提供良好的客戶體驗。 客�
 
 **主旨列：**
 
-感謝您的購買，{{ profile.person.name.firstName }}！
+感謝您的購買，`{{ profile.person.name.firstName }}`！
 
 **收貨區段：**
 
