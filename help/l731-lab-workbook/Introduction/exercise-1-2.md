@@ -56,3 +56,4 @@ ht-degree: 100%
 >[!SUCCESS]
 >
 >您已建立應用程式使用者，且已在 Adobe Journey Optimizer 中建立此使用者的設定檔。
+>
