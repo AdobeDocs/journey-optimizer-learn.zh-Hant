@@ -7,10 +7,10 @@ role: User, Developer, Admin, Leader
 level: Beginner, Intermediate, Experienced
 doc-type: overview-page
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: 1f1b8b3237dccebbf6741253edaf380e4a83753b
+source-git-commit: bbdfb4b2a6bea5043c5db99d7973ef8905a30153
 workflow-type: tm+mt
-source-wordcount: '594'
-ht-degree: 100%
+source-wordcount: '627'
+ht-degree: 96%
 
 ---
 
@@ -42,9 +42,19 @@ Journey Optimizer 協助公司向其客戶傳送連結的、情境式和個人�
 </div>
 
 
+<div id="recs-overview-body-1"></div>
+<div id="recs-overview-body-2"></div>
+<div id="recs-overview-body-3"></div>
+<div id="recs-overview-body-4"></div>
+<div id="recs-overview-body-5"></div>
+<div id="recs-overview-body-6"></div>
+
 <div id="events-section">
 
 ## Experience League Live 活動
+
+* **[Adobe Journey Optimizer中的API觸發式傳訊](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-8-23-23.html?lang=zh-Hant)**
+  *瞭解如何使用REST API進行情境式、個人化和即時異動與行銷通訊。*
 
 * **[透過 Adobe Journey Optimizer 充分利用行動應用程式](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-5-24-23.html?lang=zh-Hant)**
   *瞭解應用程式內傳訊作為即時參與管道的好處，以及如何在 Adobe Journey Optimizer 中設定和撰寫個人化的行動應用程式體驗。*
@@ -59,13 +69,6 @@ Journey Optimizer 協助公司向其客戶傳送連結的、情境式和個人�
   *在本次 Experience League 現場單元，我們討論了透過 Adobe Journey Optimizer 推播通知的常見使用案例及技術詳細資訊，深入了解如何設定 Adobe Experience Platform 支援的推播應用程式。*
 
 </div>
-
-<div id="recs-overview-body-1"></div>
-<div id="recs-overview-body-2"></div>
-<div id="recs-overview-body-3"></div>
-<div id="recs-overview-body-4"></div>
-<div id="recs-overview-body-5"></div>
-<div id="recs-overview-body-6"></div>
 
 <div id="staff-picks-section">
 
