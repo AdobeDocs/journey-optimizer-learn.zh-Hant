@@ -8,9 +8,9 @@ level: Beginner, Intermediate, Experienced
 doc-type: overview-page
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
 source-git-commit: bbdfb4b2a6bea5043c5db99d7973ef8905a30153
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '627'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -53,8 +53,8 @@ Journey Optimizer 協助公司向其客戶傳送連結的、情境式和個人�
 
 ## Experience League Live 活動
 
-* **[Adobe Journey Optimizer中的API觸發式傳訊](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-8-23-23.html?lang=zh-Hant)**
-  *瞭解如何使用REST API進行情境式、個人化和即時異動與行銷通訊。*
+* **[Adobe Journey Optimizer 中的 API 觸發式傳訊](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-8-23-23.html?lang=zh-Hant)**
+  *了解如何使用 REST API 進行內容相關的個人化即時交易型與行銷通訊。*
 
 * **[透過 Adobe Journey Optimizer 充分利用行動應用程式](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-5-24-23.html?lang=zh-Hant)**
   *瞭解應用程式內傳訊作為即時參與管道的好處，以及如何在 Adobe Journey Optimizer 中設定和撰寫個人化的行動應用程式體驗。*
