@@ -10,10 +10,10 @@ jira: KT-13113
 thumbnail: 3418688.jpeg
 badge: label="Beta" type="Informative"
 exl-id: 17e1d65c-2548-4d50-bc9f-4e30d729fb5b
-source-git-commit: eb45fa6fd3382ee842d5b0bc937a83e0e271bb44
+source-git-commit: fd9d277be00449155c49b3809fe647d7342b6acd
 workflow-type: tm+mt
-source-wordcount: '106'
-ht-degree: 100%
+source-wordcount: '108'
+ht-degree: 98%
 
 ---
 
@@ -27,6 +27,6 @@ ht-degree: 100%
 >[!NOTE]
 >在測試階段期間，會顯示所有資料集。 一旦此功能正式推出，將僅限於系統產生的資料集使用。
 
->[!VIDEO](https://video.tv.adobe.com/v/3418688/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3418688/?quality=12&learn=on){transcript=true}
 
 如需詳細資訊，請參閱[產品文件](https://experienceleague.adobe.com/docs/journey-optimizer/using/data-management/datasets/export-datasets.html?lang=zh-Hant)。
