@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer 教學課程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 這些是 Journey Optimizer 教學課程。
 auto-video-transcripts: true
-source-git-commit: eb4bbc4cd8eb511dbadc87cb9b7bc6c9838a8394
+source-git-commit: 076be9da7d5fd89e47852a6d275602f10a81d7bd
 workflow-type: tm+mt
-source-wordcount: '403'
-ht-degree: 100%
+source-wordcount: '412'
+ht-degree: 97%
 
 ---
 
@@ -59,6 +59,7 @@ ht-degree: 100%
 + 網路頻道{#web-channel}
    + [建立網路行銷活動](/help/channels/create-a-web-campaign.md)
    + [製作網路行銷活動](/help/channels/author-a-web-campaign.md)
+   + [網頁編輯器中的SPA支援](/help/channels/singel-page-application-support.md)
 + 設定檔、對象和訂閱 {#profiles-segments-subscriptions}
    + [統一設定檔和分段 — 概述](/help/set-up-resources/unified-profile-and-segmentation-overview.md)
    + [建立區段](/help/set-up-resources/create-segments.md)
@@ -93,6 +94,7 @@ ht-degree: 100%
    + [將資料集匯出至雲端儲存空間位置](/help/set-up-data/export-datasets.md)
 + 報告和監視 {#report-and-monitor}
    + [即時和全域報告](/help/report-and-monitor/live-and-global-reports.md)
+   + [頻道層級報表](/help/report-and-monitor/channel-level-reports.md)
    + [使用警示](/help/administration/alerts.md)
 + 設定 {#configuration}
    + 設定通道 {#channel-configuration}
