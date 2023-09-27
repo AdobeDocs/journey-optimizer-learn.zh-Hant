@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer 教學課程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 這些是 Journey Optimizer 教學課程。
 auto-video-transcripts: true
-source-git-commit: 076be9da7d5fd89e47852a6d275602f10a81d7bd
+source-git-commit: 3b0b830bb1d5e813df49625c8125924a0bca9364
 workflow-type: tm+mt
-source-wordcount: '412'
-ht-degree: 97%
+source-wordcount: '417'
+ht-degree: 96%
 
 ---
 
@@ -45,6 +45,7 @@ ht-degree: 97%
    + [預覽、校樣和發佈](/help/channels/preview-proof-and-publish.md)
    + [內容範本](/help/channels/content-templates.md)
    + [管理、編寫和使用片段](/help/content-management/manage-author-use-fragments.md)
+   + [建立及使用運算式片段](/help/content-management/expression-fragments.md)
    + [設定電子郵件的內容實驗](/help/experimentation/content-experiments-for-emails.md)
 + 應用程式內頻道{#in-app-channel}
    + [建立應用程式內行銷活動](/help/channels/create-an-in-app-campaign.md)
