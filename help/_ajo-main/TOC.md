@@ -3,9 +3,9 @@ user-guide-title: Journey Optimizer 教學課程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 這些是 Journey Optimizer 教學課程。
 auto-video-transcripts: true
-source-git-commit: d848272dba814c300aa21110316b5b37ccb719ce
+source-git-commit: f08f646c2317cc17356594052d3174065ef00384
 workflow-type: tm+mt
-source-wordcount: '427'
+source-wordcount: '420'
 ht-degree: 94%
 
 ---
@@ -111,7 +111,7 @@ ht-degree: 94%
       + [建立動作](/help/set-up-journeys/create-actions.md)
 + 存取控制 {#access-control}
    + [存取管理](/help/set-up-access/access-management.md)
-   + [設定以屬性為基礎的存取控制](https://experienceleague.adobe.com/docs/platform-learn/tutorials/admin/configure-attribute-based-access-control.html?lang=zh-Hant)
+   + [設定以屬性為基礎的存取控制](/help/administration/attribute-based-access-control.md)
    + [建立及管理沙箱](/help/set-up-access/create-and-manage-sandboxes.md)
 + 隱私權 {#privacy}
    + [遮罩訊息中的資料](/help/privacy/mask-data-in-messages.md)
