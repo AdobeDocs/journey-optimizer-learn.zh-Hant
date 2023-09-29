@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer 教學課程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 這些是 Journey Optimizer 教學課程。
 auto-video-transcripts: true
-source-git-commit: bc127e90867bcda59a44881e7e4f462be2e88d5e
+source-git-commit: d848272dba814c300aa21110316b5b37ccb719ce
 workflow-type: tm+mt
-source-wordcount: '422'
-ht-degree: 95%
+source-wordcount: '427'
+ht-degree: 94%
 
 ---
 
@@ -87,12 +87,13 @@ ht-degree: 95%
    + [以 Decisions API 傳遞優惠方案](/help/decision-management/deliver-offers-with-the-decisions-api.md)
    + [頻率限定](/help/decision-management/frequency-capping.md)
 + 資料管理{#data-management}
-   + [概覽](/help/set-up-data/set-up-data-overview.md)
-   + [建立方案](/help/set-up-data/create-schema.md)
-   + [對應身分](/help/set-up-data/map-identities.md)
-   + [建立資料集並內嵌資料](/help/set-up-data/create-datasets-and-ingest-data.md)
-   + [設定來源連接器](/help/set-up-data/configure-source-connectors.md)
-   + [將資料集匯出至雲端儲存空間位置](/help/set-up-data/export-datasets.md)
+   + [概覽](/help/data-management/set-up-data-overview.md)
+   + [建立方案](/help/data-management/create-schema.md)
+   + [對應身分](/help/data-management/map-identities.md)
+   + [建立資料集並內嵌資料](/help/data-management/create-datasets-and-ingest-data.md)
+   + [設定來源連接器](/help/data-management/configure-source-connectors.md)
+   + [設定資料集匯出目的地](/help/data-management/configure-dataset-export-destination.md)
+   + [將資料集匯出至雲端儲存空間位置](/help/data-management/export-datasets.md)
 + 報告和監視 {#report-and-monitor}
    + [即時和全域報告](/help/report-and-monitor/live-and-global-reports.md)
    + [頻道層級報表](/help/report-and-monitor/channel-level-reports.md)
