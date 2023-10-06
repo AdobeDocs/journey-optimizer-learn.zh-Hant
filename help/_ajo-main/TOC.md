@@ -4,9 +4,9 @@ user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 這些是 Journey Optimizer 教學課程。
 auto-video-transcripts: true
 source-git-commit: f08f646c2317cc17356594052d3174065ef00384
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '420'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -45,7 +45,7 @@ ht-degree: 94%
    + [預覽、校樣和發佈](/help/channels/preview-proof-and-publish.md)
    + [內容範本](/help/channels/content-templates.md)
    + [管理、編寫和使用片段](/help/content-management/manage-author-use-fragments.md)
-   + [建立及使用運算式片段](/help/content-management/expression-fragments.md)
+   + [建立和使用運算式片段](/help/content-management/expression-fragments.md)
    + [設定電子郵件的內容實驗](/help/experimentation/content-experiments-for-emails.md)
 + 應用程式內頻道{#in-app-channel}
    + [建立應用程式內行銷活動](/help/channels/create-an-in-app-campaign.md)
@@ -60,7 +60,7 @@ ht-degree: 94%
 + 網路頻道{#web-channel}
    + [建立網路行銷活動](/help/channels/create-a-web-campaign.md)
    + [製作網路行銷活動](/help/channels/author-a-web-campaign.md)
-   + [網頁編輯器中的SPA支援](/help/channels/singel-page-application-support.md)
+   + [網頁編輯器中的 SPA 支援](/help/channels/singel-page-application-support.md)
 + 設定檔、對象和訂閱 {#profiles-segments-subscriptions}
    + [統一設定檔和分段 — 概述](/help/set-up-resources/unified-profile-and-segmentation-overview.md)
    + [建立區段](/help/set-up-resources/create-segments.md)
@@ -96,8 +96,8 @@ ht-degree: 94%
    + [將資料集匯出至雲端儲存空間位置](/help/data-management/export-datasets.md)
 + 報告和監視 {#report-and-monitor}
    + [即時和全域報告](/help/report-and-monitor/live-and-global-reports.md)
-   + [頻道層級報表](/help/report-and-monitor/channel-level-reports.md)
-   + [以CSV格式匯出報表](/help/report-and-monitor/export-reports-in-csv-format.md)
+   + [頻道層級報告](/help/report-and-monitor/channel-level-reports.md)
+   + [以 CSV 格式匯出報告](/help/report-and-monitor/export-reports-in-csv-format.md)
    + [使用警示](/help/administration/alerts.md)
 + 設定 {#configuration}
    + 設定通道 {#channel-configuration}
