@@ -7,7 +7,7 @@ role: User, Developer, Admin, Leader
 level: Beginner, Intermediate, Experienced
 doc-type: overview-page
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: bbdfb4b2a6bea5043c5db99d7973ef8905a30153
+source-git-commit: 7861e0ca17a616273f5ea1b4d850310f1f4ec8b8
 workflow-type: ht
 source-wordcount: '627'
 ht-degree: 100%
@@ -16,8 +16,6 @@ ht-degree: 100%
 
 
 # Journey Optimizer 教學課程
-
-![](./assets/ajo-banner.png)
 
 Journey Optimizer 協助公司向其客戶傳送連結的、情境式和個人化體驗。客戶歷程是指從第一次接觸直至客戶離開網站，客戶與品牌互動的整個過程。 
 
