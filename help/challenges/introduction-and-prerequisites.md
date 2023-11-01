@@ -2,12 +2,12 @@
 title: Journey Optimizer 挑戰 - 簡介和先決條件
 description: 挑戰提供了實施您所學知識所需的情境和要求。 每個挑戰都說明了您所實施的獨特使用案例。
 feature: Journeys
-role: Admin
+role: User
 level: Beginner
 last-substantial-update: 2023-02-01T00:00:00Z
 exl-id: 87a79560-c098-4e72-abec-6b750ec730ee
-source-git-commit: 7861e0ca17a616273f5ea1b4d850310f1f4ec8b8
-workflow-type: ht
+source-git-commit: 1542a429d393d9d803976d1490a3bc09654b706b
+workflow-type: tm+mt
 source-wordcount: '479'
 ht-degree: 100%
 
