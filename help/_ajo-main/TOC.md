@@ -3,7 +3,7 @@ user-guide-title: Journey Optimizer 教學課程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 這些是 Journey Optimizer 教學課程。
 auto-video-transcripts: true
-source-git-commit: 585264701dcffb714c74c37c1605749465a0c92b
+source-git-commit: 78d8e19a8ab0cf1253cdb724a4d05e8d5b4dfdc4
 workflow-type: tm+mt
 source-wordcount: '428'
 ht-degree: 98%
@@ -38,8 +38,10 @@ ht-degree: 98%
    + [建立測試設定檔](/help/create-journeys/test-a-journey.md)
    + [發佈歷程](/help/create-journeys/publish-a-journey.md)
    + [將歷程複製到另一個沙箱](/help/create-journeys/copy-a-journey.md)
-+ 直接郵件頻道{#direct-mail-channel}
-   + [直接郵件頻道](/help/channels/direct-mail.md)
++ 設定檔、對象和訂閱 {#profiles-audiences-subscriptions}
+   + [統一設定檔和分段 — 概述](/help/profiles-audiences-subscriptions/unified-profile-and-segmentation-overview.md)
+   + [使用規則產生器建立對象](/help/profiles-audiences-subscriptions/create-audiences-using-the-rule-builder.md)
+   + [訂閱和登陸頁面](/help/subscriptions-and-landing-pages.md)
 + 電子郵件頻道{#email-channel}
    + [使用電子郵件設計工具建立內容](/help/channels/create-content-with-the-email-designer.md)
    + [匯入及編寫 HTML 電子郵件內容](/help/channels/import-and-author-html-email-content.md)
@@ -48,6 +50,8 @@ ht-degree: 98%
    + [管理、編寫和使用片段](/help/content-management/manage-author-use-fragments.md)
    + [建立和使用運算式片段](/help/content-management/expression-fragments.md)
    + [設定電子郵件的內容實驗](/help/experimentation/content-experiments-for-emails.md)
++ 直接郵件頻道{#direct-mail-channel}
+   + [直接郵件頻道](/help/channels/direct-mail.md)
 + 應用程式內頻道{#in-app-channel}
    + [建立應用程式內行銷活動](/help/channels/create-an-in-app-campaign.md)
    + [在歷程建立應用程式內訊息](/help/channels/create-an-in-app-message-in-a-journey.md)
@@ -58,14 +62,10 @@ ht-degree: 98%
 + SMS 頻道{#sms-channel}
    + [設定、編寫並傳遞 SMS 訊息](/help/channels/author-sms-messages.md)
    + [SMS 傳入關鍵字支援](/help/channels/inbound-keyword-support-for-sms.md)
-+ 網路頻道{#web-channel}
++ 網路頻道 {#web-channel}
    + [建立網路行銷活動](/help/channels/create-a-web-campaign.md)
    + [製作網路行銷活動](/help/channels/author-a-web-campaign.md)
    + [網頁編輯器中的 SPA 支援](/help/channels/singel-page-application-support.md)
-+ 設定檔、對象和訂閱 {#profiles-segments-subscriptions}
-   + [統一設定檔和分段 — 概述](/help/profiles-audiences-subscriptions/unified-profile-and-segmentation-overview.md)
-   + [使用規則產生器建立對象](/help/profiles-audiences-subscriptions/create-audiences-using-the-rule-builder.md)
-   + [訂閱和登陸頁面](/help/subscriptions-and-landing-pages.md)
 + [Assets Essentials](/help/assets-essentials-overview.md)
 + 個人化內容 {#personalize-content}
    + [以設定檔和對象成員資格為基礎的個人化](/help/personalize-content/profile-and-audience-membership-based-personalization.md)
