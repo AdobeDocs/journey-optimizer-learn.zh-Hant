@@ -4,9 +4,9 @@ user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 這些是 Journey Optimizer 教學課程。
 auto-video-transcripts: true
 source-git-commit: 78d8e19a8ab0cf1253cdb724a4d05e8d5b4dfdc4
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '428'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -39,7 +39,7 @@ ht-degree: 98%
    + [發佈歷程](/help/create-journeys/publish-a-journey.md)
    + [將歷程複製到另一個沙箱](/help/create-journeys/copy-a-journey.md)
 + 設定檔、對象和訂閱 {#profiles-audiences-subscriptions}
-   + [統一設定檔和分段 — 概述](/help/profiles-audiences-subscriptions/unified-profile-and-segmentation-overview.md)
+   + [統一設定檔和分段 - 概述](/help/profiles-audiences-subscriptions/unified-profile-and-segmentation-overview.md)
    + [使用規則產生器建立對象](/help/profiles-audiences-subscriptions/create-audiences-using-the-rule-builder.md)
    + [訂閱和登陸頁面](/help/subscriptions-and-landing-pages.md)
 + 電子郵件頻道{#email-channel}
