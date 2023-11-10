@@ -9,16 +9,16 @@ thumbnail: 329606.jpg
 last-substantial-update: 2022-09-30T00:00:00Z
 exl-id: 8921f1b7-ab6a-4a3d-abf9-822af99e4196
 source-git-commit: fd57dad17761a5ff54b403fba26d6461f1f29219
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '111'
-ht-degree: 68%
+ht-degree: 100%
 
 ---
 
 # 建立決定
 
-瞭解如何建立 [決策](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioning/create-manage-activities/create-offer-activities.html) 用於決策管理。 決策會將您的版位及收藏合併為一個實體，決策會向客戶傳遞最相關的活動內容。
+瞭解如何建立 [決策](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioning/create-manage-activities/create-offer-activities.html?lang=zh-Hant) 用於決策管理。 決策會將您的版位及收藏合併為一個實體，決策會向客戶傳遞最相關的活動內容。
 
 >[!VIDEO](https://video.tv.adobe.com/v/329606?quality=12&learn=on){transcript=true}
 
-要瞭解有關如何使用批次決策API建立決策的詳細資訊，請參閱 [產品指南。](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioning/api-reference/offer-delivery-api/batch-decisioning-api.html)
+若要了解更多關於如何使用批次決策 API 建立決策，請參閱[產品指南](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioning/api-reference/offer-delivery-api/batch-decisioning-api.html?lang=zh-Hant)。
