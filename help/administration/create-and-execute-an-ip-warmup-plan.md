@@ -1,6 +1,6 @@
 ---
-title: 建立並執行IP熱身計畫
-description: 瞭解如何建立及執行IP熱身計畫。
+title: 建立和執行 IP 暖身計劃
+description: 了解如何建立和執行 IP 暖身計劃。
 feature: IP Warmup Plans
 role: Admin
 level: Beginner
@@ -14,16 +14,16 @@ hide: true
 badgeBeta: label="Beta" type="Informative"
 exl-id: 90b80e5c-ce12-4298-b7be-20a94512062e
 source-git-commit: 507745fa63e82f8fde800c8538fdf8a2e2506c8d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '50'
-ht-degree: 2%
+ht-degree: 100%
 
 ---
 
-# 建立並執行IP熱身計畫
+# 建立和執行 IP 暖身計劃
 
-瞭解如何建立及執行IP熱身計畫。
+了解如何建立和執行 IP 暖身計劃。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425965/?learn=on)
 
-請參閱產品檔案 [開始使用IP熱身計畫](https://experienceleague.adobe.com/docs/journey-optimizer/using/configuration/implement-ip-warmup-plan/ip-warmup-gs.html) 以取得詳細資訊。
+如需詳細資訊，請參閱產品文件：[開始使用 IP 暖身計劃](https://experienceleague.adobe.com/docs/journey-optimizer/using/configuration/implement-ip-warmup-plan/ip-warmup-gs.html?lang=zh-Hant)。
