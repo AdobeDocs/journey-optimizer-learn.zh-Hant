@@ -4,9 +4,9 @@ user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 這些是 Journey Optimizer 教學課程。
 auto-video-transcripts: true
 source-git-commit: 6997e1257b0194fce07fc4ee4e1017e333e7f697
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '470'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -106,7 +106,7 @@ ht-degree: 94%
       + [委派 CName 子網域](/help/set-up-channels/delegate-cname-subdomains.md)
       + [設定簡訊 API 憑證及頻道介面](/help/set-up-channels/set-up-sms-channel.md)
       + [設定訊息頻率規則](/help/administration/configure-frequency-rules.md)
-      + [建立並執行IP熱身計畫](/help/administration/create-and-execute-an-ip-warmup-plan.md)
+      + [建立和執行 IP 暖身計劃](/help/administration/create-and-execute-an-ip-warmup-plan.md)
    + 設定歷程 {#journey-configuration}
       + [設定資料來源](/help/set-up-journeys/configure-data-sources.md)
       + [建立事件](/help/set-up-journeys/create-events.md)
@@ -121,9 +121,9 @@ ht-degree: 94%
    + [設定訓練沙箱](https://experienceleague.adobe.com/docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites.html?lang=zh-Hant)
    + [挑戰](https://experienceleague.adobe.com/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites.html?lang=zh-Hant)
 + [Summit Lab](/help/summit-lab-731/l731-assets.md)
-+ Experience League即時錄製{#experience-league-live-recordings}
++ Experience League 即時錄影{#experience-league-live-recordings}
    + [Adobe Journey Optimizer 中的 API 觸發式傳訊](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-8-23-23.html?lang=zh-Hant){target="_blank"}
    + [透過 Adobe Journey Optimizer 充分利用行動應用程式](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-5-24-23.html?lang=zh-Hant){target="_blank"}
-   + [透過決策管理在適當的時間提供適當的優惠](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-10-25-22.html?lang=en){target="_blank"}
-   + [在 Adobe Journey Optimizer 中執行行銷活動](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-22-22.html?lang=en){target="_blank"}
-   + [透過 Adobe Journey Optimizer 推播通知](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-05-12-22.html?lang=en){target="_blank"}
+   + [透過決策管理適時提供適當的優惠](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-10-25-22.html?lang=zh-Hant){target="_blank"}
+   + [在 Adobe Journey Optimizer 中執行行銷活動](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-22-22.html?lang=zh-Hant){target="_blank"}
+   + [透過 Adobe Journey Optimizer 推播通知](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-05-12-22.html?lang=zh-Hant){target="_blank"}
