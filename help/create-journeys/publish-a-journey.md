@@ -1,5 +1,5 @@
 ---
-title: 發佈歷程
+title: 發佈歷程和歷程狀態
 description: 瞭解歷程的不同狀態，以及發佈的影響。
 jira: KT-7528
 thumbnail: 3424998.jpeg
@@ -10,14 +10,14 @@ role: User
 level: Beginner
 last-substantial-update: 2024-01-29T00:00:00Z
 exl-id: cf7fe165-b6eb-49f0-adb9-32d43efa43ca
-source-git-commit: 0466ae96ce230ec50eaac1c1caf0d256b5108fba
+source-git-commit: f1efb54d5dcbdeffbdfd25682f84ad774ccaf55e
 workflow-type: tm+mt
-source-wordcount: '32'
-ht-degree: 100%
+source-wordcount: '38'
+ht-degree: 68%
 
 ---
 
-# 發佈歷程
+# 發佈歷程和歷程狀態
 
 瞭解歷程的不同狀態，以及發佈的影響。
 
