@@ -6,12 +6,12 @@ role: User
 level: Intermediate
 doc-type: Tutorial
 duration: 0
-last-substantial-update: 2024-02-17T00:00:00Z
+recommendations: noDisplay, noCatalog
 jira: KT-14977
 thumbnail: KT-14977.jpeg
-source-git-commit: c35b58a488d37d0cba9aa79cdb04924162655a68
+source-git-commit: 5a784b7afd6dc75b2fc114b4a10e1a35e1df5d2e
 workflow-type: tm+mt
-source-wordcount: '349'
+source-wordcount: '368'
 ht-degree: 0%
 
 ---
@@ -29,13 +29,16 @@ ht-degree: 0%
 ### 重點提要
 
 * 瞭解各種支援的行動體驗。
+* 設定推播行銷活動
 * 瞭解如何設定行動應用程式內行銷活動。
 * 設定網頁應用程式內訊息。
-* 設定推送行銷活動。
 * 測試您自己的個人化案例。
 
 ### 先決條件
 
+* 知道您的座位編號：您可以在實驗室機器的桌上找到您的座位編號：
+
+![座位編號](/help/summit/l820-lab-workbook/assets/locate-seat-number.png)
 您需要下列存取權：
 
 * [Adobe Journey Optimizer](https://experience.adobe.com/#/@techmarketingdemos/sname:summit-ajo-lab/journey-optimizer/home){target="_blank"}   — 在練習期間將提供登入詳細資訊。
