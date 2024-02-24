@@ -2,9 +2,9 @@
 user-guide-title: Adobe Summit — 實驗室活頁簿
 breadcrumb-title: Adobe Summit — 實驗室活頁簿
 breadcrumb-url: /docs/journey-optimizer-learn/adobe-summit-lab-workbooks/overview.html
-source-git-commit: cff2b157349f51c4879ec4d01ffeed69ed4c5539
+source-git-commit: c33bd4645e5482956e643a0b65fe5713917d4073
 workflow-type: tm+mt
-source-wordcount: '41'
+source-wordcount: '27'
 ht-degree: 0%
 
 ---
@@ -15,5 +15,3 @@ ht-degree: 0%
 + [實驗室簡介](/help/summit/l820-lab-workbook/lab-overview.md)
 + [第1課 — 體驗Frescopa](/help/summit/l820-lab-workbook/lesson-1-experience-frescopa.md)
 + [第2課 — 建立推播行銷活動](/help/summit/l820-lab-workbook/lesson-2-create-a-push-campaign.md)
-+ [第3課 — 建立行動應用程式內行銷活動](/help/summit/l820-lab-workbook/lesson-3-create-a-mobile-in-app-campaign.md)
-+ [第4課 — 建立網頁應用程式內行銷活動](/help/summit/l820-lab-workbook/lesson-4-create-a-web-in-app-campaign.md)
