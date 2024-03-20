@@ -9,14 +9,14 @@ recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
 exl-id: ffc5e8c8-8729-4e7e-aa51-d74f91b0cf29
-source-git-commit: 01869838bb08e0d7848934f345afdd54824aaa75
+source-git-commit: ec5d79920c305ad77f042db845932a8b1671e65b
 workflow-type: tm+mt
-source-wordcount: '325'
-ht-degree: 100%
+source-wordcount: '334'
+ht-degree: 98%
 
 ---
 
-# Summit Lab L731- 速查表
+# Summit Lab L731 — 速查表
 
 本頁面包含 L731 Summit Lab 正在使用的文字及連結。 它可讓您將內容複製並貼上到 Journey Optimizer 訊息。
 
@@ -167,7 +167,7 @@ ht-degree: 100%
 
 | 欄位 | 文字 | 連結 |
 |----|----|----|
-| 行銷活動名稱 | `<your seat number> Max Push Campaign` |  |
+| 行銷活動名稱 | **`<your seat number> Max Push Campaign`** |  |
 | 標題 | 您好！ |  |
 | 內文 | 您知道嗎，Adobe Max 即將重返拉斯維加斯。立即預訂您的房間，可享有九折優惠。 |  |
 | 媒體 URL 選項 |  | https://i.ibb.co/1M0BnZn/Firefly-Big-conference-big-stage-with-ADBE-text-on-screen-40178.jpg |
