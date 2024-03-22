@@ -9,7 +9,7 @@ duration: 0
 recommendations: noDisplay, noCatalog
 jira: KT-14977
 thumbnail: KT-14977.jpeg
-source-git-commit: d53c2218ee69c81881b12dedc435826034a710e3
+source-git-commit: 0a31369dc315d1d68f291c0c15f87b0211dfddb1
 workflow-type: tm+mt
 source-wordcount: '503'
 ht-degree: 0%
@@ -21,21 +21,23 @@ ht-degree: 0%
 
 ![Adobe Summit — 替代文字](/help/summit/l820-lab-workbook/assets/adobe-summit.png "Adobe Summit")
 
+## L820 — 使用Adobe Journey Optimizer建立個人化的行動時刻
+
+在這個實作實驗室中，您會探索各種行動情境，並瞭解如何使用Journey Optimizer為網頁和行動裝置實作個人化體驗。
+
+
 >[!IMPORTANT]
 >
 >請勿將工作階段的任何像片或熒幕擷取畫面張貼至社群媒體。
->
+><br>
 >**Adobe機密性**
 >今天在此實驗室中分享的資訊和產品披露資料為Adobe的機密資訊。
 >參與者不得複製、使用、散佈或洩露機密資訊給任何個人或實體。
 >產品披露僅供參考，並不保證任何未來功能或特性，且隨時可能變更。 因此，這些產品特徵或功能絕不是您與Adobe的合約的一部分，也不會以任何方式提供給您。
->
+><br>
 >**免責宣告**
 >Adobe可讓您及早存取功能，這些功能運用了創新型人工智慧技術。 請注意，這些功能仍在開發中，可能會產生非預期或不準確的回應。 我們歡迎您提供意見反應，我們將此功能推向市場。
 
-## L820 — 使用Adobe Journey Optimizer建立個人化的行動時刻
-
-在這個實作實驗室中，您會探索各種行動情境，並瞭解如何使用Journey Optimizer為網頁和行動裝置實作個人化體驗。
 
 ### 關鍵重點
 
