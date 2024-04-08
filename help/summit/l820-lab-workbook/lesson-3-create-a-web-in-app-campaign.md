@@ -10,9 +10,9 @@ recommendations: noDisplay, noCatalog
 jira: KT-13983
 thumbnail: KT-13983.jpeg
 exl-id: 0f84adfb-edb1-47fa-b696-58eec2b33bb1
-source-git-commit: befde57252ebc12c5d6df31fde8078e4535d1261
+source-git-commit: 4f5c92f79eba3651b3633b7850e993160cb1f72c
 workflow-type: tm+mt
-source-wordcount: '698'
+source-wordcount: '699'
 ht-degree: 2%
 
 ---
@@ -157,4 +157,4 @@ ht-degree: 2%
 * [開始使用應用程式內頻道](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/get-started-in-app)
 * [建立網頁應用程式內訊息](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/create-in-app-web)
 * [設計您的應用程式內內容](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/design-in-app)
-* [檢查並傳送您的應用程式內通知](/https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/send-in-app)
+* [檢查並傳送您的應用程式內通知](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/send-in-app)
