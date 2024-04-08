@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer 教學課程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 這些是 Journey Optimizer 教學課程。
 auto-video-transcripts: true
-source-git-commit: 1de848b430f61e93d6073d2db4cccca3dbe7676f
+source-git-commit: 64e4cdd312f1ad9807023c8dca1989d1ca9e30bd
 workflow-type: tm+mt
-source-wordcount: '477'
-ht-degree: 98%
+source-wordcount: '487'
+ht-degree: 96%
 
 ---
 
@@ -121,10 +121,11 @@ ht-degree: 98%
 + 練習與挑戰{#exercises-and-challenges}
    + [設定訓練沙箱](https://experienceleague.adobe.com/docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites.html?lang=zh-Hant)
    + [挑戰](https://experienceleague.adobe.com/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites.html?lang=zh-Hant)
-+ [Summit Lab](/help/summit-lab-731/l731-assets.md)
 + Experience League 即時錄影{#experience-league-live-recordings}
    + [Adobe Journey Optimizer 中的 API 觸發式傳訊](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-8-23-23.html?lang=zh-Hant){target="_blank"}
    + [透過 Adobe Journey Optimizer 充分利用行動應用程式](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-5-24-23.html?lang=zh-Hant){target="_blank"}
    + [透過決策管理適時提供適當的優惠](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-10-25-22.html?lang=zh-Hant){target="_blank"}
    + [在 Adobe Journey Optimizer 中執行行銷活動](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-22-22.html?lang=zh-Hant){target="_blank"}
    + [透過 Adobe Journey Optimizer 推播通知](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-05-12-22.html?lang=zh-Hant){target="_blank"}
++ Summit Labs {#summit-labs}
+   + [使用Adobe Journey Optimizer建立個人化的行動時刻(2024)](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/summit-labs/lab-overview){target="_blank"}
