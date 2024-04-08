@@ -6,16 +6,16 @@ role: User
 level: Intermediate
 doc-type: Tutorial
 duration: 0
-recommendations: noDisplay, noCatalog
 jira: KT-14977
 thumbnail: KT-14977.jpeg
-source-git-commit: 654520e25814eb94c5b19cb13087c1b93b4e4683
+last-substantial-update: 2024-03-26T00:00:00Z
+exl-id: e6d029f9-c936-427b-9d6e-4e296fd3c3ce
+source-git-commit: b4eb509d50afeea02eac937be85643aa22370249
 workflow-type: tm+mt
 source-wordcount: '503'
 ht-degree: 0%
 
 ---
-
 
 # 實驗室活頁簿
 
@@ -67,4 +67,3 @@ Fréscopa的業務核心在於咖啡訂閱服務，為客戶提供精選的優�
 為了補充訂閱服務，Fréscopa的網站和行動應用程式提供全方位的咖啡相關產品，讓客戶能夠探索並提升他們的咖啡儀式。 Fréscopa為追求品質與便利的咖啡愛好者提供一站式商店，提供各種沖泡裝置與手工配件。
 
 Fréscopa對卓越的承諾超越其產品，因為該公司致力於打造順暢而愉快的客戶歷程。 創新技術與以客戶為中心的方法相結合，使Fréscopa在不斷發展的咖啡產業中處於領先地位。 本質上，Fréscopa體現了激情與技術的融合，重新定義個人體驗和享受咖啡的方式。 Fréscopa注重品質、便利性和個人化服務，邀請咖啡愛好者踏上口味歷程，直接送貨上門。
-

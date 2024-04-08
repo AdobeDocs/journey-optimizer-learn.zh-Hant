@@ -7,10 +7,10 @@ role: User, Developer, Admin, Leader
 level: Beginner, Intermediate, Experienced
 doc-type: overview-page
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: f440e58e82532dc3d765848e16c0103af5036e54
+source-git-commit: b4eb509d50afeea02eac937be85643aa22370249
 workflow-type: tm+mt
-source-wordcount: '489'
-ht-degree: 100%
+source-wordcount: '501'
+ht-degree: 94%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 100%
 
 Journey Optimizer 協助公司向其客戶傳送連結的、情境式和個人化體驗。客戶歷程是指從第一次接觸直至客戶離開網站，客戶與品牌互動的整個過程。 
 
-本使用手冊包含了 Adobe Journey Optimizer 功能和特性的相關影片和教學課程。
+本使用手冊包含了Adobe Journey Optimizer功能的相關影片和教學課程。 練習運用您已學到的知識，參加 [Journey Optimizer挑戰](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites).
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
