@@ -8,13 +8,13 @@ doc-type: Tutorial
 duration: 0
 recommendations: noDisplay, noCatalog
 jira: KT-14980
-source-git-commit: c590b47ad3dfc54badbac0d8fcaff6b9dd053cc1
+exl-id: 0f82d6a5-18c0-45f2-968e-a678fc2d5768
+source-git-commit: befde57252ebc12c5d6df31fde8078e4535d1261
 workflow-type: tm+mt
-source-wordcount: '778'
-ht-degree: 0%
+source-wordcount: '781'
+ht-degree: 2%
 
 ---
-
 
 # 第4課 — 建立推播行銷活動
 
@@ -203,8 +203,15 @@ ht-degree: 0%
 >
 > ![推送結果](/help/summit/l820-lab-workbook/assets/2-3-push-notification-result.png)
 
+## 其他資源
 
-**感謝您！**
+**操作說明影片：**
 
-感謝您的參與。 請完成Summit應用程式中的Lab 820會議問卷調查，提供意見反應，說明我們的做法以及實驗室是否符合您的期望。
+* [設定和傳送推播行銷活動](/help/channels/create-a-push-campaign.md)
 
+**產品檔案：**
+
+* [開始使用推播通知](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/push/get-started-push)
+* [建立推播通知](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/push/create-push)
+* [設計推播通知](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/push/design-push)
+* [檢查並傳送推播通知](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/push/send-push)

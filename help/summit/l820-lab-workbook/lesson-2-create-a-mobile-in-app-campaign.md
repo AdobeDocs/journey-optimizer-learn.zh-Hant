@@ -9,13 +9,13 @@ duration: 0
 recommendations: noDisplay, noCatalog
 jira: KT-14983
 thumbnail: KT-14983.jpeg
-source-git-commit: c509c768d07984d07ed2ec65634e000c54bb6ff1
+exl-id: fe18eca7-229c-4867-ab34-1862bad63124
+source-git-commit: befde57252ebc12c5d6df31fde8078e4535d1261
 workflow-type: tm+mt
-source-wordcount: '1395'
-ht-degree: 0%
+source-wordcount: '1433'
+ht-degree: 1%
 
 ---
-
 
 # 第2課 — 建立行動應用程式內行銷活動
 
@@ -309,4 +309,18 @@ ht-degree: 0%
 >
 > 您的應用程式內訊息會顯示在裝置上。
 >
-> *連線後，應用程式內訊息應會在每次按一下&#x200B;**[!UICONTROL 在裝置上預覽] 按鈕**.*
+> *連線後，每次按一下「 」時，應用程式內訊息都會顯示。 **[!UICONTROL 在裝置上預覽] 按鈕**.
+
+## 其他資源
+
+**操作說明影片：**
+
+* [建立應用程式內行銷活動](/help/channels/create-an-in-app-campaign.md)
+* [撰寫應用程式內訊息](/help/channels/author-in-app-messages.md)
+
+**產品檔案：**
+
+* [開始使用應用程式內頻道](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/get-started-in-app)
+* [建立行動應用程式內訊息](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/create-in-app)
+* [設計您的應用程式內內容](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/design-in-app)
+* [檢查並傳送您的應用程式內通知](/https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/send-in-app)

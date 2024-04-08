@@ -9,14 +9,13 @@ duration: 0
 recommendations: noDisplay, noCatalog
 jira: KT-13983
 thumbnail: KT-13983.jpeg
-source-git-commit: c509c768d07984d07ed2ec65634e000c54bb6ff1
+exl-id: 0f84adfb-edb1-47fa-b696-58eec2b33bb1
+source-git-commit: befde57252ebc12c5d6df31fde8078e4535d1261
 workflow-type: tm+mt
-source-wordcount: '660'
-ht-degree: 0%
+source-wordcount: '698'
+ht-degree: 2%
 
 ---
-
-
 
 # 第3課 — 建立網頁應用程式內行銷活動
 
@@ -144,3 +143,18 @@ ht-degree: 0%
 >按一下具有唯一值的「傳送」按鈕將會觸發您的網頁應用程式內訊息，進而引發。 而且您應該會在畫面上看到您的網頁應用程式內訊息。
 >
 >此練習會模擬您透過Fréscopa客戶體驗所看到的自訂XDM傳送事件。
+
+
+## 其他資源
+
+**操作說明影片：**
+
+* [建立應用程式內行銷活動](/help/channels/create-an-in-app-campaign.md)
+* [撰寫應用程式內訊息](/help/channels/author-in-app-messages.md)
+
+**產品檔案：**
+
+* [開始使用應用程式內頻道](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/get-started-in-app)
+* [建立網頁應用程式內訊息](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/create-in-app-web)
+* [設計您的應用程式內內容](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/design-in-app)
+* [檢查並傳送您的應用程式內通知](/https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/send-in-app)
