@@ -4,9 +4,9 @@ user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 這些是 Journey Optimizer 教學課程。
 auto-video-transcripts: true
 source-git-commit: 64e4cdd312f1ad9807023c8dca1989d1ca9e30bd
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '487'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -62,7 +62,7 @@ ht-degree: 96%
 + 簡訊頻道{#sms-channel}
    + [設定、編寫並傳遞簡訊訊息](/help/channels/author-sms-messages.md)
    + [簡訊傳入關鍵字支援](/help/channels/inbound-keyword-support-for-sms.md)
-   + [簡訊 — Sinch和Infobip的雙重選擇加入](/help/channels/sms-double-opt-in.md)
+   + [簡訊 - Sinch 和 Infobip 的雙重選擇加入](/help/channels/sms-double-opt-in.md)
 + 網路頻道 {#web-channel}
    + [建立網路行銷活動](/help/channels/create-a-web-campaign.md)
    + [製作網路行銷活動](/help/channels/author-a-web-campaign.md)
@@ -128,4 +128,4 @@ ht-degree: 96%
    + [在 Adobe Journey Optimizer 中執行行銷活動](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-22-22.html?lang=zh-Hant){target="_blank"}
    + [透過 Adobe Journey Optimizer 推播通知](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-05-12-22.html?lang=zh-Hant){target="_blank"}
 + Summit Labs {#summit-labs}
-   + [使用Adobe Journey Optimizer建立個人化的行動時刻(2024)](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/summit-labs/lab-overview){target="_blank"}
+   + [透過 Adobe Journey Optimizer (2024) 建立個人化行動時刻](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/summit-labs/lab-overview){target="_blank"}
