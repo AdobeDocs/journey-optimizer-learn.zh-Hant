@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer 教學課程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 這些是 Journey Optimizer 教學課程。
 auto-video-transcripts: true
-source-git-commit: e1b7bd76b1f496b5f43f39004d393739f3e1e0c2
+source-git-commit: 1499ccefd78a34e8d6f930bae9d6d76db5af9da1
 workflow-type: tm+mt
-source-wordcount: '487'
-ht-degree: 98%
+source-wordcount: '494'
+ht-degree: 97%
 
 ---
 
@@ -122,6 +122,7 @@ ht-degree: 98%
    + [設定訓練沙箱](https://experienceleague.adobe.com/docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites.html?lang=zh-Hant)
    + [挑戰](https://experienceleague.adobe.com/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites.html?lang=zh-Hant)
 + Experience League 即時錄影{#experience-league-live-recordings}
+   + [Journey Optimizer中的全新程式碼型體驗管道](/https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-04-24-24)
    + [Adobe Journey Optimizer 中的 API 觸發式傳訊](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-8-23-23.html?lang=zh-Hant){target="_blank"}
    + [透過 Adobe Journey Optimizer 充分利用行動應用程式](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-5-24-23.html?lang=zh-Hant){target="_blank"}
    + [透過決策管理適時提供適當的優惠](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-10-25-22.html?lang=zh-Hant){target="_blank"}
