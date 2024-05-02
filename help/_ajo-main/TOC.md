@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer 教學課程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 這些是 Journey Optimizer 教學課程。
 auto-video-transcripts: true
-source-git-commit: b58a4f37ac4cba27ff4dcea88ffa0d3b0db037cf
+source-git-commit: 42e7d88fa169980445d537a85681858675023620
 workflow-type: tm+mt
-source-wordcount: '495'
-ht-degree: 97%
+source-wordcount: '498'
+ht-degree: 96%
 
 ---
 
@@ -62,6 +62,7 @@ ht-degree: 97%
    + [設定和傳送推播行銷活動](/help/channels/create-a-push-campaign.md)
 + 簡訊頻道{#sms-channel}
    + [設定、編寫並傳遞簡訊訊息](/help/channels/author-sms-messages.md)
+   + [編寫多媒體簡訊](/help/channels/author-mms.md)
    + [簡訊 - Sinch 和 Infobip 的雙重選擇加入](/help/channels/sms-double-opt-in.md)
 + 網路頻道 {#web-channel}
    + [建立網路行銷活動](/help/channels/create-a-web-campaign.md)
