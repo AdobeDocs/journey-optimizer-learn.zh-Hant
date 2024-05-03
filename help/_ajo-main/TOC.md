@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer 教學課程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 這些是 Journey Optimizer 教學課程。
 auto-video-transcripts: true
-source-git-commit: 42e7d88fa169980445d537a85681858675023620
+source-git-commit: 41a651b01380181d2ebc586fdb6a5eb697a92448
 workflow-type: tm+mt
-source-wordcount: '498'
-ht-degree: 96%
+source-wordcount: '517'
+ht-degree: 93%
 
 ---
 
@@ -25,7 +25,9 @@ ht-degree: 96%
 + 行銷活動 {#create-campaigns}
    + [建立行銷活動](/help/create-campaigns/create-a-campaign.md)
    + [建立應用程式內行銷活動](/help/create-campaigns/in-app.md)
-   + [建立網路行銷活動](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/web-channel/create-a-web-campaign.html?lang=zh-Hant)
+   + [設定並傳送推播行銷活動](/help/create-campaigns/push-campaign.md)
+   + [建立網路行銷活動](/help/create-campaigns/web-campaign.md)
+   + [建立程式碼型體驗行銷活動](/help/create-campaigns/code-based-experience.md)
    + [利用 API 觸發行銷活動](/help/create-campaigns/api-triggered-campaigns.md)
    + [建立電子郵件行銷活動的內容實驗](/help/create-campaigns/content-experiments.md)
 + 歷程 {#create-journeys}
@@ -51,6 +53,8 @@ ht-degree: 96%
    + [管理、編寫和使用片段](/help/content-management/manage-author-use-fragments.md)
    + [建立和使用運算式片段](/help/content-management/expression-fragments.md)
    + [設定電子郵件的內容實驗](/help/experimentation/content-experiments-for-emails.md)
++ 程式碼型體驗管道{#code-based-experience-channel}
+   + [建立程式碼型體驗行銷活動](/help/channels/create-a-code-based-experience-campaign.md)
 + 直接郵件頻道{#direct-mail-channel}
    + [直接郵件頻道](/help/channels/direct-mail.md)
 + 應用程式內頻道{#in-app-channel}
@@ -62,7 +66,7 @@ ht-degree: 96%
    + [設定和傳送推播行銷活動](/help/channels/create-a-push-campaign.md)
 + 簡訊頻道{#sms-channel}
    + [設定、編寫並傳遞簡訊訊息](/help/channels/author-sms-messages.md)
-   + [編寫多媒體簡訊](/help/channels/author-mms.md)
+   + [編寫MMS訊息](/help/channels/author-mms.md)
    + [簡訊 - Sinch 和 Infobip 的雙重選擇加入](/help/channels/sms-double-opt-in.md)
 + 網路頻道 {#web-channel}
    + [建立網路行銷活動](/help/channels/create-a-web-campaign.md)
