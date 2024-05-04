@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer 教學課程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 這些是 Journey Optimizer 教學課程。
 auto-video-transcripts: true
-source-git-commit: 41a651b01380181d2ebc586fdb6a5eb697a92448
+source-git-commit: ecaa9e4d2d63494f8c0f6ac75c3cb6b390bc654d
 workflow-type: tm+mt
-source-wordcount: '517'
-ht-degree: 93%
+source-wordcount: '524'
+ht-degree: 91%
 
 ---
 
@@ -113,6 +113,7 @@ ht-degree: 93%
       + [設定簡訊 API 憑證及頻道介面](/help/set-up-channels/set-up-sms-channel.md)
       + [設定訊息頻率規則](/help/administration/configure-frequency-rules.md)
       + [建立和執行 IP 暖身計劃](/help/administration/create-and-execute-an-ip-warmup-plan.md)
+      + [設定MMS API認證和管道表面](/help/set-up-channels/configure-mms-api-credentials-and-channel-surfaces.md)
    + 設定歷程 {#journey-configuration}
       + [設定資料來源](/help/set-up-journeys/configure-data-sources.md)
       + [建立事件](/help/set-up-journeys/create-events.md)
