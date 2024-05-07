@@ -8,9 +8,9 @@ level: Beginner, Intermediate, Experienced
 doc-type: overview-page
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
 source-git-commit: b58a4f37ac4cba27ff4dcea88ffa0d3b0db037cf
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '522'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -32,7 +32,7 @@ Journey Optimizer 協助公司向其客戶傳送連結的、情境式和個人�
 
 ## Experience League Live 活動
 
-* **[Journey Optimizer中的全新程式碼型體驗管道](https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-04-24-24)**
+* **[Journey Optimizer 的全新程式碼型體驗頻道](https://experienceleague.adobe.com/zh-hant/docs/events/experience-league-live-recordings/episodes/exl-live-episode-04-24-24)**
   *瞭解如何使用以開發人員為中心的動作來啟用傳入表面和精細的個人化控制。*
 
 * **[Adobe Journey Optimizer 中的 API 觸發式傳訊](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-8-23-23.html?lang=zh-Hant){target="_blank"}**
