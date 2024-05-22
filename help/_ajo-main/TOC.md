@@ -4,9 +4,9 @@ user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 這些是 Journey Optimizer 教學課程。
 auto-video-transcripts: true
 source-git-commit: ecaa9e4d2d63494f8c0f6ac75c3cb6b390bc654d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '524'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -53,7 +53,7 @@ ht-degree: 94%
    + [管理、編寫和使用片段](/help/content-management/manage-author-use-fragments.md)
    + [建立和使用運算式片段](/help/content-management/expression-fragments.md)
    + [設定電子郵件的內容實驗](/help/experimentation/content-experiments-for-emails.md)
-+ 程式碼型體驗管道{#code-based-experience-channel}
++ 程式碼型體驗頻道{#code-based-experience-channel}
    + [建立程式碼型體驗行銷活動](/help/channels/create-a-code-based-experience-campaign.md)
 + 直接郵件頻道{#direct-mail-channel}
    + [直接郵件頻道](/help/channels/direct-mail.md)
@@ -66,7 +66,7 @@ ht-degree: 94%
    + [設定和傳送推播行銷活動](/help/channels/create-a-push-campaign.md)
 + 簡訊頻道{#sms-channel}
    + [設定、編寫並傳遞簡訊訊息](/help/channels/author-sms-messages.md)
-   + [編寫MMS訊息](/help/channels/author-mms.md)
+   + [編寫多媒體簡訊訊息](/help/channels/author-mms.md)
    + [簡訊 - Sinch 和 Infobip 的雙重選擇加入](/help/channels/sms-double-opt-in.md)
 + 網路頻道 {#web-channel}
    + [建立網路行銷活動](/help/channels/create-a-web-campaign.md)
@@ -113,7 +113,7 @@ ht-degree: 94%
       + [設定簡訊 API 憑證及頻道介面](/help/set-up-channels/set-up-sms-channel.md)
       + [設定訊息頻率規則](/help/administration/configure-frequency-rules.md)
       + [建立和執行 IP 暖身計劃](/help/administration/create-and-execute-an-ip-warmup-plan.md)
-      + [設定MMS API認證和管道表面](/help/set-up-channels/configure-mms-api-credentials-and-channel-surfaces.md)
+      + [設定多媒體簡訊 API 憑證及頻道介面](/help/set-up-channels/configure-mms-api-credentials-and-channel-surfaces.md)
    + 設定歷程 {#journey-configuration}
       + [設定資料來源](/help/set-up-journeys/configure-data-sources.md)
       + [建立事件](/help/set-up-journeys/create-events.md)
