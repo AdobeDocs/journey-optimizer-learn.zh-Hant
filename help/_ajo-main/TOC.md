@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer 教學課程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 這些是Journey OptimizerTutorials。
 auto-video-transcripts: true
-source-git-commit: 11c852e7e52747306ccd3cfa692c142f631859f7
+source-git-commit: 640be5f146208fb7fc3729acbb36edf90aae06e4
 workflow-type: tm+mt
-source-wordcount: '524'
-ht-degree: 99%
+source-wordcount: '525'
+ht-degree: 98%
 
 ---
 
@@ -45,33 +45,34 @@ ht-degree: 99%
    + [統一設定檔和分段 - 概述](/help/profiles-audiences-subscriptions/unified-profile-and-segmentation-overview.md)
    + [使用規則產生器建立對象](/help/profiles-audiences-subscriptions/create-audiences-using-the-rule-builder.md)
    + [訂閱和登陸頁面](/help/subscriptions-and-landing-pages.md)
-+ 電子郵件頻道{#email-channel}
-   + [使用電子郵件設計工具建立內容](/help/channels/create-content-with-the-email-designer.md)
-   + [匯入及編寫 HTML 電子郵件內容](/help/channels/import-and-author-html-email-content.md)
-   + [預覽、校樣和發佈](/help/channels/preview-proof-and-publish.md)
-   + [內容範本](/help/channels/content-templates.md)
-   + [管理、編寫和使用片段](/help/content-management/manage-author-use-fragments.md)
-   + [建立和使用運算式片段](/help/content-management/expression-fragments.md)
-   + [設定電子郵件的內容實驗](/help/experimentation/content-experiments-for-emails.md)
-+ 程式碼型體驗頻道{#code-based-experience-channel}
-   + [建立程式碼型體驗行銷活動](/help/channels/create-a-code-based-experience-campaign.md)
-+ 直接郵件頻道{#direct-mail-channel}
-   + [直接郵件頻道](/help/channels/direct-mail.md)
-+ 應用程式內頻道{#in-app-channel}
-   + [建立應用程式內行銷活動](/help/channels/create-an-in-app-campaign.md)
-   + [在歷程建立應用程式內訊息](/help/channels/create-an-in-app-message-in-a-journey.md)
-   + [撰寫應用程式內訊息](/help/channels/author-in-app-messages.md)
-   + [設定應用程式內訊息的內容實驗](/help/experimentation/content-experiments-for-in-app-messages.md)
-+ 推播頻道{#push-channel}
-   + [設定和傳送推播行銷活動](/help/channels/create-a-push-campaign.md)
-+ 簡訊頻道{#sms-channel}
-   + [設定、編寫並傳遞簡訊訊息](/help/channels/author-sms-messages.md)
-   + [編寫多媒體簡訊訊息](/help/channels/author-mms.md)
-   + [簡訊 - Sinch 和 Infobip 的雙重選擇加入](/help/channels/sms-double-opt-in.md)
-+ 網路頻道 {#web-channel}
-   + [建立網路行銷活動](/help/channels/create-a-web-campaign.md)
-   + [製作網路行銷活動](/help/channels/author-a-web-campaign.md)
-   + [網頁編輯器中的 SPA 支援](/help/channels/singel-page-application-support.md)
++ 頻道 {#channels}
+   + 程式碼型體驗頻道{#code-based-experience-channel}
+      + [建立程式碼型體驗行銷活動](/help/channels/create-a-code-based-experience-campaign.md)
+   + 直接郵件頻道{#direct-mail-channel}
+      + [直接郵件頻道](/help/channels/direct-mail.md)
+   + 電子郵件頻道{#email}
+      + [使用電子郵件設計工具建立內容](/help/channels/create-content-with-the-email-designer.md)
+      + [匯入及編寫 HTML 電子郵件內容](/help/channels/import-and-author-html-email-content.md)
+      + [預覽、校樣和發佈](/help/channels/preview-proof-and-publish.md)
+      + [內容範本](/help/channels/content-templates.md)
+      + [管理、編寫和使用片段](/help/content-management/manage-author-use-fragments.md)
+      + [建立和使用運算式片段](/help/content-management/expression-fragments.md)
+      + [設定電子郵件的內容實驗](/help/experimentation/content-experiments-for-emails.md)
+   + 應用程式內頻道{#in-app-channel}
+      + [建立應用程式內行銷活動](/help/channels/create-an-in-app-campaign.md)
+      + [在歷程建立應用程式內訊息](/help/channels/create-an-in-app-message-in-a-journey.md)
+      + [撰寫應用程式內訊息](/help/channels/author-in-app-messages.md)
+      + [設定應用程式內訊息的內容實驗](/help/experimentation/content-experiments-for-in-app-messages.md)
+   + 推播頻道{#push-channel}
+      + [設定和傳送推播行銷活動](/help/channels/create-a-push-campaign.md)
+   + 簡訊頻道{#sms-channel}
+      + [設定、編寫並傳遞簡訊訊息](/help/channels/author-sms-messages.md)
+      + [編寫多媒體簡訊訊息](/help/channels/author-mms.md)
+      + [簡訊 - Sinch 和 Infobip 的雙重選擇加入](/help/channels/sms-double-opt-in.md)
+   + 網路頻道 {#web-channel}
+      + [建立網路行銷活動](/help/channels/create-a-web-campaign.md)
+      + [製作網路行銷活動](/help/channels/author-a-web-campaign.md)
+      + [網頁編輯器中的 SPA 支援](/help/channels/singel-page-application-support.md)
 + [Assets Essentials](/help/assets-essentials-overview.md)
 + 個人化內容 {#personalize-content}
    + [以設定檔和對象成員資格為基礎的個人化](/help/personalize-content/profile-and-audience-membership-based-personalization.md)
