@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer 教學課程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 這些是Journey OptimizerTutorials。
 auto-video-transcripts: true
-source-git-commit: b48fa701b3291e0d6347d5e86110801a0a9aa1ff
+source-git-commit: 93feb322403ee343686d901576a6c70b1a08287a
 workflow-type: tm+mt
-source-wordcount: '526'
-ht-degree: 98%
+source-wordcount: '532'
+ht-degree: 97%
 
 ---
 
@@ -40,6 +40,7 @@ ht-degree: 98%
    + [使用案例 - 對象資格](/help/create-journeys/use-case-audience-qualification.md)
    + [建立測試設定檔](/help/create-journeys/test-a-journey.md)
    + [發佈歷程](/help/create-journeys/publish-a-journey.md)
+   + [在即時歷程中更新內容](/help/create-journeys/update-content-in-live-journey.md)
    + [將歷程複製到另一個沙箱](/help/create-journeys/copy-a-journey.md)
 + 設定檔、對象和訂閱 {#profiles-audiences-subscriptions}
    + [統一設定檔和分段 - 概述](/help/profiles-audiences-subscriptions/unified-profile-and-segmentation-overview.md)
