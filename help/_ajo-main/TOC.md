@@ -1,12 +1,12 @@
 ---
 user-guide-title: Journey Optimizer 教學課程
 user-guide-breadcrumb: Journey Optimizer Learn
-user-guide-description: 這些是Journey OptimizerTutorials。
+user-guide-description: 這些是 Journey Optimizer 教學課程。
 auto-video-transcripts: true
 source-git-commit: 6a0f50992c7112be09f85cd4b87268c9441d0d4d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '533'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -27,12 +27,12 @@ ht-degree: 97%
    + [建立應用程式內行銷活動](/help/create-campaigns/in-app.md)
    + [設定並傳送推播行銷活動](/help/create-campaigns/push-campaign.md)
    + [建立網路行銷活動](/help/create-campaigns/web-campaign.md)
-   + [建立以程式碼為主的體驗活動](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/code-based-experience-channel/create-a-code-based-experience-campaign)
+   + [建立以程式碼為主的體驗活動](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/tutorials/channels/code-based-experience-channel/create-a-code-based-experience-campaign)
    + [利用 API 觸發行銷活動](/help/create-campaigns/api-triggered-campaigns.md)
    + [建立電子郵件行銷活動的內容實驗](/help/create-campaigns/content-experiments.md)
 + 歷程 {#create-journeys}
-   + [歷程畫布概述](/help/create-journeys/overview-over-the-journey-canvas.md)
-   + [探索全新歷程設計器](/help/create-journeys/new-journey-designer.md)
+   + [歷程畫布概觀](/help/create-journeys/overview-over-the-journey-canvas.md)
+   + [探索全新歷程設計程式](/help/create-journeys/new-journey-designer.md)
    + [建立歷程簡介](/help/create-journeys/introduction-to-building-a-journey.md)
    + [使用案例 - 異動歷程](/help/create-journeys/use-case-transactional-journey.md)
    + [使用案例 - 業務事件](/help/create-journeys/use-case-business-event.md)
@@ -40,13 +40,13 @@ ht-degree: 97%
    + [使用案例 - 對象資格](/help/create-journeys/use-case-audience-qualification.md)
    + [建立測試設定檔](/help/create-journeys/test-a-journey.md)
    + [發佈歷程](/help/create-journeys/publish-a-journey.md)
-   + [在即時歷程中更新內容](/help/create-journeys/update-content-in-live-journey.md)
+   + [更新即時歷程中的內容](/help/create-journeys/update-content-in-live-journey.md)
    + [將歷程複製到另一個沙箱](/help/create-journeys/copy-a-journey.md)
 + 設定檔、對象和訂閱 {#profiles-audiences-subscriptions}
    + [統一設定檔和分段 - 概述](/help/profiles-audiences-subscriptions/unified-profile-and-segmentation-overview.md)
    + [使用規則產生器建立對象](/help/profiles-audiences-subscriptions/create-audiences-using-the-rule-builder.md)
    + [訂閱和登陸頁面](/help/subscriptions-and-landing-pages.md)
-+ 頻道 {#channels}
++ 管道 {#channels}
    + 程式碼型體驗頻道{#code-based-experience-channel}
       + [建立程式碼型體驗行銷活動](/help/channels/create-a-code-based-experience-campaign.md)
    + 直接郵件頻道{#direct-mail-channel}

@@ -14,9 +14,9 @@ hide: true
 badgeBeta: label="Beta" type="Informative"
 exl-id: 90b80e5c-ce12-4298-b7be-20a94512062e
 source-git-commit: 7e8c682b4c7163e659e2cdee62ea05d14d4db7d9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '61'
-ht-degree: 57%
+ht-degree: 100%
 
 ---
 
@@ -26,4 +26,4 @@ ht-degree: 57%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425965/?learn=on)
 
-請參閱 [傳遞性最佳實務指南](https://experienceleague.adobe.com/en/docs/deliverability-learn/deliverability-best-practice-guide/introduction) 如需相關最佳實務 [目標定位條件](https://experienceleague.adobe.com/en/docs/deliverability-learn/deliverability-best-practice-guide/transition-process/targeting-criteria)， [IP預熱期間的ISP特定考量事項](https://experienceleague.adobe.com/en/docs/deliverability-learn/deliverability-best-practice-guide/transition-process/isp-specific-considerations-during-ip-warming)、和 [音量](https://experienceleague.adobe.com/en/docs/deliverability-learn/deliverability-best-practice-guide/transition-process/volume) IP預熱期間。
+如需[目標定位條件](https://experienceleague.adobe.com/zh-hant/docs/deliverability-learn/deliverability-best-practice-guide/transition-process/targeting-criteria)、[IP 預熱期間的具體 ISP 考量事項](https://experienceleague.adobe.com/zh-hant/docs/deliverability-learn/deliverability-best-practice-guide/transition-process/isp-specific-considerations-during-ip-warming)及 IP 預熱期間的[流量](https://experienceleague.adobe.com/zh-hant/docs/deliverability-learn/deliverability-best-practice-guide/transition-process/volume)相關最佳實務，請參閱[傳遞能力最佳實務指南](https://experienceleague.adobe.com/zh-hant/docs/deliverability-learn/deliverability-best-practice-guide/introduction)。

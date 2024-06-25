@@ -1,6 +1,6 @@
 ---
-title: 在即時歷程中更新內容
-description: 瞭解如何在即時歷程中更新內容。
+title: 更新即時歷程中的內容
+description: 了解如何更新即時歷程中的內容。
 feature: Journeys
 role: User
 level: Beginner, Intermediate, Experienced
@@ -8,16 +8,16 @@ doc-type: Feature Video
 duration: 112
 last-substantial-update: 2024-06-14T00:00:00Z
 jira: KT-13942
-source-git-commit: ee88fd0908012c0c9a5379990a181d7f1c460f73
-workflow-type: tm+mt
+exl-id: 93dc6345-df31-4d65-ad9d-1d80ee1e8a2d
+source-git-commit: 5faec91d387d7e6f4620c1cffc5c5eed3f8fb29a
+workflow-type: ht
 source-wordcount: '30'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
+# 更新即時歷程中的內容
 
-# 在即時歷程中更新內容
-
-瞭解如何在即時歷程中更新內容。
+了解如何更新即時歷程中的內容。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3429844/?learn=on)
