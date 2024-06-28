@@ -3,9 +3,9 @@ user-guide-title: Journey Optimizer 教學課程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 這些是 Journey Optimizer 教學課程。
 auto-video-transcripts: true
-source-git-commit: 71fca35f267d5dae16c73323b206fb18c39b9f64
+source-git-commit: c9a4813c607c87a44c8a70ceea727e554f097521
 workflow-type: tm+mt
-source-wordcount: '562'
+source-wordcount: '556'
 ht-degree: 95%
 
 ---
@@ -78,7 +78,6 @@ ht-degree: 95%
 + 內容管理{#content-management}
    + [管理Assets](/help/assets-essentials-overview.md)
    + [建立及使用運算式片段](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/email-channel/expression-fragments)
-   + [設定電子郵件的內容實驗](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/email-channel/manage-author-use-fragments)
    + [設定多語言訊息](/help/content-management/set-up-multilingual-messages.md)
 + 個人化內容 {#personalize-content}
    + [以設定檔和對象成員資格為基礎的個人化](/help/personalize-content/profile-and-audience-membership-based-personalization.md)
