@@ -1,8 +1,8 @@
 ---
-source-git-commit: f42f117b47a16536a045688a472f95afff46ecec
+source-git-commit: 71fca35f267d5dae16c73323b206fb18c39b9f64
 workflow-type: tm+mt
 source-wordcount: '121'
-ht-degree: 100%
+ht-degree: 87%
 
 ---
 # AJO 程式碼片段
@@ -26,4 +26,10 @@ Experience League LIVE:
 * [透過 Adobe Journey Optimizer 充分利用行動應用程式](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-5-24-23.html?lang=zh-Hant)
 
   *瞭解應用程式內傳訊作為即時參與管道的好處，以及如何在 Adobe Journey Optimizer 中設定和撰寫個人化的行動應用程式體驗。*
+
+## 可用性限制 {#limited-availability}
+
+>[!Note]
+>
+>此功能目前僅適用於一組組織（可用性限制）。 若要取得存取權，請和您的 Adobe 代表聯絡。
 

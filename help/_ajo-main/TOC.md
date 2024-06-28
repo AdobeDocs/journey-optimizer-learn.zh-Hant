@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer 教學課程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 這些是 Journey Optimizer 教學課程。
 auto-video-transcripts: true
-source-git-commit: 823ba83b03a2886a755f0e475c39931f08c76fb2
+source-git-commit: 71fca35f267d5dae16c73323b206fb18c39b9f64
 workflow-type: tm+mt
-source-wordcount: '544'
-ht-degree: 97%
+source-wordcount: '562'
+ht-degree: 95%
 
 ---
 
@@ -75,7 +75,11 @@ ht-degree: 97%
       + [建立網路行銷活動](/help/channels/create-a-web-campaign.md)
       + [製作網路行銷活動](/help/channels/author-a-web-campaign.md)
       + [網頁編輯器中的 SPA 支援](/help/channels/singel-page-application-support.md)
-+ [Assets Essentials](/help/assets-essentials-overview.md)
++ 內容管理{#content-management}
+   + [管理Assets](/help/assets-essentials-overview.md)
+   + [建立及使用運算式片段](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/email-channel/expression-fragments)
+   + [設定電子郵件的內容實驗](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/email-channel/manage-author-use-fragments)
+   + [設定多語言訊息](/help/content-management/set-up-multilingual-messages.md)
 + 個人化內容 {#personalize-content}
    + [以設定檔和對象成員資格為基礎的個人化](/help/personalize-content/profile-and-audience-membership-based-personalization.md)
    + [將優惠新增為個人化](/help/personalize-content/add-offer-decisioning-to-messages.md)
