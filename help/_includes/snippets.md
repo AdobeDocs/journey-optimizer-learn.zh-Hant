@@ -1,7 +1,7 @@
 ---
-source-git-commit: 71fca35f267d5dae16c73323b206fb18c39b9f64
+source-git-commit: def6df7acf248f61ac64f1c2d3fc99e519c3ffe6
 workflow-type: tm+mt
-source-wordcount: '121'
+source-wordcount: '120'
 ht-degree: 87%
 
 ---
@@ -29,7 +29,7 @@ Experience League LIVE:
 
 ## 可用性限制 {#limited-availability}
 
->[!Note]
+>[!NOTE]
 >
 >此功能目前僅適用於一組組織（可用性限制）。 若要取得存取權，請和您的 Adobe 代表聯絡。
 
