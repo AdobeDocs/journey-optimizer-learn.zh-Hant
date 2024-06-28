@@ -1,23 +1,24 @@
 ---
-title: 使用案例 — 業務事件
-description: 瞭解業務事件的適用使用案例。 瞭解如何使用業務事件建立歷程，以及套用哪些最佳實務。
-jira: KT-7702
-thumbnail: 334234.jpg
+title: 使用案例：業務事件
+description: 瞭解如何使用Journey Optimizer中的商業事件。 瞭解如何將業務事件的資料用於歷程中的個人化傳訊。
 feature: Journeys
-doc-type: feature video
-team: PM
 role: User
 level: Beginner
+doc-type: Feature Video
+duration: 250
+last-substantial-update: 2024-06-28T00:00:00Z
+jira: KT-7702
 exl-id: 38be6d24-2760-4fb4-b5d4-c9be53419e6e
-source-git-commit: fd9d277be00449155c49b3809fe647d7342b6acd
-workflow-type: ht
-source-wordcount: '58'
-ht-degree: 100%
+source-git-commit: 6eba4838f70e8f7b8b2192eeb6255ac2b50ce1e2
+workflow-type: tm+mt
+source-wordcount: '85'
+ht-degree: 0%
 
 ---
 
-# 使用案例 — 業務事件
 
-瞭解業務事件的適用使用案例。 瞭解如何使用業務事件建立歷程，以及套用哪些最佳實務。
+# 使用案例：業務事件
 
->[!VIDEO](https://video.tv.adobe.com/v/334234?quality=12&learn=on){transcript=true}
+瞭解如何使用Journey Optimizer中的商業事件。 商業活動可讓品牌根據非人員相關活動觸發歷程，例如當新聞出版物有新內容時通知訂閱者，或在體育活動期間傳送通訊。 瞭解如何將業務事件的資料用於歷程中的個人化傳訊。
+
+>[!VIDEO](https://video.tv.adobe.com/v/334234/?learn=on)
