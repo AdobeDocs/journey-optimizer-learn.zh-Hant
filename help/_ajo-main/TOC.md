@@ -4,9 +4,9 @@ user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 這些是 Journey Optimizer 教學課程。
 auto-video-transcripts: true
 source-git-commit: c9a4813c607c87a44c8a70ceea727e554f097521
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '556'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 95%
    + [架構](/help/introduction/architecture.md)
    + [為行銷人員提供的行動裝置功能](/help/channels/mobile-capabilities.md)
    + [為開發人員提供的行動裝置功能](/help/channels/mobile-capabilities-for-developers.md)
-   + [取得AI-Assistant的說明](/help/ai-assistant.md)
+   + [取得 AI 助理的說明](/help/ai-assistant.md)
 + 行銷活動 {#create-campaigns}
    + [建立行銷活動](/help/create-campaigns/create-a-campaign.md)
    + [建立應用程式內行銷活動](/help/create-campaigns/in-app.md)
@@ -76,8 +76,8 @@ ht-degree: 95%
       + [製作網路行銷活動](/help/channels/author-a-web-campaign.md)
       + [網頁編輯器中的 SPA 支援](/help/channels/singel-page-application-support.md)
 + 內容管理{#content-management}
-   + [管理Assets](/help/assets-essentials-overview.md)
-   + [建立及使用運算式片段](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/email-channel/expression-fragments)
+   + [管理資產](/help/assets-essentials-overview.md)
+   + [建立並使用運算式片段](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/tutorials/channels/email-channel/expression-fragments)
    + [設定多語言訊息](/help/content-management/set-up-multilingual-messages.md)
 + 個人化內容 {#personalize-content}
    + [以設定檔和對象成員資格為基礎的個人化](/help/personalize-content/profile-and-audience-membership-based-personalization.md)
@@ -112,7 +112,7 @@ ht-degree: 95%
    + [頻道層級報告](/help/report-and-monitor/channel-level-reports.md)
    + [以 CSV 格式匯出報告](/help/report-and-monitor/export-reports-in-csv-format.md)
    + [使用警示](/help/administration/alerts.md)
-   + [使用Customer Journey Analytics增強報告功能](/help/report-and-monitor/enhanced-reporting-with-customer-journey-analytics.md)
+   + [使用 Customer Journey Analytics 增強報告功能](/help/report-and-monitor/enhanced-reporting-with-customer-journey-analytics.md)
 + 設定 {#configuration}
    + 設定通道 {#channel-configuration}
       + [設定電子郵件頻道](/help/set-up-channels/set-up-email-channel.md)
