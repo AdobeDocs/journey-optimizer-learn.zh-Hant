@@ -1,6 +1,6 @@
 ---
 title: 設定多語言訊息
-description: 了解如何在 Adobe Journey Optimizer 中設定手動和自動翻譯的多種語言訊息。  
+description: 瞭解如何設定自動化翻譯的翻譯專案，以及手動翻譯和多語言訊息自動化翻譯專案所需的語言設定。
 feature: Multilingual Content
 role: Admin
 level: Beginner
@@ -9,10 +9,10 @@ duration: 599
 last-substantial-update: 2024-06-28T00:00:00Z
 jira: KT-14034
 thumbnail: KT-14034.jpeg
-source-git-commit: 2233210765082361d33be8d01317ebf0afcd27dd
+source-git-commit: 28cdf4939f12b981e2c3953814ca3ca612cdbe9d
 workflow-type: tm+mt
-source-wordcount: '97'
-ht-degree: 100%
+source-wordcount: '106'
+ht-degree: 68%
 
 ---
 
