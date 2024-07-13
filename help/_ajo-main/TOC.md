@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer 教學課程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 這些是 Journey Optimizer 教學課程。
 auto-video-transcripts: true
-source-git-commit: 0feda01400ce1b8f87bb6143f1913fa6cdd54632
+source-git-commit: 45a973fa9700abbf254573906d5778ded9483316
 workflow-type: tm+mt
-source-wordcount: '560'
-ht-degree: 98%
+source-wordcount: '550'
+ht-degree: 97%
 
 ---
 
@@ -56,9 +56,6 @@ ht-degree: 98%
       + [使用電子郵件設計工具建立內容](/help/channels/create-content-with-the-email-designer.md)
       + [匯入及編寫 HTML 電子郵件內容](/help/channels/import-and-author-html-email-content.md)
       + [預覽、校樣和發佈](/help/channels/preview-proof-and-publish.md)
-      + [內容範本](/help/channels/content-templates.md)
-      + [管理、編寫和使用片段](/help/content-management/manage-author-use-fragments.md)
-      + [建立和使用運算式片段](/help/content-management/expression-fragments.md)
       + [設定電子郵件的內容實驗](/help/experimentation/content-experiments-for-emails.md)
    + 應用程式內頻道{#in-app-channel}
       + [建立應用程式內行銷活動](/help/channels/create-an-in-app-campaign.md)
@@ -77,7 +74,9 @@ ht-degree: 98%
       + [網頁編輯器中的 SPA 支援](/help/channels/singel-page-application-support.md)
 + 內容管理{#content-management}
    + [管理資產](/help/assets-essentials-overview.md)
-   + [建立並使用運算式片段](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/tutorials/channels/email-channel/expression-fragments)
+   + [管理內容範本](/help/content-management/content-templates.md)
+   + [管理片段](/help/content-management/manage-fragments.md)
+   + [建立運算式片段](/help/content-management/expression-fragments.md)
    + [設定多語言訊息](/help/content-management/set-up-multilingual-messages.md)
    + [建立多語言訊息](/help/content-management/create-multilingual-messages.md)
 + 個人化內容 {#personalize-content}
