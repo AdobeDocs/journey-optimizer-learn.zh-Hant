@@ -39,7 +39,7 @@ ht-degree: 0%
 >Adobe可讓您及早存取功能，這些功能運用了創新型人工智慧技術。 請注意，這些功能仍在開發中，可能會產生非預期或不準確的回應。 我們歡迎您提供意見反應，我們將此功能推向市場。
 
 
-### 關鍵重點
+### 重要技巧
 
 * 瞭解各種支援的行動體驗。
 * 設定推播行銷活動。
@@ -51,10 +51,10 @@ ht-degree: 0%
 
 * 知道您的座位編號：您可以在實驗室機器的桌上找到您的座位編號：
 
-![座位編號](/help/summit/l820-lab-workbook/assets/locate-seat-number.png)
+![名額號碼](/help/summit/l820-lab-workbook/assets/locate-seat-number.png)
 您需要下列存取權：
 
-* [Adobe Journey Optimizer](https://experience.adobe.com/#/@techmarketingdemos/sname:summit-ajo-lab/journey-optimizer/home){target="_blank"}   — 練習期間會提供登入詳細資訊。
+* [Adobe Journey Optimizer](https://experience.adobe.com/#/@techmarketingdemos/sname:summit-ajo-lab/journey-optimizer/home){target="_blank"} — 練習期間會提供登入詳細資料。
 * [Fréscopa網站](https://dsn.adobe.com/p/adobe-summit-2024?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImFub255bW91cyIsImVtYWlsIjoiYW5vbnltb3VzQGFkb2JlLmNvbSIsImlzc3VlciI6InNoYXJlZC1saW5rIiwiYXJnb24iOnsiYWNjZXNzIjoicmVhZC1wcm9qZWN0IiwicHJvamVjdElkIjoiYWRvYmUtc3VtbWl0LTIwMjQifSwiaWF0IjoxNzEwNTI0MTIwLCJleHAiOjE3MTIzMzg1MjB9.q2uGVst6HjJw8SCWl-3pViNzepkdGnNCvGqZnbbkTsY){target="_blank"}
 
 

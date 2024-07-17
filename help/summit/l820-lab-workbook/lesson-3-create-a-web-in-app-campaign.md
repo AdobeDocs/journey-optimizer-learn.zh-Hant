@@ -30,17 +30,17 @@ ht-degree: 2%
 
 在本練習中，您將建立行銷活動，並定義應用程式內訊息會出現在哪個網頁。
 
-1. 在Journey Optimizer的左側導覽列中的 **歷程管理** 選取 **行銷活動**.
+1. 在Journey Optimizer的左側導覽區域中，在「**歷程管理**」下選取「**行銷活動**」。
 
-1. 按一下 **建立行銷活動**.
+1. 按一下&#x200B;**建立行銷活動**。
 
    ![CreateCampaign](/help/summit/l820-lab-workbook/assets/4-1-create-campaign.png)
 
-1. 在 **建立行銷活動** 頁面，在 **動作** 區段，選取 **應用程式內訊息** 核取方塊。
+1. 在&#x200B;**建立行銷活動**&#x200B;頁面的&#x200B;**動作**&#x200B;區段中，選取&#x200B;**應用程式內訊息**&#x200B;核取方塊。
 
-1. 從 **傳送至** 下拉式清單，選取 **Web。**
+1. 從&#x200B;**傳送至**&#x200B;下拉式清單中，選取&#x200B;**網頁。**
 
-1. 輸入下列URL： **https://dsn.adobe.com/web/adobe-summit-2024/exercise** - *這是您的訊息將會顯示的網頁。*
+1. 輸入下列URL： **https://dsn.adobe.com/web/adobe-summit-2024/exercise** - *這是您訊息會顯示的網頁。*
 
    ![應用程式內URL](/help/summit/l820-lab-workbook/assets/4-1-1-in-app-url.png)
 
@@ -52,7 +52,7 @@ ht-degree: 2%
 
 ### 3.2.1 [!UICONTROL 屬性區段]
 
-1. 在 **屬性** 區段，為您的行銷活動提供唯一 **名稱**：
+1. 在&#x200B;**屬性**&#x200B;區段中，為您的行銷活動提供唯一的&#x200B;**名稱**：
 
    >[!NOTE]
    > 請務必以您的座位編號作為名稱開頭，以便您能輕鬆使用
@@ -67,23 +67,23 @@ ht-degree: 2%
 
 在此區段中，您可以定義要在網站上顯示訊息的觸發條件。 您可以定義一個唯一觸發器，讓您將訊息只傳送給自己。
 
-1. 向下捲動至 **[!UICONTROL Triggers區段]**，然後按一下 **[!UICONTROL 編輯觸發程式]**.
+1. 向下捲動至&#x200B;**[!UICONTROL Triggers區段]**，然後按一下&#x200B;**[!UICONTROL 編輯觸發器]**。
 
    ![修改](/help/summit/l820-lab-workbook/assets/3-2-1-2-edit-triggers.png)
 
-1. 在規則產生器中，按一下 **[!UICONTROL 應用程式啟動]** 並從下拉式清單中選取  *已將資料傳送至Platform*.
+1. 在規則產生器中，按一下&#x200B;**[!UICONTROL 應用程式啟動]**，然後從下拉式清單中選取&#x200B;*傳送資料至Platform*。
    ![觸發事件下拉式清單](/help/summit/l820-lab-workbook/assets/trigger-drop-down-sent-to-platform.png)
 
-1. 按一下以新增條件 **[!UICONTROL +新增條件]**.
+1. 按一下&#x200B;**[!UICONTROL +新增條件]**&#x200B;以新增條件。
 
    ![新增條件按鈕](/help/summit/l820-lab-workbook/assets/3-2-1-3-add-condition.png)
 
-1. 從 **[!UICONTROL 選取特徵]** 下拉式清單，選取 **[!UICONTROL XDM事件型別]**.
+1. 從&#x200B;**[!UICONTROL 選取特徵]**&#x200B;下拉式清單中，選取&#x200B;**[!UICONTROL XDM事件型別]**。
 
    ![XDM事件型別](/help/summit/l820-lab-workbook/assets/4-1-2-dropdown-xdm-event.png)
 
 
-1. 在下列文字欄位中，新增 *`<custom string value>`* 您可以記住的資訊，然後按下 **[!UICONTROL 新增]** `<custom string value>` 以儲存值。
+1. 在下列文字欄位中，新增您可以記住的&#x200B;*`<custom string value>`*，然後按&#x200B;**[!UICONTROL 新增]** `<custom string value>`儲存值。
 
    此自訂字串值稍後會用來觸發您的訊息。
 
@@ -95,7 +95,7 @@ ht-degree: 2%
 
    ![新增自訂觸發字串值](/help/summit/l820-lab-workbook/assets/4-1-2-add-custom-trigger-dropdown.png)
 
-1. 按下 **[!UICONTROL 完成]** 按鈕。
+1. 按右上方的&#x200B;**[!UICONTROL 完成]**&#x200B;按鈕。
 
 >[!SUCCESS]
 >
@@ -108,25 +108,25 @@ ht-degree: 2%
 
 您可以在此區段中定義訊息的內容、設計和配置。
 
-1. 按一下 **編輯內容** 中的按鈕 **動作** 區段來存取編寫建構。
+1. 按一下&#x200B;**動作**&#x200B;區段中的&#x200B;**編輯內容**&#x200B;按鈕以存取編寫建構。
 
    ![編輯內容按鈕](/help/summit/l820-lab-workbook/assets/3-1-3-1-edit-content-button.png)
 
 1. 編寫程式與您在上述「行動應用程式內」練習中完成的程式相同。 請花點時間，以您自己的標題、內文和媒體內容自由編輯您的訊息。
 
-   如果您使用模式或全熒幕版面配置，則可新增按鈕。 您可以使用此URL來開啟產品頁面： **https://dsn.adobe.com/web/adobe-summit-2024/P2WsaDPf_**
+   如果您使用模式或全熒幕版面配置，則可新增按鈕。 您可以使用此URL開啟產品頁面： **https://dsn.adobe.com/web/adobe-summit-2024/P2WsaDPf_**
 
-1. 當您完成訊息編輯時，請按一下 **[!UICONTROL 檢閱以啟動]**.
+1. 當您完成編輯訊息時，請按一下[檢閱]以啟動&#x200B;]**。**[!UICONTROL 
 
-1. 如果檢閱畫面上的所有專案看起來正常，請按一下 **[!UICONTROL 啟動]** 以發佈您的網頁應用程式內訊息。
+1. 如果檢閱畫面上一切正常，請按一下&#x200B;**[!UICONTROL 啟動]**&#x200B;以發佈您的網頁應用程式內訊息。
 
 1. 您會返回Campaign控制面板。
 
-   等待單元您的行銷活動狀態變更為 **即時** 移至4.1.4之前。
+   請等候您的行銷活動狀態變更為&#x200B;**即時**，再移至4.1.4。
 
 ## 練習3.3觸發網頁應用程式內訊息
 
-1. 前往Fréscopa網站並導覽至 **練習** 頁面。
+1. 前往Fréscopa網站，並導覽至瀏覽器上的&#x200B;**練習**&#x200B;頁面。
 
    ![網路練習連結](/help/summit/l820-lab-workbook/assets/4-2-frescopa-web-exercise-link.png)
 
@@ -136,7 +136,7 @@ ht-degree: 2%
 
    ![練習頁面](/help/summit/l820-lab-workbook/assets/4-2-exercise-page.png)
 
-1. 按一下 **[!UICONTROL 傳送]**.
+1. 按一下&#x200B;**[!UICONTROL 傳送]**。
 
 >[!SUCCESS]
 >

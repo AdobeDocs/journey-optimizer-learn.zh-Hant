@@ -1,5 +1,5 @@
 ---
-title: 發佈歷程和歷程狀態
+title: Publish歷程和歷程狀態
 description: 瞭解歷程的不同狀態，以及發佈的影響。
 jira: KT-7528
 thumbnail: 3424998.jpeg
@@ -17,7 +17,7 @@ ht-degree: 68%
 
 ---
 
-# 發佈歷程和歷程狀態
+# Publish歷程和歷程狀態
 
 瞭解歷程的不同狀態，以及發佈的影響。
 
