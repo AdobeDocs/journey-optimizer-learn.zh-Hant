@@ -1,7 +1,7 @@
 ---
-source-git-commit: def6df7acf248f61ac64f1c2d3fc99e519c3ffe6
+source-git-commit: dc11d8bae005038b610637fd0057b4bd92d53374
 workflow-type: tm+mt
-source-wordcount: '120'
+source-wordcount: '143'
 ht-degree: 100%
 
 ---
@@ -33,3 +33,8 @@ Experience League LIVE:
 >
 >目前此功能僅開放給部分組織使用 (可用性限制)。 若要取得存取權，請和您的 Adobe 代表聯絡。
 
+## Beta {#beta}
+
+>[!AVAILABILITY]
+>
+>此功能目前為 Beta 版本，僅供 Beta 版客戶使用。若要加入 Beta 版計畫，請連絡 Adobe 客戶服務。
