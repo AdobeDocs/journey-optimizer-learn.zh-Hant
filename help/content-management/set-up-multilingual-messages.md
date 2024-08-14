@@ -1,6 +1,6 @@
 ---
-title: 設定多語言訊息
-description: 瞭解如何設定自動化翻譯的翻譯專案，以及手動翻譯和多語言訊息自動化翻譯專案所需的語言設定。
+title: 設定多語言訊息傳送
+description: 了解如何設定翻譯專案進行自動化翻譯，以及了解多種語言訊息的手動翻譯和自動化翻譯專案所需的語言設定。
 feature: Multilingual Content
 role: Admin
 level: Beginner
@@ -9,15 +9,15 @@ duration: 599
 last-substantial-update: 2024-06-28T00:00:00Z
 jira: KT-14034
 thumbnail: KT-14034.jpeg
-source-git-commit: 28cdf4939f12b981e2c3953814ca3ca612cdbe9d
-workflow-type: tm+mt
+exl-id: 59464ab1-dac2-4e68-9025-606d29d076f0
+source-git-commit: 55734ce3bc1329663bd65970892d80c99878e1a7
+workflow-type: ht
 source-wordcount: '106'
-ht-degree: 68%
+ht-degree: 100%
 
 ---
 
-
-# 設定多語言訊息
+# 設定多語言訊息傳送
 
 {{limited-availability}}
 
