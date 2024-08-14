@@ -3,7 +3,7 @@ user-guide-title: Journey Optimizer 教學課程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 這些是 Journey Optimizer 教學課程。
 auto-video-transcripts: true
-source-git-commit: d45d00e8d2ae83322f32fc458af1ce4f0c576bab
+source-git-commit: 56ce5f811573046687f735e0f1e6f3f8b972773e
 workflow-type: tm+mt
 source-wordcount: '557'
 ht-degree: 94%
@@ -117,10 +117,10 @@ ht-degree: 94%
    + 設定通道 {#channel-configuration}
       + [設定電子郵件頻道](/help/set-up-channels/set-up-email-channel.md)
       + [委派 CName 子網域](/help/set-up-channels/delegate-cname-subdomains.md)
+      + [設定並執行IP熱身計畫](/help/administration/set-up-and-execute-an-ip-warmup-plan.md)
       + [設定簡訊 API 認證及頻道介面](/help/set-up-channels/set-up-sms-channel.md)
       + [自備簡訊提供者(Beta)](/help/set-up-channels/bring-your-own-sms-provider.md)
       + [設定訊息頻率規則](/help/administration/configure-frequency-rules.md)
-      + [設定並執行IP熱身計畫](/help/administration/set-up-and-execute-an-ip-warmup-plan.md)
       + [設定多媒體簡訊 API 憑證及頻道介面](/help/set-up-channels/configure-mms-api-credentials-and-channel-surfaces.md)
    + 設定歷程 {#journey-configuration}
       + [設定資料來源](/help/set-up-journeys/configure-data-sources.md)
