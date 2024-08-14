@@ -1,6 +1,6 @@
 ---
-title: 設定並執行IP熱身計畫
-description: 瞭解什麼是IP暖身，並瞭解如何在Adobe Journey Optimizer中設定和執行IP暖身計畫。
+title: 設定及執行 IP 暖身計劃
+description: 了解何謂 IP 暖身，並了解如何在 Adobe Journey Optimizer 設定及執行 IP 暖身計劃。
 feature: IP Warmup Plans
 role: Admin
 level: Beginner
@@ -13,14 +13,14 @@ jira: KT-14602
 source-git-commit: 5e6503b8f15ee0dfc7f2894e8d1d7a8493abe63d
 workflow-type: tm+mt
 source-wordcount: '99'
-ht-degree: 4%
+ht-degree: 62%
 
 ---
 
 
-# 設定並執行IP熱身計畫
+# 設定及執行 IP 暖身計劃
 
-瞭解什麼是IP暖身，並瞭解如何在Adobe Journey Optimizer中設定和執行IP暖身計畫。
+了解何謂 IP 暖身，並了解如何在 Adobe Journey Optimizer 設定及執行 IP 暖身計劃。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3432637/?learn=on)
 

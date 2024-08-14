@@ -6,7 +6,7 @@ auto-video-transcripts: true
 source-git-commit: 56ce5f811573046687f735e0f1e6f3f8b972773e
 workflow-type: tm+mt
 source-wordcount: '557'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -77,7 +77,7 @@ ht-degree: 94%
    + [管理內容範本](/help/content-management/content-templates.md)
    + [管理片段](/help/content-management/manage-fragments.md)
    + [建立運算式片段](/help/content-management/expression-fragments.md)
-   + [設定多語言訊息](/help/content-management/set-up-multilingual-messages.md)
+   + [設定多語言訊息傳送](/help/content-management/set-up-multilingual-messages.md)
    + [建立多語言訊息](/help/content-management/create-multilingual-messages.md)
 + 個人化內容 {#personalize-content}
    + [以設定檔和對象成員資格為基礎的個人化](/help/personalize-content/profile-and-audience-membership-based-personalization.md)
@@ -117,9 +117,9 @@ ht-degree: 94%
    + 設定通道 {#channel-configuration}
       + [設定電子郵件頻道](/help/set-up-channels/set-up-email-channel.md)
       + [委派 CName 子網域](/help/set-up-channels/delegate-cname-subdomains.md)
-      + [設定並執行IP熱身計畫](/help/administration/set-up-and-execute-an-ip-warmup-plan.md)
+      + [設定及執行 IP 暖身計劃](/help/administration/set-up-and-execute-an-ip-warmup-plan.md)
       + [設定簡訊 API 認證及頻道介面](/help/set-up-channels/set-up-sms-channel.md)
-      + [自備簡訊提供者(Beta)](/help/set-up-channels/bring-your-own-sms-provider.md)
+      + [自備簡訊提供者 (Beta)](/help/set-up-channels/bring-your-own-sms-provider.md)
       + [設定訊息頻率規則](/help/administration/configure-frequency-rules.md)
       + [設定多媒體簡訊 API 憑證及頻道介面](/help/set-up-channels/configure-mms-api-credentials-and-channel-surfaces.md)
    + 設定歷程 {#journey-configuration}
