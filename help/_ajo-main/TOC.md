@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer 教學課程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 這些是 Journey Optimizer 教學課程。
 auto-video-transcripts: true
-source-git-commit: 56ce5f811573046687f735e0f1e6f3f8b972773e
+source-git-commit: e0abc58d1356044d1dae64f112eec22f4ed2b99d
 workflow-type: tm+mt
-source-wordcount: '557'
-ht-degree: 100%
+source-wordcount: '560'
+ht-degree: 99%
 
 ---
 
@@ -115,6 +115,7 @@ ht-degree: 100%
    + [使用 Customer Journey Analytics 增強報告功能](/help/report-and-monitor/enhanced-reporting-with-customer-journey-analytics.md)
 + 設定 {#configuration}
    + 設定通道 {#channel-configuration}
+      + [引導式管道設定](/help/set-up-channels/guided-channel-setup.md)
       + [設定電子郵件頻道](/help/set-up-channels/set-up-email-channel.md)
       + [委派 CName 子網域](/help/set-up-channels/delegate-cname-subdomains.md)
       + [設定及執行 IP 暖身計劃](/help/administration/set-up-and-execute-an-ip-warmup-plan.md)
