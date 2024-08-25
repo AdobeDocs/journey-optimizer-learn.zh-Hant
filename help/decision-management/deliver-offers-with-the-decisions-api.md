@@ -9,7 +9,7 @@ thumbnail: 329919.jpg
 exl-id: 3084c52b-adc8-42bc-a203-5e39bcff77ef
 source-git-commit: fd9d277be00449155c49b3809fe647d7342b6acd
 workflow-type: tm+mt
-source-wordcount: '116'
+source-wordcount: '114'
 ht-degree: 100%
 
 ---
@@ -23,4 +23,4 @@ ht-degree: 100%
 
 >[!INFO]
 >
-> 此影片是[行銷人員決策管理快速入門](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning)課程的一部分，可在 Experience League 中免費使用！
+> 此影片是[行銷人員決策管理快速入門課程](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning)的一部分，可在 Experience League 中免費使用！

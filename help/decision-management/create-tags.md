@@ -9,7 +9,7 @@ level: Beginner
 exl-id: 155a35bf-8704-4e85-8647-479aecd2a9ce
 source-git-commit: fd9d277be00449155c49b3809fe647d7342b6acd
 workflow-type: tm+mt
-source-wordcount: '66'
+source-wordcount: '64'
 ht-degree: 100%
 
 ---
@@ -20,4 +20,4 @@ ht-degree: 100%
 
 >[!VIDEO](https://video.tv.adobe.com/v/329374?quality=12&learn=on){transcript=true}
 
-要了解有關如何使用 API 建立標籤的詳細資訊，請參閱[產品指南](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/api-reference/offers-api/tags/create.html?lang=zh-Hant)
+要瞭解有關如何使用 API 建立標籤的詳細資訊，請參閱[產品指南](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/api-reference/offers-api/tags/create.html?lang=zh-Hant)

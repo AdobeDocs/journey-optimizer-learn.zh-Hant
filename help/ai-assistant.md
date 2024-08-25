@@ -1,6 +1,6 @@
 ---
 title: AI 助理
-description: 瞭解您可以在Real-time Customer Data Platform、Journey Optimizer和Customer Journey Analytics等Adobe Experience Platform應用程式中使用AI助理做什麼。
+description: 了解您可以在 Adobe Experience Platform 應用程式 (例如 Real-Time Customer Data Platform、Journey Optimizer 和 Customer Journey Analytics) 中使用 AI 助理執行哪些操作。
 feature: Overview
 role: Admin, Developer, User
 level: Beginner
@@ -8,17 +8,17 @@ doc-type: Feature Video
 duration: 143
 last-substantial-update: 2024-06-27T00:00:00Z
 jira: KT-15789
-source-git-commit: cc8e8c48a35f86585dea99a5f991517f41b4a43b
+exl-id: 6c2134ec-7d0c-4fe2-9281-22a10ace1890
+source-git-commit: 55734ce3bc1329663bd65970892d80c99878e1a7
 workflow-type: tm+mt
 source-wordcount: '83'
-ht-degree: 4%
+ht-degree: 62%
 
 ---
 
-
 # AI 助理
 
-瞭解您可以在Real-time Customer Data Platform、Journey Optimizer和Customer Journey Analytics等Adobe Experience Platform應用程式中使用AI助理做什麼。
+了解您可以在 Adobe Experience Platform 應用程式 (例如 Real-Time Customer Data Platform、Journey Optimizer 和 Customer Journey Analytics) 中使用 AI 助理執行哪些操作。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3429845/?learn=on)
 

@@ -162,7 +162,7 @@ ht-degree: 1%
 
       ![按鈕區段](/help/summit/l820-lab-workbook/assets/3-1-3-2-buttons.png)
 
-      1. 在編輯器的此區段中，您可以透過編輯按鈕文字欄位來自訂CTA按鈕的文字。
+      1. 在編輯器的此區段中，您可以編輯按鈕文字欄位，以自訂CTA按鈕的文字。
 
       2. **[!UICONTROL Interact事件]**&#x200B;欄位是用來定義當使用者按下CTA時傳遞至SDK的值。
 

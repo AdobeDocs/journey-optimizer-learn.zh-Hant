@@ -1,6 +1,6 @@
 ---
 title: 建立行銷活動
-description: 了解如何透過立即執行動作或依指定排程傳送一次性內容給特定對象。
+description: 了解如何透過立即執行動作或依指定排程傳送一次性內容給特定客群。
 jira: KT-10590
 thumbnail: 346680.jpg
 feature: Campaigns
@@ -11,7 +11,7 @@ level: Beginner
 exl-id: 543678e6-5803-4997-a6ea-a45ed571d7d4
 source-git-commit: 7861e0ca17a616273f5ea1b4d850310f1f4ec8b8
 workflow-type: tm+mt
-source-wordcount: '99'
+source-wordcount: '97'
 ht-degree: 100%
 
 ---
@@ -22,7 +22,7 @@ ht-degree: 100%
 >
 >此功能僅適用於具有 Campaign 相關產品設定檔存取權的使用者，例如 Campaign 管理員、Campaign 核准者、Campaign 主管和/或 Campaign 檢視者。 如需更多如何指派產品設定檔的詳細資訊，請參閱[此影片](/help/set-up-access/access-management.md)。
 
-了解如何透過立即執行動作或依指定排程傳送一次性內容給特定對象。
+了解如何透過立即執行動作或依指定排程傳送一次性內容給特定客群。
 
 >[!VIDEO](https://video.tv.adobe.com/v/346680?quality=12&learn=on){transcript=true}
 

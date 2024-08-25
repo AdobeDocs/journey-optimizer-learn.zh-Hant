@@ -1,6 +1,6 @@
 ---
 title: 建立夏季系列發佈 - 挑戰
-description: 向現有客戶對象傳送夏季系列發佈，以推廣新的 Luma 夏季系列。
+description: 向現有客戶客群傳送夏季系列發佈，以推廣新的 Luma 夏季系列。
 jira: KT-8109
 feature: Segments, Journeys, Email
 role: User
@@ -26,24 +26,24 @@ ht-degree: 100%
 
 ## 故事
 
-虛擬的運動服裝公司 Luma 正在推廣其最新的服裝和用具系列，並努力推動現有客戶的銷售。 Luma 即將推出新的夏季系列，並且想要特別鎖定不同的對象。
+虛擬的運動服裝公司 Luma 正在推廣其最新的服裝和用具系列，並努力推動現有客戶的銷售。 Luma 即將推出新的夏季系列，並且想要特別鎖定不同的客群。
 
 ## 您的挑戰
 
 Luma 行銷團隊會要求您在 Journey Optimizer 中實施夏季系列行銷活動。 您面臨的挑戰是：
 
-* 建立對象，定義哪些設定檔有資格收到促銷活動。
+* 建立客群，定義哪些輪廓有資格收到促銷活動。
 * 建立歷程。
 
-### 步驟 1：定義對象 - 活躍客戶
+### 步驟 1：定義客群 - 活躍客戶
 
 >[!BEGINTABS]
 
 >[!TAB 任務]
 
-#### 在 [!DNL Journey Optimizer] 中建立對象
+#### 在 [!DNL Journey Optimizer] 中建立客群
 
-* 在 [!DNL Journey Optimizer] 中建立稱為&#x200B;*活躍客戶*&#x200B;的對象。
+* 在 [!DNL Journey Optimizer] 中建立稱為&#x200B;*活躍客戶*&#x200B;的客群。
 * 區段必須僅包含活躍的 Luma 客戶。
 * 活躍客戶是指處於 Luma 的忠誠度計畫 (銅、銀、金或白金) 某一層級中的客戶。
 
@@ -103,7 +103,7 @@ stringCompare("equals", loyalty.tier, ["diamond", "gold", "platinum", "silver"],
 
 1. 根據下列准則，建立名為 *Luma - 夏季系列發佈*&#x200B;歷程 ：
 
-   1. 傳送 *Luma - 全新夏季系列發佈*&#x200B;電子郵件至&#x200B;*活躍客戶*&#x200B;區段，將 10% 的對象視為控制組
+   1. 傳送 *Luma - 全新夏季系列發佈*&#x200B;電子郵件至&#x200B;*活躍客戶*&#x200B;區段，將 10% 的客群視為控制組
       * 訊息標題 *Luma - 夏季系列發佈*
       * 主旨列 *(收件者的名字)，新的 Luma 夏季系列已推出！*
       * 使用提供的 HTML 檔案 `SeasonalCollectionEmail.html` 用於電子郵件內文。

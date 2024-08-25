@@ -37,15 +37,15 @@ ht-degree: 99%
    + [建立歷程簡介](/help/create-journeys/introduction-to-building-a-journey.md)
    + [使用案例 - 異動歷程](/help/create-journeys/use-case-transactional-journey.md)
    + [使用案例 - 業務事件](/help/create-journeys/use-case-business-event.md)
-   + [使用案例 - 讀取對象](/help/create-journeys/use-case-read-audience.md)
-   + [使用案例 - 對象資格](/help/create-journeys/use-case-audience-qualification.md)
+   + [使用案例 - 讀取客群](/help/create-journeys/use-case-read-audience.md)
+   + [使用案例 - 客群資格](/help/create-journeys/use-case-audience-qualification.md)
    + [建立測試設定檔](/help/create-journeys/test-a-journey.md)
    + [發佈歷程](/help/create-journeys/publish-a-journey.md)
    + [更新即時歷程中的內容](/help/create-journeys/update-content-in-live-journey.md)
    + [將歷程複製到另一個沙箱](/help/create-journeys/copy-a-journey.md)
-+ 設定檔、對象和訂閱 {#profiles-audiences-subscriptions}
++ 輪廓、客群和訂閱 {#profiles-audiences-subscriptions}
    + [統一設定檔和分段 - 概述](/help/profiles-audiences-subscriptions/unified-profile-and-segmentation-overview.md)
-   + [使用規則產生器建立對象](/help/profiles-audiences-subscriptions/create-audiences-using-the-rule-builder.md)
+   + [使用規則產生器建立客群](/help/profiles-audiences-subscriptions/create-audiences-using-the-rule-builder.md)
    + [訂閱和登陸頁面](/help/subscriptions-and-landing-pages.md)
 + 管道 {#channels}
    + 程式碼型體驗頻道{#code-based-experience-channel}
@@ -80,7 +80,7 @@ ht-degree: 99%
    + [設定多語言訊息傳送](/help/content-management/set-up-multilingual-messages.md)
    + [建立多語言訊息](/help/content-management/create-multilingual-messages.md)
 + 個人化內容 {#personalize-content}
-   + [以設定檔和對象成員資格為基礎的個人化](/help/personalize-content/profile-and-audience-membership-based-personalization.md)
+   + [以輪廓和客群成員資格為基礎的個人化](/help/personalize-content/profile-and-audience-membership-based-personalization.md)
    + [將優惠新增為個人化](/help/personalize-content/add-offer-decisioning-to-messages.md)
    + [使用內容事件資訊進行個人化](/help/personalize-content/use-contextual-event-information-for-personalization.md)
    + [使用協助程式功能進行個人化](/help/personalize-content/use-helper-functions-for-personalization.md)

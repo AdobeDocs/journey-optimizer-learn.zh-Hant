@@ -17,7 +17,7 @@ ht-degree: 100%
 
 挑戰提供了實施您所學知識所需的情境和要求。 挑戰可幫助您評估您的技能水準並找出知識差距。
 
-本節中的每個挑戰都說明了您所實施的獨特使用案例。 目標對象 (角色) 和所需技能將列在每個挑戰的開頭。
+本節中的每個挑戰都說明了您所實施的獨特使用案例。 目標客群 (角色) 和所需技能將列在每個挑戰的開頭。
 
 ## 先決條件
 
@@ -64,7 +64,7 @@ Luma 正尋求推廣其最新的服裝和用具系列，並努力推動現有客
    <strong><a href="summer-collection-announcement-challenge.md">建立夏季系列發佈 </strong>
     </a>
       <p>
-      <em>建立歷程，將夏季系列發佈電子郵件傳送至現有客戶對象。 </em>
+      <em>建立歷程，將夏季系列發佈電子郵件傳送至現有客戶客群。 </em>
       <p>
       <b>所需技能：</b>
       <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html?lang=zh-Hant"> 建立區段</li>

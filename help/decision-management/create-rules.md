@@ -9,7 +9,7 @@ level: Beginner
 exl-id: 1b4cd1cd-f082-46ec-a331-9733d7c87bde
 source-git-commit: fd9d277be00449155c49b3809fe647d7342b6acd
 workflow-type: tm+mt
-source-wordcount: '114'
+source-wordcount: '112'
 ht-degree: 100%
 
 ---
@@ -20,4 +20,4 @@ ht-degree: 100%
 
 >[!VIDEO](https://video.tv.adobe.com/v/329373?quality=12&learn=on){transcript=true}
 
-要了解有關如何使用 API 建立決策規則的詳細資訊，請參閱[產品指南](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/api-reference/offers-api/decision-rules/create.html?lang=zh-Hant)
+要瞭解有關如何使用 API 建立決定規則的詳細資訊，請參閱[產品指南](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/api-reference/offers-api/decision-rules/create.html?lang=zh-Hant)
