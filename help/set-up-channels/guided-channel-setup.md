@@ -10,10 +10,10 @@ last-substantial-update: 2024-08-23T00:00:00Z
 jira: KT-16041
 hidefromtoc: true
 hide: true
-source-git-commit: 79e5376bdf570664ff308ae18b27168f8fefd891
-workflow-type: ht
-source-wordcount: '150'
-ht-degree: 100%
+source-git-commit: bf17a3a7c03e1da68bb938a58fd626d0e5322425
+workflow-type: tm+mt
+source-wordcount: '138'
+ht-degree: 91%
 
 ---
 
@@ -28,7 +28,5 @@ ht-degree: 100%
 
 如需詳細資訊，請參閱產品文件：
 
-* [開始使用引導式通道設定](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer/using/configuration/guided-setup/set-mobile-config)
-* [設定 Android 行動裝置設定](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer/using/configuration/guided-setup/set-mobile-android)
-* [設定 iOS 行動裝置設定](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer/using/configuration/guided-setup/set-mobile-ios)
-* [設定網頁設定](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer/using/configuration/guided-setup/set-mobile-web)
+* [開始使用引導式頻道設定](https://experienceleague.adobe.com/docs/journey-optimizer/using/configuration/guided-setup/set-mobile-config.html)
+* [建立管道設定](https://experienceleague.adobe.com/docs/journey-optimizer/using/configuration/guided-setup/create-channel-set-up.html)
