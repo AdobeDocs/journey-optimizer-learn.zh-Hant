@@ -116,7 +116,7 @@ ht-degree: 99%
 + 設定 {#configuration}
    + 設定通道 {#channel-configuration}
       + [設定頻道](/help/set-up-channels/configure-channels.md)
-      + [引導式管道設定](/help/set-up-channels/guided-channel-setup.md)
+      + [引導式通道設定](/help/set-up-channels/guided-channel-setup.md)
       + [設定電子郵件頻道](/help/set-up-channels/set-up-email-channel.md)
       + [委派 CName 子網域](/help/set-up-channels/delegate-cname-subdomains.md)
       + [設定及執行 IP 暖身計劃](/help/administration/set-up-and-execute-an-ip-warmup-plan.md)
