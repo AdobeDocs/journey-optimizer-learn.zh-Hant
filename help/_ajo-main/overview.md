@@ -7,10 +7,10 @@ role: User, Developer, Admin, Leader
 level: Beginner, Intermediate, Experienced
 doc-type: overview-page
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: b58a4f37ac4cba27ff4dcea88ffa0d3b0db037cf
+source-git-commit: 4c51e1a1b04750559f3d1316fc9c13bedd94ae60
 workflow-type: tm+mt
-source-wordcount: '522'
-ht-degree: 100%
+source-wordcount: '343'
+ht-degree: 89%
 
 ---
 
@@ -30,26 +30,12 @@ Journey Optimizer 協助公司向其客戶傳送連結的、情境式和個人�
 
 <div id="events-section">
 
-## Experience League Live 活動
+## 最新Experience League直播活動
 
+* **[夏日焦點 — 三個人必須試用Adobe Journey Optimizer中的功能](https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-08-28-24)**
+  *透過Adobe Journey Optimizer的三項功能（歷程實驗、頻率限定、多語言傳訊），今年夏天為您的客戶帶來更充裕的參與度。*
 * **[Journey Optimizer 的全新程式碼型體驗頻道](https://experienceleague.adobe.com/zh-hant/docs/events/experience-league-live-recordings/episodes/exl-live-episode-04-24-24)**
   *瞭解如何使用以開發人員為中心的動作來啟用傳入表面和精細的個人化控制。*
-
-* **[Adobe Journey Optimizer 中的 API 觸發式傳訊](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-8-23-23.html?lang=zh-Hant){target="_blank"}**
-  *了解如何使用 REST API 進行內容相關的個人化即時交易型與行銷通訊。*
-
-* **[透過 Adobe Journey Optimizer 充分利用行動應用程式](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-5-24-23.html?lang=zh-Hant){target="_blank"}**
-  *瞭解應用程式內傳訊作為即時參與管道的好處，以及如何在 Adobe Journey Optimizer 中設定和撰寫個人化的行動應用程式體驗。*
-
-* **[透過網路頻道和內容實驗探索 Adobe Journey Optimizer 的未來](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-6-14-23.html?lang=zh-Hant){target="_blank"}**
-  *新的網路頻道可讓行銷人員使用 WYSIWYG 視覺化設計工具建置網路行銷活動。 此外，Journey Optimizer 現在可讓您在任何頻道中進行內容實驗，包括電子郵件、網頁、推播、應用程式內、簡訊等。*
-
-* **[在 Adobe Journey Optimizer 中執行行銷活動](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-09-22-22.html?lang=zh-Hant){target="_blank"}**
-  *在這個原定於 2022 年 9 月 22 日進行的「Experience League」現場單元中，請觀看主持人 Sandra Hausmann 和產品專家 Bridgette Darling 以及 Frederic Mary，討論此新功能涵蓋的使用案例，並示範如何輕鬆設定和執行 Journey Optimizer 的行銷活動。*
-
-* **[透過 Adobe Journey Optimizer 推播通知](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-05-12-22.html?lang=zh-Hant)**
-  *在本次 Experience League 現場單元，我們討論了透過 Adobe Journey Optimizer 推播通知的常見使用案例及技術詳細資訊，深入了解如何設定 Adobe Experience Platform 支援的推播應用程式。*
-
 </div>
 
 <div id="staff-picks-section">
