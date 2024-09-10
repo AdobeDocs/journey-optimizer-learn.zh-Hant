@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer 教學課程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 這些是 Journey Optimizer 教學課程。
 auto-video-transcripts: true
-source-git-commit: 406d57307ca700d0cf4e95a39d55665654c3de93
+source-git-commit: 25c9704ad0a1080d6796a6b1ec1557f986c2a786
 workflow-type: tm+mt
-source-wordcount: '580'
-ht-degree: 96%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -128,7 +128,7 @@ ht-degree: 96%
       + [設定資料來源](/help/set-up-journeys/configure-data-sources.md)
       + [建立事件](/help/set-up-journeys/create-events.md)
       + [建立動作](/help/set-up-journeys/create-actions.md)
-   + 商業規則{business-rules}
+   + 商務規則{#business-rules}
       + [設定頻率限定規則](/help/configuration/configure-frequency-capping-rules.md)
 + 存取控制 {#access-control}
    + [存取管理](/help/set-up-access/access-management.md)
