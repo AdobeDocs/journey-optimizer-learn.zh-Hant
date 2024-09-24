@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer 教學課程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 這些是 Journey Optimizer 教學課程。
 auto-video-transcripts: true
-source-git-commit: d0c3d37dc6c3e28cab4ecd6cc8b03cfe65ef51c3
+source-git-commit: 108dfe961f0bc7078e65e2d036734460a95de09f
 workflow-type: tm+mt
-source-wordcount: '592'
-ht-degree: 93%
+source-wordcount: '603'
+ht-degree: 92%
 
 ---
 
@@ -39,12 +39,12 @@ ht-degree: 93%
    + [使用案例 - 業務事件](/help/create-journeys/use-case-business-event.md)
    + [使用案例 - 讀取客群](/help/create-journeys/use-case-read-audience.md)
    + [使用案例 - 客群資格](/help/create-journeys/use-case-audience-qualification.md)
-   + [建立測試設定檔](/help/create-journeys/test-a-journey.md)
+   + [建立測試輪廓](/help/create-journeys/test-a-journey.md)
    + [發佈歷程](/help/create-journeys/publish-a-journey.md)
    + [更新即時歷程中的內容](/help/create-journeys/update-content-in-live-journey.md)
    + [將歷程複製到另一個沙箱](/help/create-journeys/copy-a-journey.md)
 + 輪廓、客群和訂閱 {#profiles-audiences-subscriptions}
-   + [統一設定檔和分段 - 概述](/help/profiles-audiences-subscriptions/unified-profile-and-segmentation-overview.md)
+   + [統一輪廓和分段 - 概述](/help/profiles-audiences-subscriptions/unified-profile-and-segmentation-overview.md)
    + [使用規則產生器建立客群](/help/profiles-audiences-subscriptions/create-audiences-using-the-rule-builder.md)
    + [訂閱和登陸頁面](/help/subscriptions-and-landing-pages.md)
 + 管道 {#channels}
@@ -73,7 +73,9 @@ ht-degree: 93%
       + [製作網路行銷活動](/help/channels/author-a-web-campaign.md)
       + [網頁編輯器中的 SPA 支援](/help/channels/singel-page-application-support.md)
 + 內容管理{#content-management}
-   + [使用Journey Optimizer中的AI Assistant建立內容 — 內容加速器](/help/content-management/create-content-with-the-ai-assistant-content-accelerator.md)
+   + AI Assistant內容加速器{#content-accelerator}
+      + [AI Assistant Content Accelerator簡介](/help/content-management/introduction-to-the-ai-assistant-content-accelerator.md)
+      + [使用Journey Optimizer中的AI Assistant建立內容 — 內容加速器](/help/content-management/create-content-with-the-ai-assistant-content-accelerator.md)
    + [管理資產](/help/assets-essentials-overview.md)
    + [管理內容範本](/help/content-management/content-templates.md)
    + [管理片段](/help/content-management/manage-fragments.md)
