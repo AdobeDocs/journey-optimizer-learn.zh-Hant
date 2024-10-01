@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer 教學課程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 這些是 Journey Optimizer 教學課程。
 auto-video-transcripts: true
-source-git-commit: 4261e738c5c539b387a5f05c48c581954fe11510
+source-git-commit: 0f286412ace011859fc5f1f79ef4baf61d83ac50
 workflow-type: tm+mt
-source-wordcount: '628'
-ht-degree: 88%
+source-wordcount: '631'
+ht-degree: 87%
 
 ---
 
@@ -57,12 +57,13 @@ ht-degree: 88%
       + [匯入及編寫 HTML 電子郵件內容](/help/channels/import-and-author-html-email-content.md)
       + [預覽、校樣和發佈](/help/channels/preview-proof-and-publish.md)
       + [設定電子郵件的內容實驗](/help/experimentation/content-experiments-for-emails.md)
+   + 內容卡(#content-cards)
+      + [建立內容卡片](/help/channels/create-content-cards.md)
    + 應用程式內頻道{#in-app-channel}
       + [建立應用程式內行銷活動](/help/channels/create-an-in-app-campaign.md)
       + [在歷程建立應用程式內訊息](/help/channels/create-an-in-app-message-in-a-journey.md)
       + [撰寫應用程式內訊息](/help/channels/author-in-app-messages.md)
       + [設定應用程式內訊息的內容實驗](/help/experimentation/content-experiments-for-in-app-messages.md)
-      + [建立內容卡片](/help/channels/create-content-cards.md)
    + 推播頻道{#push-channel}
       + [設定和傳送推播行銷活動](/help/channels/create-a-push-campaign.md)
    + 簡訊頻道{#sms-channel}
