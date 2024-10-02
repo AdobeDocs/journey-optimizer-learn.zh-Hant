@@ -1,8 +1,8 @@
 ---
-source-git-commit: dc11d8bae005038b610637fd0057b4bd92d53374
+source-git-commit: e3a349db221525ff3e1fed4ae962166740d419dc
 workflow-type: tm+mt
-source-wordcount: '143'
-ht-degree: 100%
+source-wordcount: '178'
+ht-degree: 80%
 
 ---
 # AJO 程式碼片段
@@ -38,3 +38,9 @@ Experience League LIVE:
 >[!AVAILABILITY]
 >
 >此功能目前為 Beta 版本，僅供 Beta 版客戶使用。若要加入 Beta 版計畫，請連絡 Adobe 客戶服務。
+
+## Platform影片 — 原則(#platform-video)
+
+>>[!NOTE]
+>>
+影片在Adobe Experience Platform使用者介面中示範此功能。 Journey Optimizer左側導覽的資料管理和隱私區段中提供相同功能。

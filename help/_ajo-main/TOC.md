@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer 教學課程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 這些是 Journey Optimizer 教學課程。
 auto-video-transcripts: true
-source-git-commit: 0f8cacf3676b4d14f11264fbd691fa73ef01f6ed
+source-git-commit: e3a349db221525ff3e1fed4ae962166740d419dc
 workflow-type: tm+mt
-source-wordcount: '630'
-ht-degree: 88%
+source-wordcount: '642'
+ht-degree: 86%
 
 ---
 
@@ -58,7 +58,7 @@ ht-degree: 88%
       + [預覽、校樣和發佈](/help/channels/preview-proof-and-publish.md)
       + [設定電子郵件的內容實驗](/help/experimentation/content-experiments-for-emails.md)
    + 內容卡片{#content-cards}
-      + [建立內容卡片](/help/channels/create-content-cards.md)
+      + [建立內容卡](/help/channels/create-content-cards.md)
    + 應用程式內頻道{#in-app-channel}
       + [建立應用程式內行銷活動](/help/channels/create-an-in-app-campaign.md)
       + [在歷程建立應用程式內訊息](/help/channels/create-an-in-app-message-in-a-journey.md)
@@ -141,6 +141,8 @@ ht-degree: 88%
    + [建立及管理沙箱](/help/set-up-access/create-and-manage-sandboxes.md)
 + 資料控管和隱私權{#data-governance-and-privacy}
    + [資料控管框架](/help/privacy/data-governance-framework.md)
+   + [使用標籤來分類資料](/help/privacy/classify-data-using-lables.md)
+   + [在Journey Optimizer管道中強制實施資料使用原則](/help/privacy/enforce-data-usage-policies-in-journey-optimizer-channels.md)
    + [遮罩訊息中的資料](/help/privacy/mask-data-in-messages.md)
 + 練習與挑戰{#exercises-and-challenges}
    + [設定訓練沙箱](https://experienceleague.adobe.com/docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites.html?lang=zh-Hant)
