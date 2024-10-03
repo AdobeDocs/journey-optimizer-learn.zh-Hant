@@ -5,14 +5,14 @@ feature: Governance, Privacy
 role: User
 level: Beginner
 doc-type: Feature Video
-duration: 0
-last-substantial-update: 2024-10-02T00:00:00Z
+duration: 209
+last-substantial-update: 2024-10-03T00:00:00Z
 jira: KT-16267
 hide: true
 hidefromtoc: true
-source-git-commit: e98a023c6c30444dd58d9030868e3619c0958a37
+source-git-commit: f40562477ffa5cc0d8f0fd2d748fd8d821670053
 workflow-type: tm+mt
-source-wordcount: '107'
+source-wordcount: '120'
 ht-degree: 0%
 
 ---
@@ -25,6 +25,8 @@ ht-degree: 0%
 >[!NOTE]
 >
 >影片在Adobe Experience Platform使用者介面中示範此功能。 Journey Optimizer使用者介面左側導覽的隱私權區段中，提供相同功能。
+>
+>觀看此[教學課程](/help/privacy/enforce-data-usage-policies-in-journey-optimizer-channels.md)，瞭解如何在Journey Optimizer管道中強制執行原則。
 
 >[!VIDEO](https://video.tv.adobe.com/v/32977/?learn=on)
 

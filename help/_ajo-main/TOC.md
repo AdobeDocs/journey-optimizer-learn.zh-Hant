@@ -3,9 +3,9 @@ user-guide-title: Journey Optimizer 教學課程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 這些是 Journey Optimizer 教學課程。
 auto-video-transcripts: true
-source-git-commit: e3a349db221525ff3e1fed4ae962166740d419dc
+source-git-commit: f40562477ffa5cc0d8f0fd2d748fd8d821670053
 workflow-type: tm+mt
-source-wordcount: '642'
+source-wordcount: '646'
 ht-degree: 86%
 
 ---
@@ -142,6 +142,7 @@ ht-degree: 86%
 + 資料控管和隱私權{#data-governance-and-privacy}
    + [資料控管框架](/help/privacy/data-governance-framework.md)
    + [使用標籤來分類資料](/help/privacy/classify-data-using-lables.md)
+   + [建立資料使用原則](/help/privacy/create-data-usage-policies.md)
    + [在Journey Optimizer管道中強制實施資料使用原則](/help/privacy/enforce-data-usage-policies-in-journey-optimizer-channels.md)
    + [遮罩訊息中的資料](/help/privacy/mask-data-in-messages.md)
 + 練習與挑戰{#exercises-and-challenges}
