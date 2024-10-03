@@ -1,5 +1,5 @@
 ---
-title: 建立內容卡片
+title: 建立內容卡
 description: 瞭解如何為您的應用程式建立內容卡。
 feature: In App
 role: User
@@ -10,17 +10,15 @@ last-substantial-update: 2024-09-26T00:00:00Z
 jira: KT-15791
 hidefromtoc: false
 hide: false
-source-git-commit: 257da58273562df68623cb1ae17a423643361b02
+source-git-commit: e98a023c6c30444dd58d9030868e3619c0958a37
 workflow-type: tm+mt
 source-wordcount: '24'
-ht-degree: 0%
+ht-degree: 25%
 
 ---
 
 
-# 建立內容卡片
-
-{{limited-availability}}
+# 建立內容卡
 
 瞭解如何為您的應用程式建立內容卡。
 
