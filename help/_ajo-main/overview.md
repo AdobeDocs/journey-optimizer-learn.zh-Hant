@@ -8,9 +8,9 @@ level: Beginner, Intermediate, Experienced
 doc-type: overview-page
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
 source-git-commit: cf1bf6d0602314e870834035882f2bf1929f307a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '377'
-ht-degree: 81%
+ht-degree: 100%
 
 ---
 
@@ -30,12 +30,12 @@ Journey Optimizer 協助公司向其客戶傳送連結的、情境式和個人�
 
 <div id="events-section">
 
-## 最新Experience League直播活動
+## 最新 Experience League 直播活動
 
-* **[AI Bash — 解鎖Adobe Experience Platform應用程式和行銷活動中的AI助理功能](https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-26-24)**
-  *探索AI Assistant如何在Adobe Experience Cloud應用程式和Adobe Campaign中轉換客戶互動並提高生產力。*
-* **[夏日焦點 — 三個人必須試用Adobe Journey Optimizer中的功能](https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-08-28-24)**
-  *透過Adobe Journey Optimizer的三項功能（歷程實驗、頻率限定、多語言傳訊），今年夏天為您的客戶帶來更充裕的參與度。*
+* **[AI Bash — 解鎖 Adobe Experience Platform 應用程式和行銷活動中的 AI 助理強大功能](https://experienceleague.adobe.com/zh-hant/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-26-24)**
+  *探索 AI 助理如何在 Adobe Experience Cloud 應用程式和 Adobe Campaign 中轉換客戶互動並提高工作效率。*
+* **[夏日焦點 — Adobe Journey Optimizer 中三個不容錯過的功能](https://experienceleague.adobe.com/zh-hant/docs/events/experience-league-live-recordings/episodes/exl-live-episode-08-28-24)**
+  *透過 Adobe Journey Optimizer 的三項功能 (歷程實驗、頻率限定、多語言傳送訊息)，今夏為您的客戶帶來更充裕的參與度。*
 * **[Journey Optimizer 的全新程式碼型體驗頻道](https://experienceleague.adobe.com/zh-hant/docs/events/experience-league-live-recordings/episodes/exl-live-episode-04-24-24)**
   *瞭解如何使用以開發人員為中心的動作來啟用傳入表面和精細的個人化控制。*
 
