@@ -6,7 +6,7 @@ auto-video-transcripts: true
 source-git-commit: f40562477ffa5cc0d8f0fd2d748fd8d821670053
 workflow-type: tm+mt
 source-wordcount: '646'
-ht-degree: 86%
+ht-degree: 97%
 
 ---
 
@@ -58,7 +58,7 @@ ht-degree: 86%
       + [預覽、校樣和發佈](/help/channels/preview-proof-and-publish.md)
       + [設定電子郵件的內容實驗](/help/experimentation/content-experiments-for-emails.md)
    + 內容卡片{#content-cards}
-      + [建立內容卡](/help/channels/create-content-cards.md)
+      + [建立內容卡片](/help/channels/create-content-cards.md)
    + 應用程式內頻道{#in-app-channel}
       + [建立應用程式內行銷活動](/help/channels/create-an-in-app-campaign.md)
       + [在歷程建立應用程式內訊息](/help/channels/create-an-in-app-message-in-a-journey.md)
@@ -75,9 +75,9 @@ ht-degree: 86%
       + [製作網路行銷活動](/help/channels/author-a-web-campaign.md)
       + [網頁編輯器中的 SPA 支援](/help/channels/singel-page-application-support.md)
 + 內容管理{#content-management}
-   + AI Assistant內容加速器{#content-accelerator}
-      + [AI Assistant Content Accelerator簡介](/help/content-management/introduction-to-the-ai-assistant-content-accelerator.md)
-      + [使用Journey Optimizer中的AI Assistant建立內容 — 內容加速器](/help/content-management/create-content-with-the-ai-assistant-content-accelerator.md)
+   + AI 助理內容加速器{#content-accelerator}
+      + [AI 助理內容加速器介紹](/help/content-management/introduction-to-the-ai-assistant-content-accelerator.md)
+      + [使用 Journey Optimizer 的 AI 助理建立內容 - 內容加速器](/help/content-management/create-content-with-the-ai-assistant-content-accelerator.md)
    + [管理資產](/help/assets-essentials-overview.md)
    + [管理內容範本](/help/content-management/content-templates.md)
    + [管理片段](/help/content-management/manage-fragments.md)
@@ -120,7 +120,7 @@ ht-degree: 86%
    + [使用 Customer Journey Analytics 增強報告功能](/help/report-and-monitor/enhanced-reporting-with-customer-journey-analytics.md)
 + 設定 {#configuration}
    + 設定通道 {#channel-configuration}
-      + [設定頻道](/help/set-up-channels/configure-channels.md)
+      + [設定管道](/help/set-up-channels/configure-channels.md)
       + [引導式通道設定](/help/set-up-channels/guided-channel-setup.md)
       + [設定電子郵件頻道](/help/set-up-channels/set-up-email-channel.md)
       + [委派 CName 子網域](/help/set-up-channels/delegate-cname-subdomains.md)
@@ -132,15 +132,15 @@ ht-degree: 86%
       + [設定資料來源](/help/set-up-journeys/configure-data-sources.md)
       + [建立事件](/help/set-up-journeys/create-events.md)
       + [建立動作](/help/set-up-journeys/create-actions.md)
-   + 商務規則{#business-rules}
-      + [設定頻率限定規則](/help/configuration/configure-frequency-capping-rules.md)
-      + [頻率規則的測試和報告](/help/configuration/test-and-report-on-frequency-rules.md)
+   + 業務規則 {#business-rules}
+      + [設定頻率上限規則](/help/configuration/configure-frequency-capping-rules.md)
+      + [測試並報告頻率規則](/help/configuration/test-and-report-on-frequency-rules.md)
 + 存取控制 {#access-control}
    + [存取管理](/help/set-up-access/access-management.md)
    + [設定以屬性為基礎的存取控制](/help/administration/attribute-based-access-control.md)
    + [建立及管理沙箱](/help/set-up-access/create-and-manage-sandboxes.md)
-+ 資料控管和隱私權{#data-governance-and-privacy}
-   + [資料控管框架](/help/privacy/data-governance-framework.md)
++ 資料治理與隱私權 {#data-governance-and-privacy}
+   + [資料治理框架](/help/privacy/data-governance-framework.md)
    + [使用標籤來分類資料](/help/privacy/classify-data-using-lables.md)
    + [建立資料使用原則](/help/privacy/create-data-usage-policies.md)
    + [在Journey Optimizer管道中強制實施資料使用原則](/help/privacy/enforce-data-usage-policies-in-journey-optimizer-channels.md)
@@ -149,8 +149,8 @@ ht-degree: 86%
    + [設定訓練沙箱](https://experienceleague.adobe.com/docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites.html?lang=zh-Hant)
    + [挑戰](https://experienceleague.adobe.com/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites.html?lang=zh-Hant)
 + Experience League 即時錄影{#experience-league-live-recordings}
-   + [AI Bash — 解鎖Adobe Experience Platform應用程式和行銷活動中的AI助理功能](https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-26-24)
-   + [Summer Spotlight — 必須試用Adobe Journey Optimizer中的功能](https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-08-28-24)
+   + [AI Bash — 解鎖 Adobe Experience Platform 應用程式和行銷活動中的 AI 助理強大功能](https://experienceleague.adobe.com/zh-hant/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-26-24)
+   + [夏日焦點 — Adobe Journey Optimizer 中三個不容錯過的功能](https://experienceleague.adobe.com/zh-hant/docs/events/experience-league-live-recordings/episodes/exl-live-episode-08-28-24)
    + [Journey Optimizer 中的全新程式碼型體驗頻道](https://experienceleague.adobe.com/zh-hant/docs/events/experience-league-live-recordings/episodes/exl-live-episode-04-24-24)
    + [Adobe Journey Optimizer 中的 API 觸發式傳訊](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-8-23-23.html?lang=zh-Hant){target="_blank"}
    + [透過決策管理適時提供適當的優惠](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-10-25-22.html?lang=zh-Hant){target="_blank"}

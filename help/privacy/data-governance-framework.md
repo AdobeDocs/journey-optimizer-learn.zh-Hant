@@ -1,6 +1,6 @@
 ---
-title: 資料控管框架概觀
-description: 瞭解Adobe Experience Platform中的控管功能。
+title: 資料治理框架概觀
+description: 了解 Adobe Experience Platform 的控管功能。
 feature: Governance, Privacy
 role: Data Architect, User
 level: Intermediate
@@ -13,14 +13,14 @@ hidefromtoc: true
 source-git-commit: e98a023c6c30444dd58d9030868e3619c0958a37
 workflow-type: tm+mt
 source-wordcount: '79'
-ht-degree: 0%
+ht-degree: 32%
 
 ---
 
 
-# 資料控管框架概觀
+# 資料治理框架概觀
 
-瞭解Adobe Experience Platform中的資料控管架構。
+了解 Adobe Experience Platform 的資料治理框架。
 
 >[!VIDEO](https://video.tv.adobe.com/v/29708/?learn=on)
 
@@ -28,6 +28,6 @@ ht-degree: 0%
 
 ## 其他學習
 
-* [播放清單：開始使用Adobe Experience Platform資料控管](https://experienceleague.adobe.com/en/playlists/experience-platform-get-started-with-data-governance)
+* [播放清單：開始使用Adobe Experience Platform資料控管](https://experienceleague.adobe.com/zh-hant/playlists/experience-platform-get-started-with-data-governance)
 
   *進一步瞭解Adobe Experience Platform上的資料控管，以及如何使用標籤來分類資料、建立資料使用原則，以及在Experience Platform上強制執行資料使用原則。*

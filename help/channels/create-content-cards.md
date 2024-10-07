@@ -1,6 +1,6 @@
 ---
-title: 建立內容卡
-description: 瞭解如何為您的應用程式建立內容卡。
+title: 建立內容卡片
+description: 了解如何為您的應用程式建立內容卡片。
 feature: In App
 role: User
 level: Beginner
@@ -13,13 +13,13 @@ hide: false
 source-git-commit: e98a023c6c30444dd58d9030868e3619c0958a37
 workflow-type: tm+mt
 source-wordcount: '24'
-ht-degree: 25%
+ht-degree: 100%
 
 ---
 
 
-# 建立內容卡
+# 建立內容卡片
 
-瞭解如何為您的應用程式建立內容卡。
+了解如何為您的應用程式建立內容卡片。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3434783/?learn=on)
