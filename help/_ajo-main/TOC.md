@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer 教學課程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 這些是 Journey Optimizer 教學課程。
 auto-video-transcripts: true
-source-git-commit: f40562477ffa5cc0d8f0fd2d748fd8d821670053
+source-git-commit: f0c457a9aa6e96ca185e526058797479bfbf72da
 workflow-type: tm+mt
-source-wordcount: '646'
-ht-degree: 97%
+source-wordcount: '685'
+ht-degree: 88%
 
 ---
 
@@ -32,7 +32,7 @@ ht-degree: 97%
    + [利用 API 觸發行銷活動](/help/create-campaigns/api-triggered-campaigns.md)
    + [建立電子郵件行銷活動的內容實驗](/help/create-campaigns/content-experiments.md)
 + 歷程 {#create-journeys}
-   + [歷程畫布概觀](/help/create-journeys/overview-over-the-journey-canvas.md)
+   + [歷程Designer — 概觀](/help/create-journeys/journey-designer-overview.md)
    + [探索全新歷程設計程式](/help/create-journeys/new-journey-designer.md)
    + [建立歷程簡介](/help/create-journeys/introduction-to-building-a-journey.md)
    + [使用案例 - 異動歷程](/help/create-journeys/use-case-transactional-journey.md)
@@ -44,15 +44,19 @@ ht-degree: 97%
    + [更新即時歷程中的內容](/help/create-journeys/update-content-in-live-journey.md)
    + [將歷程複製到另一個沙箱](/help/create-journeys/copy-a-journey.md)
 + 輪廓、客群和訂閱 {#profiles-audiences-subscriptions}
+   + [設定檔與閱聽眾 — 概觀](/help/profiles-audiences-subscriptions/profiles-and-audiences-overview.md)
    + [統一輪廓和分段 - 概述](/help/profiles-audiences-subscriptions/unified-profile-and-segmentation-overview.md)
    + [使用規則產生器建立客群](/help/profiles-audiences-subscriptions/create-audiences-using-the-rule-builder.md)
    + [訂閱和登陸頁面](/help/subscriptions-and-landing-pages.md)
 + 管道 {#channels}
+   + [行動應用程式最佳化 — 概觀](/help/channels/mobile-app-optimization-overview.md)
    + 程式碼型體驗頻道{#code-based-experience-channel}
       + [建立程式碼型體驗行銷活動](/help/channels/create-a-code-based-experience-campaign.md)
    + 直接郵件頻道{#direct-mail-channel}
       + [建立直接郵件](/help/channels/direct-mail.md)
    + 電子郵件頻道{#email-channel}
+      + [電子郵件頻道 — 概觀](/help/channels/email-channel-overview.md)
+      + [電子郵件設計與個人化 — 概觀](/help/channels/email-design-and-personalization-overview.md)
       + [使用電子郵件設計工具建立內容](/help/channels/create-content-with-the-email-designer.md)
       + [匯入及編寫 HTML 電子郵件內容](/help/channels/import-and-author-html-email-content.md)
       + [預覽、校樣和發佈](/help/channels/preview-proof-and-publish.md)
@@ -60,31 +64,40 @@ ht-degree: 97%
    + 內容卡片{#content-cards}
       + [建立內容卡片](/help/channels/create-content-cards.md)
    + 應用程式內頻道{#in-app-channel}
+      + [應用程式內訊息 — 概觀](/help/channels/in-app-messages-overview.md)
       + [建立應用程式內行銷活動](/help/channels/create-an-in-app-campaign.md)
       + [在歷程建立應用程式內訊息](/help/channels/create-an-in-app-message-in-a-journey.md)
       + [撰寫應用程式內訊息](/help/channels/author-in-app-messages.md)
       + [設定應用程式內訊息的內容實驗](/help/experimentation/content-experiments-for-in-app-messages.md)
    + 推播頻道{#push-channel}
+      + [推播通知 — 概觀](/help/channels/push-notifications-overview.md)
       + [設定和傳送推播行銷活動](/help/channels/create-a-push-campaign.md)
    + 簡訊頻道{#sms-channel}
+      + [SMS/MMS訊息 — 概覽](/help/channels/sms-mms-messages-overview.md)
       + [設定、編寫並傳遞簡訊訊息](/help/channels/author-sms-messages.md)
       + [編寫多媒體簡訊訊息](/help/channels/author-mms.md)
       + [簡訊 - Sinch 和 Infobip 的雙重選擇加入](/help/channels/sms-double-opt-in.md)
    + 網路頻道 {#web-channel}
+      + [網頁個人化 — 概觀](/help/channels/web-personalization-overview.md)
       + [建立網路行銷活動](/help/channels/create-a-web-campaign.md)
       + [製作網路行銷活動](/help/channels/author-a-web-campaign.md)
       + [網頁編輯器中的 SPA 支援](/help/channels/singel-page-application-support.md)
 + 內容管理{#content-management}
-   + AI 助理內容加速器{#content-accelerator}
-      + [AI 助理內容加速器介紹](/help/content-management/introduction-to-the-ai-assistant-content-accelerator.md)
-      + [使用 Journey Optimizer 的 AI 助理建立內容 - 內容加速器](/help/content-management/create-content-with-the-ai-assistant-content-accelerator.md)
+   + [訊息製作 — 概觀](/help/content-management/message-authoring-overview.md)
+   + [數位資產管理 — 概觀](/help/content-management/digital-asset-management-overview.md)
    + [管理資產](/help/assets-essentials-overview.md)
    + [管理內容範本](/help/content-management/content-templates.md)
    + [管理片段](/help/content-management/manage-fragments.md)
    + [建立運算式片段](/help/content-management/expression-fragments.md)
-   + [設定多語言訊息傳送](/help/content-management/set-up-multilingual-messages.md)
-   + [建立多語言訊息](/help/content-management/create-multilingual-messages.md)
+   + [實驗 — 概觀](/help/content-management/experimentation-overview.md)
+   + 多語言訊息{#multilingual-messaging}
+      + [設定多語言訊息傳送](/help/content-management/set-up-multilingual-messages.md)
+      + [建立多語言訊息](/help/content-management/create-multilingual-messages.md)
+   + AI 助理內容加速器{#content-accelerator}
+      + [AI Assistant Content Accelerator — 概觀](/help/content-management/ai-assistant-content-accelerator-overview.md)
+      + [使用AI Assistant Content Accelerator建立內容](/help/content-management/create-content-using-the-ai-assistant-content-accelerator.md)
 + 個人化內容 {#personalize-content}
+   + [Personalization編輯器 — 概觀](/help/personalize-content/personalization-editor-overview.md)
    + [以輪廓和客群成員資格為基礎的個人化](/help/personalize-content/profile-and-audience-membership-based-personalization.md)
    + [將優惠新增為個人化](/help/personalize-content/add-offer-decisioning-to-messages.md)
    + [使用內容事件資訊進行個人化](/help/personalize-content/use-contextual-event-information-for-personalization.md)
@@ -113,6 +126,7 @@ ht-degree: 97%
    + [設定資料集匯出目的地](/help/data-management/configure-dataset-export-destination.md)
    + [將資料集匯出至雲端儲存空間位置](/help/data-management/export-datasets.md)
 + 報告和監視 {#report-and-monitor}
+   + [測量與報告 — 概觀](/help/report-and-monitor/measurement-and-reporting-overview.md)
    + [即時和全域報告](/help/report-and-monitor/live-and-global-reports.md)
    + [頻道層級報告](/help/report-and-monitor/channel-level-reports.md)
    + [以 CSV 格式匯出報告](/help/report-and-monitor/export-reports-in-csv-format.md)
