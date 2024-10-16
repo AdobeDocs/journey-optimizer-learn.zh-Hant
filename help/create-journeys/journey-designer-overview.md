@@ -1,5 +1,5 @@
 ---
-title: 歷程Designer — 概觀
+title: 歷程設計師 — 概觀
 description: 此影片提供如何使用歷程設計器設計和管理客戶歷程的概觀。
 feature: Journeys
 role: User
@@ -9,14 +9,14 @@ duration: 98
 last-substantial-update: 2024-10-08T00:00:00Z
 jira: KT-16290
 source-git-commit: dde5bc9f9d453b5b3df8cc3625329ee81d1889ab
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '42'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# 歷程Designer — 概觀
+# 歷程設計師 — 概觀
 
 此影片提供如何使用歷程設計器設計和管理客戶歷程的概觀。
 

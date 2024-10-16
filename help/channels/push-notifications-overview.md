@@ -1,6 +1,6 @@
 ---
 title: 推播通知 — 概觀
-description: 瞭解如何建立推播通知，以隨時透過個人化目標訊息與行動應用程式使用者互動。
+description: 了解如何建置推播通知，透過個人化目標訊息隨時吸引行動應用程式使用者。
 feature: Push
 role: User
 level: Beginner
@@ -9,15 +9,15 @@ duration: 99
 last-substantial-update: 2024-10-08T00:00:00Z
 jira: KT-16312
 source-git-commit: dde5bc9f9d453b5b3df8cc3625329ee81d1889ab
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '42'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
 # 推播通知 — 概觀
 
-瞭解如何建立推播通知，以隨時透過個人化目標訊息與行動應用程式使用者互動。
+了解如何建置推播通知，透過個人化目標訊息隨時吸引行動應用程式使用者。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3432679/?learn=on)

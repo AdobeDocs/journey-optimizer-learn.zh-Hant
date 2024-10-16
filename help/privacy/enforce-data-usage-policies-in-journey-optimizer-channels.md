@@ -1,6 +1,6 @@
 ---
-title: 在Journey Optimizer管道中強制實施資料使用原則
-description: 瞭解如何在Journey Optimizer管道中強制執行資料使用標籤。
+title: 在 Journey Optimizer 管道中執行資料使用原則
+description: 了解如何在 Journey Optimizer 管道中執行資料使用標籤。
 feature: Governance, Privacy
 role: Data Architect, Admin, User
 level: Beginner
@@ -12,17 +12,17 @@ hide: false
 hidefromtoc: false
 badgePrivateBeta: label="Private Beta" type="Informative"
 source-git-commit: 810601d8bfdf71386831f439877316b3a91d5cc2
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '62'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# 在Journey Optimizer管道中強制實施資料使用原則
+# 在 Journey Optimizer 管道中執行資料使用原則
 
-瞭解如何在Journey Optimizer管道中強制執行資料使用原則。
+了解如何在 Journey Optimizer 管道中執行資料使用原則。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3434901/?learn=on)
 
-請參閱產品檔案，以取得有關[資料控管](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/privacy/action-privacy-restricted)以及如何[在Journey Optimizer中使用同意原則](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/privacy/consent/consent-restricted)的詳細資訊。
+請參閱產品文件，以取得有關 [資料治理](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer/using/privacy/action-privacy-restricted) 以及如何在 Journey Optimizer [使用同意原則工作](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer/using/privacy/consent/consent-restricted) 的詳細資訊。

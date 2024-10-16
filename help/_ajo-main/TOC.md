@@ -4,9 +4,9 @@ user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 這些是 Journey Optimizer 教學課程。
 auto-video-transcripts: true
 source-git-commit: f0c457a9aa6e96ca185e526058797479bfbf72da
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '685'
-ht-degree: 88%
+ht-degree: 100%
 
 ---
 
@@ -32,7 +32,7 @@ ht-degree: 88%
    + [利用 API 觸發行銷活動](/help/create-campaigns/api-triggered-campaigns.md)
    + [建立電子郵件行銷活動的內容實驗](/help/create-campaigns/content-experiments.md)
 + 歷程 {#create-journeys}
-   + [歷程Designer — 概觀](/help/create-journeys/journey-designer-overview.md)
+   + [歷程設計師 — 概觀](/help/create-journeys/journey-designer-overview.md)
    + [探索全新歷程設計程式](/help/create-journeys/new-journey-designer.md)
    + [建立歷程簡介](/help/create-journeys/introduction-to-building-a-journey.md)
    + [使用案例 - 異動歷程](/help/create-journeys/use-case-transactional-journey.md)
@@ -44,7 +44,7 @@ ht-degree: 88%
    + [更新即時歷程中的內容](/help/create-journeys/update-content-in-live-journey.md)
    + [將歷程複製到另一個沙箱](/help/create-journeys/copy-a-journey.md)
 + 輪廓、客群和訂閱 {#profiles-audiences-subscriptions}
-   + [設定檔與閱聽眾 — 概觀](/help/profiles-audiences-subscriptions/profiles-and-audiences-overview.md)
+   + [簡介及客群 — 概觀](/help/profiles-audiences-subscriptions/profiles-and-audiences-overview.md)
    + [統一輪廓和分段 - 概述](/help/profiles-audiences-subscriptions/unified-profile-and-segmentation-overview.md)
    + [使用規則產生器建立客群](/help/profiles-audiences-subscriptions/create-audiences-using-the-rule-builder.md)
    + [訂閱和登陸頁面](/help/subscriptions-and-landing-pages.md)
@@ -73,7 +73,7 @@ ht-degree: 88%
       + [推播通知 — 概觀](/help/channels/push-notifications-overview.md)
       + [設定和傳送推播行銷活動](/help/channels/create-a-push-campaign.md)
    + 簡訊頻道{#sms-channel}
-      + [SMS/MMS訊息 — 概覽](/help/channels/sms-mms-messages-overview.md)
+      + [SMS/MMS 訊息 — 概觀](/help/channels/sms-mms-messages-overview.md)
       + [設定、編寫並傳遞簡訊訊息](/help/channels/author-sms-messages.md)
       + [編寫多媒體簡訊訊息](/help/channels/author-mms.md)
       + [簡訊 - Sinch 和 Infobip 的雙重選擇加入](/help/channels/sms-double-opt-in.md)
@@ -84,20 +84,20 @@ ht-degree: 88%
       + [網頁編輯器中的 SPA 支援](/help/channels/singel-page-application-support.md)
 + 內容管理{#content-management}
    + [訊息製作 — 概觀](/help/content-management/message-authoring-overview.md)
-   + [數位資產管理 — 概觀](/help/content-management/digital-asset-management-overview.md)
+   + [數位資產管理 ── 概觀](/help/content-management/digital-asset-management-overview.md)
    + [管理資產](/help/assets-essentials-overview.md)
    + [管理內容範本](/help/content-management/content-templates.md)
    + [管理片段](/help/content-management/manage-fragments.md)
    + [建立運算式片段](/help/content-management/expression-fragments.md)
    + [實驗 — 概觀](/help/content-management/experimentation-overview.md)
-   + 多語言訊息{#multilingual-messaging}
+   + 多語言傳送訊息 {#multilingual-messaging}
       + [設定多語言訊息傳送](/help/content-management/set-up-multilingual-messages.md)
       + [建立多語言訊息](/help/content-management/create-multilingual-messages.md)
    + AI 助理內容加速器{#content-accelerator}
-      + [AI Assistant Content Accelerator — 概觀](/help/content-management/ai-assistant-content-accelerator-overview.md)
-      + [使用AI Assistant Content Accelerator建立內容](/help/content-management/create-content-using-the-ai-assistant-content-accelerator.md)
+      + [AI 助理內容加速器 — 概觀](/help/content-management/ai-assistant-content-accelerator-overview.md)
+      + [使用 AI 助理內容加速器建立內容](/help/content-management/create-content-using-the-ai-assistant-content-accelerator.md)
 + 個人化內容 {#personalize-content}
-   + [Personalization編輯器 — 概觀](/help/personalize-content/personalization-editor-overview.md)
+   + [個人化編輯器 — 概觀](/help/personalize-content/personalization-editor-overview.md)
    + [以輪廓和客群成員資格為基礎的個人化](/help/personalize-content/profile-and-audience-membership-based-personalization.md)
    + [將優惠新增為個人化](/help/personalize-content/add-offer-decisioning-to-messages.md)
    + [使用內容事件資訊進行個人化](/help/personalize-content/use-contextual-event-information-for-personalization.md)
@@ -155,9 +155,9 @@ ht-degree: 88%
    + [建立及管理沙箱](/help/set-up-access/create-and-manage-sandboxes.md)
 + 資料治理與隱私權 {#data-governance-and-privacy}
    + [資料治理框架](/help/privacy/data-governance-framework.md)
-   + [使用標籤來分類資料](/help/privacy/classify-data-using-lables.md)
+   + [使用標籤進行資料分類](/help/privacy/classify-data-using-lables.md)
    + [建立資料使用原則](/help/privacy/create-data-usage-policies.md)
-   + [在Journey Optimizer管道中強制實施資料使用原則](/help/privacy/enforce-data-usage-policies-in-journey-optimizer-channels.md)
+   + [在 Journey Optimizer 管道中執行資料使用原則](/help/privacy/enforce-data-usage-policies-in-journey-optimizer-channels.md)
    + [遮罩訊息中的資料](/help/privacy/mask-data-in-messages.md)
 + 練習與挑戰{#exercises-and-challenges}
    + [設定訓練沙箱](https://experienceleague.adobe.com/docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites.html?lang=zh-Hant)
