@@ -7,10 +7,10 @@ role: User, Developer, Admin, Leader
 level: Beginner, Intermediate, Experienced
 doc-type: overview-page
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: 2d0a573812fbcbce347821532d5ab254b3a4c98c
+source-git-commit: 7b1947ff1df01b8119bd0dd5ddf8745cd229394e
 workflow-type: tm+mt
 source-wordcount: '372'
-ht-degree: 98%
+ht-degree: 81%
 
 ---
 
@@ -47,30 +47,31 @@ Journey Optimizer 協助公司向其客戶傳送連結的、情境式和個人�
 
 <table>
 <tr>
-  <td>
-    <a href="../introduction/journey-optimizer-overview.md">
-      <img alt="Journey Optimizer概述（影片）" src="../assets/334174.jpg"/>
+    <td>
+    <a href="../content-management/ai-assistant-content-accelerator-overview.md">
+      <img alt="使用AI助理內容加速器建立內容（影片）" src="../assets/3434635.jpg"/>
     </a>
     <div>
-      <a href="../introduction/journey-optimizer-overview-part-1.md">
-    <strong>Journey Optimizer 概覽第 1 部分  </strong>
+      <a href="../content-management/ai-assistant-content-accelerator-overview.md">
+    <strong>使用AI Assistant內容加速器建立內容</strong>
     </a>
     </div>
     <p>
-    <em>此影片說明品牌如何使用 Adobe 歷程最佳化，為消費者提供個人化的全頻道歷程。</em>
+    <em>瞭解如何使用AI Assistant Content Accelerator為文字和影像產生主動式內容變數建議。
+</em>
     <p>
   </td>
     <td>
-    <a href="../introduction/journey-optimizer-overview-part-2.md">
-      <img alt="Journey Optimizer 概覽第 2 部分 - 傳送全頻道歷程（影片）" src="../assets/334175.jpg"/>
+    <a href="../experimentation/content-experiments-for-emails.md">
+      <img alt="設定電子郵件行銷活動的內容實驗（影片）" src="../assets/3419893.jpeg"/>
     </a>
     <div>
-      <a href="../introduction/journey-optimizer-overview-part-2.md">
-    <strong>Journey Optimizer 概覽第 2 部分  </strong>
+      <a href="../experimentation/content-experiments-for-emails.md">
+    <strong>設定電子郵件行銷活動的內容實驗</strong>
     </a>
     </div>
     <p>
-    <em>此影片說明品牌如何運用 Adobe Journey Optimization 的優惠決定、即時區段資格和企業活動管理，將消費者歷程提升到新的高度。</em>
+    <em>瞭解如何設定內容實驗以進行A/B測試並探索電子郵件內容，以最佳方式推動您的業務目標。</em>
     <p>
   </td>
   </td>
