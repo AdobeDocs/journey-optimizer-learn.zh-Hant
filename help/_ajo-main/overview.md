@@ -8,9 +8,9 @@ level: Beginner, Intermediate, Experienced
 doc-type: overview-page
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
 source-git-commit: 7b1947ff1df01b8119bd0dd5ddf8745cd229394e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '372'
-ht-degree: 81%
+ht-degree: 100%
 
 ---
 
@@ -49,29 +49,29 @@ Journey Optimizer 協助公司向其客戶傳送連結的、情境式和個人�
 <tr>
     <td>
     <a href="../content-management/ai-assistant-content-accelerator-overview.md">
-      <img alt="使用AI助理內容加速器建立內容（影片）" src="../assets/3434635.jpg"/>
+      <img alt="使用 AI 助理內容加速器建立內容" src="../assets/3434635.jpg"/>
     </a>
     <div>
       <a href="../content-management/ai-assistant-content-accelerator-overview.md">
-    <strong>使用AI Assistant內容加速器建立內容</strong>
+    <strong>使用 AI 助理內容加速器建立內容</strong>
     </a>
     </div>
     <p>
-    <em>瞭解如何使用AI Assistant Content Accelerator為文字和影像產生主動式內容變數建議。
+    <em>了解如何使用 AI 助理內容加速器為文字和影像產生主動式內容變化版本建議。
 </em>
     <p>
   </td>
     <td>
     <a href="../experimentation/content-experiments-for-emails.md">
-      <img alt="設定電子郵件行銷活動的內容實驗（影片）" src="../assets/3419893.jpeg"/>
+      <img alt="設定電子郵件行銷活動的內容實驗 (影片)" src="../assets/3419893.jpeg"/>
     </a>
     <div>
       <a href="../experimentation/content-experiments-for-emails.md">
-    <strong>設定電子郵件行銷活動的內容實驗</strong>
+    <strong>設定電子郵件行銷活動的內容實驗 </strong>
     </a>
     </div>
     <p>
-    <em>瞭解如何設定內容實驗以進行A/B測試並探索電子郵件內容，以最佳方式推動您的業務目標。</em>
+    <em>瞭解如何設定內容實驗以進行 A/B 測試並探索電子郵件內容，以最佳方式推動您的業務目標。</em>
     <p>
   </td>
   </td>

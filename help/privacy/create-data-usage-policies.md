@@ -10,17 +10,17 @@ last-substantial-update: 2024-10-03T00:00:00Z
 jira: KT-16267
 hide: false
 hidefromtoc: false
-source-git-commit: da924ae1f11f87ef6d940d7ccfc0ac3b9cf3b896
-workflow-type: tm+mt
+exl-id: 0aaf116d-e8e9-449d-99b5-800fee8c3c0a
+source-git-commit: 5ed78b3a8effd376662f5218a660ce8627206ced
+workflow-type: ht
 source-wordcount: '120'
-ht-degree: 88%
+ht-degree: 100%
 
 ---
 
-
 # 建立資料使用原則
 
-學習如何建立和管理資料使用原則。資料使用原則可讓您根據資料標籤，限制特定目的的資料使用。若要瞭解API型方法，請參閱[使用API建立資料使用原則](https://experienceleague.adobe.com/en/docs/experience-platform/data-governance/policies/create)。
+學習如何建立和管理資料使用原則。資料使用原則可讓您根據資料標籤，限制特定目的的資料使用。若要了解 API 型方法，請參閱[使用 API 建立資料使用原則](https://experienceleague.adobe.com/zh-hant/docs/experience-platform/data-governance/policies/create)。
 
 >[!NOTE]
 >
