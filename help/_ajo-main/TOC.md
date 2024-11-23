@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer 教學課程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 這些是 Journey Optimizer 教學課程。
 auto-video-transcripts: true
-source-git-commit: f445b5c7572cf8b85d1e1ef053b9385fcb9c3fbd
+source-git-commit: bf1a97a0950782838946ecf2e21d82e84913340f
 workflow-type: tm+mt
-source-wordcount: '599'
-ht-degree: 98%
+source-wordcount: '597'
+ht-degree: 99%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 98%
 
 + [Journey Optimizer 教學課程](/help/_ajo-main/overview.md)
 + Journey Optimizer 簡介 {#introduction-to-journey-optimizer}
-   + [Journey Optimizer — 概觀](/help/introduction/journey-optimizer-overview.md)
+   + [Journey Optimizer – 概觀](/help/introduction/journey-optimizer-overview.md)
    + [Journey Optimizer 簡介](/help/introduction/introduction.md)
    + [重要功能和使用者介面](/help/introduction/key-capabilities-and-user-interface.md)
    + [架構](/help/introduction/architecture.md)
@@ -151,7 +151,7 @@ ht-degree: 98%
 + 存取控制 {#access-control}
    + [存取管理](/help/set-up-access/access-management.md)
    + [設定以屬性為基礎的存取控制](/help/administration/attribute-based-access-control.md)
-   + [建立及管理沙箱](/help/set-up-access/create-and-manage-sandboxes.md)
+   + [使用沙箱](/help/set-up-access/create-and-manage-sandboxes.md)
 + 資料治理與隱私權 {#data-governance-and-privacy}
    + [資料治理框架](/help/privacy/data-governance-framework.md)
    + [使用標籤進行資料分類](/help/privacy/classify-data-using-lables.md)
@@ -161,6 +161,6 @@ ht-degree: 98%
 + 練習與挑戰{#exercises-and-challenges}
    + [設定訓練沙箱](https://experienceleague.adobe.com/docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites.html?lang=zh-Hant)
    + [挑戰](https://experienceleague.adobe.com/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites.html?lang=zh-Hant)
-+ [Experience League直播錄製](/help/experience-league-live-show-recordings.md)
++ [Experience League 現場表演錄影](/help/experience-league-live-show-recordings.md)
 + Summit Labs {#summit-labs}
    + [透過 Adobe Journey Optimizer (2024) 建立個人化行動時刻](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/summit-labs/lab-overview){target="_blank"}
