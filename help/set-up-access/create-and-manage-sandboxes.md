@@ -1,23 +1,23 @@
 ---
 title: 建立及管理沙箱
-description: 瞭解何謂沙箱，以及如何區分開發沙箱和生產沙箱。 瞭解如何建立、重設和刪除沙箱。
+description: 瞭解Experience Platform沙箱如何提供隔離的環境，以試用新功能或現有功能，並使用快速失敗方法。 瞭解如何重設和重新啟動開發環境，以及透過API呼叫使用沙箱。
 jira: KT-7568
-thumbnail: 334355.jpg
 feature: Sandboxes
 doc-type: feature video
-team: PM
+team: TM
 role: Admin
 level: Beginner
+last-substantial-update: 2024-11-22T00:00:00Z
 exl-id: b1ad3aa7-2b58-4a9f-8c5c-085126586c11
-source-git-commit: fd9d277be00449155c49b3809fe647d7342b6acd
+source-git-commit: 4f98d810be92a943a4cbfbbb6cf2c6414d9e2694
 workflow-type: tm+mt
-source-wordcount: '50'
-ht-degree: 100%
+source-wordcount: '90'
+ht-degree: 5%
 
 ---
 
-# 建立及管理沙箱
+# 使用沙箱
 
-瞭解何謂沙箱，以及如何區分開發沙箱和生產沙箱。 瞭解如何建立、重設和刪除沙箱。
+瞭解Experience Platform沙箱如何提供隔離的環境來試用新功能或現有功能，並使用「快速失敗」方法。 瞭解如何重設和重新啟動開發環境，以及透過API呼叫使用沙箱。 如需詳細資訊，請瀏覽[沙箱使用手冊](https://experienceleague.adobe.com/docs/experience-platform/sandbox/home.html?lang=zh-Hant)。
 
->[!VIDEO](https://video.tv.adobe.com/v/334355?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/29838/?learn=on)
