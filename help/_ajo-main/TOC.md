@@ -3,9 +3,9 @@ user-guide-title: Journey Optimizer 教學課程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 這些是 Journey Optimizer 教學課程。
 auto-video-transcripts: true
-source-git-commit: bf1a97a0950782838946ecf2e21d82e84913340f
+source-git-commit: de27e7e7a1f5307e07ecd43ad578fab679c0c726
 workflow-type: tm+mt
-source-wordcount: '597'
+source-wordcount: '599'
 ht-degree: 99%
 
 ---
@@ -131,6 +131,7 @@ ht-degree: 99%
    + [以 CSV 格式匯出報告](/help/report-and-monitor/export-reports-in-csv-format.md)
    + [使用警示](/help/administration/alerts.md)
    + [使用 Customer Journey Analytics 增強報告功能](/help/report-and-monitor/enhanced-reporting-with-customer-journey-analytics.md)
+   + [報告互動性](/help/report-and-monitor/adobe-journey-optimizer-reporting-interactivity.md)
 + 設定 {#configuration}
    + 設定通道 {#channel-configuration}
       + [設定管道](/help/set-up-channels/configure-channels.md)
