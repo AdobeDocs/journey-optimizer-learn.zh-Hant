@@ -1,6 +1,6 @@
 ---
-title: Adobe Journey Optimizer報表互動功能
-description: 報表互動功能包括建立簡易量度或直接從您的報表發佈對象、執行基本的Ad Hoc Analysis，以及排程您的報表以傳送給利害關係人。
+title: Adobe Journey Optimizer 報告互動性
+description: 報告互動功能包括建立簡易指標或直接從您的報告發佈對象、執行基本的 Ad Hoc Analysis，以及排程您的報告以傳送給利害關係人。
 feature: Reporting
 role: User
 level: Beginner
@@ -8,17 +8,16 @@ doc-type: Feature Video
 duration: 27540
 last-substantial-update: 2024-11-27T00:00:00Z
 jira: KT-16603
-source-git-commit: d63345a6cc2d772f4819015215809bcaf85823d5
-workflow-type: tm+mt
+exl-id: 5b3b6fec-d9c0-4da7-b030-decb1e3681c7
+source-git-commit: 74ccbf6ebf801f25d48d377ae11738346cb893e3
+workflow-type: ht
 source-wordcount: '68'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
+# Adobe Journey Optimizer 報告互動性
 
-# Adobe Journey Optimizer報表互動功能
-
-報表互動功能包括建立簡易量度或直接從您的報表發佈對象、執行基本的Ad Hoc Analysis，以及排程您的報表以傳送給利害關係人。
+報告互動功能包括建立簡易指標或直接從您的報告發佈對象、執行基本的 Ad Hoc Analysis，以及排程您的報告以傳送給利害關係人。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3440615/?learn=on)
-
