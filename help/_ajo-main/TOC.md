@@ -3,9 +3,9 @@ user-guide-title: Journey Optimizer 教學課程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 這些是 Journey Optimizer 教學課程。
 auto-video-transcripts: true
-source-git-commit: 20c8649624e91fcc77745309a4816bd02e6d09bd
-workflow-type: ht
-source-wordcount: '603'
+source-git-commit: 55205636bb73af692c24ebabe4168a514b547b6f
+workflow-type: tm+mt
+source-wordcount: '601'
 ht-degree: 100%
 
 ---
@@ -39,7 +39,7 @@ ht-degree: 100%
    + [使用案例 - 異動歷程](/help/create-journeys/use-case-transactional-journey.md)
    + [使用案例 - 業務事件](/help/create-journeys/use-case-business-event.md)
    + [使用案例 - 讀取客群](/help/create-journeys/use-case-read-audience.md)
-   + [使用案例 - 客群資格](/help/create-journeys/use-case-audience-qualification.md)
+   + [使用案例 - 客群資格篩選](/help/create-journeys/use-case-audience-qualification.md)
    + [建立測試輪廓](/help/create-journeys/test-a-journey.md)
    + [發佈歷程](/help/create-journeys/publish-a-journey.md)
    + [更新即時歷程中的內容](/help/create-journeys/update-content-in-live-journey.md)
@@ -100,7 +100,7 @@ ht-degree: 100%
 + 個人化內容 {#personalize-content}
    + [個人化編輯器 — 概觀](/help/personalize-content/personalization-editor-overview.md)
    + [以輪廓和客群成員資格為基礎的個人化](/help/personalize-content/profile-and-audience-membership-based-personalization.md)
-   + [將優惠新增為個人化](/help/personalize-content/add-offer-decisioning-to-messages.md)
+   + [將產品建議新增為個人化](/help/personalize-content/add-offer-decisioning-to-messages.md)
    + [使用內容事件資訊進行個人化](/help/personalize-content/use-contextual-event-information-for-personalization.md)
    + [使用協助程式功能進行個人化](/help/personalize-content/use-helper-functions-for-personalization.md)
    + [使用和管理個人化資料庫中已儲存的運算式](/help/personalize-content/use-and-manage-saved-expressions-in-personalization-library.md)
@@ -111,17 +111,17 @@ ht-degree: 100%
    + [建立版位](/help/decision-management/create-placements.md)
    + [建立規則](/help/decision-management/create-rules.md)
    + [建立標籤](/help/decision-management/create-tags.md)
-   + [建立個人化優惠](/help/decision-management/create-personalized-offers.md)
+   + [建立個人化產品建議](/help/decision-management/create-personalized-offers.md)
    + [建立 AI 模型](/help/decision-management/create-ai-models.md)
-   + [建立遞補優惠](/help/decision-management/create-fallback-offers.md)
+   + [建立後備產品建議](/help/decision-management/create-fallback-offers.md)
    + [建立集合](/help/decision-management/create-collections.md)
    + [建立決定](/help/decision-management/create-decisions.md)
-   + [以 Decisions API 傳遞優惠方案](/help/decision-management/deliver-offers-with-the-decisions-api.md)
-   + [頻率限定](/help/decision-management/frequency-capping.md)
+   + [以 Decisions API 傳遞產品建議](/help/decision-management/deliver-offers-with-the-decisions-api.md)
+   + [頻率上限](/help/decision-management/frequency-capping.md)
 + 資料管理{#data-management}
    + [概覽](/help/data-management/set-up-data-overview.md)
-   + [建立方案](/help/data-management/create-schema.md)
-   + [對應身分](/help/data-management/map-identities.md)
+   + [建立結構描述](/help/data-management/create-schema.md)
+   + [對應身分識別](/help/data-management/map-identities.md)
    + [建立資料集並內嵌資料](/help/data-management/create-datasets-and-ingest-data.md)
    + [設定來源連接器](/help/data-management/configure-source-connectors.md)
    + [設定資料集匯出目的地](/help/data-management/configure-dataset-export-destination.md)
@@ -133,7 +133,6 @@ ht-degree: 100%
    + [以 CSV 格式匯出報告](/help/report-and-monitor/export-reports-in-csv-format.md)
    + [使用警示](/help/administration/alerts.md)
    + [使用 Customer Journey Analytics 增強報告功能](/help/report-and-monitor/enhanced-reporting-with-customer-journey-analytics.md)
-   + [報告互動性](/help/report-and-monitor/adobe-journey-optimizer-reporting-interactivity.md)
 + 設定 {#configuration}
    + 設定通道 {#channel-configuration}
       + [設定管道](/help/set-up-channels/configure-channels.md)
