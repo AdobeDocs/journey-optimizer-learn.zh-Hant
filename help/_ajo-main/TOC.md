@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer 教學課程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 這些是 Journey Optimizer 教學課程。
 auto-video-transcripts: true
-source-git-commit: a7b449f1c8f31f2f13ceca2107624f026f46d5e6
+source-git-commit: fce89856e1fb8459af493f3b722b9a098a3f1b03
 workflow-type: tm+mt
-source-wordcount: '603'
-ht-degree: 99%
+source-wordcount: '611'
+ht-degree: 98%
 
 ---
 
@@ -54,6 +54,7 @@ ht-degree: 99%
    + [行動應用程式最佳化 — 概觀](/help/channels/mobile-app-optimization-overview.md)
    + 程式碼型體驗頻道{#code-based-experience-channel}
       + [建立程式碼型體驗行銷活動](/help/channels/create-a-code-based-experience-campaign.md)
+      + [在程式碼型通道中使用決策](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/experience-decisioning/experience-decisioning-uc)
    + 直接郵件頻道{#direct-mail-channel}
       + [建立直接郵件](/help/channels/direct-mail.md)
    + 電子郵件頻道{#email-channel}
