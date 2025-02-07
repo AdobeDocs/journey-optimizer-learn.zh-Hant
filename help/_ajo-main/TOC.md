@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer 教學課程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 這些是 Journey Optimizer 教學課程。
 auto-video-transcripts: true
-source-git-commit: fce89856e1fb8459af493f3b722b9a098a3f1b03
+source-git-commit: cad09b4cc870a9a241c92940e424bb2fbe03e0d6
 workflow-type: tm+mt
-source-wordcount: '611'
-ht-degree: 98%
+source-wordcount: '605'
+ht-degree: 99%
 
 ---
 
@@ -54,7 +54,6 @@ ht-degree: 98%
    + [行動應用程式最佳化 — 概觀](/help/channels/mobile-app-optimization-overview.md)
    + 程式碼型體驗頻道{#code-based-experience-channel}
       + [建立程式碼型體驗行銷活動](/help/channels/create-a-code-based-experience-campaign.md)
-      + [在程式碼型通道中使用決策](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/experience-decisioning/experience-decisioning-uc)
    + 直接郵件頻道{#direct-mail-channel}
       + [建立直接郵件](/help/channels/direct-mail.md)
    + 電子郵件頻道{#email-channel}
@@ -168,3 +167,4 @@ ht-degree: 98%
 + [Experience League 現場表演錄影](/help/experience-league-live-show-recordings.md)
 + Summit Labs {#summit-labs}
    + [透過 Adobe Journey Optimizer (2024) 建立個人化行動時刻](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/summit-labs/lab-overview){target="_blank"}
+   + [速查表](/help/summit-lab-assets/l535-assets.md)
