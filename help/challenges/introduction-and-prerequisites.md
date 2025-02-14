@@ -34,7 +34,7 @@ ht-degree: 100%
 您需要下列存取權限：
 
 * *Journey Manager* 或 *歷程管理員*
-* 檢視測試設定檔及其屬性
+* 檢視測試輪廓及其屬性
 
 >[!NOTE]
 > 這些練習是根據 Luma 範例資料編製的。 建議您設定使用範例資料設定的訓練沙箱。 請造訪教學課程[設定訓練沙箱](/help/tutorial-configure-a-training-sandbox/introduction-and-prerequisites.md)以取得詳細指示。
@@ -90,7 +90,7 @@ Luma 正尋求推廣其最新的服裝和用具系列，並努力推動現有客
     <p>
     <b>所需技能：</b>
       <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html?lang=zh-Hant"> 建立區段</li>
-      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-read-segment-qualification.html?lang=zh-Hant">區段資格</li>
+      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-read-segment-qualification.html?lang=zh-Hant">細分資格篩選</li>
       <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/import-and-author-html-email-content.html?lang=zh-Hant">匯入及編寫 HTML 電子郵件內容</li>
   </td>
   </tr>
