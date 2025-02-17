@@ -8,16 +8,16 @@ level: Beginner, Intermediate, Experienced
 doc-type: overview-page
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
 source-git-commit: 66092b7d9d2a377dcd3ad1e5a9da7891b117f7be
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '378'
-ht-degree: 88%
+ht-degree: 100%
 
 ---
 
 
 # Journey Optimizer 教學課程
 
-Journey Optimizer可讓公司建立有凝聚力的情境式個人化客戶體驗。 它可順暢地引導客戶完成與品牌的整個歷程，從最初的接觸點一直到離開網站的那一刻，確保每個接觸點都可獲得連線且令人滿意的體驗。
+Journey Optimizer 可讓公司建立一致的情境式個人化客戶體驗。它可順暢引導客戶完成與品牌的整個歷程，從最初的接觸點一直到離開網站的那一刻，確保每個接觸點均可獲得具連結性且令人滿意的體驗。
 
 本使用手冊包含 Adobe Journey Optimizer 功能和特性的相關影片和教學課程。透過參加 [Journey Optimizer 挑戰](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites)，練習運用您學到的知識。
 
