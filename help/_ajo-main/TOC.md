@@ -3,9 +3,9 @@ user-guide-title: Journey Optimizer 教學課程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 這些是 Journey Optimizer 教學課程。
 auto-video-transcripts: true
-source-git-commit: 2e871d0866b2dc5f4c46a664aa62ca69e4ec4e4a
-workflow-type: ht
-source-wordcount: '621'
+source-git-commit: fbced616531cc24465e6fcc0baa18f37cf6de88c
+workflow-type: tm+mt
+source-wordcount: '625'
 ht-degree: 100%
 
 ---
@@ -151,8 +151,9 @@ ht-degree: 100%
       + [建立事件](/help/set-up-journeys/create-events.md)
       + [建立動作](/help/set-up-journeys/create-actions.md)
    + 業務規則 {#business-rules}
-      + [設定頻率上限規則](/help/configuration/configure-frequency-capping-rules.md)
-      + [測試並報告頻率規則](/help/configuration/test-and-report-on-frequency-rules.md)
+      + [設定頻率上限規則](/help/business-rules/configure-frequency-capping-rules.md)
+      + [使用規則集](/help/business-rules/work-with-rule-sets.md)
+      + [測試並報告頻率規則](/help/business-rules/test-and-report-on-frequency-rules.md)
 + 存取控制 {#access-control}
    + [存取管理](/help/set-up-access/access-management.md)
    + [設定以屬性為基礎的存取控制](/help/administration/attribute-based-access-control.md)
