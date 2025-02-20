@@ -8,10 +8,10 @@ level: Beginner
 recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
-source-git-commit: b65e9640705ca4bf1b27edac9047b70600feb8b1
+source-git-commit: f32ce2e2fd32bc11e46b6e37f62e60d641038310
 workflow-type: tm+mt
-source-wordcount: '191'
-ht-degree: 3%
+source-wordcount: '173'
+ht-degree: 4%
 
 ---
 
@@ -28,7 +28,7 @@ ht-degree: 3%
 
 >[!TAB iOS]
 
-### iOS:
+## iOS:
 
 安裝應用程式後，您必須信任Adobe企業開發人員：
 
@@ -43,18 +43,17 @@ ht-degree: 3%
 
    ![信任Adobe Systems畫面](/help/summit/l820-lab-workbook/assets/1-2-4-trust-adobe.PNG){width="250" align="center" zoomable="yes"}
 
-   * 您現在應該能夠在iPhone上啟動* SecureFinancial應用程式**： ！ SecureFinancial應用程式圖示](/help/summit/l820-lab-workbook/assets/1-2-app-icon.png){width="50" align="center" zoomable="yes"}
+   您現在應該能夠在iPhone上啟動* SecureFinancial應用程式**：
 
+2. 開啟應用程式。
 
-1. 開啟應用程式。
-
-1. 在快顯視窗中按一下[允許&#x200B;****]，允許DX示範應用程式傳送通知給您。
+3. 在快顯視窗中按一下[允許&#x200B;****]，允許DX示範應用程式傳送通知給您。
 
    ![通知快顯視窗](/help/summit/l820-lab-workbook/assets/1-2-allow-notifications.png){width="250" align="center" zoomable="yes"}
 
 >[!TAB Android]
 
-### Android
+## Android
 
 在Android上，依照此處顯示的警示指示下載並安裝APK：
 
@@ -62,6 +61,6 @@ ht-degree: 3%
 <br>
 ![Android安裝畫面](/help/summit/l820-lab-workbook/assets/1-2-6-android-installation.jpg){width="250" align="center" zoomable="yes"}
 
-* 您現在應該能夠在Android裝置上啟動* SecureFinancial應用程式**： ！ SecureFinancial應用程式圖示](/help/summit/l820-lab-workbook/assets/1-2-app-icon.png){width="50" align="center" zoomable="yes"}
+您現在應該能夠在Android裝置上啟動* SecureFinancial應用程式**：
 
 >[!ENDTABS]
