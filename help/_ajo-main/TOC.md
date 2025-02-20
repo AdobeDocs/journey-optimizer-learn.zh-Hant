@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer 教學課程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 這些是 Journey Optimizer 教學課程。
 auto-video-transcripts: true
-source-git-commit: fbced616531cc24465e6fcc0baa18f37cf6de88c
+source-git-commit: 3e27236efac68961a2bd0a12d1b6e78431de0655
 workflow-type: tm+mt
-source-wordcount: '625'
-ht-degree: 100%
+source-wordcount: '629'
+ht-degree: 99%
 
 ---
 
@@ -171,3 +171,4 @@ ht-degree: 100%
 + Summit Labs {#summit-labs}
    + [透過 Adobe Journey Optimizer (2024) 建立個人化行動時刻](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/summit-labs/lab-overview){target="_blank"}
    + [速查表](/help/summit-lab-assets/l535-assets.md)
+   + [安裝行動應用程式](/help/summit-lab-assets/install-mobile-app.md)
