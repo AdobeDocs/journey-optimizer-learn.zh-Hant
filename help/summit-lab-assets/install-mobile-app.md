@@ -8,19 +8,21 @@ level: Beginner
 recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
-source-git-commit: 278f78c256a4124e287e6f7d8b11adad39d18275
+source-git-commit: 9e0de40d26aa53dca190d469e51c9cf3345abcbb
 workflow-type: tm+mt
-source-wordcount: '170'
-ht-degree: 4%
+source-wordcount: '206'
+ht-degree: 0%
 
 ---
 
 
 # 下載並安裝SecureFinancial應用程式
 
-從下方掃描QR碼，在iOS或Android™裝置上安裝行動應用程式：
+在您的iOS或Android&amp;trade上安裝行動應用程式。
 
-![ecureFinancial行動應用程式QR碼](/help/summit-lab-assets/assets/dx-demo-app-qr-codes.png)
+**步驟1：**&#x200B;從下列位置掃描您裝置的QR碼：
+
+![SecureFinancial行動應用程式QR碼](/help/summit-lab-assets/assets/dx-demo-app-qr-codes.png)
 
 裝置特定安裝：
 
@@ -28,7 +30,18 @@ ht-degree: 4%
 
 >[!TAB iOS]
 
-## iOS:
+## 步驟2：在iOS裝置上安裝應用程式：
+
+1. 在相機應用程式中顯示的模組上，按一下&#x200B;**安裝**。
+
+   ![安裝快顯視窗](/help/summit-lab-assets/assets/install_popup.png){width="250" align="center" zoomable="yes"}
+
+2. 關閉&#x200B;**攝影機**&#x200B;應用程式，並在熒幕上尋找DX示範應用程式
+
+   ![DX示範應用程式](/help/summit-lab-assets/assets/dx_demo_on_ios_screen.png){width="250" align="center" zoomable="yes"}
+
+
+## 步驟3：信任Adobe企業開發人員
 
 安裝應用程式後，您必須信任Adobe企業開發人員：
 
@@ -45,16 +58,12 @@ ht-degree: 4%
 
    您現在應該能夠在iPhone上啟動* SecureFinancial應用程式**：
 
-1. 開啟應用程式。
-
-1. 在快顯視窗中按一下[允許&#x200B;****]，允許DX示範應用程式傳送通知給您。
-
 
 >[!TAB Android]
 
-## Android
+## 在Android裝置上安裝應用程式：
 
-在Android上，依照此處顯示的警示指示下載並安裝APK：
+在Android上，依照此處顯示的警示指示，下載並安裝應用程式：
 
 ![Android下載畫面](/help/summit/l820-lab-workbook/assets/1-2-5-android-download.jpg "Android下載畫面"){width="250" align="center" zoomable="yes"}
 <br>
@@ -63,3 +72,5 @@ ht-degree: 4%
 您現在應該能夠在Android裝置上啟動* SecureFinancial應用程式**：
 
 >[!ENDTABS]
+
+
