@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer 教學課程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 這些是 Journey Optimizer 教學課程。
 auto-video-transcripts: true
-source-git-commit: 3e27236efac68961a2bd0a12d1b6e78431de0655
+source-git-commit: dd1b5afc1547169139371247255f4d42a5c105be
 workflow-type: tm+mt
-source-wordcount: '629'
-ht-degree: 99%
+source-wordcount: '632'
+ht-degree: 96%
 
 ---
 
@@ -97,9 +97,9 @@ ht-degree: 99%
    + 多語言傳送訊息 {#multilingual-messaging}
       + [設定多語言訊息傳送](/help/content-management/set-up-multilingual-messages.md)
       + [建立多語言訊息](/help/content-management/create-multilingual-messages.md)
-   + AI 助理內容加速器{#content-accelerator}
-      + [AI 助理內容加速器 — 概觀](/help/content-management/ai-assistant-content-accelerator-overview.md)
-      + [使用 AI 助理內容加速器建立內容](/help/content-management/create-content-using-the-ai-assistant-content-accelerator.md)
+   + 用於產生內容{#content-accelerator}的AI助理
+      + [用於產生內容的AI助理 — 概觀](/help/content-management/ai-assistant-content-accelerator-overview.md)
+      + [使用AI助理建立內容以產生內容](/help/content-management/create-content-using-the-ai-assistant-content-accelerator.md)
 + 個人化內容 {#personalize-content}
    + [個人化編輯器 — 概觀](/help/personalize-content/personalization-editor-overview.md)
    + [以輪廓和客群成員資格為基礎的個人化](/help/personalize-content/profile-and-audience-membership-based-personalization.md)
