@@ -9,10 +9,10 @@ recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
 exl-id: 1c3f4341-1293-463d-bee0-57440fcff23a
-source-git-commit: 51ab40981a42b0df56d3994f1155eb4ae7575b17
+source-git-commit: af70e8e589e3a4b48885d3ad1241ab8c140fa75a
 workflow-type: tm+mt
-source-wordcount: '106'
-ht-degree: 21%
+source-wordcount: '112'
+ht-degree: 29%
 
 ---
 
@@ -26,21 +26,21 @@ ht-degree: 21%
 * [SecurFinancial網站](https://dsn.adobe.com/web/hausmann-FTTN?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImFub255bW91cyIsImVtYWlsIjoiYW5vbnltb3VzQGFkb2JlLmNvbSIsIm5hbWUiOiJBbm9ueW1vdXMiLCJpc1N1cGVyVXNlciI6ZmFsc2UsImlzc3VlciI6ImhhdXNtYW5uIiwicHJvamVjdHMiOnsiaGF1c21hbm4tRlRUTiI6InZpZXcifSwiaWF0IjoxNzQwNzU2NTYxLCJleHAiOjE3NDMzNDg1NjF9.ryOTsqDH9B33436RlIo4AHFxx8aGjNEMqv9FAxLZb9U)
 * [下載應用程式](https://demo-system-next.s3.amazonaws.com/dxdemo/summit/index.html)
 
-## 練習
+## 複製並貼上練習內容
 
-### 練習 2.3
+### 練習2.3 — 撰寫電子郵件訊息
 
-**步驟12**&#x200B;電子郵件訊息提示：
+#### 提示
 
-產生新SecurFinancial的歡迎電子郵件
-剛開立新儲蓄帳戶的客戶。 新增
-呼叫動作以安裝SecurFinancial行動應用程式。
+```
+Generate a welcome email for new SecurFinancial customers who just opened a new savings account. Add a call to action to install the SecurFinancial mobile app.
+```
 
-### 練習 3.1
+### 練習3.1 — 將動態內容套用至簡訊訊息
 
-**步驟7**
+#### 程式碼
 
-```javascript
+```
 {%#if select _Push_details1 from profile.pushNotificationDetails where
 _Push_details1.token.isNotNull()%}
 Welcome to your new SecurFinancial checking account! Discover the
@@ -56,8 +56,62 @@ s3.amazonaws.com/dxdemo/summit/index.html
 {%/if%} 
 ```
 
+### 練習4.2 — 設定處理方式
+
+#### 標題
+
+```
+Welcome to SecurFinancial"
+```
+
+#### 內文
+
+```
+Did you know you can find an ATM near in the SecurFinancial app? Try it now!"
+```
+
+#### URL
+
+```
+dxdemo://atm
+```
+
+### 練習6 — 內容卡
+
+#### 標題
+
+```
+Welcome to SecurFinancial!
+```
+
+#### 內文
+
+```
+Thank you for downloading the app. You can find ATMs, track your spending and more. All within the app.
+```
+
+#### 媒體 URL
+
+```
+https://demo-systemnext.s3.amazonaws.com/assets/securfinancial/homeloan.jpg
+```
+
+#### 按鈕標題
+
+```
+Find ATMs
+```
+
+#### 目標 URL
+
+```
+dxdemo://atm
+```
+
+## 影像
 
 ![SecureFinancial標誌](/help/summit-lab-assets/assets/SecureFinancial-logo.png)
+
 
 ![行動電話](/help/summit-lab-assets/assets/online-banking-app-01.png)
 
