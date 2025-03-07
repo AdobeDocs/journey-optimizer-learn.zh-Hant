@@ -9,10 +9,10 @@ recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
 exl-id: 1c3f4341-1293-463d-bee0-57440fcff23a
-source-git-commit: c1a77892652df0a91a6add1ad0dc5a4bd0770d8b
+source-git-commit: c25ebab9fedd0218d087fc679a8da05b06e71227
 workflow-type: tm+mt
-source-wordcount: '112'
-ht-degree: 29%
+source-wordcount: '133'
+ht-degree: 24%
 
 ---
 
@@ -27,6 +27,15 @@ ht-degree: 29%
 * [下載應用程式](https://demo-system-next.s3.amazonaws.com/dxdemo/summit/index.html)
 
 ## 複製並貼上練習內容
+
+### 練習2.1 — 登入Journey Optimizer
+
+使用下列詳細資料登入：
+
+電子郵件地址：    L535+*您的座位號碼*@adobeeventlab.com
+
+密碼：       Adobe4Summit！
+
 
 ### 練習2.3 — 撰寫電子郵件訊息
 
@@ -94,7 +103,7 @@ Thank you for downloading the app. You can find ATMs, track your spending and mo
 #### 媒體 URL
 
 ```
-https://demo-systemnext.s3.amazonaws.com/assets/securfinancial/homeloan.jpg
+https://demo-system-next.s3.amazonaws.com/assets/securfinancial/home-loan.jpg
 ```
 
 #### 按鈕標題
