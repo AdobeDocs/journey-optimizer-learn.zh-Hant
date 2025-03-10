@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer 教學課程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 這些是 Journey Optimizer 教學課程。
 auto-video-transcripts: true
-source-git-commit: b1b2fdf163024ff4dee2ff88bf780462ccd74842
+source-git-commit: b24aa3dab4ac86cf6b7e381b7c72326c24c03dbb
 workflow-type: tm+mt
-source-wordcount: '642'
-ht-degree: 98%
+source-wordcount: '641'
+ht-degree: 99%
 
 ---
 
@@ -100,7 +100,7 @@ ht-degree: 98%
    + 用於內容產生的 AI 助理 {#content-accelerator}
       + [用於內容產生的 AI 助理 — 概觀](/help/content-management/ai-assistant-content-accelerator-overview.md)
       + [使用用於內容產生的 AI 助理來建立內容](/help/content-management/create-content-using-the-ai-assistant-content-accelerator.md)
-   + 內容範本(content-templates)
+   + 內容範本{#content-templates}
       + [建立內容範本](/help/content-management/templates/create-content-templates.md)
       + [鎖定範本中的內容](/help/content-management/templates/content-locking.md)
 + 個人化內容 {#personalize-content}
