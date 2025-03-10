@@ -3,9 +3,9 @@ user-guide-title: Journey Optimizer 教學課程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 這些是 Journey Optimizer 教學課程。
 auto-video-transcripts: true
-source-git-commit: b24aa3dab4ac86cf6b7e381b7c72326c24c03dbb
+source-git-commit: eb429656bc1e86a8be9e8bac3d5bfff9c5807b1e
 workflow-type: tm+mt
-source-wordcount: '641'
+source-wordcount: '638'
 ht-degree: 99%
 
 ---
@@ -90,7 +90,6 @@ ht-degree: 99%
    + [訊息製作 — 概觀](/help/content-management/message-authoring-overview.md)
    + [數位資產管理 ── 概觀](/help/content-management/digital-asset-management-overview.md)
    + [管理資產](/help/assets-essentials-overview.md)
-   + [管理內容範本](/help/content-management/content-templates.md)
    + [管理片段](/help/content-management/manage-fragments.md)
    + [建立運算式片段](/help/content-management/expression-fragments.md)
    + [實驗 — 概觀](/help/content-management/experimentation-overview.md)
