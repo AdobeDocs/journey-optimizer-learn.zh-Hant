@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer 教學課程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 這些是 Journey Optimizer 教學課程。
 auto-video-transcripts: true
-source-git-commit: eb429656bc1e86a8be9e8bac3d5bfff9c5807b1e
+source-git-commit: e9aa3f63bfc54d165dd044a645aaa366f34c2921
 workflow-type: tm+mt
-source-wordcount: '638'
-ht-degree: 99%
+source-wordcount: '635'
+ht-degree: 97%
 
 ---
 
@@ -110,9 +110,9 @@ ht-degree: 99%
    + [使用協助程式功能進行個人化](/help/personalize-content/use-helper-functions-for-personalization.md)
    + [使用和管理個人化資料庫中已儲存的運算式](/help/personalize-content/use-and-manage-saved-expressions-in-personalization-library.md)
    + [使用條件規則產生器建立動態內容](/help/personalize-content/create-dynamic-content.md)
-+ 決策管理 {#decision-management}
-   + [決策管理簡介](/help/decision-management/introduction-to-decision-management.md)
-   + [決策管理功能示範](/help/decision-management/demo-of-decision-management-capabilities.md)
++ Decisioning{#decisioning}
+   + [決策簡介](/help/decision-management/introduction-to-decisioning.md)
+   + [決策功能示範](/help/decision-management/demo-of-decision-management-capabilities.md)
    + [建立版位](/help/decision-management/create-placements.md)
    + [建立規則](/help/decision-management/create-rules.md)
    + [建立標籤](/help/decision-management/create-tags.md)
