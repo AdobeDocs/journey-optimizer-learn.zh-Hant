@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer 教學課程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 這些是 Journey Optimizer 教學課程。
 auto-video-transcripts: true
-source-git-commit: e9aa3f63bfc54d165dd044a645aaa366f34c2921
-workflow-type: ht
-source-wordcount: '635'
-ht-degree: 100%
+source-git-commit: 8727d3b84573f78ac28da260177aab607014f6fe
+workflow-type: tm+mt
+source-wordcount: '647'
+ht-degree: 97%
 
 ---
 
@@ -110,19 +110,23 @@ ht-degree: 100%
    + [使用協助程式功能進行個人化](/help/personalize-content/use-helper-functions-for-personalization.md)
    + [使用和管理個人化資料庫中已儲存的運算式](/help/personalize-content/use-and-manage-saved-expressions-in-personalization-library.md)
    + [使用條件規則產生器建立動態內容](/help/personalize-content/create-dynamic-content.md)
-+ Decisioning{#decisioning}
-   + [Decisioning 簡介](/help/decision-management/introduction-to-decisioning.md)
-   + [Decisioning 功能示範](/help/decision-management/demo-of-decision-management-capabilities.md)
-   + [建立版位](/help/decision-management/create-placements.md)
-   + [建立規則](/help/decision-management/create-rules.md)
-   + [建立標籤](/help/decision-management/create-tags.md)
-   + [建立個人化產品建議](/help/decision-management/create-personalized-offers.md)
-   + [建立 AI 模型](/help/decision-management/create-ai-models.md)
-   + [建立後備產品建議](/help/decision-management/create-fallback-offers.md)
-   + [建立集合](/help/decision-management/create-collections.md)
-   + [建立決定](/help/decision-management/create-decisions.md)
-   + [以 Decisions API 傳遞產品建議](/help/decision-management/deliver-offers-with-the-decisions-api.md)
-   + [頻率上限](/help/decision-management/frequency-capping.md)
++ 決定功能{#decision-capabilites}
+   + Decisioning{#decisioning}
+      + [Decisioning簡介](/help/decisioning/introduction-to-decisioning.md)
+      + [端對端決策逐步說明](/help/decisioning/decisioning-end-to-end.md)
+   + 決定管理 {#decision-management}
+      + [決定管理簡介](/help/decision-management/introduction-to-decision-management.md)
+      + [演示決策管理功能](/help/decision-management/demo-of-decision-management-capabilities.md)
+      + [建立版位](/help/decision-management/create-placements.md)
+      + [建立規則](/help/decision-management/create-rules.md)
+      + [建立標籤](/help/decision-management/create-tags.md)
+      + [建立個人化產品建議](/help/decision-management/create-personalized-offers.md)
+      + [建立 AI 模型](/help/decision-management/create-ai-models.md)
+      + [建立後備產品建議](/help/decision-management/create-fallback-offers.md)
+      + [建立集合](/help/decision-management/create-collections.md)
+      + [建立決定](/help/decision-management/create-decisions.md)
+      + [以 Decisions API 傳遞產品建議](/help/decision-management/deliver-offers-with-the-decisions-api.md)
+      + [頻率上限](/help/decision-management/frequency-capping.md)
 + 資料管理{#data-management}
    + [概覽](/help/data-management/set-up-data-overview.md)
    + [建立結構描述](/help/data-management/create-schema.md)
