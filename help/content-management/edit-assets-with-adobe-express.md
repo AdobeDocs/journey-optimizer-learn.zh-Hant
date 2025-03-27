@@ -1,6 +1,6 @@
 ---
 title: 使用Adobe Express編輯資產
-description: 瞭解如何使用Adobe Express工具在Adobe Journey Optimizer中有效編輯您的資產。
+description: 瞭解如何使用Adobe Express工具在Adobe Journey Optimizer中編輯您的資產。
 feature: Assets
 topic: Content Management, Integrations
 role: User
@@ -9,9 +9,9 @@ doc-type: Feature Video
 duration: 300
 last-substantial-update: 2025-03-27T00:00:00Z
 jira: KT-17529
-source-git-commit: bb6dc1a70df284f58645336e139d1b78c5cfe590
+source-git-commit: 6f1e86b98dfa71330dcf15281d63c50b4b465a1f
 workflow-type: tm+mt
-source-wordcount: '92'
+source-wordcount: '90'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ ht-degree: 0%
 >
 >Adobe Journey Optimizer中的Adobe Express整合目前無法與Healthcare Shield或Privacy and Security Shield搭配使用。
 
-瞭解如何使用Adobe Express工具在Adobe Journey Optimizer中有效編輯您的資產。
+瞭解如何使用Adobe Express工具在Adobe Journey Optimizer中編輯您的資產。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3455523/?learn=on&enablevpops)
 
