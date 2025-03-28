@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer 教學課程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 這些是 Journey Optimizer 教學課程。
 auto-video-transcripts: true
-source-git-commit: 943d35a082ec511fd389ad8c439b94fdd528eed4
+source-git-commit: fc1d1eeb472e4f9f5230425c16220df86db9dbb7
 workflow-type: tm+mt
-source-wordcount: '652'
-ht-degree: 96%
+source-wordcount: '657'
+ht-degree: 95%
 
 ---
 
@@ -50,6 +50,7 @@ ht-degree: 96%
    + [統一輪廓和分段 - 概述](/help/profiles-audiences-subscriptions/unified-profile-and-segmentation-overview.md)
    + [使用規則產生器建立客群](/help/profiles-audiences-subscriptions/create-audiences-using-the-rule-builder.md)
    + [藉由上傳 CSV 檔案來建立新客群。](/help/profiles-audiences-subscriptions/import-and-activate-an-audience-by-uploading-a-csv-file.md)
+   + [依需求評估對象](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/audiences/evaluate-audiences-on-demand)
    + [訂閱和登陸頁面](/help/subscriptions-and-landing-pages.md)
 + 管道 {#channels}
    + [行動應用程式最佳化 — 概觀](/help/channels/mobile-app-optimization-overview.md)
