@@ -6,7 +6,7 @@ auto-video-transcripts: true
 source-git-commit: 1f1b42fdd644cf9ac17e8ed055a521f114e5bb14
 workflow-type: tm+mt
 source-wordcount: '662'
-ht-degree: 95%
+ht-degree: 99%
 
 ---
 
@@ -50,7 +50,7 @@ ht-degree: 95%
    + [統一輪廓和分段 - 概述](/help/profiles-audiences-subscriptions/unified-profile-and-segmentation-overview.md)
    + [使用規則產生器建立客群](/help/profiles-audiences-subscriptions/create-audiences-using-the-rule-builder.md)
    + [藉由上傳 CSV 檔案來建立新客群。](/help/profiles-audiences-subscriptions/import-and-activate-an-audience-by-uploading-a-csv-file.md)
-   + [依需求評估對象](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/audiences/evaluate-audiences-on-demand)
+   + [隨選評估客群](https://experienceleague.adobe.com/zh-hant/docs/platform-learn/tutorials/audiences/evaluate-audiences-on-demand)
    + [訂閱和登陸頁面](/help/subscriptions-and-landing-pages.md)
 + 管道 {#channels}
    + [行動應用程式最佳化 — 概觀](/help/channels/mobile-app-optimization-overview.md)
@@ -91,7 +91,7 @@ ht-degree: 95%
    + [訊息製作 — 概觀](/help/content-management/message-authoring-overview.md)
    + [數位資產管理 ── 概觀](/help/content-management/digital-asset-management-overview.md)
    + [管理資產](/help/assets-essentials-overview.md)
-   + [使用Adobe Express編輯資產](/help/content-management/edit-assets-with-adobe-express.md)
+   + [使用 Adobe Express 編輯資源](/help/content-management/edit-assets-with-adobe-express.md)
    + [管理片段](/help/content-management/manage-fragments.md)
    + [建立運算式片段](/help/content-management/expression-fragments.md)
    + [實驗 — 概觀](/help/content-management/experimentation-overview.md)
@@ -115,11 +115,11 @@ ht-degree: 95%
    + [使用條件規則產生器建立動態內容](/help/personalize-content/create-dynamic-content.md)
 + 決定功能{#decision-capabilities}
    + Decisioning{#decisioning}
-      + [Decisioning簡介](/help/decisioning/introduction-to-decisioning.md)
-      + [端對端決策逐步說明](/help/decisioning/decisioning-end-to-end.md)
-   + 決定管理 {#decision-management}
-      + [決定管理簡介](/help/decision-management/introduction-to-decision-management.md)
-      + [演示決策管理功能](/help/decision-management/demo-of-decision-management-capabilities.md)
+      + [Decisioning 簡介](/help/decisioning/introduction-to-decisioning.md)
+      + [端到端決策逐步說明](/help/decisioning/decisioning-end-to-end.md)
+   + 決策管理 {#decision-management}
+      + [決策管理簡介](/help/decision-management/introduction-to-decision-management.md)
+      + [決策管理功能示範](/help/decision-management/demo-of-decision-management-capabilities.md)
       + [建立版位](/help/decision-management/create-placements.md)
       + [建立規則](/help/decision-management/create-rules.md)
       + [建立標籤](/help/decision-management/create-tags.md)
