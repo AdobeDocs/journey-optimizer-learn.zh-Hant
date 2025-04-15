@@ -4,9 +4,9 @@ user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 這些是 Journey Optimizer 教學課程。
 auto-video-transcripts: true
 source-git-commit: 1f1b42fdd644cf9ac17e8ed055a521f114e5bb14
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '662'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -82,7 +82,7 @@ ht-degree: 99%
       + [設定、編寫並傳遞簡訊訊息](/help/channels/author-sms-messages.md)
       + [編寫多媒體簡訊訊息](/help/channels/author-mms.md)
       + [簡訊 - Sinch 和 Infobip 的雙重選擇加入](/help/channels/sms-double-opt-in.md)
-   + 網路頻道 {#web-channel}
+   + 網頁管道 {#web-channel}
       + [網頁個人化 — 概觀](/help/channels/web-personalization-overview.md)
       + [建立網路行銷活動](/help/channels/create-a-web-campaign.md)
       + [製作網路行銷活動](/help/channels/author-a-web-campaign.md)
@@ -95,7 +95,7 @@ ht-degree: 99%
    + [管理片段](/help/content-management/manage-fragments.md)
    + [建立運算式片段](/help/content-management/expression-fragments.md)
    + [實驗 — 概觀](/help/content-management/experimentation-overview.md)
-   + [使用GenStudio建立電子郵件](/help/content-management/create-an-email-using-genstudio.md)
+   + [使用 GenStudio 建立電子郵件](/help/content-management/create-an-email-using-genstudio.md)
    + 多語言傳送訊息 {#multilingual-messaging}
       + [設定多語言訊息傳送](/help/content-management/set-up-multilingual-messages.md)
       + [建立多語言訊息](/help/content-management/create-multilingual-messages.md)
@@ -105,7 +105,7 @@ ht-degree: 99%
    + 內容範本{#content-templates}
       + [建立內容範本](/help/content-management/templates/create-content-templates.md)
       + [鎖定範本中的內容](/help/content-management/templates/content-locking.md)
-+ 個人化內容 {#personalize-content}
++ 將內容個人化 {#personalize-content}
    + [個人化編輯器 — 概觀](/help/personalize-content/personalization-editor-overview.md)
    + [以輪廓和客群成員資格為基礎的個人化](/help/personalize-content/profile-and-audience-membership-based-personalization.md)
    + [將產品建議新增為個人化](/help/personalize-content/add-offer-decisioning-to-messages.md)
@@ -114,7 +114,7 @@ ht-degree: 99%
    + [使用和管理個人化資料庫中已儲存的運算式](/help/personalize-content/use-and-manage-saved-expressions-in-personalization-library.md)
    + [使用條件規則產生器建立動態內容](/help/personalize-content/create-dynamic-content.md)
 + 決定功能{#decision-capabilities}
-   + Decisioning{#decisioning}
+   + 決策 {#decisioning}
       + [Decisioning 簡介](/help/decisioning/introduction-to-decisioning.md)
       + [端到端決策逐步說明](/help/decisioning/decisioning-end-to-end.md)
    + 決策管理 {#decision-management}
@@ -130,7 +130,7 @@ ht-degree: 99%
       + [建立決定](/help/decision-management/create-decisions.md)
       + [以 Decisions API 傳遞產品建議](/help/decision-management/deliver-offers-with-the-decisions-api.md)
       + [頻率上限](/help/decision-management/frequency-capping.md)
-+ 資料管理{#data-management}
++ 資料管理 {#data-management}
    + [概覽](/help/data-management/set-up-data-overview.md)
    + [建立結構描述](/help/data-management/create-schema.md)
    + [對應身分識別](/help/data-management/map-identities.md)
@@ -146,7 +146,7 @@ ht-degree: 99%
    + [使用警示](/help/administration/alerts.md)
    + [使用 Customer Journey Analytics 增強報告功能](/help/report-and-monitor/enhanced-reporting-with-customer-journey-analytics.md)
 + 設定 {#configuration}
-   + 設定通道 {#channel-configuration}
+   + 設定管道 {#channel-configuration}
       + [設定管道](/help/set-up-channels/configure-channels.md)
       + [引導式通道設定](/help/set-up-channels/guided-channel-setup.md)
       + [設定電子郵件頻道](/help/set-up-channels/set-up-email-channel.md)
@@ -167,13 +167,13 @@ ht-degree: 99%
    + [存取管理](/help/set-up-access/access-management.md)
    + [設定以屬性為基礎的存取控制](/help/administration/attribute-based-access-control.md)
    + [使用沙箱](/help/set-up-access/create-and-manage-sandboxes.md)
-+ 資料治理與隱私權 {#data-governance-and-privacy}
++ 資料控管與隱私權 {#data-governance-and-privacy}
    + [資料治理框架](/help/privacy/data-governance-framework.md)
    + [使用標籤進行資料分類](/help/privacy/classify-data-using-lables.md)
    + [建立資料使用原則](/help/privacy/create-data-usage-policies.md)
    + [在 Journey Optimizer 管道中執行資料使用原則](/help/privacy/enforce-data-usage-policies-in-journey-optimizer-channels.md)
    + [遮罩訊息中的資料](/help/privacy/mask-data-in-messages.md)
-+ 練習與挑戰{#exercises-and-challenges}
++ 練習與挑戰 {#exercises-and-challenges}
    + [設定訓練沙箱](https://experienceleague.adobe.com/docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites.html?lang=zh-Hant)
    + [挑戰](https://experienceleague.adobe.com/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites.html?lang=zh-Hant)
 + [Experience League 現場表演錄影](/help/experience-league-live-show-recordings.md)
