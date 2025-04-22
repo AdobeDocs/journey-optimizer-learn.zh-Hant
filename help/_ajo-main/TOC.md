@@ -3,7 +3,7 @@ user-guide-title: Journey Optimizer 教學課程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 這些是 Journey Optimizer 教學課程。
 auto-video-transcripts: true
-source-git-commit: 602252c2f39bb97486460486ef9a6fec628a3aee
+source-git-commit: 4c7d047593ce5c8be7b8120ce65a9363a4e088fe
 workflow-type: tm+mt
 source-wordcount: '671'
 ht-degree: 99%
@@ -105,7 +105,7 @@ ht-degree: 99%
       + [建立多語言訊息](/help/content-management/create-multilingual-messages.md)
    + 用於內容產生的 AI 助理 {#content-accelerator}
       + [用於內容產生的 AI 助理 — 概觀](/help/content-management/ai-assistant-content-accelerator-overview.md)
-      + [使用用於內容產生的 AI 助理來建立內容](/help/content-management/create-content-using-the-ai-assistant-content-accelerator.md)
+      + [使用用於內容產生的 AI 助理來建立內容](/help/content-management/create-content-using-ai-assistant-content-accelerator.md)
    + [實驗 — 概觀](/help/content-management/experimentation-overview.md)
    + [使用 GenStudio 建立電子郵件](/help/content-management/create-an-email-using-genstudio.md)
 + 將內容個人化 {#personalize-content}
