@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer 教學課程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 這些是 Journey Optimizer 教學課程。
 auto-video-transcripts: true
-source-git-commit: 6dd5b60426226724bb7855594fac387f7f6d8a7d
+source-git-commit: b85a915543769e5af2e873bc7c1cb57286d78fe8
 workflow-type: tm+mt
-source-wordcount: '671'
-ht-degree: 99%
+source-wordcount: '675'
+ht-degree: 98%
 
 ---
 
@@ -92,6 +92,7 @@ ht-degree: 99%
    + 管理資產 {#assets}
       + [數位資產管理 ── 概觀](/help/content-management/digital-asset-management-overview.md)
       + [管理資產](/help/assets-essentials-overview.md)
+      + [AEM Dynamic Media整合](/help/content-management/aem-dynamic-media-integration.md)
       + [使用 Adobe Express 編輯資源](/help/content-management/edit-assets-with-adobe-express.md)
    + 使用片段 {#fragments}
       + [管理片段](/help/content-management/manage-fragments.md)
