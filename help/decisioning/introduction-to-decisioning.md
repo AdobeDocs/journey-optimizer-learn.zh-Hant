@@ -1,6 +1,6 @@
 ---
 title: Decisioning 簡介
-description: 瞭解Journey Optimizer中的決策功能。
+description: 了解 Journey Optimizer 中的 Decisioning 功能。
 feature: Decisioning
 topic: Integrations
 role: User
@@ -14,7 +14,7 @@ exl-id: d5219ce1-ea44-4c41-b557-b094978e37cc
 source-git-commit: b9a223a583a2ceb7c6c55a144ab78c7963ae2969
 workflow-type: tm+mt
 source-wordcount: '65'
-ht-degree: 69%
+ht-degree: 80%
 
 ---
 
