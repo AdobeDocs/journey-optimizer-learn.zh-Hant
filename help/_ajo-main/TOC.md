@@ -97,7 +97,7 @@ ht-degree: 98%
    + 使用片段 {#fragments}
       + [管理片段](/help/content-management/manage-fragments.md)
       + [建立運算式片段](/help/content-management/expression-fragments.md)
-      + [使用AEM內容片段](/help/content-management/aem-content-fragments.md)
+      + [使用 AEM 內容片段](/help/content-management/aem-content-fragments.md)
    + 內容範本{#content-templates}
       + [建立內容範本](/help/content-management/templates/create-content-templates.md)
       + [鎖定範本中的內容](/help/content-management/templates/content-locking.md)
