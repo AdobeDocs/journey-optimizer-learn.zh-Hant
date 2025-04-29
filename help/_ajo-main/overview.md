@@ -8,9 +8,9 @@ level: Beginner, Intermediate, Experienced
 doc-type: overview-page
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
 source-git-commit: 812d668949923db814f0ec44d858b72d9bac472d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '375'
-ht-degree: 90%
+ht-degree: 100%
 
 ---
 
@@ -49,15 +49,15 @@ Journey Optimizer 可讓公司建立一致的情境式個人化客戶體驗。�
 <tr>
     <td>
     <a href="../content-management/ai-assistant-content-accelerator-overview.md">
-      <img alt="使用AI助理內容加速器建立內容（影片）" src="../assets/3434635.jpg"/>
+      <img alt="使用 AI 助理內容加速器建立內容" src="../assets/3434635.jpg"/>
     </a>
     <div>
       <a href="../content-management/ai-assistant-content-accelerator-overview.md">
-    <strong>使用AI助理內容加速器建立內容</strong>
+    <strong>使用 AI 助理內容加速器建立內容</strong>
     </a>
     </div>
     <p>
-    <em>瞭解如何使用AI Assistant Content Accelerator為文字和影像產生主動式內容變數建議。
+    <em>了解如何使用 AI 助理內容加速器為文字和影像產生主動式內容變化版本建議。
 </em>
     <p>
   </td>
