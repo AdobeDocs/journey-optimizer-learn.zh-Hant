@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer 教學課程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 這些是 Journey Optimizer 教學課程。
 auto-video-transcripts: true
-source-git-commit: da95a1a259523039308cc5c5beb6bd93cf5de0f4
+source-git-commit: eccb016c737f94eef1cbd8357a9ce37a053904a1
 workflow-type: tm+mt
-source-wordcount: '678'
-ht-degree: 98%
+source-wordcount: '696'
+ht-degree: 95%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 98%
 + 使用案例 {#use-cases}
    + [客戶引導](/help/use-cases/customer-onboarding.md)
    + [捨棄的購物車](/help/use-cases/abandoned-cart.md)
+
 + Journey Optimizer 簡介 {#introduction-to-journey-optimizer}
    + [Journey Optimizer – 概觀](/help/introduction/journey-optimizer-overview.md)
    + [Journey Optimizer 簡介](/help/introduction/introduction.md)
@@ -181,7 +182,13 @@ ht-degree: 98%
 + 練習與挑戰 {#exercises-and-challenges}
    + [設定訓練沙箱](https://experienceleague.adobe.com/docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites.html?lang=zh-Hant)
    + [挑戰](https://experienceleague.adobe.com/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites.html?lang=zh-Hant)
-+ [Experience League 現場表演錄影](/help/experience-league-live-show-recordings.md)
++ [Experience League Live直播錄製](/help/experience-league-live-show-recordings.md)
++ 使用Web SDK建立對象 {#tutorial-creating-audiences}
+   + [簡介](../tutorial-creating-audience/introduction.md)
+   + [建立結構描述，資料集……等](../tutorial-creating-audience/create-schema-and-dataset.md)
+   + [建立AEP標籤](../tutorial-creating-audience/create-aep-tags.md)
+   + [建立網路表單](../tutorial-creating-audience/create-web-form.md)
+   + [偵錯方案](../tutorial-creating-audience/debug.md)
 + Summit Labs {#summit-labs}
    + [透過 Adobe Journey Optimizer (2024) 建立個人化行動時刻](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/summit-labs/lab-overview){target="_blank"}
    + [速查表](/help/summit-lab-assets/l535-assets.md)
