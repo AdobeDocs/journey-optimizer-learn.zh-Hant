@@ -23,4 +23,4 @@ ht-degree: 100%
 
 了解異動歷程的適用使用案例，以及了解如何建置異動歷程。
 
->[!VIDEO](https://video.tv.adobe.com/v/334202?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3422701?quality=12&learn=on&captions=chi_hant){transcript=true}

@@ -22,4 +22,4 @@ ht-degree: 100%
 
 如需從 Adobe Journey Optimizer 將資料集匯出至雲端儲存空間位置的詳細資訊，請造訪此[文件](https://experienceleague.adobe.com/docs/journey-optimizer/using/data-management/datasets/export-datasets.html?lang=zh-Hant)。
 
->[!VIDEO](https://video.tv.adobe.com/v/3424392/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3448829/?learn=on&captions=chi_hant)

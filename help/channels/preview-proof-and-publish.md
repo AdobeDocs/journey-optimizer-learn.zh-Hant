@@ -21,4 +21,4 @@ ht-degree: 100%
 
 瞭解如何使用 Litmus 測試各收件匣間的電子郵件呈現、如何根據測試設定檔預覽您的個人化電子郵件、傳送校樣及發佈您的電子郵件。
 
->[!VIDEO](https://video.tv.adobe.com/v/3425026?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3430345?quality=12&learn=on&captions=chi_hant){transcript=true}

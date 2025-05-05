@@ -21,4 +21,4 @@ ht-degree: 100%
 
 瞭解如何將 Journey Optimizer 連線至多媒體簡訊服務提供者，以及如何建立多媒體簡訊頻道介面。
 
->[!VIDEO](https://video.tv.adobe.com/v/3428816/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3437111/?learn=on&captions=chi_hant)

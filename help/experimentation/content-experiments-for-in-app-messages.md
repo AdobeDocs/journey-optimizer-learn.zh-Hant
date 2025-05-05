@@ -20,4 +20,4 @@ ht-degree: 100%
 
 瞭解如何設定和分析 A/B 測試應用程式內訊息的內容實驗。
 
->[!VIDEO](https://video.tv.adobe.com/v/3419898/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3445299/?learn=on&captions=chi_hant){transcript=true}

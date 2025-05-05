@@ -20,6 +20,6 @@ ht-degree: 15%
 
 瞭解如何建立客戶頻率上限規則集，以根據通訊型別限制傳送給客戶的通訊數量。
 
->[!VIDEO](https://video.tv.adobe.com/v/3435531/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3444737/?learn=on&enablevpops&captions=chi_hant)
 
 如需詳細資訊，請參閱[產品文件](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer/using/configuration/rule-sets)。

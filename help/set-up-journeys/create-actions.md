@@ -21,6 +21,6 @@ ht-degree: 100%
 
 瞭解什麼是動作、如何使用 Journey Optimizer 的編輯設定檔及跳轉動作，以及如何設定自訂動作。
 
->[!VIDEO](https://video.tv.adobe.com/v/3428396?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3430271?quality=12&learn=on&captions=chi_hant){transcript=true}
 
 請瀏覽產品文件，瞭解有關如何[設定自訂動作](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer/using/configuration/configure-journeys/action-journeys/about-custom-action-configuration){target="_blank"}的更多資訊。

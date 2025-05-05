@@ -24,4 +24,4 @@ ht-degree: 100%
 >
 >該影片在 Adobe Experience Platform 使用者介面演示了此功能。Journey Optimizer 使用者介面左側導覽的資料管理區段中，提供相同功能。
 
->[!VIDEO](https://video.tv.adobe.com/v/29709?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3422788?learn=on&captions=chi_hant)

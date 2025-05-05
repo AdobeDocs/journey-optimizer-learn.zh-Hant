@@ -21,4 +21,4 @@ ht-degree: 100%
 了解如何建立 Offer Decisioning 的 AI 模式，以及如何將其套用至決策。
 功能：優惠
 
->[!VIDEO](https://video.tv.adobe.com/v/3419959/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3444682/?learn=on&captions=chi_hant){transcript=true}

@@ -20,4 +20,4 @@ ht-degree: 100%
 
 瞭解如何匯入現有的 HTML 內容、調整設計、新增鏡像頁面和取消訂閱連結，以及如何編寫內容的程式碼。
 
->[!VIDEO](https://video.tv.adobe.com/v/3427083?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3430260?quality=12&learn=on&captions=chi_hant){transcript=true}

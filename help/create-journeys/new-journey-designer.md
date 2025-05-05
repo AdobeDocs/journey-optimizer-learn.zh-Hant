@@ -22,4 +22,4 @@ ht-degree: 100%
 
 探索全新重新設計的歷程畫布，以及如何在歷程善用即時報告。
 
->[!VIDEO](https://video.tv.adobe.com/v/3428767/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3443606/?learn=on&captions=chi_hant){transcript=true}

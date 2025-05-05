@@ -22,7 +22,7 @@ ht-degree: 100%
 
 了解何謂 IP 暖身，並了解如何在 Adobe Journey Optimizer 設定及執行 IP 暖身計劃。
 
->[!VIDEO](https://video.tv.adobe.com/v/3432637/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3453851/?learn=on&captions=chi_hant)
 
 請參閱[傳遞能力最佳實務指南](https://experienceleague.adobe.com/zh-hant/docs/deliverability-learn/deliverability-best-practice-guide/introduction) 以了解有關[目標定位條件](https://experienceleague.adobe.com/zh-hant/docs/deliverability-learn/deliverability-best-practice-guide/transition-process/targeting-criteria)，[IP 暖身期間的具體 ISP 考量事項](https://experienceleague.adobe.com/zh-hant/docs/deliverability-learn/deliverability-best-practice-guide/transition-process/isp-specific-considerations-during-ip-warming)，及 IP 暖身期間的[流量](https://experienceleague.adobe.com/zh-hant/docs/deliverability-learn/deliverability-best-practice-guide/transition-process/volume)。
 

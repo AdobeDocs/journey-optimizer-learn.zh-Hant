@@ -21,4 +21,4 @@ ht-degree: 100%
 
 了解如何為報告和單一 Widget 下載 CSV 報告。
 
->[!VIDEO](https://video.tv.adobe.com/v/3424603/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3439625/?learn=on&captions=chi_hant)

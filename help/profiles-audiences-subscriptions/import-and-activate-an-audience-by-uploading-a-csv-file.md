@@ -20,4 +20,4 @@ ht-degree: 100%
 
 瞭解如何透過上傳 CSV 檔案來有效匯入及啟用客群。瞭解如何使用 CSV 檔案的擴充屬性個人化您的內容，確保為您的客群提供更量身打造的體驗。
 
->[!VIDEO](https://video.tv.adobe.com/v/3444298/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3444354/?learn=on&enablevpops&captions=chi_hant)

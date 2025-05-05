@@ -21,4 +21,4 @@ ht-degree: 100%
 
 了解透過讀取客群活動所觸發歷程的適用使用案例。瞭解如何建立批次式歷程，以及套用哪些最佳實務。
 
->[!VIDEO](https://video.tv.adobe.com/v/3424997?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3430361?quality=12&learn=on&captions=chi_hant){transcript=true}

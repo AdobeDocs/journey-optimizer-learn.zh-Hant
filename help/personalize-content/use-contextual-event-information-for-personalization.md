@@ -21,4 +21,4 @@ ht-degree: 100%
 
 瞭解如何使用歷程中的內容事件資訊來個人化訊息。
 
->[!VIDEO](https://video.tv.adobe.com/v/3425027?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3428536?quality=12&learn=on&captions=chi_hant){transcript=true}

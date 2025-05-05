@@ -21,4 +21,4 @@ ht-degree: 100%
 
 了解 Journey Optimizer 如何使用規則產生客群，以及了解如何使用屬性、事件和現有客群來建立客群。
 
->[!VIDEO](https://video.tv.adobe.com/v/3425020?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3430328?quality=12&learn=on&captions=chi_hant){transcript=true}

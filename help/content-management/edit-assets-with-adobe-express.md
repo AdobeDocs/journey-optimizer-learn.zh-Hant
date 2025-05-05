@@ -28,6 +28,6 @@ ht-degree: 100%
 
 瞭解如何使用 Adobe Express 工具在 Adobe Journey Optimizer 編輯您的資產。
 
->[!VIDEO](https://video.tv.adobe.com/v/3455523/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3455534/?learn=on&enablevpops&captions=chi_hant)
 
 有關如何從內容編輯器存取此功能的詳細資訊，請參閱 [Journey Optimizer 產品檔案](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer/using/assets-images/express) 。 如需瞭解 Adobe Express 的詳細資訊，請參閱[本文件](https://helpx.adobe.com/tw/express/user-guide.html)。

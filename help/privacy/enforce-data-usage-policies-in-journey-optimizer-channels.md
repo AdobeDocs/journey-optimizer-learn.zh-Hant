@@ -23,6 +23,6 @@ ht-degree: 100%
 
 了解如何在 Journey Optimizer 管道中執行資料使用原則。
 
->[!VIDEO](https://video.tv.adobe.com/v/3434901/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3434916/?learn=on&captions=chi_hant)
 
 請參閱產品文件，以取得有關 [資料治理](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer/using/privacy/action-privacy-restricted) 以及如何在 Journey Optimizer [使用同意原則工作](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer/using/privacy/consent/consent-restricted) 的詳細資訊。

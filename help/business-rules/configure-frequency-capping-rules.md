@@ -20,6 +20,6 @@ ht-degree: 65%
 
 了解如何設定頻率上限規則。
 
->[!VIDEO](https://video.tv.adobe.com/v/3433395/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3433406/?learn=on&captions=chi_hant)
 
 如需詳細資訊，請參閱[產品文件](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer/using/configuration/frequency-rules)。

@@ -22,4 +22,4 @@ ht-degree: 100%
 
 了解如何為您的應用程式建立內容卡片。
 
->[!VIDEO](https://video.tv.adobe.com/v/3434783/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3434794/?learn=on&captions=chi_hant)

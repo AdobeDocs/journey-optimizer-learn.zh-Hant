@@ -23,4 +23,4 @@ ht-degree: 100%
 
 了解如何在 Journey Optimizer 新增及設定除了預設提供者 Sinch、Infobip 和 Twilio 之外的其他簡訊提供者。
 
->[!VIDEO](https://video.tv.adobe.com/v/3432088/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3443639/?learn=on&captions=chi_hant)
