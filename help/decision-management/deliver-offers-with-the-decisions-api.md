@@ -23,4 +23,4 @@ ht-degree: 100%
 
 >[!INFO]
 >
-> 此影片是[行銷人員決策管理快速入門課程](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning)的一部分，可在 Experience League 中免費使用！
+> 此影片是[行銷人員決策管理快速入門課程](https://experienceleague.adobe.com/?lang=zh-hant&recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning)的一部分，可在 Experience League 中免費使用！

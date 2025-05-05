@@ -22,4 +22,4 @@ ht-degree: 15%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3435531/?learn=on&enablevpops)
 
-如需詳細資訊，請參閱[產品文件](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/configuration/rule-sets)。
+如需詳細資訊，請參閱[產品文件](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer/using/configuration/rule-sets)。

@@ -21,7 +21,7 @@ ht-degree: 0%
 
 # Personalization編輯器遊樂場
 
-[個人化編輯器遊樂場](https://experienceleague.adobe.com/en/apps/journey-optimizer/ajo-personalization#)提供使用範例資料寫入及測試個人化程式碼的模擬環境，而不需要即時資料集。
+[個人化編輯器遊樂場](https://experienceleague.adobe.com/zh-hant/apps/journey-optimizer/ajo-personalization#)提供使用範例資料寫入及測試個人化程式碼的模擬環境，而不需要即時資料集。
 
 瞭解如何運用預先定義的程式碼範例、編輯虛擬設定檔裝載，並即時預覽個人化程式碼的輸出。
 

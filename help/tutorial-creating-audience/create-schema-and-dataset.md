@@ -19,7 +19,7 @@ ht-degree: 0%
 
 * 登入Adobe Experience Platform
 
-* 在Journey Optimizer中建立稱為「財務顧問」的XDM事件型結構描述。 如果您不熟悉建立結構描述，請依照此[檔案](https://experienceleague.adobe.com/en/docs/experience-platform/xdm/tutorials/create-schema-ui)操作
+* 在Journey Optimizer中建立稱為「財務顧問」的XDM事件型結構描述。 如果您不熟悉建立結構描述，請依照此[檔案](https://experienceleague.adobe.com/zh-hant/docs/experience-platform/xdm/tutorials/create-schema-ui)操作
 
 * 將下列結構新增至您的結構描述。 PreferredFinancialInstrument元素會儲存使用者對Stocks、Bonds、CD的偏好設定
   ![xdm-schema](assets/xdm-schema.png)

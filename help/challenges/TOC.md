@@ -17,4 +17,4 @@ ht-degree: 100%
 + [挑戰 - 建立夏季系列發佈](/help/challenges/summer-collection-announcement-challenge.md)
 + [挑戰 - 建立忠誠度狀態歡迎電子郵件](/help/challenges/loyalty-status-welcome-email-challenge.md)
 + [挑戰 - 建立訂單確認電子郵件](/help/challenges/order-confirmation-challenge.md)
-+ [教學課程](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/overview.html)
++ [教學課程](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/overview.html?lang=zh-Hant)
