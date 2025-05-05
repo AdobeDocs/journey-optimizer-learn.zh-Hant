@@ -72,7 +72,7 @@ ht-degree: 2%
 
    **實驗室 — 座位`your seat number`**
 
-1. 選取對象，然後按一下[儲存]。****
+1. 選取對象，然後按一下[儲存]。**&#x200B;**
 
    ![對象選擇](/help/summit/l820-lab-workbook/assets/2-3-2-7-select-audience.png)
 
