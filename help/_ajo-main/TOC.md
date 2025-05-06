@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer 教學課程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 這些是 Journey Optimizer 教學課程。
 auto-video-transcripts: true
-source-git-commit: eccb016c737f94eef1cbd8357a9ce37a053904a1
+source-git-commit: 036ac1b9cf1618ff1e4727fc1560dee8dddb7c9f
 workflow-type: tm+mt
-source-wordcount: '696'
-ht-degree: 95%
+source-wordcount: '707'
+ht-degree: 93%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 95%
 + 使用案例 {#use-cases}
    + [客戶引導](/help/use-cases/customer-onboarding.md)
    + [捨棄的購物車](/help/use-cases/abandoned-cart.md)
+   + [將協調流程縮放為全通路參與](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement){target="_blank"}
 
 + Journey Optimizer 簡介 {#introduction-to-journey-optimizer}
    + [Journey Optimizer – 概觀](/help/introduction/journey-optimizer-overview.md)
@@ -190,6 +191,6 @@ ht-degree: 95%
    + [建立網路表單](../tutorial-creating-audience/create-web-form.md)
    + [偵錯方案](../tutorial-creating-audience/debug.md)
 + Summit Labs {#summit-labs}
-   + [透過 Adobe Journey Optimizer (2024) 建立個人化行動時刻](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/summit-labs/lab-overview){target="_blank"}
-   + [速查表](/help/summit-lab-assets/l535-assets.md)
-   + [安裝行動應用程式](/help/summit-lab-assets/install-mobile-app.md)
+   + [透過 Adobe Journey Optimizer (2024) 建立個人化行動時刻](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/build-personalized-mobile-moments/lab-overview){target="_blank"}
+   + [在Adobe Journey Optimizer中將協調流程縮放為全通路參與（2025年）](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
+
