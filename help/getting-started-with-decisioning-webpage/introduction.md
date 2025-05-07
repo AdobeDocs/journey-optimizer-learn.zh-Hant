@@ -7,15 +7,15 @@ level: Beginner
 doc-type: Tutorial
 last-substantial-update: 2025-05-05T00:00:00Z
 jira: KT-17728
-source-git-commit: 9695a4db0d0caa44a8c7d49e069320309ffc40a6
+exl-id: 382ee746-e8cd-4843-bfe9-913df8914136
+source-git-commit: 5ab637d9b9955ab334ee67ed887e34026b04206d
 workflow-type: tm+mt
-source-wordcount: '272'
+source-wordcount: '271'
 ht-degree: 1%
 
 ---
 
-
-# 根據使用者投資偏好設定（股票、債券、CD）建立AJO受眾
+# 使用AJO Decisioning根據對象製作個人化網頁選件
 
 本教學課程以先前使用Adobe Experience Platform (AEP) Web SDK建立的對象細分設定為基礎。 在上一個教學課程中，擷取了使用者偏好設定(例如股票、債券或存款證(CD)中的利息)，並將其用來將個人細分為Adobe Experience Platform (AEP)內的目標受眾。 本教學課程在此基礎上再接再厲，使用Adobe Journey Optimizer (AJO) Decisioning即時為這些對象提供個人化財務優惠方案，強化參與和轉換結果。
 
@@ -47,8 +47,3 @@ ht-degree: 1%
 * AEP Web SDK (Alloy.js)
 * AEP Edge區段
 * 顯示優惠方案的網頁
-
-
-
-
-
