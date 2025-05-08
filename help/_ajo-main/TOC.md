@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer 教學課程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 這些是 Journey Optimizer 教學課程。
 auto-video-transcripts: true
-source-git-commit: 6bf0c2487afff4811aa94e9591ae29c38af15d34
+source-git-commit: 217e3e8b416c89f2d7141849028dc4d88e0bd484
 workflow-type: tm+mt
-source-wordcount: '744'
-ht-degree: 90%
+source-wordcount: '751'
+ht-degree: 89%
 
 ---
 
@@ -17,9 +17,9 @@ ht-degree: 90%
 + 使用案例 {#use-cases}
    + [客戶引導](/help/use-cases/customer-onboarding.md)
    + [捨棄的購物車](/help/use-cases/abandoned-cart.md)
-   + [根據使用者偏好設定建立對象](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/tutorials/tutorial-creating-audiences/introduction)
-   + [在網頁上進行決策](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/tutorials/getting-started-with-decisioning-webpage/introduction)
-   + [將協調流程縮放為全通路參與](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
+   + [根據使用者偏好設定建立對象](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/tutorial-creating-audiences/introduction)
+   + 在網頁上進行[決策](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/getting-started-with-decisioning-webpage/introduction)
+   + [將協調流程縮放為全通路參與](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
 
 + Journey Optimizer 簡介 {#introduction-to-journey-optimizer}
    + [Journey Optimizer – 概觀](/help/introduction/journey-optimizer-overview.md)
@@ -49,6 +49,7 @@ ht-degree: 90%
    + [發佈歷程](/help/create-journeys/publish-a-journey.md)
    + [更新即時歷程中的內容](/help/create-journeys/update-content-in-live-journey.md)
    + [將歷程複製到另一個沙箱](/help/create-journeys/copy-a-journey.md)
+   + [批次細分後觸發每日歷程執行](/help/create-journeys/trigger-daily-journey-runs-after-batch-segmentation-completion.md)
 + 輪廓、客群和訂閱 {#profiles-audiences-subscriptions}
    + [簡介及客群 — 概觀](/help/profiles-audiences-subscriptions/profiles-and-audiences-overview.md)
    + [統一輪廓和分段 - 概觀](/help/profiles-audiences-subscriptions/unified-profile-and-segmentation-overview.md)
@@ -205,6 +206,6 @@ ht-degree: 90%
    + [建立網頁](../getting-started-with-decisioning-webpage/create-web-page.md)
 
 + Summit Labs {#summit-labs}
-   + [透過 Adobe Journey Optimizer (2024) 建立個人化行動時刻](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/build-personalized-mobile-moments/lab-overview){target="_blank"}
-   + [在Adobe Journey Optimizer中將協調流程縮放為全通路參與（2025年）](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
+   + [透過 Adobe Journey Optimizer (2024) 建立個人化行動時刻](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/build-personalized-mobile-moments/lab-overview){target="_blank"}
+   + [在Adobe Journey Optimizer中將協調流程縮放為全通路參與（2025年）](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
 
