@@ -18,7 +18,7 @@ ht-degree: 96%
    + [客戶引導](/help/use-cases/customer-onboarding.md)
    + [捨棄的購物車](/help/use-cases/abandoned-cart.md)
    + [根據使用者偏好設定建立對象](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/tutorial-creating-audiences/introduction)
-   + 在網頁上進行[決策](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/getting-started-with-decisioning-webpage/introduction)
+   + [在網頁上進行決策](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/getting-started-with-decisioning-webpage/introduction)
    + [將協調流程縮放為全頻道參與](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
 
 + Journey Optimizer 簡介 {#introduction-to-journey-optimizer}
