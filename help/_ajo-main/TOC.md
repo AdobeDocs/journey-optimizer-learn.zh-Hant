@@ -6,7 +6,7 @@ auto-video-transcripts: true
 source-git-commit: 217e3e8b416c89f2d7141849028dc4d88e0bd484
 workflow-type: tm+mt
 source-wordcount: '751'
-ht-degree: 89%
+ht-degree: 96%
 
 ---
 
@@ -17,9 +17,9 @@ ht-degree: 89%
 + 使用案例 {#use-cases}
    + [客戶引導](/help/use-cases/customer-onboarding.md)
    + [捨棄的購物車](/help/use-cases/abandoned-cart.md)
-   + [根據使用者偏好設定建立對象](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/tutorials/tutorial-creating-audiences/introduction)
-   + [在網頁上進行決策](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/tutorials/getting-started-with-decisioning-webpage/introduction)
-   + [將協調流程縮放為全通路參與](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
+   + [根據使用者偏好設定建立對象](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/tutorial-creating-audiences/introduction)
+   + 在網頁上進行[決策](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/getting-started-with-decisioning-webpage/introduction)
+   + [將協調流程縮放為全頻道參與](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
 
 + Journey Optimizer 簡介 {#introduction-to-journey-optimizer}
    + [Journey Optimizer – 概觀](/help/introduction/journey-optimizer-overview.md)
@@ -97,8 +97,8 @@ ht-degree: 89%
    + 管理資產 {#assets}
       + [數位資產管理 ── 概觀](/help/content-management/digital-asset-management-overview.md)
       + [管理資產](/help/assets-essentials-overview.md)
-      + [AEM Dynamic Media整合](/help/content-management/aem-dynamic-media-integration.md)
-      + [使用 Adobe Express 編輯資源](/help/content-management/edit-assets-with-adobe-express.md)
+      + [AEM 動態媒體整合](/help/content-management/aem-dynamic-media-integration.md)
+      + [使用 Adobe Express 編輯資產](/help/content-management/edit-assets-with-adobe-express.md)
    + 使用片段 {#fragments}
       + [管理片段](/help/content-management/manage-fragments.md)
       + [建立運算式片段](/help/content-management/expression-fragments.md)
@@ -122,7 +122,7 @@ ht-degree: 89%
    + [使用協助程式功能進行個人化](/help/personalize-content/use-helper-functions-for-personalization.md)
    + [使用和管理個人化資料庫中已儲存的運算式](/help/personalize-content/use-and-manage-saved-expressions-in-personalization-library.md)
    + [使用條件規則產生器建立動態內容](/help/personalize-content/create-dynamic-content.md)
-   + [Personalization編輯器遊樂場](/help/personalize-content/personalization-editor-playground.md)
+   + [個人化編輯器遊樂場](/help/personalize-content/personalization-editor-playground.md)
 + 決定功能{#decision-capabilities}
    + 決策 {#decisioning}
       + [Decisioning 簡介](/help/decisioning/introduction-to-decisioning.md)
@@ -186,13 +186,13 @@ ht-degree: 89%
 + 練習與挑戰 {#exercises-and-challenges}
    + [設定訓練沙箱](https://experienceleague.adobe.com/docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites.html?lang=zh-Hant)
    + [挑戰](https://experienceleague.adobe.com/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites.html?lang=zh-Hant)
-+ [Experience League Live直播錄製](/help/experience-league-live-show-recordings.md)
-+ 使用Web SDK建立對象 {#tutorial-creating-audiences}
++ [Experience League 現場表演錄影](/help/experience-league-live-show-recordings.md)
++ 使用 Web SDK，建立客群 {#tutorial-creating-audiences}
    + [簡介](../tutorial-creating-audience/introduction.md)
-   + [建立結構描述，資料集……等](../tutorial-creating-audience/create-schema-and-dataset.md)
-   + [建立AEP標籤](../tutorial-creating-audience/create-aep-tags.md)
-   + [建立網路表單](../tutorial-creating-audience/create-web-form.md)
-   + [偵錯方案](../tutorial-creating-audience/debug.md)
+   + [建立結構描述、資料集...等](../tutorial-creating-audience/create-schema-and-dataset.md)
+   + [建立 AEP 標記](../tutorial-creating-audience/create-aep-tags.md)
+   + [建立網頁表單](../tutorial-creating-audience/create-web-form.md)
+   + [偵錯解決方案](../tutorial-creating-audience/debug.md)
 + 在網頁上決策 {#getting-started-with-decisioning-webpage}
    + [介紹](../getting-started-with-decisioning-webpage/introduction.md)
    + [建立標籤](../getting-started-with-decisioning-webpage/create-tags.md)
@@ -202,10 +202,10 @@ ht-degree: 89%
    + [建立頻道](../getting-started-with-decisioning-webpage/create-channel.md)
    + [建立行銷活動](../getting-started-with-decisioning-webpage/create-campaign.md)
    + [建立決定原則](../getting-started-with-decisioning-webpage/create-decision-policy.md)
-   + [建立AEP標籤](../getting-started-with-decisioning-webpage/create-aep-tags.md)
+   + [建立 AEP 標記](../getting-started-with-decisioning-webpage/create-aep-tags.md)
    + [建立網頁](../getting-started-with-decisioning-webpage/create-web-page.md)
 
 + Summit Labs {#summit-labs}
    + [透過 Adobe Journey Optimizer (2024) 建立個人化行動時刻](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/build-personalized-mobile-moments/lab-overview){target="_blank"}
-   + [在Adobe Journey Optimizer中將協調流程縮放為全通路參與（2025年）](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
+   + [請在 Adobe Journey Optimizer (2025 年版) 中，將協調流程縮放為全頻道參與](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
 
