@@ -26,7 +26,7 @@ ht-degree: 4%
 
    ![建立行銷活動](assets/create-campaign.png)
 
-1. 若要開啟個人化編輯器，請按一下[編輯程式碼]。****
+1. 若要開啟個人化編輯器，請按一下[編輯程式碼]。**&#x200B;**
 
    ![edit-cbe_html](assets/edit_code_based_exp_html.png)
 
