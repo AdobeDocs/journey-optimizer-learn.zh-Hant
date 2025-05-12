@@ -22,7 +22,7 @@ ht-degree: 0%
 * 登入Adobe Experience Platform
 * 資料管理 — >方案 — >建立方案
 
-* 建立名為&#x200B;_財務顧問_&#x200B;的XDM事件型結構描述。 如果您不熟悉建立結構描述，請依照此[檔案](https://experienceleague.adobe.com/en/docs/experience-platform/xdm/tutorials/create-schema-ui)操作
+* 建立名為&#x200B;_財務顧問_&#x200B;的XDM事件型結構描述。 如果您不熟悉建立結構描述，請依照此[檔案](https://experienceleague.adobe.com/zh-hant/docs/experience-platform/xdm/tutorials/create-schema-ui)操作
 
 * 將下列結構新增至您的結構描述。 PreferredFinancialInstrument元素會儲存使用者對Stocks、Bonds、CD的偏好設定。 **__techmarketingdemos_**&#x200B;是租使用者ID，在您的環境中將會不同。
   ![xdm-schema](assets/xdm-schema.png)
