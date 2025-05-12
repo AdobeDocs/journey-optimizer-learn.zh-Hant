@@ -17,7 +17,7 @@ ht-degree: 1%
 
 # 使用Decisioning個人化Web優惠
 
-本教學課程以先前使用Adobe Experience Platform (AEP) Web SDK建立的對象細分設定為基礎。 在[先前的教學課程](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/create-audiences-using-web-sdk/introduction)中，已擷取使用者偏好設定(例如股票、債券或存款證(CD)中的利息)，並將這些偏好設定用於在Experience Platform中將個人細分為目標受眾。 本教學課程在此基礎上再接再厲，使用Adobe Journey Optimizer (AJO) Decisioning即時為這些對象提供個人化財務優惠方案，強化參與和轉換結果。
+本教學課程以先前使用Adobe Experience Platform (AEP) Web SDK建立的對象細分設定為基礎。 在[先前的教學課程](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/create-audiences-using-web-sdk/introduction)中，已擷取使用者偏好設定(例如股票、債券或存款證(CD)中的利息)，並將這些偏好設定用於在Experience Platform中將個人細分為目標受眾。 本教學課程在此基礎上再接再厲，使用Adobe Journey Optimizer (AJO) Decisioning即時為這些對象提供個人化財務優惠方案，強化參與和轉換結果。
 
 您可以使用以下連結即時測試個人化AJO優惠。
 [按一下這裡以檢視即時示範](https://gbedekar489.github.io/finwise/welcome.html)。 頁面會根據您的投資偏好設定顯示即時優惠方案。
