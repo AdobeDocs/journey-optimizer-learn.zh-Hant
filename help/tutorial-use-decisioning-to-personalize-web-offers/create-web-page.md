@@ -8,9 +8,9 @@ feature: Decisioning
 last-substantial-update: 2025-05-05T00:00:00Z
 jira: KT-17728
 exl-id: 72a67137-303d-4dfe-9b70-322c81e5fb27
-source-git-commit: 2ca9ffee1a2326b8ae55a8e8de496a632fea79c8
+source-git-commit: 9a35160921988103182815efd3551151c09b9bb4
 workflow-type: tm+mt
-source-wordcount: '224'
+source-wordcount: '221'
 ht-degree: 0%
 
 ---
@@ -21,18 +21,27 @@ ht-degree: 0%
 
 以下指令碼負責使用Adobe Journey Optimizer在網頁上擷取和顯示個人化優惠方案。
 
-1. 解碼HTML實體：有協助程式函式可安全地將選件內容中的任何特殊字元轉換為可讀取的HTML。
+1. 解碼HTML實體：
 
-2. 執行個人化：
-呼叫時，它會傳送要求(sendEvent)至Adobe的Web SDK，以取得頁面上特定區域的個人化內容(#ajo-offer元素)。
-如果傳回選件，則會解碼HTML並將其插入頁面中。
-如果未傳回任何專案，則會記錄警告。
+   有一個協助程式函式，可安全地將選件內容中的任何特殊字元轉換為可讀取的HTML。
 
-3. 等待SDK：
-由於Adobe的SDK (alloy)以非同步方式載入，因此指令碼會等到完全載入後再提出請求。
-它會每200毫秒檢查一次合金，最多20次，以避免錯誤。
+1. 執行個人化：
 
-4. 頁面載入時：當頁面完成載入時，指令碼會呼叫waitForAlloy()來啟動程式。
+   呼叫時，它會傳送要求(`sendEvent`)給Adobe的Web SDK，以取得頁面上特定區域（`#ajo-offer`元素）的個人化內容。
+
+   如果傳回選件，則會解碼HTML並將其插入頁面中。
+
+   如果未傳回任何專案，則會記錄警告。
+
+1. 等待SDK：
+
+   由於Adobe的SDK (alloy)以非同步方式載入，因此指令碼會等到完全載入後再提出請求。
+
+   它會每200毫秒檢查一次合金，最多20次，以避免錯誤。
+
+1. 頁面載入時：
+
+   當頁面完成載入時，指令碼會呼叫`waitForAlloy()`來啟動程式。
 
 
 
