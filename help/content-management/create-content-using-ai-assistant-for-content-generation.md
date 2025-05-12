@@ -21,4 +21,4 @@ ht-degree: 100%
 
 瞭解如何使用用於內容產生的 AI 助理為文字和影像產生主動式內容變化版本建議。
 
->[!VIDEO](https://video.tv.adobe.com/v/3434635/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3434646/?learn=on&captions=chi_hant)
