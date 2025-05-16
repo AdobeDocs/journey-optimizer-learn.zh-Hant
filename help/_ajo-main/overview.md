@@ -8,9 +8,9 @@ level: Beginner, Intermediate, Experienced
 doc-type: overview-page
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
 source-git-commit: f6ddb0f7b8b7570582eaaa3b20fd3a70450cdaf1
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '377'
-ht-degree: 90%
+ht-degree: 100%
 
 ---
 
@@ -49,15 +49,15 @@ Journey Optimizer 可讓公司建立一致的情境式個人化客戶體驗。�
 <tr>
     <td>
     <a href="../content-management/create-content-using-ai-assistant-for-content-generation.md">
-      <img alt="使用AI助理建立內容以產生內容（影片）" src="../assets/3434635.jpg"/>
+      <img alt="請使用 AI 助理建立內容，以便產生內容 (影片)" src="../assets/3434635.jpg"/>
     </a>
     <div>
       <a href="../content-management/create-content-using-ai-assistant-for-content-generation.md">
-    <strong>使用AI助理建立內容以產生內容</strong>
+    <strong>請使用 AI 助理建立內容，以便產生內容</strong>
     </a>
     </div>
     <p>
-    <em>瞭解如何使用AI助理產生內容，以便為文字和影像產生主動式內容變化建議。
+    <em>深入了解如何使用 AI 助理，以便產生內容，為文字、影像，產生主動式內容變化版本建議。
 </em>
     <p>
   </td>

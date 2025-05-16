@@ -8,9 +8,9 @@ role: Admin
 level: Beginner
 auto-video-transcripts: true
 source-git-commit: 007d349d95e4fa2a84dfb4f0830fba8af4cf106b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '63'
-ht-degree: 84%
+ht-degree: 100%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 84%
 # 教學課程 - 設定訓練沙箱 {#configure-a-training-sandbox}
 
 + [設定訓練沙箱](/help/tutorial-configure-a-training-sandbox/introduction-and-prerequisites.md)
-+ 步驟1：設定資料結構並匯入範例資料 {#set-up-data-structure-and-ingest-data}
++ 步驟 1：先設定資料結構，然後匯入樣本資料 {#set-up-data-structure-and-ingest-data}
    + [使用 Postman 設定資料結構並匯入範例資料](https://experienceleague.adobe.com/docs/platform-learn/tutorials/import-sample-data.html?lang=zh-Hant)
    + [設定資料結構 (手動)](/help/tutorial-configure-a-training-sandbox/manual-data-set-up.md)
    + [匯入範例資料 (手動)](/help/tutorial-configure-a-training-sandbox/manual-data-ingestion.md)

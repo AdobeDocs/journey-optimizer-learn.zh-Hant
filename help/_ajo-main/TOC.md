@@ -4,9 +4,9 @@ user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 這些是 Journey Optimizer 教學課程。
 auto-video-transcripts: true
 source-git-commit: 2790e0765b1a4ee281516c437ef18cf35c7bf4d2
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '714'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 96%
 + 使用案例 {#use-cases}
    + [客戶引導](/help/use-cases/customer-onboarding.md)
    + [捨棄的購物車](/help/use-cases/abandoned-cart.md)
-   + [增強客戶參與度](/help/use-cases/enhance-customer-engagement.md){target="_blank"}
+   + [強化客戶參與度](/help/use-cases/enhance-customer-engagement.md){target="_blank"}
    + [將協調流程縮放為全頻道參與](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
 + Journey Optimizer 簡介 {#introduction-to-journey-optimizer}
    + [Journey Optimizer – 概觀](/help/introduction/journey-optimizer-overview.md)
@@ -47,13 +47,13 @@ ht-degree: 96%
    + [發佈歷程](/help/create-journeys/publish-a-journey.md)
    + [更新即時歷程中的內容](/help/create-journeys/update-content-in-live-journey.md)
    + [將歷程複製到另一個沙箱](/help/create-journeys/copy-a-journey.md)
-   + [批次細分後觸發每日歷程執行](/help/create-journeys/trigger-daily-journey-runs-after-batch-segmentation-completion.md)
+   + [批次細分後，就會觸發日常歷程執行](/help/create-journeys/trigger-daily-journey-runs-after-batch-segmentation-completion.md)
 + 輪廓、客群和訂閱 {#profiles-audiences-subscriptions}
    + [簡介及客群 — 概觀](/help/profiles-audiences-subscriptions/profiles-and-audiences-overview.md)
    + [統一輪廓和分段 - 概觀](/help/profiles-audiences-subscriptions/unified-profile-and-segmentation-overview.md)
    + [使用規則產生器建立客群](/help/profiles-audiences-subscriptions/create-audiences-using-the-rule-builder.md)
    + [藉由上傳 CSV 檔案來建立新客群。](/help/profiles-audiences-subscriptions/import-and-activate-an-audience-by-uploading-a-csv-file.md)
-   + [使用Web SDK建立對象（教學課程）](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/create-audiences-using-web-sdk/introduction){target="_blank"}
+   + [使用Web SDK，建立客群 (教學課程)](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/create-audiences-using-web-sdk/introduction){target="_blank"}
    + [隨選評估客群](https://experienceleague.adobe.com/zh-hant/docs/platform-learn/tutorials/audiences/evaluate-audiences-on-demand)
    + [訂閱和登陸頁面](/help/subscriptions-and-landing-pages.md)
 + 管道 {#channels}
@@ -139,7 +139,7 @@ ht-degree: 96%
       + [建立決定](/help/decision-management/create-decisions.md)
       + [以 Decisions API 傳遞產品建議](/help/decision-management/deliver-offers-with-the-decisions-api.md)
       + [頻率上限](/help/decision-management/frequency-capping.md)
-   + [使用決策來個人化Web優惠（教學課程）](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/use-decisioning-to-personalize-web-offers/introduction){target="_blank"}
+   + [使用決策，將網頁優惠個人化 (教學課程)](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/use-decisioning-to-personalize-web-offers/introduction){target="_blank"}
 + 資料管理 {#data-management}
    + [概觀](/help/data-management/set-up-data-overview.md)
    + [建立結構描述](/help/data-management/create-schema.md)
