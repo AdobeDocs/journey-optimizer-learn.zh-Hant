@@ -22,4 +22,4 @@ ht-degree: 5%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3433395/?learn=on)
 
-如需詳細資訊，請參閱[產品文件](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/configuration/frequency-rules)。
+如需詳細資訊，請參閱[產品文件](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer/using/configuration/frequency-rules)。
