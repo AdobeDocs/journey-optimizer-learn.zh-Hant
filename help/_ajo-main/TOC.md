@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer 教學課程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 這些是 Journey Optimizer 教學課程。
 auto-video-transcripts: true
-source-git-commit: 2790e0765b1a4ee281516c437ef18cf35c7bf4d2
-workflow-type: ht
-source-wordcount: '714'
-ht-degree: 100%
+source-git-commit: 7ff7eaa6fe6001b1d1923b950d0a8079a53feeb4
+workflow-type: tm+mt
+source-wordcount: '735'
+ht-degree: 98%
 
 ---
 
@@ -19,6 +19,10 @@ ht-degree: 100%
    + [捨棄的購物車](/help/use-cases/abandoned-cart.md)
    + [強化客戶參與度](/help/use-cases/enhance-customer-engagement.md){target="_blank"}
    + [將協調流程縮放為全頻道參與](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
++ 使用案例教戰手冊 {#use-case-playbooks}
+   + [概觀](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/use-case-playbooks/overview){target="_blank"}
+   + [設定Playbook沙箱](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/use-case-playbooks/configure-a-playbook-sandbox){target="_blank"}
+   + [建立和發佈教戰手冊實例](http://experienceleague.adobe.com/en/docs/platform-learn/tutorials/use-case-playbooks/create-and-publish-a-playbook-instance){target="_blank"}
 + Journey Optimizer 簡介 {#introduction-to-journey-optimizer}
    + [Journey Optimizer – 概觀](/help/introduction/journey-optimizer-overview.md)
    + [Journey Optimizer 簡介](/help/introduction/introduction.md)
@@ -188,6 +192,7 @@ ht-degree: 100%
    + [挑戰](https://experienceleague.adobe.com/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites.html?lang=zh-Hant)
 + [Experience League 現場表演錄影](/help/experience-league-live-show-recordings.md)
 + Summit Labs {#summit-labs}
+   + [2025 Summit實驗室速查表](/help/summit-lab-assets/l535-assets.md)
    + [透過 Adobe Journey Optimizer (2024) 建立個人化行動時刻](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/build-personalized-mobile-moments/lab-overview){target="_blank"}
    + [請在 Adobe Journey Optimizer (2025 年版) 中，將協調流程縮放為全頻道參與](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
 
