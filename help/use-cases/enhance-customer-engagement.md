@@ -18,7 +18,7 @@ ht-degree: 0%
 
 這些教學課程著重於透過網路表單和網頁使用即時對象建立和個人化決策，以增強客戶參與度和個人化。 透過整合這些強大的技術，企業可確保正確的訊息在正確的時間送達正確的對象，提升客戶參與度並強化個人化的行銷工作。
 
-1. [使用Web SDK建立對象（教學課程）](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/create-audiences-using-web-sdk/introduction){target="_blank"}
+1. [使用Web SDK建立對象（教學課程）](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/create-audiences-using-web-sdk/introduction){target="_blank"}
 
    瞭解如何：
 
@@ -27,7 +27,7 @@ ht-degree: 0%
    * 根據使用者的選擇，自動將使用者分類為特定對象。
 
 
-2. [使用決策來個人化Web優惠（教學課程）](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/use-decisioning-to-personalize-web-offers/introduction){target="_blank"}
+2. [使用決策來個人化Web優惠（教學課程）](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/use-decisioning-to-personalize-web-offers/introduction){target="_blank"}
 
 在第一個教學課程的基礎上，瞭解如何使用集中式的行銷優惠方案目錄和智慧型決策引擎，向每個人顯示最相關的優惠方案。
 

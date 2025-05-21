@@ -22,4 +22,4 @@ ht-degree: 29%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3443975/?learn=on&enablevpops&captions=chi_hant)
 
-如需詳細資訊，請造訪[設定Playbook沙箱](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/use-case-playbooks/configure-a-playbook-sandbox){target="_blank"}和[建立和發佈Playbook執行個體](https://experienceleague.adobe.com/zh-hant/docs/platform-learn/tutorials/use-case-playbooks/create-and-publish-a-playbook-instance){target="_blank"}。
+如需詳細資訊，請造訪[設定Playbook沙箱](https://experienceleague.adobe.com/zh-hant/docs/platform-learn/tutorials/use-case-playbooks/configure-a-playbook-sandbox){target="_blank"}和[建立和發佈Playbook執行個體](https://experienceleague.adobe.com/zh-hant/docs/platform-learn/tutorials/use-case-playbooks/create-and-publish-a-playbook-instance){target="_blank"}。
