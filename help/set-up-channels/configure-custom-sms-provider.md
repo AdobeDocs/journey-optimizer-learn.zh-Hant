@@ -22,4 +22,4 @@ ht-degree: 9%
 
 如需詳細資訊，請參閱[設定自訂簡訊提供者](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer/using/channels/sms/configure-sms/sms-configuration-custom)。
 
->[!VIDEO](https://video.tv.adobe.com/v/3431625/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3443617/?learn=on&enablevpops&captions=chi_hant)
