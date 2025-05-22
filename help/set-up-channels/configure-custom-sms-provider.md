@@ -20,6 +20,6 @@ ht-degree: 9%
 
 瞭解如何在Adobe Journey Optimizer中設定Sinch、Twilio和Infobip以外的簡訊提供者、設定傳入訊息的API憑證和Webhook、管理選擇加入/選擇退出關鍵字，以及使用原生工具和自訂裝載啟動個人化簡訊行銷活動。
 
-如需詳細資訊，請參閱[設定自訂簡訊提供者](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/sms/configure-sms/sms-configuration-custom)。
+如需詳細資訊，請參閱[設定自訂簡訊提供者](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer/using/channels/sms/configure-sms/sms-configuration-custom)。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3431625/?learn=on&enablevpops)
