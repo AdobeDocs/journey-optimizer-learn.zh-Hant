@@ -12,20 +12,15 @@ jira: KT-17533
 hidefromtoc: false
 hide: false
 index: true
-badge: label="可用性限制" type="Informative"
 exl-id: bb544d0d-4c11-412c-afa9-377d784c33e2
-source-git-commit: 948d5467594acb7d3e0a4e0cc64fcf68285a71ba
-workflow-type: ht
-source-wordcount: '122'
+source-git-commit: dbe14c7a6a4a2197a6954a9920508a152dc65fc5
+workflow-type: tm+mt
+source-wordcount: '101'
 ht-degree: 100%
 
 ---
 
 # Adobe Experience Manager 動態媒體整合
-
->[!AVAILABILITY]
->
->此整合僅適用於一組組織 (有限可用性)。若要取得存取權，請聯絡您的 Adobe 代表。
 
 瞭解如何整合 Adobe Experience Manager 動態媒體與 Adobe Journey Optimizer，以便啟用即時內容更新和個人化。
 
