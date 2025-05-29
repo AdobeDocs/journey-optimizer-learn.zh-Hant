@@ -22,7 +22,7 @@ ht-degree: 0%
 
 本教學課程以Adobe Journey Optimizer和Adobe Experience Platform的重要概念為基礎。 繼續之前，請確定符合下列先決條件：
 
-* [身分拼接教學課程](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorial-on-identity-stitching-in-aep/introduction)已完成，CRM ID已成功與Adobe Experience Platform中的ECID建立關聯。
+* [身分拼接教學課程](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/tutorial-on-identity-stitching-in-aep/introduction)已完成，CRM ID已成功與Adobe Experience Platform中的ECID建立關聯。
 
 * 熟悉如何在AJO中建立優惠專案，包括內容定義、中繼資料設定和適用性規則。
 
