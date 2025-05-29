@@ -7,9 +7,10 @@ level: Beginner
 doc-type: Tutorial
 last-substantial-update: 2025-05-19T00:00:00Z
 jira: KT-18089
-source-git-commit: 502cdc41b666959141ff4dfc63608cc463009811
+exl-id: 33c8c386-f417-45a8-83cf-7312d415b47a
+source-git-commit: 461906416a976ef9a9dea4fdb583b853b4fe61c7
 workflow-type: tm+mt
-source-wordcount: '291'
+source-wordcount: '267'
 ht-degree: 4%
 
 ---
@@ -26,35 +27,30 @@ ht-degree: 4%
 
 ## 建立已啟用設定檔的結構描述
 
-建立名為&#x200B;**_FinWiseProfileSchema_**&#x200B;的個別設定檔結構描述。 包含annualIncome、email、firstName、lastName和loyaltyStatus等欄位。
-在SystemIdentifier物件下新增識別欄位&#x200B;**_crmid_**。 將crmid欄位標示為身分和主要
+建立名為&#x200B;**_FinWiseProfileSchema_**的個別設定檔結構描述。 包含annualIncome、email、firstName、lastName和loyaltyStatus等欄位。
+在SystemIdentifier物件下新增識別欄位**_crmid_**。 將crmid欄位標示為身分和主要
 
 
 ![設定檔結構描述](assets/finwise-profile-schema.png)
 
 ## 準備範例資料
 
-| crmId | 名字 | 姓氏 | 電子郵件 | loyaltyStatus | 年收入 |
-|--------|-----------|----------|---------------------------|---------------|--------------|
-| FIN001 | Alice | 黃 | alice.wong@example.com | 金級 | 336104 |
-| FIN002 | Brian | Smith | brian.smith@example.com | 銀級 | 191065 |
-| FIN003 | Cathy | Johnson | cathy.johnson@example.com | 銅級 | 117015 |
-| FIN004 | David | 李 | david.lee@example.com | 銅級 | 61869 |
-| FIN005 | Eva | 馬丁內斯 | eva.martinez@example.com | 銀級 | 191371 |
-| FIN006 | Frank | 棕色 | frank.brown@example.com | 銀級 | 196132 |
-| FIN007 | 寬限期 | Kim | grace.kim@example.com | 金級 | 309851 |
-| FIN008 | Henry | 戴維斯 | henry.davis@example.com | 金級 | 318378 |
-| FIN009 | 艾拉 | 克拉克 | isla.clark@example.com | 銀級 | 181776 |
-| FIN010 | 傑克 | 洛佩茲 | jack.lopez@example.com | 銀級 | 186643 |
+| crmId | 名字 | 姓氏 | 電子郵件 | loyaltyStatus | zipCode | 年收入 |
+|--------|-----------|----------|-------------------------|---------------|---------|--------------|
+| FIN001 | Alice | 黃 | alice.wong@example.com | 金級 | 92128 | 120000 |
+| FIN002 | 鮑伯 | Smith | bob.smith@example.com | 銀級 | 92126 | 85000 |
+| FIN003 | 查理 | Kim | charlie.kim@example.com | 白金 | 60614 | 175000 |
+| FIN004 | Diana | 李 | diana.lee@example.com | 金級 | 30303 | 98000 |
+| FIN005 | Ethan | 棕色 | ethan.brown@example.com | 銅級 | 75201 | 60000 |
 
 ## 擷取CSV檔案
 
 * 根據先前步驟建立的&#x200B;**_FinWiseProfileSchema_**，建立名為&#x200B;**_FinWiseCustomerDataSetWithAnnualIncome_**&#x200B;的資料集
 
 * 導覽至連線 — >來源 — >本機系統
-* 選取本機檔案上傳下的&#x200B;**_新增資料_**。 請務必選取&#x200B;_&#x200B;**FinWiseCustomerDataSetWithAnnualIncome**&#x200B;_作為目標資料集。
+* 選取本機檔案上傳下的&#x200B;**_新增資料_**。 請務必選取&#x200B;_**FinWiseCustomerDataSetWithAnnualIncome**_作為目標資料集。
   ![擷取 — csv](assets/ingest-csv-into-dataset.png)
-* 導覽至下一個畫面。 上傳[csv檔案](assets/sample_crm_data.csv)並驗證對應
+* 導覽至下一個畫面。 上傳[csv檔案](assets/finwise_profiles.csv)並驗證對應
   ![對映](assets/mappings.png)
 
 * 按一下完成，即可開始資料擷取程式
