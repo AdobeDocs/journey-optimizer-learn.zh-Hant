@@ -20,4 +20,4 @@ ht-degree: 0%
 瞭解Adobe Journey Optimizer如何運用AI和機器學習來獲得次佳動作、歷程最佳化和決策，以產生個人化的客戶體驗。
 
 <!-- 62_S520_3442520_184_aipowered-decisioning-in-adobe-journey-optimizer -->
->[!VIDEO](https://video.tv.adobe.com/v/3458219/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3460275/?learn=on&enablevpops=true&captions=chi_hant)

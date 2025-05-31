@@ -20,4 +20,4 @@ ht-degree: 0%
 探索Adobe Journey Optimizer中的AI助理如何提供即時資料深入分析和疑難排解功能，進而革新工作流程，節省數小時的手動工作。
 
 <!-- 65_S653_3442539_33_transforming-workflows-with-ai-assistant-in-adobe-journey-optimizer -->
->[!VIDEO](https://video.tv.adobe.com/v/3458195/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3460451/?learn=on&enablevpops=true&captions=chi_hant)

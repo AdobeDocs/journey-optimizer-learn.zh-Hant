@@ -20,4 +20,4 @@ ht-degree: 0%
 探索Adobe如何運用Journey Optimizer來擴展實驗、提高ROI及大規模提供個人化體驗。
 
 <!-- 72_S531_3442531_124_scaling-experimentation-with-adobe-journey-optimizer -->
->[!VIDEO](https://video.tv.adobe.com/v/3458240/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3460431/?learn=on&enablevpops=true&captions=chi_hant)

@@ -20,4 +20,4 @@ ht-degree: 0%
 探索Adobe Journey Optimizer中的內容卡如何直接在您的應用程式中提供個人化、非侵入式內容，以提高參與度和轉換率。
 
 <!-- 62_S603_3442534_58_content-cards-a-gamechanger-for-mobile-apps -->
->[!VIDEO](https://video.tv.adobe.com/v/3458224/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3460101/?learn=on&enablevpops=true&captions=chi_hant)

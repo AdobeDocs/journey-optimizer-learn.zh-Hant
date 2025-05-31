@@ -21,4 +21,4 @@ ht-degree: 100%
 
 瞭解用於內容產生的 AI 助理如何透過為文字和影像產生主動式內容變化版本建議，以此幫助行銷人員。
 
->[!VIDEO](https://video.tv.adobe.com/v/3432686/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3463111/?learn=on&captions=chi_hant)

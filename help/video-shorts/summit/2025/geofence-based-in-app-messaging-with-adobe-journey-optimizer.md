@@ -20,4 +20,4 @@ ht-degree: 0%
 瞭解如何使用Adobe Journey Optimizer與Places Service的整合，建立以位置為基礎的應用程式內訊息，以提供個人化的客戶參與。
 
 <!-- 72_S522_3442522_189_geofencebased-inapp-messaging-with-adobe-journey-optimizer -->
->[!VIDEO](https://video.tv.adobe.com/v/3458203/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3460419/?learn=on&enablevpops=true&captions=chi_hant)
