@@ -7,7 +7,8 @@ level: Beginner
 doc-type: Tutorial
 last-substantial-update: 2025-05-19T00:00:00Z
 jira: KT-18089
-source-git-commit: 68bd0a65e7d7f2d57f9620e76555485a1a79b4ae
+exl-id: 894ad6b7-c4b4-465e-8535-3fdcd77e00eb
+source-git-commit: 860f4fa4f6b491f3327776ba372bd5fa20e5d5d3
 workflow-type: tm+mt
 source-wordcount: '233'
 ht-degree: 9%
@@ -22,7 +23,7 @@ Adobe Launch (Tags)是用來將CRMID傳送至Adobe Experience Platform (AEP)，�
 
 ![標籤延伸模組](assets/tags-extensions.png)
 
-使用先前教學課程中建立的Financial Advisors DataStream，設定AEP Web SDK擴充功能。
+使用在上一步建立的Financial Advisors DataStream，設定AEP Web SDK擴充功能。
 Experience Cloud ID Service是新增至標籤屬性的選用擴充功能，以供除錯之用。
 
 ## 標籤資料元素
@@ -51,4 +52,3 @@ Experience Cloud ID Service是新增至標籤屬性的選用擴充功能，以�
 ## 儲存並建置
 
 儲存變更、建立及建置程式庫。
-
