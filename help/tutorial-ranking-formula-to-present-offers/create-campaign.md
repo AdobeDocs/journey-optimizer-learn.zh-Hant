@@ -7,13 +7,13 @@ level: Beginner
 doc-type: Tutorial
 last-substantial-update: 2025-05-30T00:00:00Z
 jira: KT-18188
-source-git-commit: 58d2964644bc199b9db212040676d87d54f767b9
+exl-id: deb16dd5-23cd-495a-ac91-d22fd77f49bd
+source-git-commit: 666d25d1ed06ab76331d197a1677731516f73d7c
 workflow-type: tm+mt
-source-wordcount: '538'
+source-wordcount: '607'
 ht-degree: 1%
 
 ---
-
 
 # 建立行銷活動
 
@@ -88,11 +88,14 @@ ht-degree: 1%
      對每個合格優惠進行評分的邏輯運算式。 分數最高的優惠方案會在個人化體驗中呈現。
 
 
+6. **插入決定原則**
 
-6. **發佈行銷活動**\
+   ![個人化編輯器](assets/personalization-editor.png)
+
+   Handlebars程式碼會在Adobe Journey Optimizer中循環執行特定決定原則傳回的優惠，並為每個優惠建立`<div>`。 每個`<div>`都使用具有優惠方案內部名稱的資料標籤屬性，以協助輪播群組並依類別組織優惠方案，以順暢導覽。 每個`<div>`內的內容會顯示個人化優惠方案文字，以動態且視覺化的方式呈現多個優惠方案。
+
+
+7. **發佈行銷活動**\
    啟動行銷活動，開始即時提供個人化優惠。
 
-
-
-
-
+![img](assets/personalization-editor.png)

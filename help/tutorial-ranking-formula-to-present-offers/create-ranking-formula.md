@@ -7,13 +7,13 @@ level: Beginner
 doc-type: Tutorial
 last-substantial-update: 2025-05-30T00:00:00Z
 jira: KT-18188
-source-git-commit: 58d2964644bc199b9db212040676d87d54f767b9
+exl-id: eee1b86e-b33f-408e-9faf-90317bc5e861
+source-git-commit: 69868d1f303fa0c67530b3343a678a850a8e493b
 workflow-type: tm+mt
-source-wordcount: '253'
+source-wordcount: '325'
 ht-degree: 0%
 
 ---
-
 
 # 建立排名公式
 
@@ -31,35 +31,34 @@ Adobe Journey Optimizer中的排名公式會在Offer Decisioning期間使用，�
 
 
 條件1
-![criteria_one](assets/criteria1.png)
 
-條件1包含三個條件：
-
-* 選件。_techmarketingdemos.offerDetails.zipCode == &quot;92128&quot; — 檢查與選件相關聯的郵遞區號。
-
-* _techmarketingdemos.zipCode == &quot;92128&quot; — 檢查使用者設定檔上的郵遞區號。
-
-* _techmarketingdemos.annualIncome > 100000 — 檢查使用者設定檔的收入層級。
-
-如果符合所有這些條件，選件會得到40分。
+此條件會篩選決定專案（優惠方案） **以僅包含**標示為「IncomeLevel」的優惠方案。
+接著，系統會根據您定義的其他邏輯，繼續下一步驟（例如排名或傳送）。
+![criteria_one](assets/income-related-formula.png)
 
 
+下列運算式可用來建立排名分數
+
+```pql
+if(   offer._techmarketingdemos.offerDetails.zipCode = _techmarketingdemos.zipCode,   _techmarketingdemos.annualIncome / 1000 + 10000,   if(     not offer._techmarketingdemos.offerDetails.zipCode,     _techmarketingdemos.annualIncome / 1000,     -9999   ) )
+```
+
+公式的作用
+
+* 如果優惠方案與使用者有相同的郵遞區號，請將分數設定為非常高，系統就會先挑選優惠方案。
+
+* 如果優惠完全沒有郵遞區號（這是一般優惠方案），請根據使用者的收入給予正常分數。
+
+* 如果優惠方案的郵遞區號與使用者不同，請將分數設定為非常低，以免選取優惠方案。
+
+如此一來，系統：
+
+* 一律先嘗試顯示郵遞區號相符的選件，
+
+* 如果找不到相符專案，則會回覆為一般選件，並避免顯示專供其他郵遞區號使用的選件。
 
 
-
-
-條件2
-![criteria_two](assets/criteria2.png)
-
-條件2包含三個條件：
-
-* 選件。_techmarketingdemos.offerDetails.zipCode == &quot;92126&quot; — 檢查與選件相關聯的郵遞區號。
-
-* _techmarketingdemos.zipCode == &quot;92126&quot; — 檢查使用者設定檔上的郵遞區號。
-
-* _techmarketingdemos.annualIncome &lt; 100000 — 檢查使用者設定檔的收入層級。
-
-如果符合所有這些條件，選件會獲得30分。
+如果優惠方案專案不符合任何篩選條件（例如沒有「IncomeLevel」標籤），優惠方案會收到10的預設排名分數。
 
 
 

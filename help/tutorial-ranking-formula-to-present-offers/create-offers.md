@@ -7,13 +7,13 @@ level: Beginner
 doc-type: Tutorial
 last-substantial-update: 2025-05-30T00:00:00Z
 jira: KT-18188
-source-git-commit: 58d2964644bc199b9db212040676d87d54f767b9
+exl-id: 7dd49746-bea6-4679-9d88-d8f9d2aa5b52
+source-git-commit: fb0ef6d502c6e3ba37ef528683a8888ed83f2990
 workflow-type: tm+mt
 source-wordcount: '325'
 ht-degree: 0%
 
 ---
-
 
 # 使用郵遞區號鎖定目標建立以位置為基礎的優惠方案
 
@@ -73,12 +73,9 @@ ht-degree: 0%
 </div>
 ```
 
-將這些優惠方案群組在名為&#x200B;**_GenericOffers_**&#x200B;的集合中
+將這些優惠方案群組在名為&#x200B;**收入相關優惠方案**&#x200B;的集合中
 
 所有訪客都可以使用選件，這表示沒有嚴格的資格限制，而排名公式變得至關重要，可根據設定檔內容決定應顯示哪個選件。
 由於適用性規則不會篩選優惠方案，因此這三者都會被視為適用者。
 選取策略會擷取所有這三個專案。
 排名公式會根據設定檔屬性（例如zipcode和annualIncome）來評分，以挑選最佳設定檔。
-
-
-
