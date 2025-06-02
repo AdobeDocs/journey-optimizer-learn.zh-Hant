@@ -25,7 +25,7 @@ ht-degree: 0%
 * 登入Adobe Experience Platform
 * 資料管理 — >方案 — >建立方案
 
-* 建立名為&#x200B;**_財務顧問_**&#x200B;的XDM事件型結構描述。 如果您不熟悉建立結構描述，請依照此[檔案](https://experienceleague.adobe.com/en/docs/experience-platform/xdm/tutorials/create-schema-ui)操作
+* 建立名為&#x200B;**_財務顧問_**&#x200B;的XDM事件型結構描述。 如果您不熟悉建立結構描述，請依照此[檔案](https://experienceleague.adobe.com/zh-hant/docs/experience-platform/xdm/tutorials/create-schema-ui)操作
 
 
 * 請確定設定檔已啟用此結構描述。
