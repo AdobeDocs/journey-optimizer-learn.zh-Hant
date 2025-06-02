@@ -20,4 +20,4 @@ ht-degree: 0%
 瞭解Adobe Journey Optimizer (AJO)如何運用即時客戶資料，以跨管道提供一致且相關的體驗。
 
 <!-- 62_S522_3442522_82_understanding-the-core-of-adobe-journey-optimizer -->
->[!VIDEO](https://video.tv.adobe.com/v/3458249/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3460497/?learn=on&enablevpops=true&captions=chi_hant)

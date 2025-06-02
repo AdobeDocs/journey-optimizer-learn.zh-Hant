@@ -20,4 +20,4 @@ ht-degree: 0%
 瞭解如何設定逾時路徑，讓設定檔沿著歷程移動，以處理Adobe Journey Optimizer中的逾時和錯誤。
 
 <!-- 62_S522_3442522_36_using-timeout-paths-in-adobe-journey-optimizer -->
->[!VIDEO](https://video.tv.adobe.com/v/3458213/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3460486/?learn=on&enablevpops=true&captions=chi_hant)

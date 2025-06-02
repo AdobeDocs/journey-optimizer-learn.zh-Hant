@@ -20,4 +20,4 @@ ht-degree: 0%
 瞭解Adobe Journey Optimizer中的內容卡如何直接在您的行動應用程式中傳遞個人化和吸引人的內容。
 
 <!-- 62_S603_3442534_62_introduction-to-content-cards-in-adobe-journey-optimizer -->
->[!VIDEO](https://video.tv.adobe.com/v/3458206/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3460398/?learn=on&enablevpops=true&captions=chi_hant)

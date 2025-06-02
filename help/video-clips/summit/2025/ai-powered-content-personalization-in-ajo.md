@@ -20,4 +20,4 @@ ht-degree: 0%
 瞭解Adobe Journey Optimizer如何與GenStudio和Experience Manager等工具整合，以提供AI導向、品牌內個人化內容。
 
 <!-- 62_S520_3442520_97_aipowered-content-personalization-in-ajo -->
->[!VIDEO](https://video.tv.adobe.com/v/3458183/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3460161/?learn=on&enablevpops=true&captions=chi_hant)

@@ -20,4 +20,4 @@ ht-degree: 0%
 瞭解Adobe的智慧型代理程式如何大規模協調超個人化客戶體驗，解決預算緊張和內容生產瓶頸等難題。
 
 <!-- 72_S653_3442539_83_aidriven-personalization-adobe-agents-in-action -->
->[!VIDEO](https://video.tv.adobe.com/v/3458198/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3460129/?learn=on&enablevpops=true&captions=chi_hant)

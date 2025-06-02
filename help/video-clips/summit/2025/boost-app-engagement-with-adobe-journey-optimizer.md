@@ -20,4 +20,4 @@ ht-degree: 0%
 瞭解Adobe Journey Optimizer如何協助跨應用程式和裝置提供個人化內容，以提升使用者參與度和保留率。
 
 <!-- 72_S603_3442534_32_boost-app-engagement-with-adobe-journey-optimizer -->
->[!VIDEO](https://video.tv.adobe.com/v/3458221/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3460022/?learn=on&enablevpops=true&captions=chi_hant)

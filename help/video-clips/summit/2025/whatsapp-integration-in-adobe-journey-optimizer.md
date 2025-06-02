@@ -20,4 +20,4 @@ ht-degree: 0%
 瞭解AJO與WhatsApp企業的原生整合如何實現順暢的行銷和異動通訊。
 
 <!-- 72_S520_3442520_49_whatsapp-integration-in-adobe-journey-optimizer -->
->[!VIDEO](https://video.tv.adobe.com/v/3458215/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3460484/?learn=on&enablevpops=true&captions=chi_hant)

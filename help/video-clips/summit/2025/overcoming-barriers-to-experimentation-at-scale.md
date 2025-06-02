@@ -20,4 +20,4 @@ ht-degree: 0%
 瞭解Adobe如何使用平台導向解決方案，找出並解決擴展實驗（從創意到執行）的主要障礙。
 
 <!-- 62_S531_3442531_165_overcoming-barriers-to-experimentation-at-scale -->
->[!VIDEO](https://video.tv.adobe.com/v/3458237/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3460386/?learn=on&enablevpops=true&captions=chi_hant)

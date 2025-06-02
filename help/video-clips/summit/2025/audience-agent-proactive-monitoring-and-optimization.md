@@ -20,4 +20,4 @@ ht-degree: 0%
 瞭解Adobe Journey Optimizer中的Audience Agent如何主動監控受眾健康狀況、識別問題，以及建議可操作的解決方案以增強參與。
 
 <!-- 62_S653_3442539_203_audience-agent-proactive-monitoring-and-optimization -->
->[!VIDEO](https://video.tv.adobe.com/v/3458192/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3460286/?learn=on&enablevpops=true&captions=chi_hant)

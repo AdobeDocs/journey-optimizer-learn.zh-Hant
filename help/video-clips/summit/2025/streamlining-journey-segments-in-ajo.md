@@ -20,4 +20,4 @@ ht-degree: 0%
 瞭解如何最佳化串流區段，並使用Journey Canvas進行決策，而不會造成系統超載。
 
 <!-- 62_S522_3442522_52_streamlining-journey-segments-in-ajo -->
->[!VIDEO](https://video.tv.adobe.com/v/3458244/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3460464/?learn=on&enablevpops=true&captions=chi_hant)

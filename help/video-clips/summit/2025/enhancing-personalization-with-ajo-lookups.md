@@ -20,4 +20,4 @@ ht-degree: 0%
 探索如何在Adobe Journey Optimizer中使用以記錄為基礎的資料集進行個人化傳訊，而不會使客戶設定檔膨脹。
 
 <!-- 62_S522_3442522_70_enhancing-personalization-with-ajo-lookups -->
->[!VIDEO](https://video.tv.adobe.com/v/3458226/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3460342/?learn=on&enablevpops=true&captions=chi_hant)
