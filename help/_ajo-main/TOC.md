@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer 教學課程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 這些是 Journey Optimizer 教學課程。
 auto-video-transcripts: true
-source-git-commit: 7bc03eeca746ff5ee9394263e26b3585a1647c71
+source-git-commit: d33da3a0df7b9ab8d3d9e69db485ce382b9ce63f
 workflow-type: tm+mt
-source-wordcount: '739'
-ht-degree: 98%
+source-wordcount: '756'
+ht-degree: 96%
 
 ---
 
@@ -20,9 +20,9 @@ ht-degree: 98%
    + [強化客戶參與度](/help/use-cases/enhance-customer-engagement.md){target="_blank"}
    + [將協調流程縮放為全頻道參與](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
 + 使用案例教戰手冊 {#use-case-playbooks}
-   + [概觀](https://experienceleague.adobe.com/zh-hant/docs/platform-learn/tutorials/use-case-playbooks/overview){target="_blank"}
-   + [設定Playbook沙箱](https://experienceleague.adobe.com/zh-hant/docs/platform-learn/tutorials/use-case-playbooks/configure-a-playbook-sandbox){target="_blank"}
-   + [建立和發佈教戰手冊實例](http://experienceleague.adobe.com/zh-hant/docs/platform-learn/tutorials/use-case-playbooks/create-and-publish-a-playbook-instance){target="_blank"}
+   + [概觀](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/use-case-playbooks/overview){target="_blank"}
+   + [設定Playbook沙箱](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/use-case-playbooks/configure-a-playbook-sandbox){target="_blank"}
+   + [建立和發佈教戰手冊實例](http://experienceleague.adobe.com/en/docs/platform-learn/tutorials/use-case-playbooks/create-and-publish-a-playbook-instance){target="_blank"}
 + Journey Optimizer 簡介 {#introduction-to-journey-optimizer}
    + [Journey Optimizer – 概觀](/help/introduction/journey-optimizer-overview.md)
    + [Journey Optimizer 簡介](/help/introduction/introduction.md)
@@ -164,13 +164,18 @@ ht-degree: 98%
 + 設定 {#configuration}
    + 設定管道 {#channel-configuration}
       + [設定管道](/help/set-up-channels/configure-channels.md)
-      + [引導式通道設定](/help/set-up-channels/guided-channel-setup.md)
-      + [設定電子郵件頻道](/help/set-up-channels/set-up-email-channel.md)
-      + [委派 CName 子網域](/help/set-up-channels/delegate-cname-subdomains.md)
-      + [設定及執行 IP 暖身計劃](/help/administration/set-up-and-execute-an-ip-warmup-plan.md)
-      + [設定簡訊 API 認證及頻道介面](/help/set-up-channels/set-up-sms-channel.md)
-      + [設定自訂 SMS 提供者](/help/set-up-channels/configure-custom-sms-provider.md)
-      + [設定多媒體簡訊 API 憑證及頻道介面](/help/set-up-channels/configure-mms-api-credentials-and-channel-surfaces.md)
+      + 電子郵件頻道 {#email-channel}
+         + [建立和IP集區](/help/set-up-channels/create-ip-pool.md)
+         + [設定子網域](/help/set-up-channels/set-up-subdomain.md)
+         + [委派 CName 子網域](/help/set-up-channels/delegate-cname-subdomains.md)
+         + [設定電子郵件頻道](/help/set-up-channels/set-up-email-channel.md)
+         + [設定及執行 IP 暖身計劃](/help/administration/set-up-and-execute-an-ip-warmup-plan.md)
+      + 簡訊/多媒體簡訊頻道 {#sms-mms-channel}
+         + [設定簡訊 API 認證及頻道介面](/help/set-up-channels/set-up-sms-channel.md)
+         + [設定自訂 SMS 提供者](/help/set-up-channels/configure-custom-sms-provider.md)
+         + [設定多媒體簡訊 API 憑證及頻道介面](/help/set-up-channels/configure-mms-api-credentials-and-channel-surfaces.md)
+      + 網頁和行動裝置頻道 {#web-and-mobile-channels}
+         + [引導式管道設定](/help/set-up-channels/guided-channel-setup.md)
    + 設定歷程 {#journey-configuration}
       + [設定資料來源](/help/set-up-journeys/configure-data-sources.md)
       + [建立事件](/help/set-up-journeys/create-events.md)
