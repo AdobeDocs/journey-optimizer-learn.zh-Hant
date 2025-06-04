@@ -6,8 +6,10 @@ role: User
 level: Beginner
 doc-type: Tutorial
 last-substantial-update: 2025-04-30T00:00:00Z
+recommendations: noDisplay, noCatalog
 jira: KT-18089
-source-git-commit: 860f4fa4f6b491f3327776ba372bd5fa20e5d5d3
+exl-id: 8bb85ba7-3c50-4596-88f8-e112c48a8253
+source-git-commit: 82d82b3aac2bf91e259b01fd8c6b4d6065f9640a
 workflow-type: tm+mt
 source-wordcount: '288'
 ht-degree: 0%
@@ -25,7 +27,7 @@ ht-degree: 0%
 * 登入Adobe Experience Platform
 * 資料管理 — >方案 — >建立方案
 
-* 建立名為&#x200B;**_財務顧問_**&#x200B;的XDM事件型結構描述。 如果您不熟悉建立結構描述，請依照此[檔案](https://experienceleague.adobe.com/zh-hant/docs/experience-platform/xdm/tutorials/create-schema-ui)操作
+* 建立名為&#x200B;**_財務顧問_**&#x200B;的XDM事件型結構描述。 如果您不熟悉建立結構描述，請依照此[檔案](https://experienceleague.adobe.com/en/docs/experience-platform/xdm/tutorials/create-schema-ui)操作
 
 
 * 請確定設定檔已啟用此結構描述。
@@ -54,4 +56,3 @@ Adobe Experience Platform中的資料串流就像將您的網站或應用程式�
 * 選擇適當的事件資料集（先前建立）。
 
 * 儲存資料串流。
-

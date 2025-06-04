@@ -6,9 +6,10 @@ role: User
 level: Beginner
 doc-type: Tutorial
 last-substantial-update: 2025-05-30T00:00:00Z
+recommendations: noDisplay, noCatalog
 jira: KT-18188
 exl-id: eee1b86e-b33f-408e-9faf-90317bc5e861
-source-git-commit: 69868d1f303fa0c67530b3343a678a850a8e493b
+source-git-commit: 82d82b3aac2bf91e259b01fd8c6b4d6065f9640a
 workflow-type: tm+mt
 source-wordcount: '325'
 ht-degree: 0%
@@ -32,7 +33,7 @@ Adobe Journey Optimizer中的排名公式會在Offer Decisioning期間使用，�
 
 條件1
 
-此條件會篩選決定專案（優惠方案） **以僅包含**&#x200B;標示為「IncomeLevel」的優惠方案。
+此條件會篩選決定專案（優惠方案） **以僅包含**標示為「IncomeLevel」的優惠方案。
 接著，系統會根據您定義的其他邏輯，繼續下一步驟（例如排名或傳送）。
 ![criteria_one](assets/income-related-formula.png)
 

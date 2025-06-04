@@ -6,9 +6,10 @@ role: User
 level: Beginner
 doc-type: Tutorial
 last-substantial-update: 2025-05-05T00:00:00Z
+recommendations: noDisplay, noCatalog
 jira: KT-17728
 exl-id: 186e4a7d-6077-401f-9958-2f955214bc35
-source-git-commit: 9a35160921988103182815efd3551151c09b9bb4
+source-git-commit: 82d82b3aac2bf91e259b01fd8c6b4d6065f9640a
 workflow-type: tm+mt
 source-wordcount: '243'
 ht-degree: 0%
@@ -29,7 +30,7 @@ ht-degree: 0%
 
 1. 按一下&#x200B;**[!UICONTROL 選取遞補]**&#x200B;以選取遞補優惠。
 1. 按一下&#x200B;**[!UICONTROL 下一步]**&#x200B;以檢閱決定原則。
-1. 按一下[建立&#x200B;**&#x200B;**]完成建立決定原則的程式。
+1. 按一下[建立&#x200B;****]完成建立決定原則的程式。
 
 ## 在程式碼編輯器中使用決定原則
 
