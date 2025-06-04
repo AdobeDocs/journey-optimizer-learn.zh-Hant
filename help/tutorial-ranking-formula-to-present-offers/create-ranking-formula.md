@@ -33,7 +33,7 @@ Adobe Journey Optimizer中的排名公式會在Offer Decisioning期間使用，�
 
 條件1
 
-此條件會篩選決定專案（優惠方案） **以僅包含**標示為「IncomeLevel」的優惠方案。
+此條件會篩選決定專案（優惠方案） **以僅包含**&#x200B;標示為「IncomeLevel」的優惠方案。
 接著，系統會根據您定義的其他邏輯，繼續下一步驟（例如排名或傳送）。
 ![criteria_one](assets/income-related-formula.png)
 
