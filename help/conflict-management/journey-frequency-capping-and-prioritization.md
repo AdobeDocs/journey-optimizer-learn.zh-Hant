@@ -22,4 +22,4 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3435530/?learn=on&enablevpops)
 
-請參閱產品檔案以取得有關[歷程上限與仲裁](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/conflict-prioritization/capping-rules/journey-capping)的詳細資訊。
+請參閱產品檔案以取得有關[歷程上限與仲裁](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer/using/conflict-prioritization/capping-rules/journey-capping)的詳細資訊。

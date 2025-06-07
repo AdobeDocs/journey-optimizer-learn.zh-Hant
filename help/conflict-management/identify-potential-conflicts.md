@@ -22,4 +22,4 @@ ht-degree: 6%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3435528/?learn=on&enablevpops)
 
-請參閱產品檔案，以取得有關如何[在歷程與行銷活動中偵測潛在衝突](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/conflict-prioritization/conflicts)的詳細資訊。
+請參閱產品檔案，以取得有關如何[在歷程與行銷活動中偵測潛在衝突](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer/using/conflict-prioritization/conflicts)的詳細資訊。
