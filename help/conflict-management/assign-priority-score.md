@@ -22,4 +22,4 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3435529/?learn=on&enablevpops)
 
-請參閱產品檔案，深入瞭解如何[將優先順序分數指派給歷程與行銷活動](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/conflict-prioritization/priority-scores)。
+請參閱產品檔案，深入瞭解如何[將優先順序分數指派給歷程與行銷活動](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer/using/conflict-prioritization/priority-scores)。
