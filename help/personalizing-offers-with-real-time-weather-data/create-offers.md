@@ -8,7 +8,7 @@ doc-type: Tutorial
 last-substantial-update: 2025-06-10T00:00:00Z
 recommendations: noDisplay, noCatalog
 jira: KT-18258
-source-git-commit: dac6b373226bd0be2533cf859e4f250018cf568b
+source-git-commit: c04a15418e31dc82597b7759386907013728bb0d
 workflow-type: tm+mt
 source-wordcount: '154'
 ht-degree: 0%
@@ -54,8 +54,8 @@ ht-degree: 0%
 
 ### 建立集合
 
-導覽至決策 — >目錄 — >集合 — >建立集合
-為集合&#x200B;**天氣相關優惠**&#x200B;命名
+瀏覽至&#x200B;**_決策 — >目錄 — >集合 — >建立集合_**
+為集合**天氣相關優惠**&#x200B;命名
 
 使用規則產生器將這個集合中的這些優惠方案分組。
 

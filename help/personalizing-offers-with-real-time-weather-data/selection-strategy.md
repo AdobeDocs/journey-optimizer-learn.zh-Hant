@@ -8,7 +8,7 @@ doc-type: Tutorial
 last-substantial-update: 2025-06-10T00:00:00Z
 jira: KT-18258
 recommendations: noDisplay, noCatalog
-source-git-commit: d46c5a922b8448f57b8a730188284294c3caba96
+source-git-commit: c04a15418e31dc82597b7759386907013728bb0d
 workflow-type: tm+mt
 source-wordcount: '119'
 ht-degree: 0%
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 * 登入Journey Optimizer
 
-* 導覽至「決策 — >策略設定 — >選擇策略 — >建立選擇策略」
+* 瀏覽至&#x200B;_**決策 — >策略設定 — >選擇策略 — >建立選擇策略**_
 
 * 提供選取策略名稱、集合、資格和排名方法（如熒幕擷圖所示）
 

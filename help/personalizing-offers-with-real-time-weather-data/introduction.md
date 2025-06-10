@@ -7,9 +7,9 @@ level: Beginner
 doc-type: Tutorial
 last-substantial-update: 2025-06-10T00:00:00Z
 jira: KT-18258
-source-git-commit: d46c5a922b8448f57b8a730188284294c3caba96
+source-git-commit: c04a15418e31dc82597b7759386907013728bb0d
 workflow-type: tm+mt
-source-wordcount: '170'
+source-wordcount: '221'
 ht-degree: 0%
 
 ---
@@ -18,8 +18,27 @@ ht-degree: 0%
 
 在Adobe Journey Optimizer (AJO)中使用與天氣相關的資料來提供選件，可讓企業根據即時實際的環境條件來個人化客戶體驗。 天氣是強大的情境訊號。 人們的需求和行為會依天氣而改變。 透過使用天氣資料：
 
-    提供符合客戶心情和環境的相關優惠方案。
-    
-    在炎熱的日子，顯示冷飲或交流電的優惠方案。 在雨天，促銷外套或雨傘
+提供與客戶情緒和環境相符的相關優惠方案
+
+在炎熱的日子，顯示冷飲或AC機種的優惠方案。 下雨天促銷夾克或雨傘
+
+基於天氣的選件範例
+
 
 ![天氣選件](assets/offers-use-case.png)
+
+
+
+## 本教學課程的先決條件
+
+* 存取Experience Platform
+
+* 對Adobe Experience Platform標籤的基本瞭解
+
+* 基本瞭解Experience Platform概念（設定檔、對象、資料集）
+
+* 熟悉Journey Optimizer
+
+* JavaScript基本知識（閱讀和撰寫簡單函式）
+
+* 能夠使用瀏覽器DevTools （控制檯和網路標籤）
