@@ -23,7 +23,7 @@ ht-degree: 64%
 建立集合的步驟
 
 * 登入Journey Optimizer
-* 導覽至&#x200B;_**標籤 — >建立標籤類別**_(_**WeatherRelatedOffers**_)
+* 導覽至&#x200B;_&#x200B;**標籤 — >建立標籤類別**&#x200B;_(_&#x200B;**WeatherRelatedOffers**&#x200B;_)
 * 按一下儲存
-* 按一下「建立標籤（熱、冷、春）」。 這些標籤應位於&#x200B;_**WeatherRelatedOffers**_&#x200B;標籤類別下
+* 按一下「建立標籤（熱、冷、春）」。 這些標籤應位於&#x200B;_&#x200B;**WeatherRelatedOffers**&#x200B;_&#x200B;標籤類別下
 
