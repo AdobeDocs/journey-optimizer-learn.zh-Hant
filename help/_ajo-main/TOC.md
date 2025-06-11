@@ -3,7 +3,7 @@ user-guide-title: Journey Optimizer 教學課程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 這些是 Journey Optimizer 教學課程。
 auto-video-transcripts: true
-source-git-commit: 7d812f589172c5052a1e9bfcf6a99d0769a6c2c7
+source-git-commit: 97c1c72a7bc0b0cc87ab7bf66ea6849e2427d2ee
 workflow-type: tm+mt
 source-wordcount: '774'
 ht-degree: 94%
@@ -20,9 +20,9 @@ ht-degree: 94%
    + [強化客戶參與度](/help/use-cases/enhance-customer-engagement.md){target="_blank"}
    + [將協調流程縮放為全頻道參與](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
 + 使用案例教戰手冊 {#use-case-playbooks}
-   + [概觀](https://experienceleague.adobe.com/zh-hant/docs/platform-learn/tutorials/use-case-playbooks/overview){target="_blank"}
-   + [設定Playbook沙箱](https://experienceleague.adobe.com/zh-hant/docs/platform-learn/tutorials/use-case-playbooks/configure-a-playbook-sandbox){target="_blank"}
-   + [建立和發佈教戰手冊實例](http://experienceleague.adobe.com/zh-hant/docs/platform-learn/tutorials/use-case-playbooks/create-and-publish-a-playbook-instance){target="_blank"}
+   + [概觀](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/use-case-playbooks/overview){target="_blank"}
+   + [設定Playbook沙箱](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/use-case-playbooks/configure-a-playbook-sandbox){target="_blank"}
+   + [建立和發佈教戰手冊實例](http://experienceleague.adobe.com/en/docs/platform-learn/tutorials/use-case-playbooks/create-and-publish-a-playbook-instance){target="_blank"}
 + Journey Optimizer 簡介 {#introduction-to-journey-optimizer}
    + [Journey Optimizer – 概觀](/help/introduction/journey-optimizer-overview.md)
    + [Journey Optimizer 簡介](/help/introduction/introduction.md)
@@ -52,7 +52,7 @@ ht-degree: 94%
    + [更新即時歷程中的內容](/help/create-journeys/update-content-in-live-journey.md)
    + [將歷程複製到另一個沙箱](/help/create-journeys/copy-a-journey.md)
    + [批次細分後，就會觸發日常歷程執行](/help/create-journeys/trigger-daily-journey-runs-after-batch-segmentation-completion.md)
-   + [疑難排解歷程中的傳入動作](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer/using/orchestrate-journeys/manage-journey/troubleshooting-inbound){target="_blank"}
+   + [疑難排解歷程中的傳入動作](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/manage-journey/troubleshooting-inbound){target="_blank"}
 + 衝突管理 {#conflict-management}
    + [識別潛在衝突](/help/conflict-management/identify-potential-conflicts.md)
    + [指派優先順序分數](/help/conflict-management/assign-priority-score.md)
@@ -172,7 +172,7 @@ ht-degree: 94%
          + [建立和IP集區](/help/set-up-channels/create-ip-pool.md)
          + [設定子網域](/help/set-up-channels/set-up-subdomain.md)
          + [委派 CName 子網域](/help/set-up-channels/delegate-cname-subdomains.md)
-         + [設定電子郵件頻道](/help/set-up-channels/set-up-email-channel.md)
+         + [設定電子郵件頻道](/help/set-up-channels/configure-email-channel.md)
          + [設定及執行 IP 暖身計劃](/help/administration/set-up-and-execute-an-ip-warmup-plan.md)
       + 簡訊/多媒體簡訊頻道 {#sms-mms-channel}
          + [設定簡訊 API 認證及頻道介面](/help/set-up-channels/set-up-sms-channel.md)
