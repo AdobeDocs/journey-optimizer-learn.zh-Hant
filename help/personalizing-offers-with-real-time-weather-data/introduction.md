@@ -7,7 +7,7 @@ level: Beginner
 doc-type: Tutorial
 last-substantial-update: 2025-06-10T00:00:00Z
 jira: KT-18258
-source-git-commit: c04a15418e31dc82597b7759386907013728bb0d
+source-git-commit: 13c891c02a9a2da3ff742afaab7ceb449a417b5e
 workflow-type: tm+mt
 source-wordcount: '221'
 ht-degree: 0%
@@ -31,14 +31,14 @@ ht-degree: 0%
 
 ## 本教學課程的先決條件
 
-* 存取Experience Platform
+* 存取Experience Platform。
 
-* 對Adobe Experience Platform標籤的基本瞭解
+* 對Adobe Experience Platform標籤的基本瞭解。
 
-* 基本瞭解Experience Platform概念（設定檔、對象、資料集）
+* 基本瞭解Experience Platform概念（設定檔、對象、資料集）。
 
-* 熟悉Journey Optimizer
+* 熟悉Journey Optimizer。
 
-* JavaScript基本知識（閱讀和撰寫簡單函式）
+* 基本JavaScript知識（閱讀和撰寫簡單函式）。
 
-* 能夠使用瀏覽器DevTools （控制檯和網路標籤）
+* 能夠使用瀏覽器DevTools （主控台和網路標籤）。
