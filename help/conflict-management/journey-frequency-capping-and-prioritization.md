@@ -20,6 +20,6 @@ ht-degree: 0%
 
 瞭解如何排定傳入動作的優先順序，確保當客戶符合使用相同通道設定的多個傳入動作資格時，會將最高優先順序的內容傳送給客戶。
 
->[!VIDEO](https://video.tv.adobe.com/v/3435530/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3447626/?learn=on&enablevpops&captions=chi_hant)
 
 請參閱產品檔案以取得有關[歷程上限與仲裁](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer/using/conflict-prioritization/capping-rules/journey-capping)的詳細資訊。
