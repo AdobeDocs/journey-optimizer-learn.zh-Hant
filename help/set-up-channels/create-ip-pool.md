@@ -20,4 +20,4 @@ ht-degree: 100%
 
 瞭解如何建立 IP 集區，以保護寄件者信譽並提高電子郵件傳遞能力。
 
->[!VIDEO](https://video.tv.adobe.com/v/3463145/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3463260/?learn=on&enablevpops&captions=chi_hant)

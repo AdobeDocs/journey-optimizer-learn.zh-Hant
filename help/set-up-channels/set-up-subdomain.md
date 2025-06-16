@@ -20,4 +20,4 @@ ht-degree: 100%
 
 瞭解如何在 Adobe Journey Optimizer 為電子郵件頻道設定子網域。
 
->[!VIDEO](https://video.tv.adobe.com/v/3458490/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3463236/?learn=on&enablevpops&captions=chi_hant)
