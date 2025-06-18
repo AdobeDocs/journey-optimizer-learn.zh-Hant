@@ -3,9 +3,9 @@ user-guide-title: Journey Optimizer 教學課程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 這些是 Journey Optimizer 教學課程。
 auto-video-transcripts: true
-source-git-commit: b237731f00ee1ec979edaf566ac932221ef3552f
+source-git-commit: 7bd4e66d31fb4182ded4ad14f8f9f426b5051019
 workflow-type: tm+mt
-source-wordcount: '822'
+source-wordcount: '823'
 ht-degree: 93%
 
 ---
@@ -17,8 +17,8 @@ ht-degree: 93%
 + 使用案例 {#use-cases}
    + [客戶引導](/help/use-cases/customer-onboarding.md)
    + [捨棄的購物車](/help/use-cases/abandoned-cart.md)
-   + [在Adobe Journey Optimizer中使用網頁SDK以即時天氣資料個人化優惠方案](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction){target="_blank"}
-   + [使用排名公式在Journey Optimizer中提供個人化優惠](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction){target="_blank"}
+   + [在Adobe Journey Optimizer中使用網頁SDK以即時天氣資料個人化優惠方案](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction){target="_blank"}
+   + [使用排名公式在Journey Optimizer中提供個人化優惠](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction){target="_blank"}
    + [強化客戶參與度](/help/use-cases/enhance-customer-engagement.md){target="_blank"}
    + [將協調流程縮放為全頻道參與](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
 + 使用案例教戰手冊 {#use-case-playbooks}
@@ -71,7 +71,7 @@ ht-degree: 93%
    + [行動應用程式最佳化 — 概觀](/help/channels/mobile-app-optimization-overview.md)
    + 程式碼型體驗頻道{#code-based-experience-channel}
       + [建立程式碼型體驗行銷活動](/help/channels/create-a-code-based-experience-campaign.md)
-      + [將可編輯的欄位新增至程式碼型體驗範本](/help/channels/editable-fields-in-code-based-experiences.md)
+      + [將表單欄位新增至程式碼型體驗管道範本](/help/channels/form-fields-in-code-based-experiences.md)
       + [在程式碼型頻道中使用決策](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer/using/decisioning/experience-decisioning/experience-decisioning-uc)
    + 直接郵件頻道{#direct-mail-channel}
       + [建立直接郵件](/help/channels/direct-mail.md)
@@ -139,8 +139,8 @@ ht-degree: 93%
       + [Decisioning 簡介](/help/decisioning/introduction-to-decisioning.md)
       + [端到端決策逐步說明](/help/decisioning/decisioning-end-to-end.md)
       + [瀏覽公式產生器介面](/help/decisioning/formula-builder-ui.md)
-      + [使用即時天氣資料個人化優惠方案](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction)
-      + [使用排名公式來提供個人化優惠](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction)
+      + [使用即時天氣資料個人化優惠方案](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction)
+      + [使用排名公式來提供個人化優惠](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction)
 
 
    + 決策管理 {#decision-management}
