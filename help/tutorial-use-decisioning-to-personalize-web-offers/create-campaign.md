@@ -23,13 +23,13 @@ ht-degree: 4%
 1. 登入Journey Optimizer。
 1. 按一下&#x200B;**[!UICONTROL 歷程管理]** > **[!UICONTROL 行銷活動]** > **[!UICONTROL 建立行銷活動]** > **[!UICONTROL 排程行銷]**。
 1. 為行銷活動提供有意義的名稱
-1. 導覽至&#x200B;_**動作**_&#x200B;標籤
+1. 導覽至&#x200B;_&#x200B;**動作**&#x200B;_&#x200B;標籤
 1. 選取&#x200B;**[!UICONTROL 程式碼型體驗]**&#x200B;動作，然後選取在先前步驟中建立的組態。
 1. 按一下&#x200B;**[!UICONTROL 編輯內容]**。
 
    ![建立行銷活動](assets/create-campaign.png)
 
-1. 若要開啟個人化編輯器，請按一下[編輯程式碼]。****
+1. 若要開啟個人化編輯器，請按一下[編輯程式碼]。**&#x200B;**
 
    ![edit-cbe_html](assets/edit_code_based_exp_html.png)
 
