@@ -24,4 +24,4 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3464002/?learn=on&enablevpops&captions=chi_hant)
 
-如需詳細資訊，請參閱[產品檔案](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/code-based-experience/create-code-based-experiences/code-based-form-fields)。
+如需詳細資訊，請參閱[產品檔案](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer/using/channels/code-based-experience/create-code-based-experiences/code-based-form-fields)。
