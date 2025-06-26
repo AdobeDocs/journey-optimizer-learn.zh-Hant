@@ -18,7 +18,7 @@ ht-degree: 1%
 
 # 在AJO程式碼型體驗中使用可編輯的表單欄位
 
-在許多行銷歷程中，尤其是在法規管制的產業，包含法律免責宣告是很重要的，這些免責宣告會因行銷活動、地理區域或產品而異。 透過直接在AJO Personalization編輯器中使用[可編輯欄位](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/code-based-experience-channel/form-fields-in-code-based-experiences)，行銷人員和法律團隊可以保持對免責宣告文字的完整控制，而不需要涉及開發人員或修改決定邏輯。
+在許多行銷歷程中，尤其是在法規管制的產業，包含法律免責宣告是很重要的，這些免責宣告會因行銷活動、地理區域或產品而異。 透過直接在AJO Personalization編輯器中使用[可編輯欄位](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/tutorials/channels/code-based-experience-channel/form-fields-in-code-based-experiences)，行銷人員和法律團隊可以保持對免責宣告文字的完整控制，而不需要涉及開發人員或修改決定邏輯。
 
 如此可快速更新並確保跨行銷活動的合規性，同時運用優惠方案等決策式內容。
 
