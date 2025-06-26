@@ -25,9 +25,9 @@ ht-degree: 1%
 ## 在個人化編輯器中插入可編輯欄位
 
 - 開啟在先前步驟中建立的行銷活動。
-- 按一下&#x200B;_**修改行銷活動**_
-- 導覽至&#x200B;_**內容**_&#x200B;索引標籤
-- 按一下&#x200B;_**編輯代碼**_，並在個人化編輯器中使用下列語法，以預設值插入名為legalDisclaimer的可編輯欄位
+- 按一下&#x200B;_&#x200B;**修改行銷活動**&#x200B;_
+- 導覽至&#x200B;_&#x200B;**內容**&#x200B;_&#x200B;索引標籤
+- 按一下&#x200B;_&#x200B;**編輯代碼**&#x200B;_，並在個人化編輯器中使用下列語法，以預設值插入名為legalDisclaimer的可編輯欄位
 
 - `{{#inline "legalDisclaimer" name="Legal Disclaimer"}} Legal Disclaimer will go here {{/inline}}`
 
