@@ -4,9 +4,9 @@ user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 這些是 Journey Optimizer 教學課程。
 auto-video-transcripts: true
 source-git-commit: 3028f97274815d21de68793ed3ae42053ea393b1
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '830'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
@@ -17,8 +17,8 @@ ht-degree: 92%
 + 使用案例 {#use-cases}
    + [客戶引導](/help/use-cases/customer-onboarding.md)
    + [捨棄的購物車](/help/use-cases/abandoned-cart.md)
-   + [在Adobe Journey Optimizer中使用網頁SDK以即時天氣資料個人化優惠方案](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction){target="_blank"}
-   + [使用排名公式在Journey Optimizer中提供個人化優惠](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction){target="_blank"}
+   + [在 Adobe Journey Optimizer 中使用網頁 SDK 以即時天氣資料個人化優惠方案](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction){target="_blank"}
+   + [使用排名公式在 Journey Optimizer 中提供個人化優惠](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction){target="_blank"}
    + [強化客戶參與度](/help/use-cases/enhance-customer-engagement.md){target="_blank"}
    + [將協調流程縮放為全頻道參與](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
 + 使用案例教戰手冊 {#use-case-playbooks}
@@ -71,7 +71,7 @@ ht-degree: 92%
    + [行動應用程式最佳化 — 概觀](/help/channels/mobile-app-optimization-overview.md)
    + 程式碼型體驗頻道{#code-based-experience-channel}
       + [建立程式碼型體驗行銷活動](/help/channels/create-a-code-based-experience-campaign.md)
-      + [將表單欄位新增至程式碼型體驗管道範本](/help/channels/form-fields-in-code-based-experiences.md)
+      + [將表單欄位新增至程式碼型體驗頻道範本](/help/channels/form-fields-in-code-based-experiences.md)
       + [在程式碼型頻道中使用決策](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer/using/decisioning/experience-decisioning/experience-decisioning-uc)
    + 直接郵件頻道{#direct-mail-channel}
       + [建立直接郵件](/help/channels/direct-mail.md)
@@ -113,7 +113,7 @@ ht-degree: 92%
    + 使用片段 {#fragments}
       + [管理片段](/help/content-management/manage-fragments.md)
       + [建立運算式片段](/help/content-management/expression-fragments.md)
-      + [將RTF文字新增至可編輯的片段](/help/content-management/add-rich-text-to-editable-fragments.md)
+      + [將富文字新增至可編輯的片段](/help/content-management/add-rich-text-to-editable-fragments.md)
       + [使用 AEM 內容片段](/help/content-management/aem-content-fragments.md)
    + 內容範本{#content-templates}
       + [建立內容範本](/help/content-management/templates/create-content-templates.md)
@@ -178,7 +178,7 @@ ht-degree: 92%
          + [建立和 IP 集區](/help/set-up-channels/create-ip-pool.md)
          + [設定子網域](/help/set-up-channels/set-up-subdomain.md)
          + [委派 CName 子網域](/help/set-up-channels/delegate-cname-subdomains.md)
-         + [設定電子郵件頻道](/help/set-up-channels/configure-email-channel.md)
+         + [設定電子郵件管道](/help/set-up-channels/configure-email-channel.md)
          + [設定及執行 IP 暖身計劃](/help/administration/set-up-and-execute-an-ip-warmup-plan.md)
       + 簡訊/MMS 頻道 {#sms-mms-channel}
          + [設定簡訊 API 認證及頻道介面](/help/set-up-channels/set-up-sms-channel.md)
