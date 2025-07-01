@@ -22,4 +22,4 @@ ht-degree: 100%
 
 了解如何在 Adobe Journey Optimizer 中設定電子郵件通道。影片會逐步介紹如何設定電子郵件設定，包括子網域、IP 集區、取消訂閱管理、寄件者個人化、密件副本和種子清單、重試邏輯以及追蹤參數。它強調合規性、傳遞能力及個人化，以最佳化行銷電子郵件效能。
 
->[!VIDEO](https://video.tv.adobe.com/v/334343?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3463865?quality=12&learn=on&captions=chi_hant){transcript=true}

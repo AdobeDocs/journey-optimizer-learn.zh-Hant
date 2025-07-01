@@ -22,6 +22,6 @@ ht-degree: 100%
 
 瞭解如何讓片段中的 HTML 元件可編輯，以動態更新內容和樣式。您將瞭解如何建構 HTML、設定內嵌可編輯欄位，以及將它們連結至預設內容和 CSS，然後在即時行銷活動環境中測試及驗證您的變更。
 
->[!VIDEO](https://video.tv.adobe.com/v/3464363/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3464379/?learn=on&enablevpops&captions=chi_hant)
 
 請參閱[產品文件](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer/using/content-management/fragments/customizable-fragments){target="_blank"}以瞭解關於此功能的更多資訊。
