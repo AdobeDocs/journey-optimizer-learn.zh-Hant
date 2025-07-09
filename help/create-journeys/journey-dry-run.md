@@ -25,6 +25,6 @@ ht-degree: 0%
 
 本教學課程介紹Adobe Journey Optimizer中的歷程練習功能，此功能可讓行銷人員測試歷程邏輯，而不需傳送真正的通訊。 您將瞭解如何在模擬執行模式中啟動歷程、設定如停用等待時間和外部資料來源等選項，並解譯設定檔流量量度以驗證受眾細分和條件式邏輯。 瞭解如何識別和修正問題（例如條件節點中的拼寫錯誤），以及如何在啟動歷程即時版之前存取和匯出試執行報告以供進一步分析。
 
->[!VIDEO](https://video.tv.adobe.com/v/3464681/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3464693/?learn=on&enablevpops&captions=chi_hant)
 
 請參閱[產品檔案](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer/using/orchestrate-journeys/create-journey/journey-dry-run)以取得此功能的詳細資訊。
