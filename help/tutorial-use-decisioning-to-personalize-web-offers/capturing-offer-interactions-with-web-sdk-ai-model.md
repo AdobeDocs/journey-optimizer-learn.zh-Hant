@@ -26,7 +26,7 @@ ht-degree: 0%
 
 - 已安裝搭配Adobe Web SDK擴充功能使用的啟動Adobe Experience Platform屬性。
 
-- 已設定[資料串流](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/experience-decisioning/collect-event-data/create-dataset)並對應至您的AEP沙箱。
+- 已設定[資料串流](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer/using/decisioning/experience-decisioning/collect-event-data/create-dataset)並對應至您的AEP沙箱。
 
 - 部署Launch的網站。
 
@@ -35,7 +35,7 @@ ht-degree: 0%
 
 若要收集體驗事件，您必須先建立要傳送這些事件的資料集。
 
-依照此[文章中提及的步驟建立所需的結構描述和資料集](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/experience-decisioning/collect-event-data/create-dataset)
+依照此[文章中提及的步驟建立所需的結構描述和資料集](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer/using/decisioning/experience-decisioning/collect-event-data/create-dataset)
 
 ## 在AEP中建立資料串流
 
