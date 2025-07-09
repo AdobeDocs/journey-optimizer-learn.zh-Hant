@@ -6,10 +6,10 @@ level: Beginner
 breadcrumb-title: personalizing-offers-with-real-time-weather-data
 breadcrumb-url: /docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction
 auto-video-transcripts: true
-source-git-commit: 530613b18ea37ae3739957e45ede7d47fbedc447
+source-git-commit: c81c3ce8a2564b26a92cef821a1e45533c347f30
 workflow-type: tm+mt
-source-wordcount: '120'
-ht-degree: 9%
+source-wordcount: '125'
+ht-degree: 8%
 
 ---
 
@@ -26,4 +26,5 @@ ht-degree: 9%
 + [建立行銷活動](./create-campaign.md)
 + [測試解決方案](./create-web-page.md)
 + [JSON內容型別](./json-content-type.md)
++ [建立排名的AI模型](./capturing-offer-interactions-with-web-sdk-ai-model.md)
 
