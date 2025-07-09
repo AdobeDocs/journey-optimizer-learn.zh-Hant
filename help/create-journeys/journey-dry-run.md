@@ -27,4 +27,4 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3464681/?learn=on&enablevpops)
 
-請參閱[產品檔案](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/create-journey/journey-dry-run)以取得此功能的詳細資訊。
+請參閱[產品檔案](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer/using/orchestrate-journeys/create-journey/journey-dry-run)以取得此功能的詳細資訊。
