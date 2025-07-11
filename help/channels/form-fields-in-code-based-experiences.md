@@ -22,6 +22,6 @@ ht-degree: 75%
 
 瞭解開發人員如何透過啟用程式碼型體驗頻道內的可編輯欄位，簡化與行銷團隊的合作。瞭解如何在內容範本中定義可編輯的 JSON 和 HTML 欄位，讓行銷人員能夠更新標題和說明等行銷活動元素，而無需接觸程式碼。瞭解內嵌決策政策如何直接在範本中增強個人化，從而提升效率、減少錯誤並加速行銷活動傳遞。
 
->[!VIDEO](https://video.tv.adobe.com/v/3463990/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3464002/?learn=on&enablevpops&captions=chi_hant)
 
 如需詳細資訊，請參閱詳細[產品文件](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer/using/channels/code-based-experience/create-code-based-experiences/code-based-form-fields)。
