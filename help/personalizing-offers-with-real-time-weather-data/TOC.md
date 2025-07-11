@@ -1,15 +1,17 @@
 ---
-user-guide-title: 使用Web SDK在Adobe Journey Optimizer中使用即時天氣資料個人化優惠方案
+title: 使用網頁SDK運用即時天氣資料個人化優惠方案
+description: 瞭解如何使用Web SDK根據即時天氣條件個人化網頁內容。
+user-guide-title: 使用網頁SDK運用即時天氣資料個人化優惠方案
 user-guide-description: 本教學課程示範如何根據即時天氣條件個人化網頁內容。 當使用者造訪網站時，會使用他們目前的位置來擷取即時天氣資料，例如溫度和條件（例如，雨水、晴天）。 這些內容相關資訊會使用網頁SDK (alloy)傳送至Adobe Experience Platform，讓Adobe Journey Optimizer能夠評估並傳回頁面上自動呈現的目標優惠，例如季節性促銷活動或適合天氣的產品建議。
+solution: Journey Optimizer
 role: Developer
 level: Beginner
-breadcrumb-title: personalizing-offers-with-real-time-weather-data
 breadcrumb-url: /docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction
 auto-video-transcripts: true
-source-git-commit: c81c3ce8a2564b26a92cef821a1e45533c347f30
+source-git-commit: 0f49176c9295cf20721320386f37094a7bb3b38d
 workflow-type: tm+mt
-source-wordcount: '125'
-ht-degree: 8%
+source-wordcount: '143'
+ht-degree: 7%
 
 ---
 
