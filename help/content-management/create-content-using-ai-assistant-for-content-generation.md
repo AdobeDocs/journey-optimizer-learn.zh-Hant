@@ -21,4 +21,4 @@ ht-degree: 0%
 
 瞭解如何使用AI Assistant產生內容，以針對文字和影像產生主動式內容變化建議。
 
->[!VIDEO](https://video.tv.adobe.com/v/3434635/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3434646/?learn=on&captions=chi_hant)
