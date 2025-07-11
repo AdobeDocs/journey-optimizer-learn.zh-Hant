@@ -3,9 +3,9 @@ user-guide-title: Journey Optimizer 教學課程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 這些是 Journey Optimizer 教學課程。
 auto-video-transcripts: true
-source-git-commit: e4b289bcc7c9aac4f7993153d21ae0ad5e050d4e
+source-git-commit: ea0c8ff52b1f21fc0ce77871c6b32af42775fad9
 workflow-type: tm+mt
-source-wordcount: '843'
+source-wordcount: '841'
 ht-degree: 98%
 
 ---
@@ -185,7 +185,7 @@ ht-degree: 98%
          + [設定簡訊 API 認證及頻道介面](/help/set-up-channels/set-up-sms-channel.md)
          + [設定自訂簡訊提供者](/help/set-up-channels/configure-custom-sms-provider.md)
          + [設定多媒體簡訊 API 憑證及頻道介面](/help/set-up-channels/configure-mms-api-credentials-and-channel-surfaces.md)
-         + [設定商務用RCS](/help/set-up-channels/set-up-rcs.md)
+         + [設定RCS](/help/set-up-channels/set-up-rcs.md)
       + 網頁與行動裝置頻道 {#web-and-mobile-channels}
          + [引導式管道設定](/help/set-up-channels/guided-channel-setup.md)
    + 設定歷程 {#journey-configuration}
