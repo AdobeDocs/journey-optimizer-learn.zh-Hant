@@ -3,9 +3,9 @@ user-guide-title: Journey Optimizer 教學課程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 這些是 Journey Optimizer 教學課程。
 auto-video-transcripts: true
-source-git-commit: ea0c8ff52b1f21fc0ce77871c6b32af42775fad9
+source-git-commit: 14672bd5743c5fbadfc0e38308d82b6e7b6893dc
 workflow-type: tm+mt
-source-wordcount: '841'
+source-wordcount: '843'
 ht-degree: 98%
 
 ---
@@ -94,7 +94,7 @@ ht-degree: 98%
    + 推播頻道{#push-channel}
       + [推播通知 — 概觀](/help/channels/push-notifications-overview.md)
       + [設定和傳送推播行銷活動](/help/channels/create-a-push-campaign.md)
-   + 簡訊頻道{#sms-channel}
+   + 簡訊/MMS 頻道{#sms-channel}
       + [SMS/MMS 訊息 — 概觀](/help/channels/sms-mms-messages-overview.md)
       + [設定、編寫並傳遞簡訊訊息](/help/channels/author-sms-messages.md)
       + [編寫多媒體簡訊訊息](/help/channels/author-mms.md)
@@ -181,7 +181,7 @@ ht-degree: 98%
          + [委派 CName 子網域](/help/set-up-channels/delegate-cname-subdomains.md)
          + [設定電子郵件管道](/help/set-up-channels/configure-email-channel.md)
          + [設定及執行 IP 暖身計劃](/help/administration/set-up-and-execute-an-ip-warmup-plan.md)
-      + 簡訊/MMS 頻道 {#sms-mms-channel}
+      + SMS/MMS/RCS頻道 {#sms-mms-channel}
          + [設定簡訊 API 認證及頻道介面](/help/set-up-channels/set-up-sms-channel.md)
          + [設定自訂簡訊提供者](/help/set-up-channels/configure-custom-sms-provider.md)
          + [設定多媒體簡訊 API 憑證及頻道介面](/help/set-up-channels/configure-mms-api-credentials-and-channel-surfaces.md)
