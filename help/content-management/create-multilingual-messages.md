@@ -21,4 +21,4 @@ ht-degree: 100%
 
 多語言訊息功能讓您可以透過單一行銷活動或歷程建立多語言內容。 了解如何在 Journey Optimizer 建立多語言訊息。
 
->[!VIDEO](https://video.tv.adobe.com/v/3430921/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3452125/?learn=on&captions=chi_hant)
