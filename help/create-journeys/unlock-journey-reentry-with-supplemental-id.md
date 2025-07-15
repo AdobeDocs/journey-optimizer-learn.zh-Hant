@@ -24,4 +24,4 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3464792/?learn=on&enablevpops)
 
-如需有關補充ID的詳細資訊，請參閱[產品檔案](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/manage-journey/supplemental-identifier)。
+如需有關補充ID的詳細資訊，請參閱[產品檔案](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer/using/orchestrate-journeys/manage-journey/supplemental-identifier)。
