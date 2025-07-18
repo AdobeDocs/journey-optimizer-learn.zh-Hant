@@ -8,9 +8,10 @@ doc-type: Tutorial
 last-substantial-update: 2025-04-30T00:00:00Z
 recommendations: noDisplay, noCatalog
 jira: KT-18258
-source-git-commit: dac6b373226bd0be2533cf859e4f250018cf568b
+exl-id: 04fad076-e897-4831-9147-768721858a80
+source-git-commit: 29a20fe11dc6516f6fa15f7d7bf8948dd418aecd
 workflow-type: tm+mt
-source-wordcount: '244'
+source-wordcount: '262'
 ht-degree: 0%
 
 ---
@@ -19,16 +20,19 @@ ht-degree: 0%
 
 Adobe Experience Platform Tags (先前稱為Adobe Launch)有助於在網站上管理和部署*行銷與分析技術，而不需要變更網站的程式碼。
 
-此[影片說明建立Adobe Experience Tags的程式](https://experienceleague.adobe.com/zh-hant/playlists/experience-platform-get-started-with-tags)
+此[影片說明建立Adobe Experience Tags的程式](https://experienceleague.adobe.com/en/playlists/experience-platform-get-started-with-tags)
 
-* 登入資料收集
-* 按一下「標籤 — >新增屬性」
-* 建立名為&#x200B;_&#x200B;**personalization-on-weather**&#x200B;_&#x200B;的Adobe Experience Platform標籤。
+- 登入資料收集
+- 按一下&#x200B;_**標籤 — >新增屬性**_
 
-* 將下列擴充功能新增至標籤
+- 建立名為&#x200B;_**personalization-on-weather**_&#x200B;的Adobe Experience Platform標籤。
+
+- 將下列擴充功能新增至標籤
   ![標籤延伸模組](assets/tags-extensions1.png)
+- 新增名為「ECID」的資料元素，如下所示。 此資料元素稍後會在報表中使用
+  ![ecid-data-element](assets/ecid-data-element.png)
 
-* 請務必設定Adobe Experience Platform Web SDK以使用先前的步驟中所建立的正確環境和&#x200B;**天氣相關資料流**。
+- 請務必設定Adobe Experience Platform Web SDK以使用先前的步驟中所建立的正確環境和&#x200B;**天氣相關資料流**。
   ![web-sdk-configuration](assets/tags-extensions.png)
 
 
@@ -55,8 +59,8 @@ Adobe Experience Platform Tags (先前稱為Adobe Launch)有助於在網站上�
 
 當您發佈AEP Tags屬性時，Adobe會為您提供指令碼標籤，您必須將該標籤置於HTML ``` <head>```內或``` <body>```標籤的底部。
 
-* 前往Tags(personalization-on-weather)屬性。
+- 前往Tags(personalization-on-weather)屬性。
 
-* 按一下環境，然後按一下所需環境的安裝圖示（例如開發、測試、生產）。
+- 按一下環境，然後按一下所需環境的安裝圖示（例如開發、測試、生產）。
 
-* 記下內嵌程式碼。 在本教學課程的稍後階段會用到它。
+- 記下內嵌程式碼。 在本教學課程的稍後階段會用到它。

@@ -8,14 +8,45 @@ doc-type: Tutorial
 last-substantial-update: 2025-06-10T00:00:00Z
 recommendations: noDisplay, noCatalog
 jira: KT-18258
-source-git-commit: a9fc14da78e1c67b01aef5dcdd417ce02d36d50a
+exl-id: 609a5ddf-d6c6-4f19-bd7f-bca8c266b759
+source-git-commit: 23832f2e59ca7558fd403f0a9753db3923023e6d
 workflow-type: tm+mt
-source-wordcount: '294'
-ht-degree: 1%
+source-wordcount: '418'
+ht-degree: 0%
 
 ---
 
 # 測試解決方案
+
+若要端對端測試解決方案，[weather-offers.html](assets/weather-offers.html)和[weather-related-offers-script.js](assets/weather-related-offers-script.js)檔案必須託管在Web伺服器或公用託管服務（例如Github Pages）上。 這是必要的，因為：
+ — 瀏覽器的地理位置API僅適用於HTTPS或localhost
+
+若要讓專案維持井然有序，並確保相對路徑正常運作，我們建議使用下列檔案夾結構來託管解決方案：
+
+![資料夾結構](assets/folder-structure.png)
+
+## 下載提供的檔案
+
+[HTML檔案](assets/weather-offers.html)
+
+[Javascript檔案](assets/weather-related-offers-script.js)
+
+
+## 更新javascript檔案中的表面URL
+
+開啟`weather-related-offers-script.js`並更新` "web://yourdomain.com/weather/weather-offers.html#offerContainer"`bt，將`yourdomain.com`取代為託管HTML檔案的實際網域。
+
+## 更新Adobe Experience Platform標籤屬性
+
+在文字編輯器中開啟weather-offers.html檔案，並將指令碼標籤取代為Adobe Experience Platform標籤屬性的指令碼標籤（於本教學課程的前一步中建立）。 請務必儲存檔案
+
+```
+<script src="https://assets.adobedtm.com/AEM_TAGS/launch-ENabcd1234.min.js" async></script>
+```
+
+
+
+## 網頁的作用
 
 系統會建立網頁，以使用即時溫度資料測試情境式選件個人化。 當使用者造訪頁面時，瀏覽器會提示您提供地理位置存取許可權。 核准後，頁面會透過OpenWeatherMap API擷取目前的天氣詳細資料，例如溫度、狀況和城市。 系統會使用Adobe Web SDK (Alloy)，將此內容資料顯示給使用者並傳送至Adobe Experience Platform。
 
@@ -73,12 +104,4 @@ JavaScript會根據使用者的位置動態擷取天氣資訊，並使用Adobe E
    解碼HTML內容。
 
    以動態方式將選件插入 <div id="offerContainer"> 元素。
-
-7. **範例Assets**
-
-   測試解決方案所用的網頁可供下載
-
-[網頁](assets/weather-offers.html)
-
-[JavaScript 程式碼](assets/weather-related-offers-script.js)
 
