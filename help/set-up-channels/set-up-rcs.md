@@ -21,6 +21,6 @@ ht-degree: 100%
 
 瞭解如何使用自訂簡訊供應商，就能在 Adobe Journey Optimizer 中設定、傳送品牌化互動式 RCS 訊息。本教學課程會逐步引導您設定 API 認證、Webhook 和頻道設定，然後建立歷程，以便提供豐富、個人化的傳訊體驗，全都可以透過原生傳訊應用程式完成。
 
->[!VIDEO](https://video.tv.adobe.com/v/3464755/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3464766/?learn=on&enablevpops&captions=chi_hant)
 
 如需如何設定 RCS 的詳細資訊，請參閱[產品文件](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer/using/channels/sms/configure-sms/sms-configuration)。
