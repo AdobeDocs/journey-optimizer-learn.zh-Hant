@@ -4,9 +4,9 @@ user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 這些是 Journey Optimizer 教學課程。
 auto-video-transcripts: true
 source-git-commit: 032e1ac6bf969975e598f2a763cde94ba17856b0
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '849'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -52,7 +52,7 @@ ht-degree: 98%
    + [建立測試輪廓](/help/create-journeys/test-a-journey.md)
    + [使用歷程試運行驗證歷程邏輯](/help/create-journeys/journey-dry-run.md)
    + [發佈歷程](/help/create-journeys/publish-a-journey.md)
-   + [使用補充ID解鎖歷程重新進入](/help/create-journeys/unlock-journey-reentry-with-supplemental-id.md)
+   + [使用補充 ID，解除鎖定歷程重新進入](/help/create-journeys/unlock-journey-reentry-with-supplemental-id.md)
    + [更新即時歷程中的內容](/help/create-journeys/update-content-in-live-journey.md)
    + [將歷程複製到另一個沙箱](/help/create-journeys/copy-a-journey.md)
    + [批次細分後，就會觸發日常歷程執行](/help/create-journeys/trigger-daily-journey-runs-after-batch-segmentation-completion.md)
@@ -182,11 +182,11 @@ ht-degree: 98%
          + [委派 CName 子網域](/help/set-up-channels/delegate-cname-subdomains.md)
          + [設定電子郵件管道](/help/set-up-channels/configure-email-channel.md)
          + [設定及執行 IP 暖身計劃](/help/administration/set-up-and-execute-an-ip-warmup-plan.md)
-      + SMS/MMS/RCS頻道 {#sms-mms-channel}
+      + 簡訊 / MMS / RCS 頻道 {#sms-mms-channel}
          + [設定簡訊 API 認證及頻道介面](/help/set-up-channels/set-up-sms-channel.md)
          + [設定自訂簡訊提供者](/help/set-up-channels/configure-custom-sms-provider.md)
          + [設定多媒體簡訊 API 憑證及頻道介面](/help/set-up-channels/configure-mms-api-credentials-and-channel-surfaces.md)
-         + [設定RCS](/help/set-up-channels/set-up-rcs.md)
+         + [設定 RCS](/help/set-up-channels/set-up-rcs.md)
       + 網頁與行動裝置頻道 {#web-and-mobile-channels}
          + [引導式管道設定](/help/set-up-channels/guided-channel-setup.md)
    + 設定歷程 {#journey-configuration}
