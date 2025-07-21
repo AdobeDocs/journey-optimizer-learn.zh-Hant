@@ -8,7 +8,8 @@ doc-type: Tutorial
 recommendations: noDisplay, noCatalog
 last-substantial-update: 2025-07-18T00:00:00Z
 jira: KT-18526
-source-git-commit: 23832f2e59ca7558fd403f0a9753db3923023e6d
+exl-id: 5bff884b-17e2-4b86-affb-ea9cf3cc2a60
+source-git-commit: c2478bc3bde4c7770110a5672a0ffc425a117e62
 workflow-type: tm+mt
 source-wordcount: '92'
 ht-degree: 0%
@@ -19,8 +20,7 @@ ht-degree: 0%
 
 開始進行Adobe Journey Optimizer Offer Decisioning的報告設定
 
-- 登入Journey Optimizer
+- 登入&#x200B;_**Journey Optimizer**_
 
-- 瀏覽至&#x200B;_&#x200B;**管理 — >設定 — >報告 — >管理 — >新增資料集**&#x200B;_
-- 選取&#x200B;_&#x200B;**Weather-schema-dataset**&#x200B;_，此資料集儲存了先前教學課程中產生的選件曝光次數和點按事件。
-
+- 瀏覽至&#x200B;_**管理 — >設定 — >報告 — >管理 — >新增資料集**_
+- 選取&#x200B;_**Weather-schema-dataset**_，此資料集儲存了先前教學課程中產生的選件曝光次數和點按事件。

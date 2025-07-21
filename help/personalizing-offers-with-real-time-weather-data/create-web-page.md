@@ -9,9 +9,9 @@ last-substantial-update: 2025-06-10T00:00:00Z
 recommendations: noDisplay, noCatalog
 jira: KT-18258
 exl-id: 609a5ddf-d6c6-4f19-bd7f-bca8c266b759
-source-git-commit: 23832f2e59ca7558fd403f0a9753db3923023e6d
+source-git-commit: 9c11ebd2e52de18792e9fa135db955eeeb243673
 workflow-type: tm+mt
-source-wordcount: '418'
+source-wordcount: '430'
 ht-degree: 0%
 
 ---
@@ -99,9 +99,13 @@ JavaScript會根據使用者的位置動態擷取天氣資訊，並使用Adobe E
 
 6. **擷取並轉譯選件**
 
-   接收AJO傳回的優惠。
+   接收AJO Decisioning傳回的選件。
 
    解碼HTML內容。
 
    以動態方式將選件插入 <div id="offerContainer"> 元素。
+
+## 後續步驟
+
+[測量並報告AJO Decisioning的影響。](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/reporting-on-ajo-od/introduction)
 
