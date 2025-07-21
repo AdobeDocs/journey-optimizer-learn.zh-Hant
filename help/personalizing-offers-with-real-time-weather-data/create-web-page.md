@@ -107,5 +107,5 @@ JavaScript會根據使用者的位置動態擷取天氣資訊，並使用Adobe E
 
 ## 後續步驟
 
-[測量並報告AJO Decisioning的影響。](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/reporting-on-ajo-od/introduction)
+[測量並報告AJO Decisioning的影響。](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/reporting-on-ajo-od/introduction)
 
