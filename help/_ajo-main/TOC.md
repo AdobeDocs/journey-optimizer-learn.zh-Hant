@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer 教學課程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 這些是 Journey Optimizer 教學課程。
 auto-video-transcripts: true
-source-git-commit: 4a228623154a5422ba45ff1c0cc8be986787c0cb
+source-git-commit: 06c340b9fb0186821e2b56053ba6c9d7dcf56175
 workflow-type: tm+mt
-source-wordcount: '857'
-ht-degree: 99%
+source-wordcount: '860'
+ht-degree: 98%
 
 ---
 
@@ -46,13 +46,14 @@ ht-degree: 99%
    + [歷程設計師 — 概觀](/help/create-journeys/journey-designer-overview.md)
    + [探索全新歷程設計程式](/help/create-journeys/new-journey-designer.md)
    + [建立歷程簡介](/help/create-journeys/introduction-to-building-a-journey.md)
+   + [建立測試輪廓](/help/create-journeys/test-a-journey.md)
+   + [發佈歷程](/help/create-journeys/publish-a-journey.md)
    + [使用案例 - 異動歷程](/help/create-journeys/use-case-transactional-journey.md)
    + [使用案例 - 業務事件](/help/create-journeys/use-case-business-event.md)
    + [使用案例 - 讀取客群](/help/create-journeys/use-case-read-audience.md)
    + [使用案例 - 客群資格篩選](/help/create-journeys/use-case-audience-qualification.md)
-   + [建立測試輪廓](/help/create-journeys/test-a-journey.md)
+   + [熟悉多屬性篩選](/help/create-journeys/mastering-multi-attribute-filtering.md)
    + [使用歷程試運行驗證歷程邏輯](/help/create-journeys/journey-dry-run.md)
-   + [發佈歷程](/help/create-journeys/publish-a-journey.md)
    + [使用補充 ID，解除鎖定歷程重新進入](/help/create-journeys/unlock-journey-reentry-with-supplemental-id.md)
    + [更新即時歷程中的內容](/help/create-journeys/update-content-in-live-journey.md)
    + [將歷程複製到另一個沙箱](/help/create-journeys/copy-a-journey.md)
