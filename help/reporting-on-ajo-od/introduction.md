@@ -7,7 +7,8 @@ level: Beginner
 doc-type: Tutorial
 last-substantial-update: 2025-07-18T00:00:00Z
 jira: KT-18526
-source-git-commit: 23832f2e59ca7558fd403f0a9753db3923023e6d
+exl-id: ae74485f-9ea1-428d-9c07-5db0c5cf93fb
+source-git-commit: 551d0d365bcb42e63910af1fae626d1bbc1fabfa
 workflow-type: tm+mt
 source-wordcount: '265'
 ht-degree: 0%
@@ -24,9 +25,7 @@ ht-degree: 0%
 
 
 
-
 ![reporting-dashboard](assets/dashboard-reporting.png)
-
 
 
 ## 本教學課程的先決條件
@@ -34,12 +33,8 @@ ht-degree: 0%
 開始之前，請先完成[使用即時天氣資料個人化選件。](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction)它會建立所有基礎元件，包括：
 
 - 網頁SDK整合
-
 - Adobe Journey Optimizer (AJO)中的優惠方案設定
-
 - 使用天氣和溫度等內容屬性來決策
-
 - 網頁上的即時優惠方案呈現
 
 本教學課程直接建置在該實作上，並專注於擷取選件曝光次數和互動，以便在Journey Optimizer中報告和分析。
-
