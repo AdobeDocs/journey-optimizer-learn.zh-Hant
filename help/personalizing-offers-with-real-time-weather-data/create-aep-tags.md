@@ -9,23 +9,23 @@ last-substantial-update: 2025-04-30T00:00:00Z
 recommendations: noDisplay, noCatalog
 jira: KT-18258
 exl-id: 04fad076-e897-4831-9147-768721858a80
-source-git-commit: 29a20fe11dc6516f6fa15f7d7bf8948dd418aecd
+source-git-commit: 40690024e5348dd3ac05f350e49a67a99d5e455e
 workflow-type: tm+mt
-source-wordcount: '262'
+source-wordcount: '264'
 ht-degree: 0%
 
 ---
 
-# 建立AEP標籤
+# 建立Adobe Experience Platform標籤
 
 Adobe Experience Platform Tags (先前稱為Adobe Launch)有助於在網站上管理和部署*行銷與分析技術，而不需要變更網站的程式碼。
 
-此[影片說明建立Adobe Experience Tags的程式](https://experienceleague.adobe.com/zh-hant/playlists/experience-platform-get-started-with-tags)
+此[影片說明建立Adobe Experience Tags的程式](https://experienceleague.adobe.com/en/playlists/experience-platform-get-started-with-tags)
 
 - 登入資料收集
-- 按一下&#x200B;_&#x200B;**標籤 — >新增屬性**&#x200B;_
+- 按一下&#x200B;_**標籤 — >新增屬性**_
 
-- 建立名為&#x200B;_&#x200B;**personalization-on-weather**&#x200B;_&#x200B;的Adobe Experience Platform標籤。
+- 建立名為&#x200B;_**personalization-on-weather**_&#x200B;的Adobe Experience Platform標籤。
 
 - 將下列擴充功能新增至標籤
   ![標籤延伸模組](assets/tags-extensions1.png)

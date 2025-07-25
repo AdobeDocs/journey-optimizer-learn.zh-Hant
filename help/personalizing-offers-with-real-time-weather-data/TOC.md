@@ -8,9 +8,9 @@ role: Developer
 level: Beginner
 breadcrumb-url: /docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction
 auto-video-transcripts: true
-source-git-commit: 9c11ebd2e52de18792e9fa135db955eeeb243673
+source-git-commit: bfeab1e933f2a510506c0ecf911df41e66cb959b
 workflow-type: tm+mt
-source-wordcount: '151'
+source-wordcount: '152'
 ht-degree: 5%
 
 ---
@@ -20,7 +20,7 @@ ht-degree: 5%
 
 + [簡介](./introduction.md)
 + [建立方案和資料集](./create-schema-and-dataset.md)
-+ [建立AEP標籤](./create-aep-tags.md)
++ [建立Experience Platform標籤](./create-aep-tags.md)
 + [建立優惠收藏](./create-tag-category.md)
 + [建立優惠](./create-offers.md)
 + [建立排名公式](./create-ranking-formula.md)
