@@ -23,9 +23,9 @@ Adobe Experience Platform Tags (先前稱為Adobe Launch)有助於在網站上�
 此[影片說明建立Adobe Experience Tags的程式](https://experienceleague.adobe.com/en/playlists/experience-platform-get-started-with-tags)
 
 - 登入資料收集
-- 按一下&#x200B;_**標籤 — >新增屬性**_
+- 按一下&#x200B;_&#x200B;**標籤 — >新增屬性**&#x200B;_
 
-- 建立名為&#x200B;_**personalization-on-weather**_&#x200B;的Adobe Experience Platform標籤。
+- 建立名為&#x200B;_&#x200B;**personalization-on-weather**&#x200B;_&#x200B;的Adobe Experience Platform標籤。
 
 - 將下列擴充功能新增至標籤
   ![標籤延伸模組](assets/tags-extensions1.png)
