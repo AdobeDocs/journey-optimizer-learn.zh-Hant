@@ -1,6 +1,6 @@
 ---
 title: 使用Adobe Web SDK擷取優惠方案互動，以進行AI模型訓練
-description: 本文提供使用Adobe Experience Platform Web SDK (alloy.js)擷取使用者互動資料（例如優惠閱聽和點按）的指引。 此資料可作為在Adobe Journey Optimizer (AJO)中聰明地訓練AI模型的基礎，以便根據使用者行為和內容訊號來排名選件。
+description: 本文提供使用Adobe Experience Platform Web SDK (alloy.js)擷取使用者互動資料（例如優惠閱聽和點按）的指引。 此份資料可作為 Adobe Journey Optimizer (AJO) 中訓練 AI 模型的基礎，以根據使用者行為與內容訊號，智慧地為產品建議進行排名。
 feature: Decisioning
 topic: Integrations
 role: User
@@ -8,13 +8,13 @@ level: Beginner
 doc-type: Article
 last-substantial-update: 2025-07-08T00:00:00Z
 jira: KT-18451
-source-git-commit: 41f0d44fb39c9d187ee8c97d54202387fa9eda56
+exl-id: 3cb280b3-71e5-4e91-9252-5679d794d4c4
+source-git-commit: 6c4f33d1f55be298781cfb0958862f9710e3647a
 workflow-type: tm+mt
 source-wordcount: '698'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
-
 
 # 使用Adobe Web SDK擷取優惠方案互動，以進行AI模型訓練
 
@@ -41,7 +41,7 @@ ht-degree: 0%
 
 在Adobe Experience Platform中：
 
-- 開啟您用於天氣型優惠方案的現有&#x200B;_&#x200B;**天氣結構描述**&#x200B;_&#x200B;體驗事件結構描述。
+- 開啟您用於天氣型優惠方案的現有&#x200B;_**天氣結構描述**_&#x200B;體驗事件結構描述。
 
 - 新增欄位群組：
 體驗事件 — 主張互動
@@ -72,26 +72,32 @@ Web SDK會自動將新的互動事件路由到正確的目的地。
 
 
 ```javascript
-if (offerIds.length > 0) {
-  alloy("sendEvent", {
-    xdm: {
-      _id: generateUUID(),
-      timestamp: new Date().toISOString(),
-      eventType: "decisioning.propositionDisplay",
-      _experience: {
-        decisioning: {
-          propositionEvent: {
-            display: 1
-          },
-          involvedPropositions: offerIds.map(id => ({
-            id,
-            scope: "web://gbedekar489.github.io/weather/weather-offers.html#offerContainer"
-          }))
-        }
-      }
-    }
-  });
-}
+alloy("sendEvent", {
+                    xdm: {
+                      _id: generateUUID(),
+                      timestamp: new Date().toISOString(),
+                      eventType: "decisioning.propositionInteract",
+                      identityMap: {
+                        ECID: [{
+                          id: ecidValue,
+                          authenticatedState: "ambiguous",
+                          primary: true
+                        }]
+                      },
+                      _experience: {
+                        decisioning: {
+                          propositionEventType: {
+                            interact: 1
+                          },
+                          propositionAction: {
+                            id: offerId,
+                            tokens: [trackingToken]
+                          },
+                          propositions: window.latestPropositions
+                        }
+                      }
+                    }
+                  });
 ```
 
 ## 擷取選件點按事件（互動）
@@ -102,31 +108,42 @@ if (offerIds.length > 0) {
 
 ```javascript
 // Attach click tracking to <a> and <button> elements
-wrapper.querySelectorAll("a, button").forEach(el => {
-  el.addEventListener("click", () => {
-    const offerId = el.getAttribute("data-offer-id") || item.id;
-    console.log("Clicked element offerId:", offerId);
+child.querySelectorAll("a, button").forEach(el => {
+                el.addEventListener("click", () => {
+                  const ecidValue = getECID();
+                  if (!ecidValue || !offerId || !trackingToken) {
+                    console.warn("Girish!!!!  Missing ECID, offerId, or trackingToken. Interaction event not sent.");
+                    return;
+                  }
 
-    alloy("sendEvent", {
-      xdm: {
-        _id: generateUUID(),
-        timestamp: new Date().toISOString(),
-        eventType: "decisioning.propositionInteract",
-        _experience: {
-          decisioning: {
-            propositionEvent: {
-              interact: 1
-            },
-            involvedPropositions: [{
-              id: offerId,
-              scope: "web://gbedekar489.github.io/weather/weather-offers.html#offerContainer"
-            }]
-          }
-        }
-      }
-    });
-  });
-});
+                  alloy("sendEvent", {
+                    xdm: {
+                      _id: generateUUID(),
+                      timestamp: new Date().toISOString(),
+                      eventType: "decisioning.propositionInteract",
+                      identityMap: {
+                        ECID: [{
+                          id: ecidValue,
+                          authenticatedState: "ambiguous",
+                          primary: true
+                        }]
+                      },
+                      _experience: {
+                        decisioning: {
+                          propositionEventType: {
+                            interact: 1
+                          },
+                          propositionAction: {
+                            id: offerId,
+                            tokens: [trackingToken]
+                          },
+                          propositions: window.latestPropositions
+                        }
+                      }
+                    }
+                  });
+                });
+              });
 ```
 
 ## 在Adobe Journey Optimizer Offer Decisioning中建立優惠方案排名的AI模型
