@@ -28,4 +28,4 @@ ht-degree: 0%
 
 是想要透過WhatsApp自動化個人化客戶參與的行銷人員的理想選擇。
 
->[!VIDEO](https://video.tv.adobe.com/v/3470282/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470293/?learn=on&enablevpops&captions=chi_hant)
