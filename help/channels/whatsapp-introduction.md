@@ -20,4 +20,4 @@ ht-degree: 0%
 
 影片提供將WhatsApp與Adobe Journey Optimizer整合價值的高層級概觀。 它強調了WhatsApp的全球觸及和參與的優點，並概述設定WhatsApp商業帳戶、產生存取權杖和建立訊息範本等關鍵必要條件。
 
->[!VIDEO](https://video.tv.adobe.com/v/3470296/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470307/?learn=on&enablevpops&captions=chi_hant)
