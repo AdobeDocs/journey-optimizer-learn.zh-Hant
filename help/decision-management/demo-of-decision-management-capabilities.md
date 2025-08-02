@@ -18,4 +18,4 @@ ht-degree: 100%
 
 瞭解各大品牌如何善用決策管理，定義並管理優惠，應用即時客戶資料，同時提供符合客戶期望的合適體驗。
 
->[!VIDEO](https://video.tv.adobe.com/v/326841?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3470052?quality=12&learn=on&captions=chi_hant){transcript=true}

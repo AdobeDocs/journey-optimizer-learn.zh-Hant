@@ -30,4 +30,4 @@ ht-degree: 0%
 
 是想要透過世界上最熱門的訊息平台之一擴大觸及率和參與度的行銷人員的理想選擇。
 
->[!VIDEO](https://video.tv.adobe.com/v/3470244/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470255/?learn=on&enablevpops&captions=chi_hant)
