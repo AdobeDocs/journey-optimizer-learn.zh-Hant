@@ -3,7 +3,7 @@ user-guide-title: Journey Optimizer 教學課程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 這些是 Journey Optimizer 教學課程。
 auto-video-transcripts: true
-source-git-commit: e0713e7265468f749239acdac53ddaf1c27afdc8
+source-git-commit: 202cc6731ee1a587b62125b2916131521b6f3343
 workflow-type: tm+mt
 source-wordcount: '905'
 ht-degree: 95%
@@ -17,7 +17,7 @@ ht-degree: 95%
 + 使用案例 {#use-cases}
    + [客戶引導](/help/use-cases/customer-onboarding.md)
    + [捨棄的購物車](/help/use-cases/abandoned-cart.md)
-   + [智慧型重新參與 — 放棄的瀏覽](https://experienceleague.adobe.com/zh-hant/docs/experience-platform/rtcdp/use-cases/personalization-insights-engagement/use-cases-luma){target="_blank"}
+   + [智慧型重新參與 — 放棄的瀏覽](https://experienceleague.adobe.com/en/docs/experience-platform/rtcdp/use-cases/personalization-insights-engagement/use-cases-luma){target="_blank"}
    + [在 Adobe Journey Optimizer 中使用網頁 SDK 以即時天氣資料個人化優惠方案](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction){target="_blank"}
    + [正在產生優惠曝光和點按次數報告](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/reporting-on-ajo-od/introduction){target="_blank"}
    + [使用排名公式在 Journey Optimizer 中提供個人化優惠](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction){target="_blank"}
@@ -43,7 +43,7 @@ ht-degree: 95%
       + [建立網路行銷活動](/help/create-campaigns/web-campaign.md)
       + [建立以程式碼為主的體驗活動](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/tutorials/channels/code-based-experience-channel/create-a-code-based-experience-campaign)
       + [建立電子郵件行銷活動的內容實驗](/help/create-campaigns/content-experiments.md)
-      + [在行銷活動中運用訊息最佳化](/help/channels/leverage-message-optimization-in-a-campaign.md)
+      + [在行銷活動中運用訊息最佳化](/help/create-campaigns/leverage-message-optimization-in-a-campaign.md)
    + API觸發的行銷活動 {#api-triggered-campaigns}
       + [利用 API 觸發行銷活動](/help/create-campaigns/api-triggered-campaigns.md)
    + 協調的行銷活動 {#orchestrated-campaigns}
