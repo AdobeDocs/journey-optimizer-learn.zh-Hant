@@ -24,4 +24,4 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3470544/?learn=on&enablevpops)
 
-如需有關此功能的詳細資訊，請參閱[產品檔案](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/ai-assistant/brands/brands)。
+如需有關此功能的詳細資訊，請參閱[產品檔案](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer/using/content-management/ai-assistant/brands/brands)。
