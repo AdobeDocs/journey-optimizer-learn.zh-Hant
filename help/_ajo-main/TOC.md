@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer 教學課程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 這些是 Journey Optimizer 教學課程。
 auto-video-transcripts: true
-source-git-commit: 202cc6731ee1a587b62125b2916131521b6f3343
+source-git-commit: 313784a49c81d0aef3e256f5a02c233fd47d9ab6
 workflow-type: tm+mt
-source-wordcount: '905'
-ht-degree: 95%
+source-wordcount: '910'
+ht-degree: 94%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 95%
 + 使用案例 {#use-cases}
    + [客戶引導](/help/use-cases/customer-onboarding.md)
    + [捨棄的購物車](/help/use-cases/abandoned-cart.md)
-   + [智慧型重新參與 — 放棄的瀏覽](https://experienceleague.adobe.com/zh-hant/docs/experience-platform/rtcdp/use-cases/personalization-insights-engagement/use-cases-luma){target="_blank"}
+   + [智慧型重新參與 — 放棄的瀏覽](https://experienceleague.adobe.com/en/docs/experience-platform/rtcdp/use-cases/personalization-insights-engagement/use-cases-luma){target="_blank"}
    + [在 Adobe Journey Optimizer 中使用網頁 SDK 以即時天氣資料個人化優惠方案](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction){target="_blank"}
    + [正在產生優惠曝光和點按次數報告](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/reporting-on-ajo-od/introduction){target="_blank"}
    + [使用排名公式在 Journey Optimizer 中提供個人化優惠](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction){target="_blank"}
@@ -138,6 +138,7 @@ ht-degree: 95%
    + 用於內容產生的 AI 助理 {#ai-assistant}
       + [用於內容產生的 AI 助理 — 概觀](/help/content-management/ai-assistant-for-content-generation-overview.md)
       + [使用用於內容產生的 AI 助理來建立內容](/help/content-management/create-content-using-ai-assistant-for-content-generation.md)
+      + [品牌指引建立與管理](/help/content-management/brand-guideline-creation-and-management.md)
    + [實驗 — 概觀](/help/content-management/experimentation-overview.md)
    + [使用 GenStudio 建立電子郵件](/help/content-management/create-an-email-using-genstudio.md)
 + 將內容個人化 {#personalize-content}
