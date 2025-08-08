@@ -1,20 +1,20 @@
 ---
 source-git-commit: 261b26e38b627e26de619ef08fdba455ad486fd5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '72'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
-# 設定WhatsApp頻道
+# 設定 WhatsApp 頻道
 
-本教學課程將逐步帶您瞭解如何在Adobe Journey Optimizer中設定WhatsApp頻道，以啟用即時業務傳訊。
+本教學課程將引導您在 Adobe Journey Optimizer 中設定 WhatsApp 頻道，以實現即時業務訊息傳送。
 
-您將瞭解的內容：
+您將學到：
 
-* 新增及設定WhatsApp API憑證和商業帳戶詳細資料。
-* 設定Webhook以處理傳入訊息，包括選擇加入/選擇退出關鍵字。
-* 建立管道設定以完成您的WhatsApp設定。
+* 新增並設定 WhatsApp API 憑證和企業帳戶詳細資訊。
+* 設定用於傳入訊息處理的 Webhook，包括選擇加入/選擇退出關鍵字。
+* 建立頻道設定以完成您的 WhatsApp 設定。
 
-非常適合想要在其客戶歷程中啟用WhatsApp訊息的行銷人員和開發人員。
+非常適合希望在客戶歷程中啟用 WhatsApp 訊息的行銷人員和開發人員。
 
->[!VIDEO](https://video.tv.adobe.com/v/3470279/?learn=on&enablevpops&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/3470268/?learn=on&enablevpops)

@@ -1,6 +1,6 @@
 ---
-title: 開始使用Adobe Journey Optimizer中的WhatsApp
-description: 瞭解如何將WhatsApp整合為Adobe Journey Optimizer中的原生管道，以大規模提供安全、即時、個人化的訊息。
+title: 開始在 Adobe Journey Optimizer 中使用 WhatsApp
+description: 了解如何將 WhatsApp 整合為 Adobe Journey Optimizer 中的原生頻道，以大規模提供安全、即時、個人化的訊息。
 feature: Whatsapp
 role: Admin, User
 level: Beginner, Intermediate, Experienced
@@ -9,25 +9,25 @@ duration: 598
 last-substantial-update: 2025-07-30T00:00:00Z
 jira: KT-18657
 hidefromtoc: true
-source-git-commit: e21d18dea5e34d8647fdc7028a5ab5d47420fa33
-workflow-type: tm+mt
+exl-id: 0edd792a-14e5-4fb4-94e0-f032be89d267
+source-git-commit: e0aee000736f2e1d2ac290c4e24b2e0de95753a0
+workflow-type: ht
 source-wordcount: '122'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
+# 開始在 Adobe Journey Optimizer 中使用 WhatsApp
 
-# 開始使用Adobe Journey Optimizer中的WhatsApp
+了解如何將 WhatsApp 整合為 Adobe Journey Optimizer 中的原生頻道，以大規模提供安全、即時、個人化的訊息。
 
-瞭解如何將WhatsApp整合為Adobe Journey Optimizer中的原生管道，以大規模提供安全、即時、個人化的訊息。
+在本教學課程中，您將了解如何：
 
-在本教學課程中，您將瞭解如何：
-
-* 設定您的WhatsApp商業帳戶，並將其連結至Journey Optimizer。
-* 設定API認證、webhook和通道設定。
-* 使用核准的訊息範本建立及個人化WhatsApp歷程。
+* 設定您的 WhatsApp 企業帳戶，並將其連結至 Journey Optimizer。
+* 設定 API 認證、webhook 和頻道設定。
+* 使用核准的訊息範本建立及個人化 WhatsApp 歷程。
 * 使用內建的報告和分析，測試、預覽和發佈行銷活動。
 
-是想要透過世界上最熱門的訊息平台之一擴大觸及率和參與度的行銷人員的理想選擇。
+對於想要透過世界上最熱門的訊息平台之一擴大觸及率和參與度的行銷人員來說，這就是理想選擇。
 
->[!VIDEO](https://video.tv.adobe.com/v/3470255/?learn=on&enablevpops&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/3470244/?learn=on&enablevpops)

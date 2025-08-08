@@ -1,6 +1,6 @@
 ---
-title: WhatsApp管道簡介
-description: 影片提供將WhatsApp與Adobe Journey Optimizer整合價值的高層級概觀。 它強調了WhatsApp的全球觸及和參與的優點，並概述設定WhatsApp商業帳戶、產生存取權杖和建立訊息範本等關鍵必要條件。
+title: WhatsApp 頻道簡介
+description: 該影片從高層次概述了 WhatsApp 與 Adobe Journey Optimizer 整合的價值。它強調了 WhatsApp 的全球影響力和參與度優勢，並概述了設定 WhatsApp 企業帳戶、產生存取權杖和建立訊息範本等關鍵先決條件。
 feature: Whatsapp
 role: Admin, User
 level: Beginner
@@ -8,16 +8,16 @@ doc-type: Feature Video
 duration: 133
 last-substantial-update: 2025-07-30T00:00:00Z
 jira: KT-18562
-source-git-commit: a24ffa6b48c54fbce13f0f2b2182b94fa114328d
-workflow-type: tm+mt
+exl-id: fb6f937e-d1b5-4e15-8ed6-b070fec871d4
+source-git-commit: 20e0da0799956b246370aa04dabec958ff6b51ae
+workflow-type: ht
 source-wordcount: '94'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
+# WhatsApp 頻道簡介
 
-# WhatsApp管道簡介
+該影片從高層次概述了 WhatsApp 與 Adobe Journey Optimizer 整合的價值。它強調了 WhatsApp 的全球影響力和參與度優勢，並概述了設定 WhatsApp 企業帳戶、產生存取權杖和建立訊息範本等關鍵先決條件。
 
-影片提供將WhatsApp與Adobe Journey Optimizer整合價值的高層級概觀。 它強調了WhatsApp的全球觸及和參與的優點，並概述設定WhatsApp商業帳戶、產生存取權杖和建立訊息範本等關鍵必要條件。
-
->[!VIDEO](https://video.tv.adobe.com/v/3470307/?learn=on&enablevpops&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/3470296/?learn=on&enablevpops)
