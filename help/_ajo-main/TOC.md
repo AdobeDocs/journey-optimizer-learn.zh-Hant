@@ -6,7 +6,7 @@ auto-video-transcripts: true
 source-git-commit: 313784a49c81d0aef3e256f5a02c233fd47d9ab6
 workflow-type: tm+mt
 source-wordcount: '910'
-ht-degree: 94%
+ht-degree: 99%
 
 ---
 
@@ -17,8 +17,8 @@ ht-degree: 94%
 + 使用案例 {#use-cases}
    + [客戶引導](/help/use-cases/customer-onboarding.md)
    + [捨棄的購物車](/help/use-cases/abandoned-cart.md)
-   + [智慧型重新參與 — 放棄的瀏覽](https://experienceleague.adobe.com/zh-hant/docs/experience-platform/rtcdp/use-cases/personalization-insights-engagement/use-cases-luma){target="_blank"}
-   + [在 Adobe Journey Optimizer 中使用網頁 SDK 以即時天氣資料個人化優惠方案](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction){target="_blank"}
+   + [智慧重新參與 - 放棄瀏覽](https://experienceleague.adobe.com/zh-hant/docs/experience-platform/rtcdp/use-cases/personalization-insights-engagement/use-cases-luma){target="_blank"}
+   + [在 Adobe Journey Optimizer 中使用網頁 SDK 以即時天氣資料將優惠方案個人化](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction){target="_blank"}
    + [正在產生優惠曝光和點按次數報告](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/reporting-on-ajo-od/introduction){target="_blank"}
    + [使用排名公式在 Journey Optimizer 中提供個人化優惠](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction){target="_blank"}
    + [強化客戶參與度](/help/use-cases/enhance-customer-engagement.md){target="_blank"}
@@ -43,8 +43,8 @@ ht-degree: 94%
       + [建立網路行銷活動](/help/create-campaigns/web-campaign.md)
       + [建立以程式碼為主的體驗活動](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/tutorials/channels/code-based-experience-channel/create-a-code-based-experience-campaign)
       + [建立電子郵件行銷活動的內容實驗](/help/create-campaigns/content-experiments.md)
-      + [在行銷活動中運用訊息最佳化](/help/create-campaigns/leverage-message-optimization-in-a-campaign.md)
-   + API觸發的行銷活動 {#api-triggered-campaigns}
+      + [在行銷活動中利用訊息最佳化](/help/create-campaigns/leverage-message-optimization-in-a-campaign.md)
+   + 由 API 觸發的行銷活動 {#api-triggered-campaigns}
       + [利用 API 觸發行銷活動](/help/create-campaigns/api-triggered-campaigns.md)
    + 協調的行銷活動 {#orchestrated-campaigns}
 + 歷程 {#create-journeys}
@@ -113,10 +113,10 @@ ht-degree: 94%
       + [製作網路行銷活動](/help/channels/author-a-web-campaign.md)
       + [網頁編輯器中的 SPA 支援](/help/channels/singel-page-application-support.md)
    + WhatsApp {#whatsapp}
-      + [開始使用WhatsApp （端對端）](/help/channels/get-started-with-whatsapp-in-ajo.md)
-      + [WhatsApp管道簡介](/help/channels/whatsapp-introduction.md)
-      + [設定WhatsApp頻道](/help/channels/set-up-whatsapp.md)
-      + [建立WhatsApp歷程](/help/channels/create-a-whatsapp-journey.md)
+      + [開始使用 WhatsApp 訊息 (端到端)](/help/channels/get-started-with-whatsapp-in-ajo.md)
+      + [WhatsApp 頻道簡介](/help/channels/whatsapp-introduction.md)
+      + [設定 WhatsApp 頻道](/help/channels/set-up-whatsapp.md)
+      + [建立 WhatsApp 歷程](/help/channels/create-a-whatsapp-journey.md)
 + 內容管理{#content-management}
    + [訊息製作 — 概觀](/help/content-management/message-authoring-overview.md)
    + 管理資產 {#assets}
@@ -202,8 +202,8 @@ ht-degree: 94%
          + [設定 RCS](/help/set-up-channels/set-up-rcs.md)
       + 網頁與行動裝置頻道 {#web-and-mobile-channels}
          + [引導式管道設定](/help/set-up-channels/guided-channel-setup.md)
-      + WhatsApp頻道 {#whatsapp-channel}
-         + [設定WhatsApp頻道](/help/set-up-channels/set-up-whatsapp-channel.md)
+      + WhatsApp 頻道 {#whatsapp-channel}
+         + [設定 WhatsApp 頻道](/help/set-up-channels/set-up-whatsapp-channel.md)
    + 設定歷程 {#journey-configuration}
       + [設定資料來源](/help/set-up-journeys/configure-data-sources.md)
       + [建立事件](/help/set-up-journeys/create-events.md)
