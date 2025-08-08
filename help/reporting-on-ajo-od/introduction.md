@@ -8,14 +8,14 @@ doc-type: Tutorial
 last-substantial-update: 2025-07-18T00:00:00Z
 jira: KT-18526
 exl-id: ae74485f-9ea1-428d-9c07-5db0c5cf93fb
-source-git-commit: bfeab1e933f2a510506c0ecf911df41e66cb959b
+source-git-commit: 39376d745d851bf2c3ed3826b9f550efafd9e8f4
 workflow-type: tm+mt
-source-wordcount: '263'
+source-wordcount: '261'
 ht-degree: 0%
 
 ---
 
-# 追蹤和報告透過Adobe Journey Optimizer Decisioning傳遞的AJO (AJO)選件
+# 追蹤並報告透過AJO decisioning傳遞的Journey Optimizer優惠方案
 
 此使用案例著重於啟用透過Adobe Journey Optimizer (AJO)傳送之選件的報表和效能分析。 根據內容訊號（例如天氣或位置）個人化並提供優惠時，必須追蹤曝光次數和使用者互動，以評估其成效。
 
