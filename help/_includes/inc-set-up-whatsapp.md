@@ -17,4 +17,4 @@ ht-degree: 100%
 
 非常適合希望在客戶歷程中啟用 WhatsApp 訊息的行銷人員和開發人員。
 
->[!VIDEO](https://video.tv.adobe.com/v/3470268/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470279/?learn=on&enablevpops&captions=chi_hant)

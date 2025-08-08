@@ -28,4 +28,4 @@ ht-degree: 100%
 
 非常適合希望透過 WhatsApp 實現個人化客戶參與自動化的行銷人員。
 
->[!VIDEO](https://video.tv.adobe.com/v/3470282/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470293/?learn=on&enablevpops&captions=chi_hant)
