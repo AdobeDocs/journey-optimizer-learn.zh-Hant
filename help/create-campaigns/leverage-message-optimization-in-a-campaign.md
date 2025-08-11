@@ -24,4 +24,4 @@ ht-degree: 89%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3470368/?learn=on&enablevpops)
 
-如需有關此功能的詳細資訊，請參閱[產品檔案](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/campaigns/action-campaigns/campaigns-message-optimization)。
+如需有關此功能的詳細資訊，請參閱[產品檔案](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer/using/campaigns/action-campaigns/campaigns-message-optimization)。
