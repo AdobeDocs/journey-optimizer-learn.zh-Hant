@@ -22,6 +22,6 @@ ht-degree: 100%
 
 了解如何建立和自訂自己的品牌，以在整個通訊過程中清楚地定義您的視覺和語言識別。了解如何透過品牌一致性分數，收到即時回饋，以了解您的內容對您的品牌基調、風格和方針的反映程度。
 
->[!VIDEO](https://video.tv.adobe.com/v/3470544/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470557/?learn=on&enablevpops&captions=chi_hant)
 
 如需此功能的詳細資訊，請參閱[產品文件](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer/using/content-management/ai-assistant/brands/brands)。
