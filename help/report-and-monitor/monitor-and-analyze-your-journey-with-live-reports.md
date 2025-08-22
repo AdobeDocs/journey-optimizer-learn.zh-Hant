@@ -20,4 +20,4 @@ ht-degree: 0%
 
 瞭解如何有效使用Adobe Journey Optimizer的即時報告功能來即時監控和分析歷程和訊息的效能。 瞭解如何自訂儀表板、匯出報表及解譯歷程特定量度，以最佳化您的行銷策略。
 
->[!VIDEO](https://video.tv.adobe.com/v/3470709/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470846/?learn=on&enablevpops&captions=chi_hant)
