@@ -24,9 +24,9 @@ ht-degree: 63%
 3. 根據資料深入分析精簡訊息時間、內容和目標。
 
 <!-- CARDS
-* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/report-and-monitor/measurement-and-reporting-overview
-* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/report-and-monitor/channel-level-reports
-* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/report-and-monitor/enhanced-reporting-with-customer-journey-analytics
+* https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/tutorials/report-and-monitor/measurement-and-reporting-overview
+* https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/tutorials/report-and-monitor/channel-level-reports
+* https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/tutorials/report-and-monitor/enhanced-reporting-with-customer-journey-analytics
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
@@ -57,7 +57,7 @@ ht-degree: 63%
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/report-and-monitor/channel-level-reports" title="頻道層級報告" target="_blank" rel="referrer">
+                    <a href="https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/tutorials/report-and-monitor/channel-level-reports" title="頻道層級報告" target="_blank" rel="referrer">
                         <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3424537/?format=jpeg&nocache=1755729019635" alt="頻道層級報告"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
@@ -66,11 +66,11 @@ ht-degree: 63%
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/report-and-monitor/channel-level-reports" target="_blank" rel="referrer" title="頻道層級報告">頻道層級報告</a>
+                        <a href="https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/tutorials/report-and-monitor/channel-level-reports" target="_blank" rel="referrer" title="頻道層級報告">頻道層級報告</a>
                     </p>
                     <p class="is-size-6">了解如何存取、導覽和匯出頻道層級的報告。</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/report-and-monitor/channel-level-reports" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/tutorials/report-and-monitor/channel-level-reports" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">觀看</span>
                 </a>
             </div>
@@ -80,7 +80,7 @@ ht-degree: 63%
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/report-and-monitor/enhanced-reporting-with-customer-journey-analytics" title="使用 Customer Journey Analytics 增強報告功能" target="_blank" rel="referrer">
+                    <a href="https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/tutorials/report-and-monitor/enhanced-reporting-with-customer-journey-analytics" title="使用 Customer Journey Analytics 增強報告功能" target="_blank" rel="referrer">
                         <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3430413/?format=jpeg&nocache=1755729019655" alt="使用 Customer Journey Analytics 增強報告功能"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
@@ -89,11 +89,11 @@ ht-degree: 63%
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/report-and-monitor/enhanced-reporting-with-customer-journey-analytics" target="_blank" rel="referrer" title="使用 Customer Journey Analytics 增強報告功能">Customer Journey Analytics的增強型報告</a>
+                        <a href="https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/tutorials/report-and-monitor/enhanced-reporting-with-customer-journey-analytics" target="_blank" rel="referrer" title="使用 Customer Journey Analytics 增強報告功能">Customer Journey Analytics的增強型報告</a>
                     </p>
                     <p class="is-size-6">Journey Optimizer 報告功能現在與 Customer Journey Analytics 功能完全整合，可將兩個平台間的報告標準化，並改善資料一致性與可靠性。Journey Optimizer 與 Customer Journey Analytics 之間的緊密整合可讓您更清楚檢視績效量度，讓使用者能做出更明智的決策。</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/report-and-monitor/enhanced-reporting-with-customer-journey-analytics" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/tutorials/report-and-monitor/enhanced-reporting-with-customer-journey-analytics" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">觀看</span>
                 </a>
             </div>

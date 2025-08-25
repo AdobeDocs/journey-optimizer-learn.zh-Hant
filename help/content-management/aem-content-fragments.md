@@ -26,6 +26,6 @@ ht-degree: 65%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3457691/?learn=on&enablevpops)
 
-Experience League LIVE - [使用AEM內容片段和Dynamic Media在Journey Optimizer中推動個人化內容](https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-07-31-25)
+Experience League LIVE - [使用AEM內容片段和Dynamic Media在Journey Optimizer中推動個人化內容](https://experienceleague.adobe.com/zh-hant/docs/events/experience-league-live-recordings/episodes/exl-live-episode-07-31-25)
 
 在這場會議中，Jyothitha Chandran、Chris Ivory和Kaitlin White展示了Adobe Journey Optimizer (AJO)如何與Adobe Experience Manager (AEM) Sites內容片段和AEM Assets Dynamic Media緊密整合，以跨每個頻道提供可擴充的即時個人化。
