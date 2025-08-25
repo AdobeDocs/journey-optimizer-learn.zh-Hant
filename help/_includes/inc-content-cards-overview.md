@@ -7,7 +7,7 @@ ht-degree: 2%
 ---
 # 內容卡 — 概觀
 
->[!VIDEO](https://video.tv.adobe.com/v/3458224/?learn=on&enablevpops){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3460101/?learn=on&enablevpops&captions=chi_hant){transcript=true}
 
 ## 這是什麼？
 
