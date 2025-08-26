@@ -7,9 +7,9 @@ hide: true
 index: false
 last-substantial-update: 2025-08-22T00:00:00Z
 exl-id: f0612a1d-f919-4b67-9e33-a9fb623062dc
-source-git-commit: b70b2cca5d95d931c8bbd52a69e96ccc31faa92c
+source-git-commit: b3469f95fdff0757e2f8795a7420b0b0a92caa01
 workflow-type: tm+mt
-source-wordcount: '901'
+source-wordcount: '900'
 ht-degree: 0%
 
 ---
@@ -29,37 +29,37 @@ Journey Optimizer支援傳入和傳出的行動裝置頻道：
 
 傳出頻道是用來將訊息&#x200B;**主動傳送給客戶**，而不需要事先互動。 這些適用於行銷活動、促銷活動和異動通訊。
 
+這些通道會在訊息傳送時強制執行&#x200B;**自訂同意原則**。 如果沒有針對特定行銷動作授與同意，則會封鎖訊息的傳送。
+
 | ![推播通知](/help/mobile-learning-hub/assets/mobile-phone.webp){width=&quot;250&quot;， height=&quot;250&quot;}<br> **[推播通知](/help/mobile-learning-hub/channels/push-notifications-overview.md)** | ![SMS/MMS/RCS](/help/mobile-learning-hub/assets/SMS.png){width=&quot;250&quot;， height=&quot;250&quot;}<br> **[簡訊/多媒體簡訊/RCS](/help/mobile-learning-hub/channels/sms-mms-rcs-overview.md)** | ![WhatsApp](/help/mobile-learning-hub/assets/whatsapp.webp){width=&quot;250&quot;， height=&quot;250&quot;}<br> **[WhatsApp](/help/mobile-learning-hub/channels/whatsapp-overview.md)** |
 |-------------------------------------|------------------------------------|-------------------------------|
 | 推播訊息會在應用程式外部傳送，立即引起您的注意。 它們非常適合用於時效性強的更新，並鼓勵使用者返回您的應用程式。 | 直接訊息傳送至使用者的行動電話，不需要應用程式。 非常適合緊急警報、提醒和影像或影片等豐富媒體內容。 | 透過廣泛使用的傳訊應用程式提供對話管道，允許個人化、雙向通訊和互動式行銷活動。 |
 
-> 傳出通道在訊息傳送時強制執行&#x200B;**自訂同意原則**。 如果沒有針對特定行銷動作授與同意，則會封鎖訊息的傳送。
-
 ### 傳入頻道
 
-傳入頻道是專為&#x200B;**客戶啟動的互動**&#x200B;所設計，可在使用者與您的品牌互動時提供個人化體驗。
+傳入頻道是專為&#x200B;**客戶啟動的互動**&#x200B;所設計，可在使用者與您的品牌互動時提供個人化體驗。 它們支援&#x200B;**即時個人化**&#x200B;和&#x200B;**資料擷取**，例如可進入Adobe Experience Platform (AEP)進行細分和目標定位的登陸頁面表單。
+
 
 | ![應用程式內訊息](/help/mobile-learning-hub/assets/frescopa-in-app.png){width=&quot;250&quot;，height=&quot;50%&quot;}<br> **[應用程式內訊息](/help/mobile-learning-hub/channels/in-app-messages-overview.md)** | ![內容卡](/help/mobile-learning-hub/assets/content-card.jpeg){width=&quot;250&quot;， height=&quot;250&quot;}<br> **[內容卡](/help/mobile-learning-hub/channels/content-cards-overview.md)** | ![程式碼型體驗](/help/mobile-learning-hub/assets/code-based.png){width=&quot;250&quot;， height=&quot;250&quot;}<br> **[程式碼型體驗](/help/mobile-learning-hub/channels/code-based-experience-overview.md)** |
 |-------------------------------------|------------------------------------|-------------------------------|
 | 在使用者主動使用您的應用程式時傳送，這些訊息會是即時且互動式的。 最適合用來吸引此刻的客戶。 | 使用者可隨時在應用程式記憶體取非侵入式永久性訊息。 內容卡很適合用於共用持續優惠方案或實用資訊。 | 自訂編碼訊息可支援高度個人化和動態的行銷活動，整合即時資料和複雜的客戶歷程。 |
 
-> 傳入管道支援&#x200B;**即時個人化**&#x200B;和&#x200B;**資料擷取**，例如可進入Adobe Experience Platform (AEP)進行細分和目標定位的登陸頁面表單。
 
-### 行動裝置頻道如何搭配運作
+### 行動裝置頻道如何搭配運作？
 
 結合這些管道，您便可建立順暢而有效的客戶體驗：
 
-1. 使用&#x200B;**推播通知**&#x200B;快速吸引注意力，並將使用者帶回您的應用程式（例如「立即開始銷售！」）。
+1. 使用[推播通知](/help/mobile-learning-hub/channels/push-notifications-overview.md)快速吸引注意力，並將使用者帶回您的應用程式（例如「立即開始銷售！」）。
 
-2. 內線後，透過個人化促銷活動傳送&#x200B;**應用程式內訊息** （例如，「您今日優惠有15%的折扣，給你」）。
+2. 內線後，透過個人化促銷活動傳送[應用程式內訊息](/help/mobile-learning-hub/channels/in-app-messages-overview.md) （例如，「您今日優惠有15%的折扣，給你」）。
 
-3. 提供&#x200B;**內容卡**，讓使用者能在促銷到期前隨時重新造訪促銷活動（例如「您的15%折扣於星期五結束」）。
+3. 提供[內容卡](/help/mobile-learning-hub/channels/content-cards-overview.md)，讓使用者能在促銷到期前隨時重新造訪促銷活動（例如「您的15%折扣於星期五結束」）。
 
-4. 使用&#x200B;**SMS/MMS/RCS**&#x200B;直接傳送即時提醒或多媒體選件給可能不在應用程式中的使用者。
+4. 使用[SMS/MMS/RCS](/help/mobile-learning-hub/channels/sms-mms-rcs-overview.md)直接傳送即時提醒或多媒體選件給可能不在應用程式中的使用者。
 
-5. 透過&#x200B;**WhatsApp**&#x200B;與客戶進行有意義的交談，非常適合客戶支援或互動式行銷活動。
+5. 透過[WhatsApp](/help/mobile-learning-hub/channels/whatsapp-overview.md)與客戶進行有意義的交談，非常適合客戶支援或互動式行銷活動。
 
-6. 運用&#x200B;**程式碼型體驗**，根據使用者行為和偏好設定每個訊息，建立真正個人化的跨頻道歷程。
+6. 運用[程式碼型體驗](/help/mobile-learning-hub/channels/code-based-experience-overview.md)，根據使用者行為和偏好設定每個訊息，建立真正個人化的跨頻道歷程。
 
 
 ## 客戶使用案例
