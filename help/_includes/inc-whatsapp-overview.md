@@ -1,5 +1,5 @@
 ---
-source-git-commit: 0ce6d5013bbcf55e49ae920670919f6929a142ec
+source-git-commit: 6aa7b4c72ce5bd72002ad88ba88a20f32d54c360
 workflow-type: tm+mt
 source-wordcount: '265'
 ht-degree: 3%
@@ -32,7 +32,7 @@ ht-degree: 3%
 | 4 | 維持法規遵循與信任 | 訊息會透過具有嚴格選擇加入要求的官方API傳遞 | <ul><li>訂閱確認</li><li>法規通知</li></ul> |
 | 5 | 與其他管道整合 | 結合電子郵件、推播或簡訊，提供順暢的多管道歷程 | <ul><li>跨頻道重新參與</li><li>追蹤放棄的購物車</li></ul> |
 
-## 何時不使用WhatsApp
+## 當&#x200B;*不*&#x200B;使用WhatsApp時
 
 * 如果您的對象未主動使用WhatsApp。
 * 當使用者未明確選擇加入以接收WhatsApp訊息時。
