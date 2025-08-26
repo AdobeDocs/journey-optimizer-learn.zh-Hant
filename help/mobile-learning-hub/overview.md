@@ -7,7 +7,7 @@ hide: true
 index: false
 last-substantial-update: 2025-08-22T00:00:00Z
 exl-id: f0612a1d-f919-4b67-9e33-a9fb623062dc
-source-git-commit: b3469f95fdff0757e2f8795a7420b0b0a92caa01
+source-git-commit: 69eed07e1759e2dfd30934d7ef2c16b1240704e2
 workflow-type: tm+mt
 source-wordcount: '900'
 ht-degree: 0%
@@ -16,7 +16,9 @@ ht-degree: 0%
 
 # Journey Optimizer — 行動學習中心
 
-在Adobe Journey Optimizer (AJO)中使用行動裝置頻道快速啟動或平準。 這是開發人員、管理員、行銷人員和資料分析師的首選空間，可探索從設定傳入和傳出繫結的行動頻道，到將其編織成強大行銷活動的所有內容。 探索最佳實務、瞭解如何促進採用和主報告（全都在一處），讓團隊可以提供有影響力的資料導向行動體驗，隨時隨地與使用者連線。
+在Adobe Journey Optimizer (AJO)中使用行動裝置頻道快速啟動或平準。 這是開發人員、管理員、行銷人員和資料分析師的首選空間，可探索從設定傳入和傳出行動頻道，到將其編織成強大行銷活動的所有內容。
+
+探索最佳實務、瞭解如何促進採用和主報告（全都在一處），讓團隊可以提供有影響力的資料導向行動體驗，隨時隨地與使用者連線。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3432681?quality=12&learn=on){transcript=true}
 
