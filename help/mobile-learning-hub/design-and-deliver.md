@@ -105,7 +105,7 @@ ht-degree: 56%
 
 #### 產品文件
 
-| ![建立推播&#x200B;](./assets/configuration.svg)[**建立推播通知**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/push/create-push){target="_blank"} | ![設計推播&#x200B;](./assets/content-management.png){width="50"}[**設計推播通知**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/push/design-push){target="_blank"} | ![傳送推播&#x200B;](./assets/communication-channel.svg)[**傳送推播通知**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/push/send-push){target="_blank"} |
+| ![建立推播&#x200B;](./assets/configuration.svg) [**建立推播通知**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/push/create-push){target="_blank"} | ![設計推播&#x200B;](./assets/content-management.png){width="50"}[**設計推播通知**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/push/design-push){target="_blank"} | ![傳送推播&#x200B;](./assets/communication-channel.svg) [**傳送推播通知**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/push/send-push){target="_blank"} |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 >[!TAB 應用程式內]
@@ -185,7 +185,7 @@ ht-degree: 56%
 
 #### 文件
 
-| ![建立訊息&#x200B;](./assets/configuration.svg)[**建立行動應用程式內訊息**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/in-app/create-in-app){target="_blank"} | ![設計內容&#x200B;](./assets/content-management.png){width="50"}[**設計應用程式內內容**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/in-app/design-in-app){target="_blank"} | ![傳送通知&#x200B;](./assets/communication-channel.svg)[**傳送應用程式內通知**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/in-app/send-in-app){target="_blank"} |
+| ![建立訊息&#x200B;](./assets/configuration.svg) [**建立行動應用程式內訊息**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/in-app/create-in-app){target="_blank"} | ![設計內容&#x200B;](./assets/content-management.png){width="50"}[**設計應用程式內內容**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/in-app/design-in-app){target="_blank"} | ![傳送通知&#x200B;](./assets/communication-channel.svg) [**傳送應用程式內通知**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/in-app/send-in-app){target="_blank"} |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 >[!TAB 內容卡]
@@ -233,7 +233,7 @@ ht-degree: 56%
 
 #### 產品文件
 
-| ![建立及設定內容卡&#x200B;](./assets/configuration.svg)[**建立及設定內容卡**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/content-card/create-content-card){target="_blank"} | ![設計內容卡&#x200B;](./assets/content-management.png){width="50"}[**設計內容卡**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/content-card/design-content-card){target="_blank"} |
+| ![建立及設定內容卡&#x200B;](./assets/configuration.svg) [**建立及設定內容卡**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/content-card/create-content-card){target="_blank"} | ![設計內容卡&#x200B;](./assets/content-management.png){width="50"}[**設計內容卡**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/content-card/design-content-card){target="_blank"} |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 >[!TAB SMS/MMS/RCS]
@@ -385,7 +385,7 @@ ht-degree: 56%
 
 #### 產品文件
 
-| ![開始使用文字訊息&#x200B;](./assets/configuration.svg)[**開始使用文字訊息**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/sms/get-started-sms){target="_blank"} | ![設計內容&#x200B;](./assets/content-management.png){width="50"}[**建立SMS、MMS和RCS訊息**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/sms/create-sms){target="_blank"} | ![傳送通知&#x200B;](./assets/communication-channel.svg)[**檢查並傳送文字訊息**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/sms/send-sms){target="_blank"} |
+| ![開始使用文字訊息&#x200B;](./assets/configuration.svg) [**開始使用文字訊息**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/sms/get-started-sms){target="_blank"} | ![設計內容&#x200B;](./assets/content-management.png){width="50"}[**建立SMS、MMS和RCS訊息**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/sms/create-sms){target="_blank"} | ![傳送通知&#x200B;](./assets/communication-channel.svg) [**檢查並傳送文字訊息**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/sms/send-sms){target="_blank"} |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 >[!TAB 程式碼型體驗]
@@ -527,7 +527,7 @@ ht-degree: 56%
 
 #### 產品文件
 
-| ![建立WhatsApp訊息](./assets/configuration.svg)[**建立WhatsApp訊息*](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/whatsapp/create-whatsapp){target="_blank"} | ![預覽、驗證和傳送WhatsApp訊息&#x200B;](./assets/communication-channel.svg){width="50"}[**預覽、驗證和傳送WhatsApp訊息**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/whatsapp/send-whatsapp){target="_blank"} |
+| ![建立WhatsApp訊息](./assets/configuration.svg) [**建立WhatsApp訊息*](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/whatsapp/create-whatsapp){target="_blank"} | ![預覽、驗證和傳送WhatsApp訊息&#x200B;](./assets/communication-channel.svg){width="50"}[**&#x200B;預覽、驗證和傳送WhatsApp訊息**](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/whatsapp/send-whatsapp){target="_blank"} |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 >[!ENDTABS]
