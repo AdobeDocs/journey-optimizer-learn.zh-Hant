@@ -3,7 +3,7 @@ user-guide-title: Journey Optimizer 教學課程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 這些是 Journey Optimizer 教學課程。
 auto-video-transcripts: true
-source-git-commit: a3b77dfe47e09816ad4d5b295ebe791c4f133e69
+source-git-commit: fe5ca064c5823c980b19a41a511e534842a91e99
 workflow-type: tm+mt
 source-wordcount: '926'
 ht-degree: 97%
@@ -181,7 +181,7 @@ ht-degree: 97%
    + [將資料集匯出至雲端儲存空間位置](/help/data-management/export-datasets.md)
 + 報告和監視 {#report-and-monitor}
    + [報告和監視](/help/report-and-monitor/report-and-monitor.md)
-   + [使用Journey Optimizer製作報表的簡介](/help/report-and-monitor/measurement-and-reporting-overview.md)
+   + [使用Journey Optimizer製作報表的簡介](/help/report-and-monitor/introduction-to-reporting.md)
    + [使用即時報告監控和分析您的歷程](/help/report-and-monitor/monitor-and-analyze-your-journey-with-live-reports.md)
    + [使用歷程報告監控及分析您的歷程](/help/report-and-monitor/journey-reports.md)
    + [頻道層級報告](/help/report-and-monitor/channel-level-reports.md)
