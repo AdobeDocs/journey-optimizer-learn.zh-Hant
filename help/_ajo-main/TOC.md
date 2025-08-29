@@ -6,7 +6,7 @@ auto-video-transcripts: true
 source-git-commit: 64b0ee761c45d5db11941ac7d994a7f2c798f250
 workflow-type: tm+mt
 source-wordcount: '938'
-ht-degree: 95%
+ht-degree: 96%
 
 ---
 
@@ -124,8 +124,8 @@ ht-degree: 95%
       + [設定多語言訊息傳送](/help/content-management/set-up-multilingual-messages.md)
       + [建立多語言訊息](/help/content-management/create-multilingual-messages.md)
    + 用於內容產生的 AI 助理 {#ai-assistant}
-      + [用於內容產生的 AI 助理 — 概觀](/help/content-management/ai-assistant-for-content-generation-overview.md)
-      + [請使用 AI 助理產生內容，以便建立內容](/help/content-management/create-content-using-ai-assistant-for-content-generation.md)
+      + [用於內容產生的 AI 助理 - 概觀](/help/content-management/ai-assistant-for-content-generation-overview.md)
+      + [請使用 AI 助理建立內容，以便進行內容產生](/help/content-management/create-content-using-ai-assistant-for-content-generation.md)
       + [品牌方針建立與管理](/help/content-management/brand-guideline-creation-and-management.md)
    + [使用 GenStudio 建立電子郵件](/help/content-management/create-an-email-using-genstudio.md)
 + 將內容個人化 {#personalize-content}
@@ -142,7 +142,7 @@ ht-degree: 95%
    + [建立電子郵件行銷活動的內容實驗](/help/experimentation/content-experiments-for-emails.md)
 + 決定功能{#decision-capabilities}
    + 決策 {#decisioning}
-      + [Decisioning 簡介](/help/decisioning/introduction-to-decisioning.md)
+      + [決策簡介](/help/decisioning/introduction-to-decisioning.md)
       + [端到端決策逐步說明](/help/decisioning/decisioning-end-to-end.md)
       + [瀏覽公式產生器介面](/help/decisioning/formula-builder-ui.md)
       + [使用即時天氣資料個人化優惠方案](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction)
@@ -172,7 +172,7 @@ ht-degree: 95%
 + 報告和監視 {#report-and-monitor}
    + [報告和監視](/help/report-and-monitor/report-and-monitor.md)
    + [使用Journey Optimizer製作報表的簡介](/help/report-and-monitor/introduction-to-reporting.md)
-   + [使用即時報告監控和分析您的歷程](/help/report-and-monitor/monitor-and-analyze-your-journey-with-live-reports.md)
+   + [使用即時報告監視和分析您的歷程](/help/report-and-monitor/monitor-and-analyze-your-journey-with-live-reports.md)
    + [使用歷程報告監控及分析您的歷程](/help/report-and-monitor/journey-reports.md)
    + [頻道層級報告](/help/report-and-monitor/channel-level-reports.md)
    + [以 CSV 格式匯出報告](/help/report-and-monitor/export-reports-in-csv-format.md)

@@ -9,8 +9,8 @@ doc-type: overview-page
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
 source-git-commit: e3bc8e24f6a8a59a84341f9d31d0e372fa6e99ab
 workflow-type: tm+mt
-source-wordcount: '580'
-ht-degree: 98%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -33,13 +33,13 @@ Journey Optimizer 可讓公司建立一致的情境式個人化客戶體驗。�
 ## 最新 Experience League 直播活動
 
 <!-- CARDS
-* https://experienceleague.adobe.com/zh-hant/docs/events/experience-league-live-recordings/episodes/exl-live-episode-07-31-25
+* https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-07-31-25
     {title = Fueling Personalized Content in Journey Optimizer with AEM Content Fragments and Dynamic Media (July 31 2025)}
     {description = In this session, Jyothitha Chandran, Chris Ivory, and Kaitlin White showcased how Adobe Journey Optimizer (AJO) integrates seamlessly with Adobe Experience Manager (AEM) Sites Content Fragments and AEM Assets Dynamic Media to deliver scalable, real-time personalization across every channel.}
-* https://experienceleague.adobe.com/zh-hant/docs/events/experience-league-live-recordings/episodes/exl-live-episode-06-18-25
+* https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-06-18-25
   {title = Master Frequency Capping & Conflict Prioritization (June 18, 2025)}
   {description = In this session, Adobe experts Ariel Sultan and Aaron Forrest dove into new features in Adobe Journey Optimizer to help you govern and prioritize customer messages with precision. They showed how to reduce messaging fatigue, resolve conflicts, and deliver impactful experiences that resonate. }
-* https://experienceleague.adobe.com/zh-hant/docs/events/experience-league-live-recordings/episodes/exl-live-episode-40-2024-10-24
+* https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-40-2024-10-24
      {title = Agile Workflows for Personalized Content at Scale (June 05, 2025)}
      {description = In this session, Adobe experts Chris Ivory, Amarnath Vannarath, and Rohan Bhatt showcase how Adobe Journey Optimizer (AJO) seamlessly integrates with Adobe Express and GenStudio for Performance Marketing. Learn how these tools bring unparalleled flexibility, collaboration, and AI-powered creativity to your marketing workflows.}
 -->
@@ -122,9 +122,9 @@ Journey Optimizer 可讓公司建立一致的情境式個人化客戶體驗。�
 ## 工作人員選擇
 
 <!-- CARDS
-* https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/tutorials/introduction-to-journey-optimizer/key-capabilities-and-user-interface
-* https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/tutorials/create-journeys/introduction-to-building-a-journey
-* https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/tutorials/profiles-audiences-subscriptions/create-audiences-using-the-rule-builder
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/introduction-to-journey-optimizer/key-capabilities-and-user-interface
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/create-journeys/introduction-to-building-a-journey
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/profiles-audiences-subscriptions/create-audiences-using-the-rule-builder
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
@@ -133,7 +133,7 @@ Journey Optimizer 可讓公司建立一致的情境式個人化客戶體驗。�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/tutorials/introduction-to-journey-optimizer/key-capabilities-and-user-interface" title="重要功能和使用者介面" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3430323?format=jpeg&nocache=1754352424467&captions=chi_hant" alt="重要功能和使用者介面"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3424995?format=jpeg&nocache=1754352424467" alt="重要功能和使用者介面"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -156,7 +156,7 @@ Journey Optimizer 可讓公司建立一致的情境式個人化客戶體驗。�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/tutorials/create-journeys/introduction-to-building-a-journey" title="建立歷程簡介" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3430349?format=jpeg&nocache=1754352424452&captions=chi_hant" alt="建立歷程簡介"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3424996?format=jpeg&nocache=1754352424452" alt="建立歷程簡介"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -179,7 +179,7 @@ Journey Optimizer 可讓公司建立一致的情境式個人化客戶體驗。�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/tutorials/profiles-audiences-subscriptions/create-audiences-using-the-rule-builder" title="使用規則產生器建立客群" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3430328?format=jpeg&nocache=1754352424460&captions=chi_hant" alt="使用規則產生器建立客群"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3425020?format=jpeg&nocache=1754352424460" alt="使用規則產生器建立客群"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -201,9 +201,9 @@ Journey Optimizer 可讓公司建立一致的情境式個人化客戶體驗。�
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
 
 <!-- CARDS
-* https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/tutorials/content-management/ai-assistant/create-content-using-ai-assistant-for-content-generation
-* https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/tutorials/decision-capabilities/decisioning/decisioning-end-to-end
-* https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/tutorials/channels/in-app-channel/content-experiments-for-in-app-messages
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/content-management/ai-assistant/create-content-using-ai-assistant-for-content-generation
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/decision-capabilities/decisioning/decisioning-end-to-end
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/in-app-channel/content-experiments-for-in-app-messages
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
@@ -211,8 +211,8 @@ Journey Optimizer 可讓公司建立一致的情境式個人化客戶體驗。�
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/tutorials/content-management/ai-assistant/create-content-using-ai-assistant-for-content-generation" title="請使用 AI 助理產生內容，以便建立內容" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3434646/?format=jpeg&nocache=1750720619194&captions=chi_hant" alt="請使用 AI 助理產生內容，以便建立內容"
+                    <a href="https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/tutorials/content-management/ai-assistant/create-content-using-ai-assistant-for-content-generation" title="請使用 AI 助理建立內容，以便進行內容產生" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3434635/?format=jpeg&nocache=1750720619194" alt="請使用 AI 助理建立內容，以便進行內容產生"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -220,9 +220,9 @@ Journey Optimizer 可讓公司建立一致的情境式個人化客戶體驗。�
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/tutorials/content-management/ai-assistant/create-content-using-ai-assistant-for-content-generation" target="_blank" rel="referrer" title="請使用 AI 助理產生內容，以便建立內容">使用AI助理建立內容以產生內容</a>
+                        <a href="https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/tutorials/content-management/ai-assistant/create-content-using-ai-assistant-for-content-generation" target="_blank" rel="referrer" title="請使用 AI 助理建立內容，以便進行內容產生">請使用 AI 助理產生內容，以便建立內容</a>
                     </p>
-                    <p class="is-size-6">瞭解如何使用 AI 助理，為文字和影像產生主動式內容變化版本建議，可應用於建立內容。</p>
+                    <p class="is-size-6">瞭解如何使用 AI 助理，為文字和影像產生主動式內容變化版本建議，可用於建立內容。</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/tutorials/content-management/ai-assistant/create-content-using-ai-assistant-for-content-generation" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">觀看</span>
@@ -234,8 +234,8 @@ Journey Optimizer 可讓公司建立一致的情境式個人化客戶體驗。�
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/tutorials/decision-capabilities/decisioning/decisioning-end-to-end" title="決定端對端逐步說明" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3451100/?format=jpeg&nocache=1754352425190" alt="決定端對端逐步說明"
+                    <a href="https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/tutorials/decision-capabilities/decisioning/decisioning-end-to-end" title="決定端到端逐步說明" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3451100/?format=jpeg&nocache=1754352425190" alt="決定端到端逐步說明"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -243,9 +243,9 @@ Journey Optimizer 可讓公司建立一致的情境式個人化客戶體驗。�
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/tutorials/decision-capabilities/decisioning/decisioning-end-to-end" target="_blank" rel="referrer" title="決定端對端逐步說明">決定端對端逐步說明</a>
+                        <a href="https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/tutorials/decision-capabilities/decisioning/decisioning-end-to-end" target="_blank" rel="referrer" title="決定端到端逐步說明">決定端對端逐步說明</a>
                     </p>
-                    <p class="is-size-6">Journey Optimizer 中的決定端對端逐步說明</p>
+                    <p class="is-size-6">Journey Optimizer 中的決定端到端逐步說明</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/tutorials/decision-capabilities/decisioning/decisioning-end-to-end" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">觀看</span>
@@ -258,7 +258,7 @@ Journey Optimizer 可讓公司建立一致的情境式個人化客戶體驗。�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/tutorials/channels/in-app-channel/content-experiments-for-in-app-messages" title="設定應用程式內訊息的內容實驗" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3445299/?format=jpeg&nocache=1754352425182&captions=chi_hant" alt="設定應用程式內訊息的內容實驗"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3419898/?format=jpeg&nocache=1754352425182" alt="設定應用程式內訊息的內容實驗"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
