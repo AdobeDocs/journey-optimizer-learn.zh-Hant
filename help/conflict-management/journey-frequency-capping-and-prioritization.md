@@ -1,6 +1,6 @@
 ---
 title: 歷程頻率上限和優先順序
-description: 瞭解如何排定傳入動作的優先順序，確保當客戶符合使用相同通道設定的多個傳入動作資格時，會將最高優先順序的內容傳送給客戶。
+description: 了解如何針對傳入動作進行優先排序，確保客戶在有資格使用相同管道設定進行多項傳入動作時，能向客戶傳遞最優先的內容。
 feature: Frequency Rules, Journeys
 role: Admin, User
 level: Intermediate
@@ -8,18 +8,18 @@ doc-type: Feature Video
 duration: 274
 last-substantial-update: 2025-06-07T00:00:00Z
 jira: KT-18267
-source-git-commit: dfe947bd40b787ac6e3e1a6f3e2c4c9f25791a1d
-workflow-type: tm+mt
+exl-id: 7083901f-3c07-4c6d-8ee0-23ff35a56b51
+source-git-commit: b4cf9b677c6bc142e1013649db16b3a70b405052
+workflow-type: ht
 source-wordcount: '80'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
+# 歷程頻率上限和優先順序
 
-# 歷程頻率限定和優先順序
+了解如何針對傳入動作進行優先排序，確保客戶在有資格使用相同管道設定進行多項傳入動作時，能向客戶傳遞最優先的內容。
 
-瞭解如何排定傳入動作的優先順序，確保當客戶符合使用相同通道設定的多個傳入動作資格時，會將最高優先順序的內容傳送給客戶。
+>[!VIDEO](https://video.tv.adobe.com/v/3435530/?learn=on&enablevpops)
 
->[!VIDEO](https://video.tv.adobe.com/v/3447626/?learn=on&enablevpops&captions=chi_hant)
-
-請參閱產品檔案以取得有關[歷程上限與仲裁](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer/using/conflict-prioritization/capping-rules/journey-capping)的詳細資訊。
+請參閱產品文件以了解關於[歷程上限與仲裁](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer/using/conflict-prioritization/capping-rules/journey-capping)的更多資訊。
