@@ -3,9 +3,9 @@ user-guide-title: Journey Optimizer 教學課程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 這些是 Journey Optimizer 教學課程。
 auto-video-transcripts: true
-source-git-commit: 64b0ee761c45d5db11941ac7d994a7f2c798f250
+source-git-commit: f2354e6ebd8c033de11556493321f09a209d4817
 workflow-type: tm+mt
-source-wordcount: '938'
+source-wordcount: '930'
 ht-degree: 96%
 
 ---
@@ -29,12 +29,11 @@ ht-degree: 96%
       + [設定並傳送推播行銷活動](/help/campaigns/action-campaigns/push-campaign.md)
       + [建立網路行銷活動](/help/campaigns/action-campaigns/web-campaign.md)
       + [建立以程式碼為主的體驗活動](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/tutorials/channels/code-based-experience-channel/create-a-code-based-experience-campaign)
-      + [在行銷活動中利用訊息最佳化](/help/create-campaigns/leverage-message-optimization-in-a-campaign.md)
-   + 由 API 觸發的行銷活動 {#api-triggered-campaigns}
+      + [在行銷活動中利用訊息最佳化](/help/campaigns/action-campaigns/leverage-message-optimization-in-a-campaign.md)
       + [利用 API 觸發行銷活動](/help/campaigns/api-triggered-campaigns/api-triggered-campaigns.md)
    + 協調的行銷活動 {#orchestrated-campaigns}
       + [協調行銷活動簡介](/help/campaigns/orchestrated-campaigns/introduction-to-orchestrated-campaigns.md)
-      + [瞭解關聯式結構描述](/help/orchestrated-campaigns/understand-relational-schemas.md)
+      + [瞭解關聯式結構描述](/help/campaigns/orchestrated-campaigns/understand-relational-schemas.md)
 + 歷程 {#create-journeys}
    + [歷程設計師 — 概觀](/help/create-journeys/journey-designer-overview.md)
    + [探索全新歷程設計程式](/help/create-journeys/new-journey-designer.md)
@@ -78,7 +77,6 @@ ht-degree: 96%
       + [使用電子郵件設計工具建立內容](/help/channels/create-content-with-the-email-designer.md)
       + [匯入及編寫 HTML 電子郵件內容](/help/channels/import-and-author-html-email-content.md)
       + [預覽、校樣和發佈](/help/channels/preview-proof-and-publish.md)
-      + [設定電子郵件的內容實驗](/help/experimentation/content-experiments-for-emails.md)
    + 內容卡片{#content-cards}
       + [建立內容卡片](/help/channels/create-content-cards.md)
    + 應用程式內頻道{#in-app-channel}
