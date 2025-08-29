@@ -11,16 +11,16 @@ hide: true
 hidefromtoc: true
 index: false
 jira: KT-18519
-source-git-commit: 7749164744a667433d93ea8f33d2278863ab275e
+exl-id: a58a964b-0414-4061-ab5d-170f8a0a1f46
+source-git-commit: 5e3cbc5d8294c02356ea135b9b3dfeac077874e5
 workflow-type: tm+mt
 source-wordcount: '106'
 ht-degree: 0%
 
 ---
 
-
 # 瞭解Experience Platform中的關聯式結構描述
 
 在本教學課程中，您已深入瞭解關聯式綱要(專屬於Journey Optimizer中的協調行銷活動)如何與即時客戶設定檔搭配運作。 瞭解資料擷取、方案模型、細分和行銷活動執行背後的核心概念，為您設計結構化、可擴充和個人化的客戶歷程奠定基礎。
 
->[!VIDEO](https://video.tv.adobe.com/v/3470225/?learn=on&enablevpops&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/3470214/?learn=on&enablevpops)
