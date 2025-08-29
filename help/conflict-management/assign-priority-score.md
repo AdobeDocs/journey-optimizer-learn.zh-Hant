@@ -20,6 +20,6 @@ ht-degree: 100%
 
 了解如何針對傳入動作進行優先排序，確保客戶在有資格使用相同管道設定進行多項傳入動作時，能向客戶傳遞最優先的內容。
 
->[!VIDEO](https://video.tv.adobe.com/v/3435529/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3445012/?learn=on&enablevpops&captions=chi_hant)
 
 請參閱產品文件，深入了解如何[將優先順序分數指派給歷程與行銷活動](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer/using/conflict-prioritization/priority-scores)。
