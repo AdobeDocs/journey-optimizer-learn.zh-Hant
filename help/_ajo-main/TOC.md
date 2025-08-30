@@ -3,9 +3,9 @@ user-guide-title: Journey Optimizer 教學課程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 這些是 Journey Optimizer 教學課程。
 auto-video-transcripts: true
-source-git-commit: f2354e6ebd8c033de11556493321f09a209d4817
+source-git-commit: 442dc6a8daa84173e0db176edc757d7164c2b2e1
 workflow-type: tm+mt
-source-wordcount: '930'
+source-wordcount: '933'
 ht-degree: 96%
 
 ---
@@ -30,6 +30,7 @@ ht-degree: 96%
       + [建立網路行銷活動](/help/campaigns/action-campaigns/web-campaign.md)
       + [建立以程式碼為主的體驗活動](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/tutorials/channels/code-based-experience-channel/create-a-code-based-experience-campaign)
       + [在行銷活動中利用訊息最佳化](/help/campaigns/action-campaigns/leverage-message-optimization-in-a-campaign.md)
+   + 由 API 觸發的行銷活動 {#api-triggered-campaigns}
       + [利用 API 觸發行銷活動](/help/campaigns/api-triggered-campaigns/api-triggered-campaigns.md)
    + 協調的行銷活動 {#orchestrated-campaigns}
       + [協調行銷活動簡介](/help/campaigns/orchestrated-campaigns/introduction-to-orchestrated-campaigns.md)
