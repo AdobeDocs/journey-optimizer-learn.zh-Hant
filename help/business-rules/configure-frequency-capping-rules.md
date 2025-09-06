@@ -20,6 +20,6 @@ ht-degree: 100%
 
 了解如何使用 Adobe Journey Optimizer 業務規則來設定頻率上限並防止過度向客戶提供服務。此影片會逐步說明如何建立全域和自訂規則集 (例如將所有電子郵件限制為每日一封電子郵件，或個別設定促銷電子郵件的上限)，並說明如何將這些規則套用至行銷活動，以有效管理客戶疲勞。
 
->[!VIDEO](https://video.tv.adobe.com/v/3433395/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3433406/?learn=on&captions=chi_hant)
 
 如需詳細資訊，請參閱[產品文件](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer/using/configuration/frequency-rules)。

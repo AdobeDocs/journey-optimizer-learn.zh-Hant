@@ -20,4 +20,4 @@ ht-degree: 100%
 
 了解如何使用[互動式訊息執行 REST API](https://developer.adobe.com/journey-optimizer-apis/references/messaging/#tag/execution)，根據使用者互動，建立行銷活動並從外部系統予以觸發。
 
->[!VIDEO](https://video.tv.adobe.com/v/3425358/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3452736/?learn=on&captions=chi_hant)

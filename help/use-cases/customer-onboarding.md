@@ -20,4 +20,4 @@ ht-degree: 100%
 
 了解如何在 Journey Optimizer 中實施客戶入門歷程。此流程會以新忠誠會員為目標，提供個人化電子郵件和簡訊以鼓勵下載應用程式。其包括傳送歡迎電子郵件、檢查應用程式安裝，以及後續提醒。本教學課程也說明如何使用 AI 內容助理建立及個人化內容。
 
->[!VIDEO](https://video.tv.adobe.com/v/3440650/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3440661/?learn=on&enablevpops&captions=chi_hant)
