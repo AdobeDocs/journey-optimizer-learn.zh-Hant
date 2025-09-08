@@ -6,7 +6,7 @@ auto-video-transcripts: true
 source-git-commit: f53bda362d6507a72845f4822d2a34fe122050a5
 workflow-type: tm+mt
 source-wordcount: '933'
-ht-degree: 96%
+ht-degree: 99%
 
 ---
 
@@ -33,7 +33,7 @@ ht-degree: 96%
    + 由 API 觸發的行銷活動 {#api-triggered-campaigns}
       + [利用 API 觸發行銷活動](/help/campaigns/api-triggered-campaigns/api-triggered-campaigns.md)
    + 協調的行銷活動 {#orchestrated-campaigns}
-      + [協調行銷活動簡介](/help/campaigns/orchestrated-campaigns/introduction-to-orchestrated-campaigns.md)
+      + [協調的行銷活動簡介](/help/campaigns/orchestrated-campaigns/introduction-to-orchestrated-campaigns.md)
       + [關聯式存放區基本需知](/help/campaigns/orchestrated-campaigns/relational-store-basics.md)
 + 歷程 {#create-journeys}
    + [歷程設計師 — 概觀](/help/create-journeys/journey-designer-overview.md)
@@ -170,10 +170,10 @@ ht-degree: 96%
    + [將資料集匯出至雲端儲存空間位置](/help/data-management/export-datasets.md)
 + 報告和監視 {#report-and-monitor}
    + [報告和監視](/help/report-and-monitor/report-and-monitor.md)
-   + [使用Journey Optimizer製作報表的簡介](/help/report-and-monitor/introduction-to-reporting.md)
+   + [使用 Journey Optimizer 製作報告的簡介](/help/report-and-monitor/introduction-to-reporting.md)
    + [使用即時報告監視和分析您的歷程](/help/report-and-monitor/monitor-and-analyze-your-journey-with-live-reports.md)
-   + [使用歷程報告監控及分析您的歷程](/help/report-and-monitor/journey-reports.md)
-   + [頻道層級報告](/help/report-and-monitor/channel-level-reports.md)
+   + [使用歷程報告監視和分析您的歷程](/help/report-and-monitor/journey-reports.md)
+   + [管道層級報告](/help/report-and-monitor/channel-level-reports.md)
    + [以 CSV 格式匯出報告](/help/report-and-monitor/export-reports-in-csv-format.md)
    + [使用警示](/help/administration/alerts.md)
    + [使用 Customer Journey Analytics 增強報告功能](/help/report-and-monitor/enhanced-reporting-with-customer-journey-analytics.md)
@@ -213,7 +213,7 @@ ht-degree: 96%
    + [建立資料使用原則](/help/privacy/create-data-usage-policies.md)
    + [在 Journey Optimizer 管道中執行資料使用原則](/help/privacy/enforce-data-usage-policies-in-journey-optimizer-channels.md)
    + [遮罩訊息中的資料](/help/privacy/mask-data-in-messages.md)
-+ 使用案例與最佳實務{#use-cases}
++ 使用案例與最佳做法{#use-cases}
    + [客戶引導](/help/use-cases/customer-onboarding.md)
    + [捨棄的購物車](/help/use-cases/abandoned-cart.md)
    + [智慧重新參與 - 放棄瀏覽](https://experienceleague.adobe.com/zh-hant/docs/experience-platform/rtcdp/use-cases/personalization-insights-engagement/use-cases-luma){target="_blank"}
@@ -226,7 +226,7 @@ ht-degree: 96%
       + [概觀](https://experienceleague.adobe.com/zh-hant/docs/platform-learn/tutorials/use-case-playbooks/overview){target="_blank"}
       + [設定教戰手冊沙箱](https://experienceleague.adobe.com/zh-hant/docs/platform-learn/tutorials/use-case-playbooks/configure-a-playbook-sandbox){target="_blank"}
       + [建立和發佈教戰手冊實例](https://experienceleague.adobe.com/zh-hant/docs/platform-learn/tutorials/use-case-playbooks/create-and-publish-a-playbook-instance){target="_blank"}
-+ 練習、實驗室和挑戰 {#exercises-and-challenges}
++ 練習、實驗與挑戰 {#exercises-and-challenges}
    + [設定訓練沙箱](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites)
    + [挑戰](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites)
    + Summit Labs {#summit-labs}
