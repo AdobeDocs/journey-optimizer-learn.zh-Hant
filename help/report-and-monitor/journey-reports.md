@@ -20,4 +20,4 @@ ht-degree: 100%
 
 了解如何追蹤個別歷程的績效，使用者如何與歷程中的不同步驟互動，包括登入和退出統計資料、錯誤及執行的動作。
 
->[!VIDEO](https://video.tv.adobe.com/v/3470710/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3471474/?learn=on&enablevpops&captions=chi_hant)

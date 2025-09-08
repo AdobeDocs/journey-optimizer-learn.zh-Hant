@@ -61,7 +61,7 @@ Adobe Journey Optimizer 的報告功能是將原始資料轉換為可操作的�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/tutorials/report-and-monitor/monitor-and-analyze-your-journey-with-live-reports" title="使用即時報告監視和分析您的歷程" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470709/?format=jpeg&nocache=1756406406388" alt="使用即時報告監視和分析您的歷程"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470846/?format=jpeg&nocache=1756406406388&captions=chi_hant" alt="使用即時報告監視和分析您的歷程"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -84,7 +84,7 @@ Adobe Journey Optimizer 的報告功能是將原始資料轉換為可操作的�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/tutorials/report-and-monitor/channel-level-reports" title="管道層級報告" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3424537/?format=jpeg&nocache=1756406406387" alt="管道層級報告"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3448050/?format=jpeg&nocache=1756406406387&captions=chi_hant" alt="管道層級報告"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -107,7 +107,7 @@ Adobe Journey Optimizer 的報告功能是將原始資料轉換為可操作的�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/tutorials/report-and-monitor/export-reports-in-csv-format" title="以 CSV 格式匯出報告" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3424603/?format=jpeg&nocache=1756406406384" alt="以 CSV 格式匯出報告"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3439625/?format=jpeg&nocache=1756406406384&captions=chi_hant" alt="以 CSV 格式匯出報告"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -153,7 +153,7 @@ Adobe Journey Optimizer 的報告功能是將原始資料轉換為可操作的�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/tutorials/report-and-monitor/enhanced-reporting-with-customer-journey-analytics" title="使用 Customer Journey Analytics 增強報告功能" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3430413/?format=jpeg&nocache=1756406406386" alt="使用 Customer Journey Analytics 增強報告功能"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3443162/?format=jpeg&nocache=1756406406386&captions=chi_hant" alt="使用 Customer Journey Analytics 增強報告功能"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
