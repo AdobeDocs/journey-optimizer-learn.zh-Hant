@@ -23,4 +23,4 @@ ht-degree: 0%
 
 瞭解Journey Optimizer促銷活動協調流程中所使用關聯式存放區的基本概念，涵蓋方案設計、資料擷取、支援的來源，以及與即時設定檔存放區的主要差異。
 
->[!VIDEO](https://video.tv.adobe.com/v/3470214/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470225/?learn=on&enablevpops&captions=chi_hant)
