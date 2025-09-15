@@ -20,4 +20,4 @@ ht-degree: 100%
 
 集合的功能是管理邏輯群組中的優惠方案，是建立決策管理活動的必要活動。動態集合可讓您根據標籤來分類優惠，而靜態集合則可讓您手動整理優惠。
 
->[!VIDEO](https://video.tv.adobe.com/v/329376?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3474879?quality=12&learn=on&captions=chi_hant){transcript=true}
