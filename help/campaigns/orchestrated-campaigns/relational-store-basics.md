@@ -23,4 +23,4 @@ ht-degree: 100%
 
 了解 Journey Optimizer 行銷活動協調中所使用的關聯式存放區的基本概念，涵蓋結構描述設計、資料擷取、支援的來源，以及與即時輪廓存放區的主要差異。
 
->[!VIDEO](https://video.tv.adobe.com/v/3470214/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470225/?learn=on&enablevpops&captions=chi_hant)
