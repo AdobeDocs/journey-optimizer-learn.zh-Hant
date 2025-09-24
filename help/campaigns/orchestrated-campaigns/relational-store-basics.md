@@ -1,6 +1,6 @@
 ---
-title: Journey Optimizer中的關聯式商店基本需知
-description: 瞭解Journey Optimizer促銷活動協調流程中所使用關聯式存放區的基本概念，涵蓋方案設計、資料擷取、支援的來源，以及與即時設定檔存放區的主要差異。
+title: Journey Optimizer 中的關聯式存放區基本知識
+description: 了解 Journey Optimizer 行銷活動協調中所使用的關聯式存放區的基本概念，涵蓋結構描述設計、資料擷取、支援的來源，以及與即時輪廓存放區的主要差異。
 feature: Campaigns
 role: Data Engineer
 level: Beginner
@@ -13,14 +13,14 @@ index: true
 jira: KT-18519
 exl-id: a58a964b-0414-4061-ab5d-170f8a0a1f46
 source-git-commit: f53bda362d6507a72845f4822d2a34fe122050a5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '68'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Journey Optimizer中的關聯式商店基本需知
+# Journey Optimizer 中的關聯式存放區基本知識
 
-瞭解Journey Optimizer促銷活動協調流程中所使用關聯式存放區的基本概念，涵蓋方案設計、資料擷取、支援的來源，以及與即時設定檔存放區的主要差異。
+了解 Journey Optimizer 行銷活動協調中所使用的關聯式存放區的基本概念，涵蓋結構描述設計、資料擷取、支援的來源，以及與即時輪廓存放區的主要差異。
 
->[!VIDEO](https://video.tv.adobe.com/v/3470225/?learn=on&enablevpops&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/3470214/?learn=on&enablevpops)
