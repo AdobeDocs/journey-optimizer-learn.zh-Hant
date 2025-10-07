@@ -28,9 +28,9 @@ ht-degree: 5%
 
 ## 建立已啟用設定檔的結構描述
 
-建立名為&#x200B;**_FinWiseProfileSchema_**的個別設定檔結構描述。 包含annualIncome、email、firstName、lastName和loyaltyStatus等欄位。
-新增身分欄位**_crmid_**，如圖所示。 將crmid欄位標示為身分和主要。
-將_**同意和偏好設定詳細資料**_&#x200B;欄位群組新增到結構描述。 [同意和偏好設定](https://experienceleague.adobe.com/zh-hant/docs/experience-platform/xdm/field-groups/profile/consents)是XDM個人設定檔類別的標準欄位群組，可擷取個別客戶的同意和偏好設定資訊。此處儲存的偏好設定會決定頻道層級的通訊偏好設定。
+建立名為&#x200B;**_FinWiseProfileSchema_**&#x200B;的個別設定檔結構描述。 包含annualIncome、email、firstName、lastName和loyaltyStatus等欄位。
+新增身分欄位&#x200B;**_crmid_**，如圖所示。 將crmid欄位標示為身分和主要。
+將_&#x200B;**同意和偏好設定詳細資料**&#x200B;_&#x200B;欄位群組新增到結構描述。 [同意和偏好設定](https://experienceleague.adobe.com/zh-hant/docs/experience-platform/xdm/field-groups/profile/consents)是XDM個人設定檔類別的標準欄位群組，可擷取個別客戶的同意和偏好設定資訊。此處儲存的偏好設定會決定頻道層級的通訊偏好設定。
 
 
 ![設定檔結構描述](assets/finwise-profile-schema.png)
@@ -52,7 +52,7 @@ ht-degree: 5%
 * 根據先前步驟建立的&#x200B;**_FinWiseProfileSchema_**，建立名為&#x200B;**_FinWiseCustomerDataSetWithAnnualIncome_**&#x200B;的資料集
 
 * 導覽至連線 — >來源 — >本機系統
-* 選取本機檔案上傳下的&#x200B;**_新增資料_**。 請務必選取&#x200B;_**FinWiseCustomerDataSetWithAnnualIncome**_作為目標資料集。
+* 選取本機檔案上傳下的&#x200B;**_新增資料_**。 請務必選取&#x200B;_&#x200B;**FinWiseCustomerDataSetWithAnnualIncome**&#x200B;_作為目標資料集。
   ![擷取 — csv](assets/ingest-csv-into-dataset.png)
 * 導覽至下一個畫面。 上傳[csv檔案](assets/finwise_profiles.csv)並驗證對應
   ![對映](assets/mappings.png)
