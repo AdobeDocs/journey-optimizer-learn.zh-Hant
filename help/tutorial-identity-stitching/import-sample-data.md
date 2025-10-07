@@ -9,10 +9,10 @@ last-substantial-update: 2025-05-19T00:00:00Z
 recommendations: noDisplay, noCatalog
 jira: KT-18089
 exl-id: 33c8c386-f417-45a8-83cf-7312d415b47a
-source-git-commit: 82d82b3aac2bf91e259b01fd8c6b4d6065f9640a
+source-git-commit: 83b23f54594b796ec528526a360c5c40164fb5cb
 workflow-type: tm+mt
-source-wordcount: '267'
-ht-degree: 4%
+source-wordcount: '346'
+ht-degree: 5%
 
 ---
 
@@ -28,28 +28,31 @@ ht-degree: 4%
 
 ## 建立已啟用設定檔的結構描述
 
-建立名為&#x200B;**_FinWiseProfileSchema_**&#x200B;的個別設定檔結構描述。 包含annualIncome、email、firstName、lastName和loyaltyStatus等欄位。
-在SystemIdentifier物件下新增識別欄位&#x200B;**_crmid_**。 將crmid欄位標示為身分和主要
+建立名為&#x200B;**_FinWiseProfileSchema_**的個別設定檔結構描述。 包含annualIncome、email、firstName、lastName和loyaltyStatus等欄位。
+新增身分欄位**_crmid_**，如圖所示。 將crmid欄位標示為身分和主要。
+將_**同意和偏好設定詳細資料**_&#x200B;欄位群組新增到結構描述。 [同意和偏好設定](https://experienceleague.adobe.com/zh-hant/docs/experience-platform/xdm/field-groups/profile/consents)是XDM個人設定檔類別的標準欄位群組，可擷取個別客戶的同意和偏好設定資訊。此處儲存的偏好設定會決定頻道層級的通訊偏好設定。
 
 
 ![設定檔結構描述](assets/finwise-profile-schema.png)
 
 ## 準備範例資料
 
-| crmId | 名字 | 姓氏 | 電子郵件 | loyaltyStatus | zipCode | 年收入 |
-|--------|-----------|----------|-------------------------|---------------|---------|--------------|
-| FIN001 | Alice | 黃 | alice.wong@example.com | 金級 | 92128 | 120000 |
-| FIN002 | 鮑伯 | Smith | bob.smith@example.com | 銀級 | 92126 | 85000 |
-| FIN003 | 查理 | Kim | charlie.kim@example.com | 白金 | 60614 | 175000 |
-| FIN004 | Diana | 李 | diana.lee@example.com | 金級 | 30303 | 98000 |
-| FIN005 | Ethan | 棕色 | ethan.brown@example.com | 銅級 | 75201 | 60000 |
+將虛擬電子郵件地址更新為真實地址。 稍後透過Adobe Journey Optimizer傳送訊息時，將會使用這些選項。 將emailConsent設定為y以啟用設定檔的電子郵件傳送。
+
+|   | crmId | 名字 | 姓氏 | 電子郵件 | loyaltyStatus | zipCode | 年收入 | emailConsent |
+|---|--------|-----------|----------|-------------------------|---------------|---------|--------------|--------------|
+|   | FIN001 | Alice | 黃 | alice.wong@example.com | 金級 | 92128 | 120000 | y |
+|   | FIN002 | 鮑伯 | Smith | bob.smith@example.com | 銀級 | 92126 | 85000 | y |
+|   | FIN003 | 查理 | Kim | charlie.kim@example.com | 白金 | 60614 | 175000 | y |
+|   | FIN004 | Diana | 李 | diana.lee@example.com | 金級 | 30303 | 98000 | y |
+|   | FIN005 | Ethan | 棕色 | ethan.brown@example.com | 銅級 | 75201 | 60000 | y |
 
 ## 擷取CSV檔案
 
 * 根據先前步驟建立的&#x200B;**_FinWiseProfileSchema_**，建立名為&#x200B;**_FinWiseCustomerDataSetWithAnnualIncome_**&#x200B;的資料集
 
 * 導覽至連線 — >來源 — >本機系統
-* 選取本機檔案上傳下的&#x200B;**_新增資料_**。 請務必選取&#x200B;_&#x200B;**FinWiseCustomerDataSetWithAnnualIncome**&#x200B;_作為目標資料集。
+* 選取本機檔案上傳下的&#x200B;**_新增資料_**。 請務必選取&#x200B;_**FinWiseCustomerDataSetWithAnnualIncome**_作為目標資料集。
   ![擷取 — csv](assets/ingest-csv-into-dataset.png)
 * 導覽至下一個畫面。 上傳[csv檔案](assets/finwise_profiles.csv)並驗證對應
   ![對映](assets/mappings.png)
