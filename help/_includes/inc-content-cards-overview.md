@@ -1,5 +1,5 @@
 ---
-source-git-commit: 0ce6d5013bbcf55e49ae920670919f6929a142ec
+source-git-commit: ac61c4d30929b559826b4a770fc10c26aec74830
 workflow-type: tm+mt
 source-wordcount: '283'
 ht-degree: 2%
@@ -7,7 +7,7 @@ ht-degree: 2%
 ---
 # 內容卡 — 概觀
 
->[!VIDEO](https://video.tv.adobe.com/v/3460101/?learn=on&enablevpops&captions=chi_hant){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3458224/?learn=on&enablevpops){transcript=true}
 
 ## 這是什麼？
 
