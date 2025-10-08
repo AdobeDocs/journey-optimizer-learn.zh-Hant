@@ -20,4 +20,4 @@ ht-degree: 100%
 
 使用查詢結構描述時，您通常需要根據多個屬性來篩選物件清單。此影片說明如何使用巢狀 filter() 函式，對查詢結構描述執行多屬性篩選。當您需要根據多個條件來縮小物件清單時 (例如依 ID 和顏色篩選購物車中的產品)，此功能特別有用。
 
->[!VIDEO](https://video.tv.adobe.com/v/3469312/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3469329/?learn=on&enablevpops&captions=chi_hant)

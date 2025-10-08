@@ -21,4 +21,4 @@ ht-degree: 66%
 
 瞭解歷程的不同狀態，以及發佈的影響。
 
->[!VIDEO](https://video.tv.adobe.com/v/3424998?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3427942?quality=12&learn=on&captions=chi_hant){transcript=true}

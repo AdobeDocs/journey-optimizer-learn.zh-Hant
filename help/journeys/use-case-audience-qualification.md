@@ -21,4 +21,4 @@ ht-degree: 100%
 
 了解客群資格篩選歷程的適用使用案例。 了解如何透過客群資格篩選建立歷程，以及套用哪些最佳實務。
 
->[!VIDEO](https://video.tv.adobe.com/v/3425028?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3446215?quality=12&learn=on&captions=chi_hant){transcript=true}

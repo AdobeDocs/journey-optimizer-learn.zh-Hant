@@ -20,4 +20,4 @@ ht-degree: 100%
 
 了解如何更新即時歷程中的內容。
 
->[!VIDEO](https://video.tv.adobe.com/v/3429844/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3439623/?learn=on&captions=chi_hant)
