@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer 教學課程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 這些是 Journey Optimizer 教學課程。
 auto-video-transcripts: true
-source-git-commit: f53bda362d6507a72845f4822d2a34fe122050a5
-workflow-type: ht
-source-wordcount: '933'
-ht-degree: 100%
+source-git-commit: 3558a9530827303a6597966e16ead1cfdee7576b
+workflow-type: tm+mt
+source-wordcount: '949'
+ht-degree: 98%
 
 ---
 
@@ -35,22 +35,23 @@ ht-degree: 100%
    + 協調的行銷活動 {#orchestrated-campaigns}
       + [協調的行銷活動簡介](/help/campaigns/orchestrated-campaigns/introduction-to-orchestrated-campaigns.md)
       + [關聯式存放區基本知識](/help/campaigns/orchestrated-campaigns/relational-store-basics.md)
-+ 歷程 {#create-journeys}
-   + [歷程設計師 — 概觀](/help/create-journeys/journey-designer-overview.md)
-   + [探索全新歷程設計程式](/help/create-journeys/new-journey-designer.md)
-   + [建立歷程簡介](/help/create-journeys/introduction-to-building-a-journey.md)
-   + [建立測試輪廓](/help/create-journeys/test-a-journey.md)
-   + [發佈歷程](/help/create-journeys/publish-a-journey.md)
-   + [使用案例 - 交易型歷程](/help/create-journeys/use-case-transactional-journey.md)
-   + [使用案例 - 業務事件](/help/create-journeys/use-case-business-event.md)
-   + [使用案例 - 讀取客群](/help/create-journeys/use-case-read-audience.md)
-   + [使用案例 - 客群資格篩選](/help/create-journeys/use-case-audience-qualification.md)
-   + [掌握多屬性篩選功能](/help/create-journeys/mastering-multi-attribute-filtering.md)
-   + [使用歷程試運行驗證歷程邏輯](/help/create-journeys/journey-dry-run.md)
-   + [使用補充 ID，解除鎖定歷程重新進入](/help/create-journeys/unlock-journey-reentry-with-supplemental-id.md)
-   + [更新即時歷程中的內容](/help/create-journeys/update-content-in-live-journey.md)
-   + [將歷程複製到另一個沙箱](/help/create-journeys/copy-a-journey.md)
-   + [批次細分後，就會觸發日常歷程執行](/help/create-journeys/trigger-daily-journey-runs-after-batch-segmentation-completion.md)
++ 歷程 {#journeys}
+   + [歷程設計師 — 概觀](/help/journeys/journey-designer-overview.md)
+   + [Journey Agent — 概觀](/help/ai-agents/journey-agent-overview.md)
+   + [探索全新歷程設計程式](/help/journeys/new-journey-designer.md)
+   + [建立歷程簡介](/help/journeys/introduction-to-building-a-journey.md)
+   + [建立測試輪廓](/help/journeys/test-a-journey.md)
+   + [發佈歷程](/help/journeys/publish-a-journey.md)
+   + [使用案例 - 交易型歷程](/help/journeys/use-case-transactional-journey.md)
+   + [使用案例 - 業務事件](/help/journeys/use-case-business-event.md)
+   + [使用案例 - 讀取客群](/help/journeys/use-case-read-audience.md)
+   + [使用案例 - 客群資格篩選](/help/journeys/use-case-audience-qualification.md)
+   + [掌握多屬性篩選功能](/help/journeys/mastering-multi-attribute-filtering.md)
+   + [使用歷程試運行驗證歷程邏輯](/help/journeys/journey-dry-run.md)
+   + [使用補充 ID，解除鎖定歷程重新進入](/help/journeys/unlock-journey-reentry-with-supplemental-id.md)
+   + [更新即時歷程中的內容](/help/journeys/update-content-in-live-journey.md)
+   + [將歷程複製到另一個沙箱](/help/journeys/copy-a-journey.md)
+   + [批次細分後，就會觸發日常歷程執行](/help/journeys/trigger-daily-journey-runs-after-batch-segmentation-completion.md)
    + [疑難排解歷程中的傳入動作](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer/using/orchestrate-journeys/troubleshoot-journey/troubleshooting-inbound){target="_blank"}
 + 衝突管理與優先順序 {#conflict-management}
    + [識別潛在衝突](/help/conflict-management/identify-potential-conflicts.md)
@@ -139,6 +140,7 @@ ht-degree: 100%
 + 實驗 {#experimentation}
    + [實驗簡介](/help/experimentation/introduction-to-experimentation.md)
    + [建立電子郵件行銷活動的內容實驗](/help/experimentation/content-experiments-for-emails.md)
+   + [實驗代理程式](/help/ai-agents/experimentation-agent-overview.md)
 + 決定功能{#decision-capabilities}
    + 決策 {#decisioning}
       + [決策簡介](/help/decisioning/introduction-to-decisioning.md)
@@ -213,6 +215,9 @@ ht-degree: 100%
    + [建立資料使用原則](/help/privacy/create-data-usage-policies.md)
    + [在 Journey Optimizer 管道中執行資料使用原則](/help/privacy/enforce-data-usage-policies-in-journey-optimizer-channels.md)
    + [遮罩訊息中的資料](/help/privacy/mask-data-in-messages.md)
++ AI 助理 {#ai-assistant}
+   + [AI 助理](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/introduction-to-journey-optimizer/ai-assistant)
+   + 用於產生內容的[AI小幫手](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/content-management/ai-assistant/ai-assistant-for-content-generation-overview)
 + 使用案例與最佳做法{#use-cases}
    + [客戶引導](/help/use-cases/customer-onboarding.md)
    + [捨棄的購物車](/help/use-cases/abandoned-cart.md)
