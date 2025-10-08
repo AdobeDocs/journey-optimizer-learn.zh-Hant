@@ -9,7 +9,7 @@ ht-degree: 0%
 
 了解什麼是應用程式內訊息。 了解如何在 Campaigns 中建立、設定和發佈應用程式內訊息。
 
->[!VIDEO](https://video.tv.adobe.com/v/3410430?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3451893?quality=12&learn=on&captions=chi_hant){transcript=true}
 
 ## 其他資源
 
