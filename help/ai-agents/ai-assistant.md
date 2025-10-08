@@ -9,8 +9,8 @@ duration: 143
 last-substantial-update: 2024-06-27T00:00:00Z
 jira: KT-15789
 exl-id: 6c2134ec-7d0c-4fe2-9281-22a10ace1890
-source-git-commit: b46e2f77012fd1032f4d434132ee3263489b39a8
-workflow-type: ht
+source-git-commit: 201470e35095b38617d1a1bb5d7b16c1e60f431e
+workflow-type: tm+mt
 source-wordcount: '82'
 ht-degree: 100%
 
@@ -23,3 +23,4 @@ ht-degree: 100%
 >[!VIDEO](https://video.tv.adobe.com/v/3429845/?learn=on)
 
 請參閱[使用 AI 助理](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer/using/get-started/ai-assistant)，以取得 Journey Optimizer 支援的使用案例相關資訊。如需詳細文件，請造訪 [Adobe Experience Platform 中的 AI 助理](https://experienceleague.adobe.com/zh-hant/docs/experience-platform/ai-assistant/home)文件。
+

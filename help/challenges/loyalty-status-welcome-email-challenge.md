@@ -7,10 +7,10 @@ role: User
 level: Beginner
 last-substantial-update: 2023-02-01T00:00:00Z
 exl-id: 6fd58b8e-7178-495d-a85d-eb67fc4f3acf
-source-git-commit: 7861e0ca17a616273f5ea1b4d850310f1f4ec8b8
+source-git-commit: 201470e35095b38617d1a1bb5d7b16c1e60f431e
 workflow-type: tm+mt
 source-wordcount: '403'
-ht-degree: 100%
+ht-degree: 99%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 100%
 | 挑戰 | 建立忠誠度狀態歡迎電子郵件 |
 |---|---|
 | 角色 | Journey Manager |
-| 所需技能 | <ul><li>[建立區段](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html?lang=zh-Hant)</li> <li>[區段資格](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-read-segment-qualification.html?lang=zh-Hant)</li><li>[匯入 HTML 內容](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/import-and-author-html-email-content.html?lang=zh-Hant)</li></ul> |
+| 所需技能 | <ul><li>[建立區段](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html?lang=zh-Hant)</li> <li>[細分資格篩選](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/journeys/use-case-read-segment-qualification.html)</li><li>[匯入 HTML 內容](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/import-and-author-html-email-content.html?lang=zh-Hant)</li></ul> |
 | 要下載的資產 | [StatusUpgradeEmail.zip](/help/challenges/assets/email-assets/StatusUpgradeEmail.zip) |
 
 {style="table-layout:auto"}
@@ -67,7 +67,7 @@ Luma 提供忠誠計畫，作為吸引及留住客戶的方式。 該計畫提�
 
 1. 選取&#x200B;**[!UICONTROL 觸發事件]**。
 
-1. 將以下`CRM ID` for `Stanleigh Stooke`加入至&#x200B;**[!UICONTROL 設定檔識別碼]**&#x200B;欄位：`4f34057d9d9e792c28ba18ecae378e98`
+1. 將以下`CRM ID` for `Stanleigh Stooke`加入至&#x200B;**[!UICONTROL 輪廓識別碼]**&#x200B;欄位：`4f34057d9d9e792c28ba18ecae378e98`
 
 **結果：**&#x200B;您應會收到個人化 *Luma - 白金狀態 - 歡迎*&#x200B;電子郵件。
 

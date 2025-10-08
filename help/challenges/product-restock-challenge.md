@@ -8,10 +8,10 @@ level: Beginner
 hide: true
 hidefromtoc: true
 exl-id: 305aaf4c-7f5d-4f6f-abeb-466208f1fe48
-source-git-commit: 5c763ec877c75c07132f4cc714d63695e12638dc
+source-git-commit: 201470e35095b38617d1a1bb5d7b16c1e60f431e
 workflow-type: tm+mt
 source-wordcount: '547'
-ht-degree: 100%
+ht-degree: 99%
 
 ---
 
@@ -20,7 +20,7 @@ ht-degree: 100%
 | 挑戰 | 產品補充 |
 |---|---|
 | 角色 | Journey Manager |
-| 所需技能 | <ul><li>[建立區段](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html?lang=zh-Hant)</li><li> [匯入及編寫 HTML 電子郵件內容](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/import-and-author-html-email-content.html?lang=zh-Hant)</li><li>[使用案例 - 讀取區段](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-read-segment.html?lang=zh-Hant)</li> |
+| 所需技能 | <ul><li>[建立區段](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html?lang=zh-Hant)</li><li> [匯入及編寫 HTML 電子郵件內容](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/import-and-author-html-email-content.html?lang=zh-Hant)</li><li>[使用案例 - 讀取區段](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/journeys/use-case-read-segment.html?lang=en)</li> |
 | 要下載的資產 | [產品補貨電子郵件檔案](/help/challenges/assets/email-assets/ProductRestockEmail.html.zip) |
 
 ## 故事
@@ -35,7 +35,7 @@ Luma 要求您在 Journey Optimizer 中實施歷程，當客戶願望清單上�
 
 >[!TAB 任務]
 
-## 1. 定義區段 - 缺貨願望清單項目
+## &#x200B;1. 定義區段 - 缺貨願望清單項目
 
 若要在產品已補充庫存時鎖定潛在感興趣的客戶，請建立由客戶組成的客群：
 
@@ -49,7 +49,7 @@ Luma 要求您在 Journey Optimizer 中實施歷程，當客戶願望清單上�
 為此區段命名： `Out-of-stock-Wishlist`
 
 
-### 2. 建立歷程 - 產品補貨通知
+### &#x200B;2. 建立歷程 - 產品補貨通知
 
 當先前缺貨的項目重新補充庫存時，致電通知已新增缺少庫存項目的客戶，告知其該項目已補充庫存，因此可以開始購物了。
 
@@ -73,7 +73,7 @@ Luma 要求您在 Journey Optimizer 中實施歷程，當客戶願望清單上�
    * 產品 ID：2003 年 8 月 24 日
    * 產品影像 URL：https://publish1034.adobedemo.com/content/dam/luma/en/products/gear/fitness-equipment/ug03-bk-0.jpSKU: 24-UG03
    * 庫存事件類型：重新補充庫存
-   * 設定檔識別碼：Jenna_Palmer9530@emailsim.io
+   * 輪廓識別碼：Jenna_Palmer9530@emailsim.io
 
 您應該會收到「Luma 電子郵件產品補充」電子郵件，內含產品詳細資訊及 Jenna 的個人化內容。
 
