@@ -3,9 +3,9 @@ user-guide-title: Journey Optimizer 教學課程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 這些是 Journey Optimizer 教學課程。
 auto-video-transcripts: true
-source-git-commit: 3558a9530827303a6597966e16ead1cfdee7576b
+source-git-commit: f89cba65a472ea389ef0c8e974ddead6e4b2d24b
 workflow-type: tm+mt
-source-wordcount: '949'
+source-wordcount: '958'
 ht-degree: 98%
 
 ---
@@ -140,7 +140,7 @@ ht-degree: 98%
 + 實驗 {#experimentation}
    + [實驗簡介](/help/experimentation/introduction-to-experimentation.md)
    + [建立電子郵件行銷活動的內容實驗](/help/experimentation/content-experiments-for-emails.md)
-   + [實驗代理程式](/help/ai-agents/experimentation-agent-overview.md)
+   + [實驗代理程式 — 概觀](/help/ai-agents/experimentation-agent-overview.md)
 + 決定功能{#decision-capabilities}
    + 決策 {#decisioning}
       + [決策簡介](/help/decisioning/introduction-to-decisioning.md)
@@ -216,8 +216,10 @@ ht-degree: 98%
    + [在 Journey Optimizer 管道中執行資料使用原則](/help/privacy/enforce-data-usage-policies-in-journey-optimizer-channels.md)
    + [遮罩訊息中的資料](/help/privacy/mask-data-in-messages.md)
 + AI 助理 {#ai-assistant}
-   + [AI 助理](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/tutorials/introduction-to-journey-optimizer/ai-assistant)
-   + [用於產生內容的AI小幫手](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/tutorials/content-management/ai-assistant/ai-assistant-for-content-generation-overview)
+   + [AI 助理](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/introduction-to-journey-optimizer/ai-assistant)
+   + [用於內容產生的 AI 助理](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/content-management/ai-assistant/ai-assistant-for-content-generation-overview)
+   + [Journey Agent — 概觀](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/journeys/journey-agent-overview)
+   + [實驗代理程式 — 概觀](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/experimentation/experimentation-agent-overview)
 + 使用案例與最佳做法{#use-cases}
    + [客戶引導](/help/use-cases/customer-onboarding.md)
    + [捨棄的購物車](/help/use-cases/abandoned-cart.md)
