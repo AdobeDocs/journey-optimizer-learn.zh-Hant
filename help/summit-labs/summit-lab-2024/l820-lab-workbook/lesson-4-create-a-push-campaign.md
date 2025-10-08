@@ -50,7 +50,7 @@ ht-degree: 2%
 >[!SUCCESS]
 >
 >您現在應該在Campaign屬性頁面上：
->> ![行銷活動屬性](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/2-3-1-2-campaign-properties.png)
+>&#x200B;> ![行銷活動屬性](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/2-3-1-2-campaign-properties.png)
 
 ## 練習4.2 — 設定行銷活動
 
@@ -72,7 +72,7 @@ ht-degree: 2%
 
    **實驗室 — 座位`your seat number`**
 
-1. 選取對象，然後按一下[儲存]。****
+1. 選取對象，然後按一下[儲存]。**&#x200B;**
 
    ![對象選擇](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/2-3-2-7-select-audience.png)
 
@@ -199,7 +199,7 @@ ht-degree: 2%
 > ![行銷活動狀態](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/2-3-push-completed.png)
 > 
 > 狀態從處理變更為即時，再變更為已完成 — 這可能需要幾分鐘的時間。
-> > 一旦狀態變更為完成：
+> &#x200B;> 一旦狀態變更為完成：
 >
 > ![推送結果](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/2-3-push-notification-result.png)
 
