@@ -9,4 +9,4 @@ ht-degree: 100%
 
 了解網路行銷活動是什麼。 了解如何設定網路行銷活動屬性、檢閱及發佈。
 
->[!VIDEO](https://video.tv.adobe.com/v/3418800/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3449992/?quality=12&learn=on&captions=chi_hant){transcript=true}
