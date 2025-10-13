@@ -22,4 +22,4 @@ ht-degree: 0%
 
 瞭解在歷程畫布中建立歷程的基本概念。
 
->[!VIDEO](https://video.tv.adobe.com/v/3424996?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3430349?quality=12&learn=on&captions=chi_hant){transcript=true}
