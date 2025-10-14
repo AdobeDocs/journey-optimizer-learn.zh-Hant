@@ -9,9 +9,9 @@ last-substantial-update: 2025-05-19T00:00:00Z
 recommendations: noDisplay, noCatalog
 jira: KT-18089
 exl-id: b7bad65d-c978-4981-a914-6cb039433c8b
-source-git-commit: 71b42350370d12ce677bf075d8b48edcbe541ab4
+source-git-commit: 6927cade07790603e711f4e6e4c3f6982a56e6f5
 workflow-type: tm+mt
-source-wordcount: '348'
+source-wordcount: '335'
 ht-degree: 0%
 
 ---
@@ -89,7 +89,5 @@ Adobe Experience Platform Debugger是功能強大的瀏覽器擴充功能，可�
 * 導覽至「客戶 — >設定檔 — >瀏覽」
 * 搜尋FinWise CRM ID = FIN001
 * 開啟設定檔，然後檢視身分割槽段。 您應該會看到CRMID和ECID同時列出。   這可確認兩個身分已拼接到單一設定檔。
-* 歷程也應會觸發。請檢視歷程報告以確認這一點
-* ![歷程報告](assets/journey-triggered-report.png)
 
 
