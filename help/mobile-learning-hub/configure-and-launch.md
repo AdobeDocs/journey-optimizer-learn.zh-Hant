@@ -215,6 +215,7 @@ ht-degree: 57%
     </div>
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
+
 ## 個部落格
 
 * [在行動裝置上使用以CDN為基礎的使用者端個人化(ODD)，以加快個人化速度。](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-blogs/using-cdn-based-client-side-personalization-odd-on-mobile-for/ba-p/761626)
