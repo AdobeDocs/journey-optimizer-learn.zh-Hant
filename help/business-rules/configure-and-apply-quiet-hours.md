@@ -1,0 +1,26 @@
+---
+title: 設定並套用無訊息時數
+description: 瞭解如何使用Adobe Journey Optimizer的無訊息時間功能，防止在指定的時間視窗向客戶傳送訊息（簡訊、電子郵件、推播、WhatsApp），協助行銷人員避免在不適當的時間傳送通訊，並改善客戶參與度。
+feature: Business Rules
+role: Admin, User
+level: Beginner
+doc-type: Feature Video
+duration: 158
+last-substantial-update: 2025-10-15T00:00:00Z
+jira: KT-19403
+hide: true
+hidefromtoc: true
+index: false
+source-git-commit: ce7c2d27c03f648960fa287120a6c552913c1568
+workflow-type: tm+mt
+source-wordcount: '86'
+ht-degree: 0%
+
+---
+
+
+# 設定並套用無訊息時數
+
+瞭解如何使用Adobe Journey Optimizer的安靜時間功能，防止訊息在指定的時間範圍內傳送給客戶，協助行銷人員避免在不適當的時間傳送通訊，並改善客戶參與度。
+
+>[!VIDEO](https://video.tv.adobe.com/v/3475851/?learn=on&enablevpops)
