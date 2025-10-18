@@ -22,4 +22,4 @@ ht-degree: 100%
 
 了解如何在 Adobe Journey Optimizer 中管理、編寫和使用片段。
 
->[!VIDEO](https://video.tv.adobe.com/v/3419932/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3451193/?captions=chi_hant&learn=on){transcript=true}

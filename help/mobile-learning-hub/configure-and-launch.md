@@ -66,7 +66,7 @@ ht-degree: 57%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/web-and-mobile-channels/guided-channel-setup" title="引導式管道設定" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433053/?format=jpeg&nocache=1755888511558" alt="引導式管道設定"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3449633/?captions=chi_hant&format=jpeg&nocache=1755888511558" alt="引導式管道設定"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>

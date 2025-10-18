@@ -24,7 +24,7 @@ ht-degree: 100%
 
 了解如何在範例 iOS 行動裝置行銷應用程式上設定及驗證推播頻道通知。
 
->[!VIDEO](https://video.tv.adobe.com/v/3433053/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3449633/?captions=chi_hant&learn=on)
 
 如需詳細資訊，請參閱產品文件：
 
