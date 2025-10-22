@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer 教學課程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 這些是 Journey Optimizer 教學課程。
 auto-video-transcripts: true
-source-git-commit: ce7c2d27c03f648960fa287120a6c552913c1568
+source-git-commit: 6366425e14dcadfad7ccf3522ac746ba752e432c
 workflow-type: tm+mt
-source-wordcount: '960'
-ht-degree: 98%
+source-wordcount: '971'
+ht-degree: 97%
 
 ---
 
@@ -147,6 +147,7 @@ ht-degree: 98%
       + [決策簡介](/help/decisioning/introduction-to-decisioning.md)
       + [端到端決策逐步說明](/help/decisioning/decisioning-end-to-end.md)
       + [瀏覽公式產生器介面](/help/decisioning/formula-builder-ui.md)
+      + [可重複使用的規則](/help/decisioning/reusable-targeting-rules.md)
       + [使用即時天氣資料個人化優惠方案](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction)
       + [使用排名公式來提供個人化優惠](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction)
    + 決策管理 {#decision-management}
@@ -177,6 +178,7 @@ ht-degree: 98%
    + [使用即時報告監視和分析您的歷程](/help/report-and-monitor/monitor-and-analyze-your-journey-with-live-reports.md)
    + [使用歷程報告監視和分析您的歷程](/help/report-and-monitor/journey-reports.md)
    + [管道層級報告](/help/report-and-monitor/channel-level-reports.md)
+   + [使用所有時間報告分析您歷程的整體效能](/help/report-and-monitor/all-time-reports.md)
    + [以 CSV 格式匯出報告](/help/report-and-monitor/export-reports-in-csv-format.md)
    + [使用警示](/help/administration/alerts.md)
    + [使用 Customer Journey Analytics 增強報告功能](/help/report-and-monitor/enhanced-reporting-with-customer-journey-analytics.md)
@@ -217,10 +219,10 @@ ht-degree: 98%
    + [在 Journey Optimizer 管道中執行資料使用原則](/help/privacy/enforce-data-usage-policies-in-journey-optimizer-channels.md)
    + [遮罩訊息中的資料](/help/privacy/mask-data-in-messages.md)
 + AI 助理 {#ai-assistant}
-   + [AI 助理](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/tutorials/introduction-to-journey-optimizer/ai-assistant)
-   + [用於內容產生的 AI 助理](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/tutorials/content-management/ai-assistant/ai-assistant-for-content-generation-overview)
-   + [Journey Agent — 概觀](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/tutorials/journeys/journey-agent-overview)
-   + [實驗代理程式 — 概觀](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/tutorials/experimentation/experimentation-agent-overview)
+   + [AI 助理](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/introduction-to-journey-optimizer/ai-assistant)
+   + [用於內容產生的 AI 助理](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/content-management/ai-assistant/ai-assistant-for-content-generation-overview)
+   + [Journey Agent — 概觀](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/journeys/journey-agent-overview)
+   + [實驗代理程式 — 概觀](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/experimentation/experimentation-agent-overview)
 + 使用案例與最佳做法{#use-cases}
    + [客戶引導](/help/use-cases/customer-onboarding.md)
    + [捨棄的購物車](/help/use-cases/abandoned-cart.md)
