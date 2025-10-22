@@ -23,4 +23,4 @@ ht-degree: 0%
 
 瞭解如何使用Adobe Journey Optimizer的安靜時間功能，防止訊息在指定的時間範圍內傳送給客戶，協助行銷人員避免在不適當的時間傳送通訊，並改善客戶參與度。
 
->[!VIDEO](https://video.tv.adobe.com/v/3475851/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3475863/?captions=chi_hant&learn=on&enablevpops)
