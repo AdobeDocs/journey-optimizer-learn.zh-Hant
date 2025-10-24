@@ -6,7 +6,7 @@ auto-video-transcripts: true
 source-git-commit: 6366425e14dcadfad7ccf3522ac746ba752e432c
 workflow-type: tm+mt
 source-wordcount: '971'
-ht-degree: 97%
+ht-degree: 98%
 
 ---
 
@@ -36,8 +36,8 @@ ht-degree: 97%
       + [協調的行銷活動簡介](/help/campaigns/orchestrated-campaigns/introduction-to-orchestrated-campaigns.md)
       + [關聯式存放區基本知識](/help/campaigns/orchestrated-campaigns/relational-store-basics.md)
 + 歷程 {#journeys}
-   + [歷程設計師 — 概觀](/help/journeys/journey-designer-overview.md)
-   + [Journey Agent — 概觀](/help/ai-agents/journey-agent-overview.md)
+   + [歷程設計工具 - 概觀](/help/journeys/journey-designer-overview.md)
+   + [Journey 代理 - 概觀](/help/ai-agents/journey-agent-overview.md)
    + [探索全新歷程設計程式](/help/journeys/new-journey-designer.md)
    + [建立歷程簡介](/help/journeys/introduction-to-building-a-journey.md)
    + [建立測試輪廓](/help/journeys/test-a-journey.md)
@@ -57,7 +57,7 @@ ht-degree: 97%
    + [識別潛在衝突](/help/conflict-management/identify-potential-conflicts.md)
    + [指派優先順序分數](/help/conflict-management/assign-priority-score.md)
    + [歷程頻率限定和優先順序](/help/conflict-management/journey-frequency-capping-and-prioritization.md)
-   + [無訊息時數](/help/business-rules/configure-and-apply-quiet-hours.md)
+   + [無訊息時間](/help/business-rules/configure-and-apply-quiet-hours.md)
 + 輪廓、客群和訂閱 {#profiles-audiences-subscriptions}
    + [簡介及客群 — 概觀](/help/profiles-audiences-subscriptions/profiles-and-audiences-overview.md)
    + [統一輪廓和分段 - 概觀](/help/profiles-audiences-subscriptions/unified-profile-and-segmentation-overview.md)
@@ -141,7 +141,7 @@ ht-degree: 97%
 + 實驗 {#experimentation}
    + [實驗簡介](/help/experimentation/introduction-to-experimentation.md)
    + [建立電子郵件行銷活動的內容實驗](/help/experimentation/content-experiments-for-emails.md)
-   + [實驗代理程式 — 概觀](/help/ai-agents/experimentation-agent-overview.md)
+   + [實驗代理 - 概觀](/help/ai-agents/experimentation-agent-overview.md)
 + 決定功能{#decision-capabilities}
    + 決策 {#decisioning}
       + [決策簡介](/help/decisioning/introduction-to-decisioning.md)
@@ -221,8 +221,8 @@ ht-degree: 97%
 + AI 助理 {#ai-assistant}
    + [AI 助理](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/tutorials/introduction-to-journey-optimizer/ai-assistant)
    + [用於內容產生的 AI 助理](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/tutorials/content-management/ai-assistant/ai-assistant-for-content-generation-overview)
-   + [Journey Agent — 概觀](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/tutorials/journeys/journey-agent-overview)
-   + [實驗代理程式 — 概觀](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/tutorials/experimentation/experimentation-agent-overview)
+   + [Journey 代理 - 概觀](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/tutorials/journeys/journey-agent-overview)
+   + [實驗代理 - 概觀](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/tutorials/experimentation/experimentation-agent-overview)
 + 使用案例與最佳做法{#use-cases}
    + [客戶引導](/help/use-cases/customer-onboarding.md)
    + [捨棄的購物車](/help/use-cases/abandoned-cart.md)
