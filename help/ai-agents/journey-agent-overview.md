@@ -1,5 +1,5 @@
 ---
-title: Journey Agent概觀
+title: Journey 代理概觀
 description: Journey 代理使用 AI，透過對話式介面建立、分析和最佳化 B2B/B2C 歷程。
 feature: AI Assistant, Journeys
 feature-set: Journey Optimizer, Experience Platform
@@ -8,13 +8,13 @@ level: Beginner
 last-substantial-update: 2025-10-08T00:00:00Z
 jira: KT-19109
 source-git-commit: 201470e35095b38617d1a1bb5d7b16c1e60f431e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '76'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
-# Journey Agent概觀
+# Journey 代理概觀
 
 了解您可以在以 Adobe Experience Platform 為基礎的應用程式 (例如 Real-Time Customer Data Platform、Journey Optimizer 和 Customer Journey Analytics) 中使用 AI 助理執行哪些操作。
 

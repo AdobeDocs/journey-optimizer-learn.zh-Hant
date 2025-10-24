@@ -7,9 +7,9 @@ level: Beginner
 last-substantial-update: 2023-02-01T00:00:00Z
 exl-id: 87a79560-c098-4e72-abec-6b750ec730ee
 source-git-commit: 201470e35095b38617d1a1bb5d7b16c1e60f431e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '411'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 99%
 
 挑戰提供了實施您所學知識所需的情境和要求。 挑戰可幫助您評估您的技能水準並找出知識差距。
 
-本節中的每個挑戰都說明了您所實施的獨特使用案例。 目標客群 (角色) 和所需技能將列在每個挑戰的開頭。
+本節中的每個挑戰都說明了您所實施的獨特使用案例。 目標客群 (人物誌) 和所需技能將列在每個挑戰的開頭。
 
 ## 先決條件
 
@@ -68,7 +68,7 @@ Luma 正尋求推廣其最新的服裝和用具系列，並努力推動現有客
       <p>
       <b>所需技能：</b>
       <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html?lang=zh-Hant"> 建立區段</li>
-      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/journeys/use-case-read-segment.html">讀取區段</li>
+      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/journeys/use-case-read-segment.html?lang=zh-Hant">讀取區段</li>
        <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/import-and-author-html-email-content.html?lang=zh-Hant">匯入 HTML 電子郵件內容</li>
   </td>
   </tr>
@@ -90,7 +90,7 @@ Luma 正尋求推廣其最新的服裝和用具系列，並努力推動現有客
     <p>
     <b>所需技能：</b>
       <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html?lang=zh-Hant"> 建立區段</li>
-      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/journeys/use-case-read-segment-qualification.html">細分資格篩選</li>
+      <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/journeys/use-case-read-segment-qualification.html?lang=zh-Hant">細分資格篩選</li>
       <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/import-and-author-html-email-content.html?lang=zh-Hant">匯入及編寫 HTML 電子郵件內容</li>
   </td>
   </tr>

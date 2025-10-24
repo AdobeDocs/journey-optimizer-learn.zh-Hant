@@ -1,5 +1,5 @@
 ---
-title: 建立夏季系列發佈 - 挑戰
+title: 建立夏季集合公告 - 挑戰
 description: 向現有客戶客群傳送夏季系列發佈，以推廣新的 Luma 夏季系列。
 jira: KT-8109
 feature: Segments, Journeys, Email
@@ -8,18 +8,18 @@ level: Beginner
 last-substantial-update: 2023-02-01T00:00:00Z
 exl-id: ae457be7-2c67-4950-a072-1d7030b0e17b
 source-git-commit: 201470e35095b38617d1a1bb5d7b16c1e60f431e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1108'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
-# 建立夏季系列發佈 - 挑戰
+# 建立夏季集合公告 - 挑戰
 
 | 挑戰 | 建立夏季系列發佈 |
 |---|---|
-| 角色 | Journey Manager |
-| 所需技能 | <ul><li>[建立區段](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html?lang=zh-Hant)</li><li> [匯入及編寫 HTML 電子郵件內容](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/create-emails/import-and-author-html-email-content.html?lang=zh-Hant)</li><li>[使用案例 - 讀取區段](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/journeys/use-case-read-segment.html?lang=en)</li> |
+| 人物誌 | Journey Manager |
+| 所需技能 | <ul><li>[建立區段](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html?lang=zh-Hant)</li><li> [匯入及編寫 HTML 電子郵件內容](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/create-emails/import-and-author-html-email-content.html?lang=zh-Hant)</li><li>[使用案例 - 讀取區段](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/journeys/use-case-read-segment.html?lang=zh-Hant)</li> |
 | 要下載的資產 | [季節性系列電子郵件檔案](/help/challenges/assets/email-assets/emails-seasonal-collection-announcement.zip) |
 
 {style="table-layout:auto"}
@@ -201,7 +201,7 @@ stringCompare("equals", loyalty.tier, ["diamond", "gold", "platinum", "silver"],
 1. 開啟第二封電子郵件，歷程應該會結束。
 1. 您可以重複步驟 4。 - 7. 對於全部三個輪廓，以檢查分支是否正常運作。
 1. 若要測試逾時，請將等待時間設為 30 秒，然後再次觸發項目。
-1. 請勿開啟您收到的電子郵件(請勿預覽電子郵件(！))，讓等待時間過去。
+1. 請勿開啟您收到的電子郵件 (請勿預覽電子郵件 (!))，讓等待時間過去。
 
 您應會收到下列電子郵件：
 
