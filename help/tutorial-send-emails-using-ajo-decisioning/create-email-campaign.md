@@ -18,4 +18,4 @@ ht-degree: 0%
 
 在此影片中，您將會瞭解如何使用AJO Decisioning建立電子郵件行銷活動
 
->[!VIDEO](https://video.tv.adobe.com/v/3476158/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3476175/?captions=chi_hant&learn=on)
