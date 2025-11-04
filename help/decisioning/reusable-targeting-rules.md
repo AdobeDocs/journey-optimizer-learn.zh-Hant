@@ -20,4 +20,4 @@ ht-degree: 100%
 
 了解如何在 Adobe Journey Optimizer 中建立、複製和套用可重複使用的目標選擇規則，以根據客戶屬性 (如地區、語言及行為) 有效率地個人化行銷活動，進而節省時間並強化客群精確度。
 
->[!VIDEO](https://video.tv.adobe.com/v/3476127/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3476138/?captions=chi_hant&learn=on&enablevpops)
