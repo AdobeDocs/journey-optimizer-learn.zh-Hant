@@ -1,6 +1,6 @@
 ---
 title: 可重複使用的規則
-description: 瞭解如何在Adobe Journey Optimizer中建立、複製和套用可重複使用的鎖定目標規則，以根據客戶屬性（如地區、語言和行為）有效率地個人化行銷活動，進而節省時間並強化對象精確度。
+description: 了解如何在 Adobe Journey Optimizer 中建立、複製和套用可重複使用的目標選擇規則，以根據客戶屬性 (如地區、語言及行為) 有效率地個人化行銷活動，進而節省時間並強化客群精確度。
 feature: Decisioning
 role: User
 level: Beginner
@@ -9,15 +9,15 @@ duration: 140
 last-substantial-update: 2025-10-22T00:00:00Z
 jira: KT-19461
 source-git-commit: da6acf36dc57457e2ca961181df1b5c624151027
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '68'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
 # 可重複使用的規則
 
-瞭解如何在Adobe Journey Optimizer中建立、複製和套用可重複使用的鎖定目標規則，以根據客戶屬性（如地區、語言和行為）有效率地個人化行銷活動，進而節省時間並強化對象精確度。
+了解如何在 Adobe Journey Optimizer 中建立、複製和套用可重複使用的目標選擇規則，以根據客戶屬性 (如地區、語言及行為) 有效率地個人化行銷活動，進而節省時間並強化客群精確度。
 
->[!VIDEO](https://video.tv.adobe.com/v/3476138/?captions=chi_hant&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3476127/?learn=on&enablevpops)
