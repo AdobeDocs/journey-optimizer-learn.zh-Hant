@@ -20,4 +20,4 @@ ht-degree: 0%
 
 您會瞭解如何定義重要欄位，例如名字、電子郵件、忠誠度狀態和年收入，上傳真實的客戶資料，並使用該資料建立高價值客戶的對象。
 
->[!VIDEO](https://video.tv.adobe.com/v/3476421/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3476449/?captions=chi_hant&learn=on)
