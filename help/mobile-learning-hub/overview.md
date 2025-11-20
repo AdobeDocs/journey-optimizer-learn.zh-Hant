@@ -20,7 +20,7 @@ ht-degree: 0%
 
 探索最佳實務、瞭解如何促進採用和主報告（全都在一處），讓團隊可以提供有影響力的資料導向行動體驗，隨時隨地與使用者連線。
 
->[!VIDEO](https://video.tv.adobe.com/v/3476998?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3477009?captions=chi_hant&quality=12&learn=on){transcript=true}
 
 
 ## 行動裝置頻道總覽
