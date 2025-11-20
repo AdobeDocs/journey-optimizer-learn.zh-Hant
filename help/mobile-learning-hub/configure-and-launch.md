@@ -107,7 +107,7 @@ Journey Optimizer中的行動實作從應用程式中的&#x200B;**Adobe Experien
 
 您可以[手動](https://experienceleague.adobe.com/en/docs/platform-learn/data-collection/tags/create-a-property)建立並設定此行動屬性，或針對行動應用程式內及推播，您可以使用&#x200B;**[引導式頻道設定](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/web-and-mobile-channels/guided-channel-setup)**，自動建立iOS和Android的必要標籤屬性、資料串流及頻道設定。
 
-> [!TIP]
+&#x200B;> [!TIP]
 >  
 > 若為新實作，**[引導式頻道設定](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/web-and-mobile-channels/guided-channel-setup)**&#x200B;是建議的起點。 它可降低資料串流設定錯誤或缺少擴充功能的風險，並逐步引導您使用Assurance完成SDK驗證。
 
