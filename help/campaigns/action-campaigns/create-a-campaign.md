@@ -23,4 +23,4 @@ ht-degree: 18%
 
 >[!VIDEO](https://video.tv.adobe.com/v/346680/?learn=on&enablevpops)
 
-請參閱[產品文件](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer/using/campaigns/get-started-with-campaigns)以取得此功能的詳細資訊。
+請參閱[產品文件](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/campaigns/get-started-with-campaigns)以取得此功能的詳細資訊。

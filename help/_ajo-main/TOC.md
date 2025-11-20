@@ -208,7 +208,7 @@ ht-degree: 100%
       + [使用規則集](/help/business-rules/work-with-rule-sets.md)
       + [測試並報告頻率規則](/help/business-rules/test-and-report-on-frequency-rules.md)
 + 存取控制 {#access-control}
-   + [存取管理](/help/set-up-access/access-management.md)
+   + [存取權管理](/help/set-up-access/access-management.md)
    + [設定以屬性為基礎的存取控制](/help/administration/attribute-based-access-control.md)
    + [使用沙箱](/help/set-up-access/create-and-manage-sandboxes.md)
 + 資料控管與隱私權 {#data-governance-and-privacy}

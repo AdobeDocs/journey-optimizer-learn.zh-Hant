@@ -12,7 +12,7 @@ jira: KT-17486
 thumbnail: KT-17486.jpeg
 exl-id: d5219ce1-ea44-4c41-b557-b094978e37cc
 source-git-commit: b9a223a583a2ceb7c6c55a144ab78c7963ae2969
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '65'
 ht-degree: 100%
 
@@ -24,4 +24,4 @@ ht-degree: 100%
 
 此影片提供 Adobe Journey Optimizer 的決策功能的簡要概觀
 
->[!VIDEO](https://video.tv.adobe.com/v/3475874?captions=chi_hant&quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3451101?quality=12&learn=on){transcript=true}
