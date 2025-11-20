@@ -20,7 +20,7 @@ ht-degree: 17%
 
 在Adobe Journey Optimizer和Adobe Experience Platform中設定行動裝置頻道、整合行動應用程式，並確保行銷活動執行的整備。
 
-> [!NOTE]
+&#x200B;> [!NOTE]
 > 若您為Journey Optimizer和Experience Platform的新手，請參加以下課程以熟悉核心概念：
 > - [設定和管理Adobe Journey Optimizer](https://experienceleague.adobe.com/en/courses/ajo-configure-and-administrate-ajo-environment)
 >*在本課程中，您將學習如何設定和管理Journey Optimizer環境，包括使用者角色、許可權、沙箱和電子郵件通道，以確保有效率和安全的操作。*
