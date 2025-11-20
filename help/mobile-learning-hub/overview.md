@@ -7,7 +7,7 @@ hide: true
 index: false
 last-substantial-update: 2025-08-22T00:00:00Z
 exl-id: f0612a1d-f919-4b67-9e33-a9fb623062dc
-source-git-commit: 1d79a2f916017e5f40f1629f0d1f534a37607a23
+source-git-commit: 37ef25f7652c59378c2387cdb1763c8e52e4a681
 workflow-type: tm+mt
 source-wordcount: '900'
 ht-degree: 0%
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 探索最佳實務、瞭解如何促進採用和主報告（全都在一處），讓團隊可以提供有影響力的資料導向行動體驗，隨時隨地與使用者連線。
 
->[!VIDEO](https://video.tv.adobe.com/v/3477009?captions=chi_hant&quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3476998?quality=12&learn=on){transcript=true}
 
 
 ## 行動裝置頻道總覽
@@ -63,12 +63,6 @@ Journey Optimizer支援傳入和傳出的行動裝置頻道：
 
 6. 運用[程式碼型體驗](/help/mobile-learning-hub/channels/code-based-experience-overview.md)，根據使用者行為和偏好設定每個訊息，建立真正個人化的跨頻道歷程。
 
-
-## 客戶使用案例
-
-* [個人化參與飛行：航空公司如何透過Adobe Journey Optimizer （部落格）提升優惠方案](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-blogs/take-flight-with-personalization-how-airlines-can-elevate-offers/ba-p/767513)
-
-
 ## 建立您的基礎
 
 瞭解概念及做法
@@ -101,3 +95,7 @@ Journey Optimizer支援傳入和傳出的行動裝置頻道：
 | **向上銷售和交叉銷售行銷活動** | 根據現有客戶的行為、偏好設定或購買記錄，向客戶提供其他產品或升級。 |  — 推播通知強調相關的追加銷售機會。<br> — 應用程式內訊息和內容卡會顯示互補專案。<br>- SMS行銷活動會以獨佔選件來鎖定分段對象。 |
 | **防止流失** | 識別有離開風險的使用者，並透過個人化的保留策略與他們互動，以維持忠誠度。 |  — 預測性分析會觸發與高風險使用者的行動外聯。<br> — 推播通知和SMS提供忠誠度獎勵或個人化內容。<br> — 應用程式內調查會收集意見回饋，以改進保留策略。 |
 | **多頻道傳訊** | 協調多個行動裝置頻道的一致訊息，以確保使用者能及時收到相關的通訊。 |  — 推播、應用程式內、SMS和電子郵件經過協調以整合訊息。<br>- SDK可跨管道啟用即時個人化。<br> — 內容卡會跨工作階段持續儲存，以強化關鍵訊息。 |
+
+## 客戶使用案例
+
+* [個人化參與飛行：航空公司如何透過Adobe Journey Optimizer （部落格）提升優惠方案](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-blogs/take-flight-with-personalization-how-airlines-can-elevate-offers/ba-p/767513)
