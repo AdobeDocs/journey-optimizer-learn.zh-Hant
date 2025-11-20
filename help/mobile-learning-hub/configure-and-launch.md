@@ -233,7 +233,7 @@ Journey Optimizer中的行動實作從應用程式中的&#x200B;**Adobe Experien
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/web-and-mobile-channels/guided-channel-setup" title="引導式管道設定" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433053/?format=jpeg&nocache=1763594622823" alt="引導式管道設定"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3449633/?captions=chi_hant&format=jpeg&nocache=1763594622823" alt="引導式管道設定"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -256,7 +256,7 @@ Journey Optimizer中的行動實作從應用程式中的&#x200B;**Adobe Experien
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/whatsapp-channel/set-up-whatsapp-channel" title="設定 WhatsApp 頻道" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470268/?format=jpeg&nocache=1763594622814" alt="設定 WhatsApp 頻道"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470279/?captions=chi_hant&format=jpeg&nocache=1763594622814" alt="設定 WhatsApp 頻道"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -341,7 +341,7 @@ Journey Optimizer中的行動實作從應用程式中的&#x200B;**Adobe Experien
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/configure-mms-api-credentials-and-channel-surfaces" title="設定多媒體簡訊 API 憑證及頻道介面" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428872/?format=jpeg&nocache=1763594624083" alt="設定多媒體簡訊 API 憑證及頻道介面"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3438057/?captions=chi_hant&format=jpeg&nocache=1763594624083" alt="設定多媒體簡訊 API 憑證及頻道介面"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -364,7 +364,7 @@ Journey Optimizer中的行動實作從應用程式中的&#x200B;**Adobe Experien
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/set-up-rcs" title="在 Journey Optimizer 中設定 RCS" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464755/?format=jpeg&nocache=1763594624043" alt="在 Journey Optimizer 中設定 RCS"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464766/?captions=chi_hant&format=jpeg&nocache=1763594624043" alt="在 Journey Optimizer 中設定 RCS"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -451,7 +451,7 @@ Journey Optimizer中的行動實作從應用程式中的&#x200B;**Adobe Experien
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/tutorials/data-governance-and-privacy/classify-data-using-lables" title="使用標籤進行資料分類" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/29709?format=jpeg&nocache=1763594624932" alt="使用標籤進行資料分類"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3422788?captions=chi_hant&format=jpeg&nocache=1763594624932" alt="使用標籤進行資料分類"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
