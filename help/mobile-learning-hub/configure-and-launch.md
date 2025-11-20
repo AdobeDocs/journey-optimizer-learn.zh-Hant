@@ -8,65 +8,122 @@ hide: true
 index: false
 last-substantial-update: 2025-08-22T00:00:00Z
 exl-id: d8ffe406-b54b-455f-bd41-7d1fef0a4714
-source-git-commit: b7d014b3ac6373b957eb5fce11661ec39689446b
+source-git-commit: c0d4d95932a9f529442ac3471ee4070398e1bfa5
 workflow-type: tm+mt
-source-wordcount: '741'
-ht-degree: 57%
+source-wordcount: '2463'
+ht-degree: 17%
 
 ---
 
+
 # 設定和啟動
 
-在Journey Optimizer和Experience Platform中設定行動裝置頻道、整合行動應用程式，並確保行銷活動執行的整備。
+在Adobe Journey Optimizer和Adobe Experience Platform中設定行動裝置頻道、整合行動應用程式，並確保行銷活動執行的整備。
 
->[!NOTE]
->
->如果您不熟悉Journey Optimizer和Experience Platform，請觀看這些播放清單以熟悉核心概念：
->
->* [開始使用歷程管理員的Journey Optimizer](https://experienceleague.adobe.com/zh-hant/playlists/journey-optimizer-getting-started-for-journey-administrators-and-managers)
->* [為Journey Administrators設定Journey Optimizer](https://experienceleague.adobe.com/zh-hant/playlists/journey-optimizer-configure-journey-optimizer-for-administrators)
->* [在Journey Optimizer中為資料工程師設定及管理資料](https://experienceleague.adobe.com/zh-hant/playlists/journey-optimizer-configure-and-manage-data-for-data-engineers)
+> **備註**\
+> 若您為Journey Optimizer和Experience Platform的新手，請參加以下課程以熟悉核心概念：
+> - [設定和管理Adobe Journey Optimizer](https://experienceleague.adobe.com/en/courses/ajo-configure-and-administrate-ajo-environment)
+>*在本課程中，您將學習如何設定和管理Journey Optimizer環境，包括使用者角色、許可權、沙箱和電子郵件通道，以確保有效率和安全的操作。*
+> - 在Adobe Journey Optimizer中為Intelligent Journey Activation [工程師資料](https://experienceleague.adobe.com/en/courses/ajo-engineer-data-for-intelligent-journey-activation)
+>*在本課程中，您將瞭解如何使用Experience Platform為Journey Optimizer設定和管理即時客戶設定檔資料。 瞭解資料模型、身分對應和資料擷取，以建立個人化客戶歷程的統一設定檔。*
 
 
 ## Adobe Journey Optimizer中的行動裝置功能
 
+了解 Adobe Journey Optimizer 為開發者、行銷人員及產品團隊提供哪些行動功能，包括推播訊息、應用內訊息及內容個人化。
+
 >[!VIDEO](https://video.tv.adobe.com/v/342103?quality=12&learn=on){transcript=true}
 
-## 行動SDK和應用程式設定
 
-依每個管道劃分？
+## 行動 SDK 與應用程式設定
+
+Journey Optimizer 中的行動實作始於 **應用程式中的 Adobe Experience Platform 行動 SDK** 整合。 SDK 對於資料收集及與 Adobe Experience Platform（AEP）及其應用程式（如 Adobe Journey Optimizer，AJO）互動至關重要。
+
+行動SDK：
+
+- 收集應用程式事件（熒幕檢視、點選、購買、生命週期事件等）並傳送至&#x200B;**Adobe Experience Platform Edge Network**。
+- 管理&#x200B;**身分**&#x200B;和&#x200B;**同意**，讓Journey Optimizer可以安全地建立及使用客戶設定檔。
+- 註冊並更新&#x200B;**推送權杖**，並將推送及應用內追蹤事件&#x200B;**回傳**&#x200B;至 Adobe Experience Platform。
+- **整合 Journey Optimizer 行動擴充**&#x200B;功能（推播、應用內、內容卡、決策），使訊息能從端到端傳遞、渲染及衡量。
+
+若沒有將行動 SDK 整合進您的應用程式，Journey Optimizer 無法可靠地：
+
+- 傳遞並追蹤行動推播及應用程式內訊息。
+- 呈現和追蹤內容卡。
+- 利用即時的應用程式內行為來觸發旅程並個人化體驗。
+
 
 ### 先決條件
 
-請確定您擁有：
+請確保您具備：
 
-* 為您的組織布建的Adobe Journey Optimizer (AJO)。
-* Adobe Experience Platform (AEP) SDK憑證。
-* AJO中的管理員許可權以進行設定。
-* 存取應用程式的原始程式碼。
-* 您的應用程式已啟用必要的作業系統層級功能（推送許可權、通知服務擴充功能等）
-
-### 設定行動屬性
-
-教學課程連結
+- 為您的組織配置 Adobe Journey Optimizer（AJO）。
+- Adobe Experience Platform 存取權限，包含資料收集與旅程優化器的權限。
+- AJO中的管理員許可權，用於管道和組態設定。
+- 存取行動應用程式的原始碼(iOS、Android或跨平台架構)。
+- 您的應用程式已啟用必要的作業系統層級功能（例如推送許可權、通知服務擴充功能、背景模式）。
 
 
-## Adobe Journey Optimizer頻道設定
+### Journey Optimizer所需的行動SDK元件
 
-瞭解頻道如何使用引導式頻道設定功能來設定您的&#x200B;**行動頻道**。 瞭解如何設定&#x200B;**WhatsApp頻道**：
+若要使用Journey Optimizer行動裝置頻道（推播、應用程式內、內容卡、程式碼型體驗），您必須在行動裝置應用程式中安裝並設定一組&#x200B;**核心**&#x200B;和&#x200B;**頻道特定**&#x200B;擴充功能：
+
+>[!BEGINTABS]
+
+>[!TAB 核心]
+
+#### 核心擴充功能（所有行動使用案例均需要）
+
+| 目的 | 擴充功能範例(iOS / Android) | 附註 |
+|----------------------|-----------------------------------------------|-------|
+| 活動中心與服務 | 行動核心/ AEP核心， AEP Services | 所有其他擴充功能的基礎。 提供事件中樞、網路、儲存和共用狀態。 |
+| Edge Network | Adobe Experience Platform Edge Network | 將應用程式事件傳送至Adobe Experience Platform Edge Network。 |
+| 身分識別 | 適用於Edge Network的身分 | 管理用於設定檔和分段的ECID和其他身分。 |
+| 同意 | Edge Network的同意 | 收集並強制執行使用者同意偏好設定。 |
+| Assurance | Adobe Experience Platform Assurance | 用於端對端驗證和偵錯SDK和管道設定。 |
+
+>[!TAB 頻道特定]
+
+#### Journey Optimizer的通道特定擴充功能
+
+| 管道/功能 | 其他重要擴充功能（位於核心之上） | 啟用內容 |
+|------------------------|---------------------------------------------------------------------|------------------|
+| 推播通知 | Journey Optimizer行動擴充功能（推播） | 註冊並更新推播權杖、傳送推播追蹤事件、連線至AJO推播設定。 |
+| 應用程式內傳訊 | Journey Optimizer行動擴充功能（應用程式內）、傳訊UI元件 | 在內容中擷取並顯示應用程式內訊息，傳送閱聽和互動事件。 |
+| 內容卡 | 傳送支援內容卡的SDK訊息 | 擷取、演算及追蹤內容卡片，以取得準確的Journey Optimizer報表。 |
+| 程式碼型體驗 | Journey Optimizer / decisioning擴充功能或Edge伺服器API | 針對應用程式中的特定「表面」擷取決策；您的應用程式會控制內容的呈現方式。 |
+
+>[!ENDTABS]
+
+#### 行動標籤屬性和設定
+
+你可以在 **[AEP 資料收集（標籤）中的行動標籤屬性](https://developer.adobe.com/client-sdks/home/getting-started/create-a-mobile-property/)** 中設定這些擴充功能。 此財產控制：
+
+- 安裝了哪些行動 SDK 擴充功能？
+- 應用程式中的哪些事件會觸發對Edge Network的呼叫。
+- 如何將資料對應至XDM並轉送至Adobe解決方案(Journey Optimizer、Analytics等)。
+
+您可以手動建立並設定此行動屬性，或使用&#x200B;**[引導式頻道設定](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/web-and-mobile-channels/guided-channel-setup)**&#x200B;自動建立iOS或Android所需的標籤屬性、資料串流和頻道設定。
+
+> **提示**\
+> 若為新實作，**[引導式頻道設定](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/web-and-mobile-channels/guided-channel-setup)**&#x200B;是建議的起點。 它可降低資料串流設定錯誤或缺少擴充功能的風險，並逐步引導您使用Assurance完成SDK驗證。
+
+#### 開始使用Mobile SDK：
 
 <!-- CARDS
-* https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/web-and-mobile-channels/guided-channel-setup
-* https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/whatsapp-channel/set-up-whatsapp-channel
+* https://experienceleague.adobe.com/en/docs/platform-learn/data-collection/mobile-sdk/overview
+    {description = Learn how Adobe Experience Platform Mobile SDK powers end-to-end engagement in your mobile applications.}
+* https://experienceleague.adobe.com/en/docs/platform-learn/implement-mobile-sdk/overview
+* https://experienceleague.adobe.com/en/docs/mobile
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Guided channel setup">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Adobe Experience Platform Mobile SDK overview">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/web-and-mobile-channels/guided-channel-setup" title="引導式管道設定" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3449633/?captions=chi_hant&format=jpeg&nocache=1755888511558" alt="引導式管道設定"
+                    <a href="https://experienceleague.adobe.com/en/docs/platform-learn/data-collection/mobile-sdk/overview" title="Adobe Experience Platform Mobile SDK概觀" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/28948?format=jpeg&nocache=1763594622398" alt="Adobe Experience Platform Mobile SDK概觀"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -74,11 +131,119 @@ ht-degree: 57%
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/web-and-mobile-channels/guided-channel-setup" target="_blank" rel="referrer" title="引導式管道設定">引導式管道設定</a>
+                        <a href="https://experienceleague.adobe.com/en/docs/platform-learn/data-collection/mobile-sdk/overview" target="_blank" rel="referrer" title="Adobe Experience Platform Mobile SDK概觀">Adobe Experience Platform Mobile SDK概觀</a>
                     </p>
-                    <p class="is-size-6">引導式通道設定可協助您利用跨體驗平台、Journey Optimizer 和資料彙集的必要資源，快速設定及驗證網頁與行動通道，讓您的行銷團隊可以開始建立行銷活動和歷程。 了解如何在範例 iOS 行動裝置行銷應用程式上設定及驗證推播頻道通知。</p>
+                    <p class="is-size-6">瞭解Adobe Experience Platform Mobile SDK如何在行動應用程式中強化端對端參與。</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/web-and-mobile-channels/guided-channel-setup" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/en/docs/platform-learn/data-collection/mobile-sdk/overview" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">觀看</span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Implement Adobe Experience Cloud in mobile apps tutorial">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="https://experienceleague.adobe.com/en/docs/platform-learn/implement-mobile-sdk/overview" title="在行動應用程式教學課程中實作Adobe Experience Cloud" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/platform-learn/implement-mobile-sdk/overview./media_1c75750ec1be623e56a379ca69ef6c495799e52a5.png?width=400&format=png&optimize=medium" alt="在行動應用程式教學課程中實作Adobe Experience Cloud"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="https://experienceleague.adobe.com/en/docs/platform-learn/implement-mobile-sdk/overview" target="_blank" rel="referrer" title="在行動應用程式教學課程中實作Adobe Experience Cloud">在行動應用程式教學課程中實作 Adobe Experience Cloud</a>
+                    </p>
+                    <p class="is-size-6">瞭解如何實作Adobe Experience Cloud行動應用程式。 本教學課程將指導您在一個範例Swift或Android應用程式中實施Experience Cloud應用程式。</p>
+                </div>
+                <a href="https://experienceleague.adobe.com/en/docs/platform-learn/implement-mobile-sdk/overview" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">深入了解</span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Adobe Experience Platform Mobile SDK Documentation">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="https://experienceleague.adobe.com/en/docs/mobile" title="Adobe Experience Platform Mobile SDK 文件" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-cards/documentation.png" alt="Adobe Experience Platform Mobile SDK 文件"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="https://experienceleague.adobe.com/en/docs/mobile" target="_blank" rel="referrer" title="Adobe Experience Platform Mobile SDK 文件">Adobe Experience Platform Mobile SDK檔案</a>
+                    </p>
+                    <p class="is-size-6">搜尋 Experience Platform Mobile SDK 的自助文章和教學課程。 從直播和隨選視訊活動中向專家學習策略及最佳實務。</p>
+                </div>
+                <a href="https://experienceleague.adobe.com/en/docs/mobile" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">深入了解</span>
+                </a>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
+
+如需詳細資訊，另請參閱[Adobe Experience Platform Mobile SDK檔案](https://experienceleague.adobe.com/en/docs/mobile)
+
+#### 開發人員參考資料：
+
+- [行動SDK開發人員入口網站（首頁）](https://developer.adobe.com/client-sdks/home/)
+- [目前的SDK版本](https://developer.adobe.com/client-sdks/home/current-sdk-versions/)
+- [開始使用行動屬性（標籤）](https://developer.adobe.com/client-sdks/home/getting-started/create-a-mobile-property/)
+- [取得SDK （安裝在您的應用程式中）](https://developer.adobe.com/client-sdks/home/getting-started/get-the-sdk/)
+- 使用Mobile SDK [追蹤事件](https://developer.adobe.com/client-sdks/home/getting-started/track-events/)
+- [使用Assurance進行驗證](https://developer.adobe.com/client-sdks/home/base/assurance/)
+
+#### 行動SDK整備檢查清單
+
+> - [ 已安裝]核心SDK (核心、Edge、身分、同意、Assurance)。
+> - [ 針對您將使用的管道（推播、應用程式內、內容卡片、程式碼型）新增]個Journey Optimizer行動擴充功能。
+> - [ ]資料流已正確設定為事件和設定檔資料集。
+> - [ 使用Assurance實作及驗證的]身分和同意。
+> - [ ]端對端推播權杖註冊和追蹤已驗證。
+> - [ ]應用程式內及/或內容卡顯示已在裝置上驗證。
+> - [ ]引導式管道設定用於新實施，或手動對齊記錄的步驟進行設定。
+
+
+
+## Adobe Journey Optimizer頻道設定
+
+### 應用程式內、推送和WhatsApp
+
+使用引導式頻道設定功能設定您的&#x200B;**行動頻道**。 瞭解如何設定&#x200B;**WhatsApp頻道**：
+
+<!-- CARDS
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/web-and-mobile-channels/guided-channel-setup
+ {description = Learn how to quickly set up and validate web and mobile channels across Experience Platform, Journey Optimizer, and Data Collection, and configure a push notification for a sample iOS marketing app.}
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/whatsapp-channel/set-up-whatsapp-channel
+-->
+<!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
+<div class="columns">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Guided channel setup">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/web-and-mobile-channels/guided-channel-setup" title="引導式管道設定" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433053/?format=jpeg&nocache=1763594622823" alt="引導式管道設定"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/web-and-mobile-channels/guided-channel-setup" target="_blank" rel="referrer" title="引導式管道設定">引導式管道設定</a>
+                    </p>
+                    <p class="is-size-6">學習如何快速設置並驗證 Experience Platform、Journey Optimizer 及資料收集的網路與行動通路，並為範例 iOS 行銷應用程式設定推播通知。</p>
+                </div>
+                <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/web-and-mobile-channels/guided-channel-setup" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">觀看</span>
                 </a>
             </div>
@@ -89,7 +254,7 @@ ht-degree: 57%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/whatsapp-channel/set-up-whatsapp-channel" title="設定 WhatsApp 頻道" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470279/?format=jpeg&nocache=1755888511569&captions=chi_hant" alt="設定 WhatsApp 頻道"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470268/?format=jpeg&nocache=1763594622814" alt="設定 WhatsApp 頻道"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -110,14 +275,16 @@ ht-degree: 57%
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
 
+### SMS/MMS/RCS
 
-瞭解如何使用標準提供者（Twilio、Synch或Infobip）或使用自訂SMS提供者來設定&#x200B;**SMS/MMS/RCS頻道**：
+使用標準提供者（Twilio、Synch或Infobip）或自訂SMS提供者設定&#x200B;**SMS/MMS/RCS頻道**：
 
 <!-- CARDS
-* https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/set-up-sms-channel
-* https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/configure-custom-sms-provider
-* https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/configure-mms-api-credentials-and-channel-surfaces
-* https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/set-up-rcs
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/set-up-sms-channel
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/configure-custom-sms-provider
+{description = Learn how to configure custom SMS providers in Journey Optimizer, set up API credentials and webhooks, manage opt-in/opt-out keywords, and launch personalized campaigns.}
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/configure-mms-api-credentials-and-channel-surfaces
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/set-up-rcs
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
@@ -125,8 +292,8 @@ ht-degree: 57%
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/set-up-sms-channel" title="設定簡訊 API 認證及頻道介面" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3413355?format=jpeg&nocache=1755888512031" alt="設定簡訊 API 認證及頻道介面"
+                    <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/set-up-sms-channel" title="設定簡訊 API 認證及頻道介面" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3413355?format=jpeg&nocache=1763594624036" alt="設定簡訊 API 認證及頻道介面"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -134,11 +301,11 @@ ht-degree: 57%
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/set-up-sms-channel" target="_blank" rel="referrer" title="設定簡訊 API 認證及頻道介面">設定SMS API認證和頻道介面</a>
+                        <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/set-up-sms-channel" target="_blank" rel="referrer" title="設定簡訊 API 認證及頻道介面">設定SMS API認證和頻道介面</a>
                     </p>
                     <p class="is-size-6">瞭解如何將 Journey Optimizer 連線至 SMS 服務提供者，以及如何建立簡訊頻道介面。</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/set-up-sms-channel" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/set-up-sms-channel" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">觀看</span>
                 </a>
             </div>
@@ -149,7 +316,7 @@ ht-degree: 57%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/configure-custom-sms-provider" title="設定自訂簡訊提供者" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3431625/?format=jpeg&nocache=1755888512068" alt="設定自訂簡訊提供者"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3431625/?format=jpeg&nocache=1763594624067" alt="設定自訂簡訊提供者"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -159,7 +326,7 @@ ht-degree: 57%
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/configure-custom-sms-provider" target="_blank" rel="referrer" title="設定自訂簡訊提供者">設定自訂 SMS 提供者</a>
                     </p>
-                    <p class="is-size-6">了解如何在 Adobe Journey Optimizer 中設定 Sinch、Twilio 或 Infobip 以外的簡訊提供者、設定傳入訊息的 API 認證和 Webhook、管理選擇加入/選擇退出關鍵字，以及使用原生工具和自訂承載啟動個人化簡訊行銷活動。</p>
+                    <p class="is-size-6">瞭解如何在Journey Optimizer中設定自訂簡訊提供者、設定API憑證和Webhook、管理選擇加入/選擇退出關鍵字，以及啟動個人化行銷活動。</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/configure-custom-sms-provider" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">觀看</span>
@@ -171,8 +338,8 @@ ht-degree: 57%
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/configure-mms-api-credentials-and-channel-surfaces" title="設定多媒體簡訊 API 憑證及頻道介面" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3438057/?format=jpeg&nocache=1755888512061&captions=chi_hant" alt="設定多媒體簡訊 API 憑證及頻道介面"
+                    <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/configure-mms-api-credentials-and-channel-surfaces" title="設定多媒體簡訊 API 憑證及頻道介面" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428872/?format=jpeg&nocache=1763594624083" alt="設定多媒體簡訊 API 憑證及頻道介面"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -180,11 +347,11 @@ ht-degree: 57%
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/configure-mms-api-credentials-and-channel-surfaces" target="_blank" rel="referrer" title="設定多媒體簡訊 API 憑證及頻道介面">設定簡訊 API 憑證及管道表面</a>
+                        <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/configure-mms-api-credentials-and-channel-surfaces" target="_blank" rel="referrer" title="設定多媒體簡訊 API 憑證及頻道介面">設定簡訊 API 憑證及管道表面</a>
                     </p>
                     <p class="is-size-6">瞭解如何將 Journey Optimizer 連線至多媒體簡訊服務提供者，以及如何建立多媒體簡訊頻道介面。</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/configure-mms-api-credentials-and-channel-surfaces" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/configure-mms-api-credentials-and-channel-surfaces" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">觀看</span>
                 </a>
             </div>
@@ -195,7 +362,7 @@ ht-degree: 57%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/set-up-rcs" title="在 Journey Optimizer 中設定 RCS" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464766/?format=jpeg&nocache=1755888512073&captions=chi_hant" alt="在 Journey Optimizer 中設定 RCS"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464755/?format=jpeg&nocache=1763594624043" alt="在 Journey Optimizer 中設定 RCS"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -216,18 +383,18 @@ ht-degree: 57%
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
 
-## 個部落格
+## 部落格貼文
 
-* [在行動裝置上使用以CDN為基礎的使用者端個人化(ODD)，以加快個人化速度。](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-blogs/using-cdn-based-client-side-personalization-odd-on-mobile-for/ba-p/761626)
-* 適用於Adobe Experience Cloud的[Mobile Activation](https://experienceleaguecommunities.adobe.com/t5/adobe-target-blogs/mobile-activation-for-adobe-experience-cloud/ba-p/541595)
+- [在行動裝置上使用以CDN為基礎的使用者端個人化(ODD)，以加快個人化速度。](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-blogs/using-cdn-based-client-side-personalization-odd-on-mobile-for/ba-p/761626)
+- 適用於Adobe Experience Cloud的[Mobile Activation](https://experienceleaguecommunities.adobe.com/t5/adobe-target-blogs/mobile-activation-for-adobe-experience-cloud/ba-p/541595)
 
 ## 確保遵守隱私權法規和平台指引。
 
 <!-- CARDS
-* https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer/using/privacy/privacy-landing-page{image=../mobile-learning-hub/assets/privacy.webp}{title = Privacy Features in Adobe Journey Optimizer}{description = Learn how to process privacy requests, audit user actions, manage consent, apply governance rules, and leverage advanced security options like Customer Managed Keys.}
-* https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/tutorials/data-governance-and-privacy/data-governance-framework
-* https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/tutorials/data-governance-and-privacy/classify-data-using-lables{cta = Watch}
-* https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/tutorials/data-governance-and-privacy/create-data-usage-policies
+* https://experienceleague.adobe.com/en/docs/journey-optimizer/using/privacy/privacy-landing-page{image=../mobile-learning-hub/assets/privacy.webp}{title = Privacy Features in Adobe Journey Optimizer}{description = Learn how to process privacy requests, audit user actions, manage consent, apply governance rules, and leverage advanced security options like Customer Managed Keys.}
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/data-governance-and-privacy/data-governance-framework
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/data-governance-and-privacy/classify-data-using-lables{cta = Watch}
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/data-governance-and-privacy/create-data-usage-policies
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
@@ -235,8 +402,8 @@ ht-degree: 57%
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer/using/privacy/privacy-landing-page" title="Adobe Journey Optimizer的隱私權功能" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="../mobile-learning-hub/assets/privacy.webp" alt="Adobe Journey Optimizer的隱私權功能"
+                    <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer/using/privacy/privacy-landing-page" title="Adobe Journey Optimizer 中的隱私功能" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="../mobile-learning-hub/assets/privacy.webp" alt="Adobe Journey Optimizer 中的隱私功能"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -244,12 +411,12 @@ ht-degree: 57%
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        Adobe Journey Optimizer中的<a href="https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer/using/privacy/privacy-landing-page" target="_blank" rel="referrer" title="Adobe Journey Optimizer的隱私權功能">隱私權功能</a>
+                        <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer/using/privacy/privacy-landing-page" target="_blank" rel="referrer" title="Adobe Journey Optimizer 中的隱私功能">Adobe Journey Optimizer 的隱私功能</a>
                     </p>
-                    <p class="is-size-6">瞭解如何處理隱私權請求、稽核使用者動作、管理同意、套用治理規則，以及運用進階安全性選項，例如客戶自控金鑰。</p>
+                    <p class="is-size-6">學習如何處理隱私請求、審核使用者行為、管理同意、套用治理規則，並善用客戶管理金鑰等先進安全選項。</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer/using/privacy/privacy-landing-page" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">進一步瞭解</span>
+                <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer/using/privacy/privacy-landing-page" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">深入了解</span>
                 </a>
             </div>
         </div>
@@ -259,7 +426,7 @@ ht-degree: 57%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/tutorials/data-governance-and-privacy/data-governance-framework" title="資料治理框架概觀" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/29708/?format=jpeg&nocache=1755888512557" alt="資料治理框架概觀"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/29708/?format=jpeg&nocache=1763594624934" alt="資料治理框架概觀"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -282,7 +449,7 @@ ht-degree: 57%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/tutorials/data-governance-and-privacy/classify-data-using-lables" title="使用標籤進行資料分類" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3422788?format=jpeg&nocache=1755888512540&captions=chi_hant" alt="使用標籤進行資料分類"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/29709?format=jpeg&nocache=1763594624932" alt="使用標籤進行資料分類"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -305,7 +472,7 @@ ht-degree: 57%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/tutorials/data-governance-and-privacy/create-data-usage-policies" title="建立資料使用原則" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/32977/?format=jpeg&nocache=1755888512550" alt="建立資料使用原則"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/32977/?format=jpeg&nocache=1763594624933" alt="建立資料使用原則"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -325,3 +492,173 @@ ht-degree: 57%
     </div>
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
+
+## 常見的實作陷阱和避免方式
+
+大部分行動問題產生於&#x200B;**SDK或資料收集設定**，而非Journey Optimizer歷程或行銷活動本身。 使用下表找出問題，然後展開對應的區段以取得詳細資料。
+
+### 陷阱總覽
+
+| # | 問題/症狀 | 常見陷阱 | 一覽必看 |
+|---|----------------------------------------------|-----------------------------------------------------|------------------------------------------|
+| 1 | 引導式管道設定失敗；無流量或流量低 | [SDK版本或擴充功能未對齊](#1-sdk-versions-and-extensions-not-aligned-with-channel-requirements) | 更新 SDK 或擴充功能版本;在 Assurance 中驗證 |
+| 2 | 追蹤批次失敗;AEP 中的錯誤 | [資料串流或資料集設定錯誤](#2-misconfigured-datastreams-or-datasets) | 將事件對應到事件資料集，將設定檔對應到設定檔資料集 |
+| 3 | 歷程不會引發；奇怪的個人化 | [缺少身分或同意/不一致](#3-missing-or-inconsistent-identity-and-consent) | 實作Edge身分與同意；在Assurance中驗證 |
+| 4 | 無推播傳遞或在報表中開啟 | [推播權杖註冊或追蹤中斷](#4-push-token-registration-and-tracking-not-wired-correctly) | 透過SDK修正權杖註冊和互動追蹤 |
+| 5 | 儘管活動活躍，卻沒有應用內曝光 | [應用程式內訊息或內容卡未顯示](#5-in-app-messages-or-content-cards-not-displaying) | 檢查訊息擴充功能、觸發器及保證決策回應 |
+
+### 每個陷阱的詳細指引
+
+打開與你症狀相符的陷阱，看看該檢查什麼以及如何解決。
+
+<details id="1-sdk-versions-and-extensions-not-aligned-with-channel-requirements">
+<summary><strong>1。 SDK 版本與擴充功能與通道要求不符</strong></summary>
+
+**你會注意到的**
+
+- 推播或應用程式內的活動無法傳送到裝置。
+- 導引通道建立或通道驗證失敗。
+- Assurance會顯示遺失的Journey Optimizer、Edge或身分副檔名。
+
+**檢查內容**
+
+- 您是否使用引導式頻道設定所需的最低&#x200B;**行動核心**&#x200B;和&#x200B;**Journey Optimizer**&#x200B;擴充功能版本？
+- 在&#x200B;**Assurance**&#x200B;中，在擴充功能和事件底下：
+   - 您看到預期的擴充功能已載入嗎？
+   - 事件是否會傳送至Edge Network並進行確認？
+
+**如何修正**
+
+- 升級至支援的行動SDK和Journey Optimizer擴充功能版本。
+- 重建應用程式、重新連線至Assurance，然後重新執行引導式頻道設定。
+
+請參閱：[設定行動裝置和網頁](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer/using/configuration/guided-setup/set-mobile-config)
+
+</details>
+
+
+<details id="2-misconfigured-datastreams-or-datasets">
+<summary><strong>2. 資料串流或資料集設定錯誤</strong></summary>
+
+**您將注意到的事項**
+
+- Platform資料集中的事件或推播追蹤批次失敗。
+- 資料擷取錯誤（例如「事件不支援更新」）。
+- 推播或應用程式內報表顯示很少或沒有追蹤。
+
+**檢查內容**
+
+- 有人變更為Journey Optimizer追蹤建立的&#x200B;**系統結構描述或資料集**&#x200B;嗎？
+- 在您的&#x200B;**資料流**&#x200B;中：
+   - 體驗事件是否對應至&#x200B;**事件資料集**？
+   - 設定檔屬性是否對應至&#x200B;**設定檔資料集**？
+
+**如何修正**
+
+- 請勿編輯AJO建立的系統資料集/結構描述。
+- 更正資料流對應(事件→事件資料集、設定檔→設定檔資料集)。
+- 偏好使用引導式管道設定或紀錄的資料流步驟，而非臨時變更。
+
+請參閱： Adobe Journey Optimizer中的[推播通知流程](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/push/push-config/push-gs)
+
+</details>
+
+
+<details id="3-missing-or-inconsistent-identity-and-consent">
+<summary><strong>3.遺失或不一致的身分和同意</strong></summary>
+
+**您將注意到的事項**
+
+- 應用程式使用者的歷程未如預期觸發。
+- Personalization不符合使用者在其他頻道中的行為。
+- 事件會出現在 Experience Platform 中，但個人檔案看起來支離破碎。
+
+**要注意的事項**
+
+- Identity for Edge Network **是否**&#x200B;實作並傳送穩定的主要 ID（例如登入 ID）？
+- 當偏好設定改變時，Edge Network **同意是否**&#x200B;已實施並更新？
+- 在 **保證**&#x200B;中：
+   - 傳出事件是否包含同意值？
+   - 他們是否一致包含 ECID 和你的主要身分證？
+
+**如何修復**
+
+- 在應用程式中實作或更正 **邊緣網路** 的身份設定。
+- 實作 **Edge Network** 的同意，並將其連接到你的應用程式的同意介面。
+- 在Assurance中重新測試，直到身分和同意出現在所有相關事件上為止。
+
+請參閱：[Platform Mobile SDK實作的實作同意](https://experienceleague.adobe.com/en/docs/platform-learn/implement-mobile-sdk/app-implementation/consent)
+
+</details>
+
+
+<details id="4-push-token-registration-and-tracking-not-wired-correctly">
+<summary><strong>4。 推播權杖註冊和追蹤的有線不正確</strong></summary>
+
+**您將注意到的事項**
+
+- 即使行銷活動或歷程執行，使用者仍不會收到推播通知。
+- 推播報表不會顯示開啟、關閉或互動。
+
+**檢查內容**
+
+- 應用程式是否會使用Journey Optimizer擴充功能註冊推送代號：
+   - 第一次安裝時？
+   - 每次應用程式更新後？
+   - 作業系統刷新代幣時？
+- 當使用者開啟或關閉通知時，你在 Assurance 裡會看到追蹤事件嗎？
+
+**如何修正**
+
+- 新增或修正程式碼：
+   - 建立或重新整理權杖時，請透過Journey Optimizer行動擴充功能註冊權杖。
+   - 透過行動軟體 SDK 傳送推送互動事件（開啟、關閉、自訂動作）。
+- 使用Assurance來確認註冊和追蹤事件是否如預期般觸發。
+
+參見： [Adobe Journey Optimizer 中的推播通知流程](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/push/push-config/push-gs)
+
+</details>
+
+
+<details id="5-in-app-messages-or-content-cards-not-displaying">
+<summary><strong>5。 應用程式內訊息或內容卡未顯示</strong></summary>
+
+**你會注意到的**
+
+- 即使促銷活動或歷程有效，應用程式內訊息或內容卡片也絕不會顯示。
+- 報表顯示0次曝光。
+
+**檢查內容**
+
+- **Journey Optimizer行動傳訊/應用程式內擴充功能**&#x200B;和&#x200B;**傳訊SDK**&#x200B;是否已安裝並在應用程式中註冊？
+- 在您的&#x200B;**標籤**&#x200B;設定中：
+   - 您是否有規則可在正確的事件（例如熒幕檢視或自訂事件）上觸發請求？
+- 在&#x200B;**Assurance**&#x200B;中：
+   - 當這些事件引發時，您會看到應用程式內或內容卡決策請求發出嗎？
+   - 您看到來自Edge Network的回應嗎？
+
+**如何修正**
+
+- 安裝並註冊必要的傳訊擴充功能。
+- 新增或修正觸發目標事件（畫面、自訂事件）上決策的規則。
+- 對於內容卡片，請確定：
+   - 透過傳訊SDK API擷取卡片。
+   - 在您的UI中呈現它們。
+   - 透過SDK追蹤互動。
+
+請參閱：
+- [建立並傳送應用程式內訊息](https://experienceleague.adobe.com/en/docs/platform-learn/implement-mobile-sdk/experience-cloud/journey-optimizer/journey-optimizer-inapp)
+- [在行動SDK中設定內容卡支援](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/content-card/configure/content-card-lp)
+
+</details>
+
+
+## 一行準備檢查清單
+
+將應用程式傳遞給行銷人員之前，請在&#x200B;**[Assurance](https://developer.adobe.com/client-sdks/home/base/assurance/)**&#x200B;中確認：
+
+- 核心SDK + Journey Optimizer擴充功能已載入，
+- 事件在正確的資料流和資料集上流動，
+- 所有主要事件都會出現身分和同意，
+- 會追蹤推播權杖和互動，並且
+- 已顯示並記錄至少一個測試應用程式內訊息或內容卡
