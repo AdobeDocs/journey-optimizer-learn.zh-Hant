@@ -6,10 +6,10 @@ level: Beginner
 breadcrumb-title: use-decisioning-in-email-channel
 breadcrumb-url: /docs/journey-optimizer-learn/use-decisioning-in-email-channel/introduction
 auto-video-transcripts: true
-source-git-commit: 885acb2590800fa40aa98761953ea78c6fa33d19
+source-git-commit: c7690ad3a805d5b149b9e068b68a7a34d72f45d6
 workflow-type: tm+mt
-source-wordcount: '29'
-ht-degree: 41%
+source-wordcount: '30'
+ht-degree: 36%
 
 ---
 
@@ -18,5 +18,5 @@ ht-degree: 41%
 
 + [簡介](./introduction.md)
 + [擷取設定檔](./ingest-profile-create-audience.md)
-+ [決策](./create-offers-selection-strategy-ranking-formula.md)
++ [建立決策](./create-offers-selection-strategy-ranking-formula.md)
 + [建立電子郵件行銷活動](./create-email-campaign.md)
