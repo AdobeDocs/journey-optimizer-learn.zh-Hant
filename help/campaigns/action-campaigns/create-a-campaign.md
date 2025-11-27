@@ -1,6 +1,6 @@
 ---
 title: 建立動作行銷活動
-description: 瞭解如何在Adobe Journey Optimizer中建立及最佳化行動行銷活動，以精確提供具影響力的一次性或循環性通訊。
+description: 了解如何在 Adobe Journey Optimizer 中建立及最佳化動作行銷活動，以精確提供具影響力的一次性或定期通訊。
 jira: KT-10590
 thumbnail: 346680.jpg
 feature: Campaigns
@@ -11,15 +11,15 @@ level: Beginner
 last-substantial-update: 2025-11-14T00:00:00Z
 exl-id: 543678e6-5803-4997-a6ea-a45ed571d7d4
 source-git-commit: d5658be3109f688d66fd34a82531afdcbffb05da
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '65'
-ht-degree: 18%
+ht-degree: 100%
 
 ---
 
 # 建立動作行銷活動
 
-瞭解如何在Adobe Journey Optimizer中建立及最佳化行動行銷活動，以精確提供具影響力的一次性或循環性通訊。
+了解如何在 Adobe Journey Optimizer 中建立及最佳化動作行銷活動，以精確提供具影響力的一次性或定期通訊。
 
 >[!VIDEO](https://video.tv.adobe.com/v/346680/?learn=on&enablevpops)
 
