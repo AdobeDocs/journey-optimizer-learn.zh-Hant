@@ -21,4 +21,4 @@ ht-degree: 100%
 
 了解 Adobe Journey Optimizer 如何運用內嵌的 Adobe Experience Manager 簡化數位資產管理，讓您可直接從存放庫搜尋、瀏覽及取得資產。了解如何建立行銷活動、使用現有範本設計電子郵件，以及輕鬆上傳或編輯資產，從而輕鬆建立強大且具影響力的內容。
 
->[!VIDEO](https://video.tv.adobe.com/v/3477010/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3477022/?captions=chi_hant&learn=on)
