@@ -1,20 +1,19 @@
 ---
-source-git-commit: ac61c4d30929b559826b4a770fc10c26aec74830
+source-git-commit: ab619c80bcc5df95af8e80c664c42e5c281bc648
 workflow-type: tm+mt
-source-wordcount: '283'
+source-wordcount: '296'
 ht-degree: 2%
 
 ---
 # 內容卡 — 概觀
 
->[!VIDEO](https://video.tv.adobe.com/v/3460101/?learn=on&enablevpops&captions=chi_hant){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3458224/?learn=on&enablevpops){transcript=true}
 
 ## 這是什麼？
 
-**內容卡**&#x200B;是永久性的應用程式內訊息，位於您的應用程式內的專用收件匣或摘要中。 與推播通知不同，它們不會中斷使用者，並且可在使用者的方便下檢視。\
-適合用來提供&#x200B;**非緊急**、**資訊性**&#x200B;或&#x200B;**促銷內容**，這些內容可因時間長短而享有可見度。
+**內容卡**&#x200B;是永久性的應用程式內訊息，顯示在您應用程式內的專用收件匣或摘要中。 與推播通知不同，它們不會中斷使用者，而且只要使用者選擇即可檢視。
 
-您可以將內容卡視為應用程式內「訊息中心」或個人化動態消息。
+它們適用於&#x200B;**非緊急**、**資訊性**&#x200B;或&#x200B;**促銷內容**，這些內容可透過更長的可見度和重複曝光度獲益。 您可以將內容卡視為應用程式內「訊息中心」或個人化的內容摘要，讓使用者可以按照自己的步調瀏覽更新。
 
 ### 範例：
 

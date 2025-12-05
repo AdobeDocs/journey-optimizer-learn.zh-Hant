@@ -1,16 +1,17 @@
 ---
-source-git-commit: ac61c4d30929b559826b4a770fc10c26aec74830
+source-git-commit: ab619c80bcc5df95af8e80c664c42e5c281bc648
 workflow-type: tm+mt
-source-wordcount: '282'
-ht-degree: 3%
+source-wordcount: '301'
+ht-degree: 2%
 
 ---
 # 程式碼型體驗 — 概觀
 
 ## 這是什麼
 
-**程式碼型體驗**&#x200B;是指在Adobe Journey Optimizer等平台中，使用自訂程式碼(JavaScript、API或範本語言)建立的個人化、動態內容或傳訊內容。\
-這可讓您建立高度客製化、資料導向的客戶歷程，以及標準拖放工具以外的傳訊功能。
+程式碼型體驗可讓您在Adobe Journey Optimizer中使用自訂程式碼(例如JavaScript、API或範本語言)，提供個人化的動態內容與傳訊功能。
+
+此管道非常適合建立高度客製化的資料導向互動，其延伸範圍超出標準視覺製作工具(WYSIWYG編輯器)，讓開發人員和最佳化管理員在設計自訂個人化邏輯和內容版面時擁有完整彈性。
 
 範例：
 
