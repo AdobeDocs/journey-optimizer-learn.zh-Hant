@@ -1,15 +1,15 @@
 ---
 title: 行動學習中心
-description: 這是開發人員、管理員、行銷人員和資料分析師的首選空間，可探索從設定傳入和傳出繫結的行動頻道，到將其編織成強大行銷活動的所有內容。 探索最佳實務、瞭解如何促進採用和主報告（全都在一處），讓團隊可以提供有影響力的資料導向行動體驗，隨時隨地與使用者連線。
+description: 透過Adobe Journey Optimizer快速啟動或提升您的行動互動策略。 此行動學習中心可為開發人員、管理員、行銷人員和分析師提供設定傳入和傳出行動頻道所需的一切，並將他們緊密整合到強大的跨頻道行銷活動和歷程中。 探索最佳實務、瞭解如何促進採用並設定集中式報告工作流程（全都在一處），以提供具影響力、資料導向的行動體驗，隨時隨地觸及客戶。
 feature: Overview
 role: User, Admin, Developer
 hide: true
 index: false
-last-substantial-update: 2025-08-22T00:00:00Z
+last-substantial-update: 2025-12-05T00:00:00Z
 exl-id: f0612a1d-f919-4b67-9e33-a9fb623062dc
-source-git-commit: ab619c80bcc5df95af8e80c664c42e5c281bc648
+source-git-commit: 6faf1e92516a54afa9c987b693a27d2284726fff
 workflow-type: tm+mt
-source-wordcount: '916'
+source-wordcount: '928'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 探索最佳實務、瞭解如何促進採用並設定集中式報告工作流程（全都在一處），以提供具影響力、資料導向的行動體驗，隨時隨地觸及客戶。
 
->[!VIDEO](https://video.tv.adobe.com/v/3477009?captions=chi_hant&quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3476998?quality=12&learn=on){transcript=true}
 
 
 ## 行動裝置頻道總覽
