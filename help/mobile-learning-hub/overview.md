@@ -20,7 +20,7 @@ ht-degree: 0%
 
 探索最佳實務、瞭解如何促進採用並設定集中式報告工作流程（全都在一處），以提供具影響力、資料導向的行動體驗，隨時隨地觸及客戶。
 
->[!VIDEO](https://video.tv.adobe.com/v/3476998?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3477009?captions=chi_hant&quality=12&learn=on){transcript=true}
 
 
 ## 行動裝置頻道總覽
