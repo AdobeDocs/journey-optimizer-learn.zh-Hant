@@ -2,10 +2,10 @@
 title: 現代忠誠計畫的財務模型
 description: 適用於預測負債、獎勵經濟及遞增價值的完整、CFO就緒架構。
 feature: Overview
-role: User, Admin, Developer
+role: User
 hide: true
 index: false
-source-git-commit: 5a535afbd93b624bf16b29af1526dc659fb31b1d
+source-git-commit: ea0030d0742adf0058c8bb9ad3950ae9d96f8892
 workflow-type: tm+mt
 source-wordcount: '1979'
 ht-degree: 0%
