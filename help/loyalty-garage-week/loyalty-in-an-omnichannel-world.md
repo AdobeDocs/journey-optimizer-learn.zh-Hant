@@ -5,7 +5,7 @@ feature: Overview
 role: User, Admin, Developer
 hide: true
 index: false
-source-git-commit: 1cdf8be6fc76e3e67f0180fad6a0979ab2e6b07b
+source-git-commit: 42664e9b81482c2c7e3cbec5e02dcc256b6b5272
 workflow-type: tm+mt
 source-wordcount: '2128'
 ht-degree: 0%
@@ -38,8 +38,6 @@ ht-degree: 0%
 第四個失敗點是未內嵌在所有客戶接觸點上的&#x200B;**忠誠度體驗**。 許多計畫僅會在應用程式或電子郵件通訊中顯示忠誠度。 但客戶可隨時隨地參與互動。 忠誠度值必須顯示在首頁、產品詳細資料頁面、購物車、推播通知、簡訊執行緒、數位回條、客服中心介面和實體商店招牌上。 當忠誠度不可見或出現不一致時，客戶會覺得價值較低，參與次數也較少。
 
 這些失敗的組合會產生所謂的&#x200B;**忠誠度不一致性**，也就是客戶期望的與品牌提供的心理差距。 全通路忠誠度可透過將身分、資料、決策、歷程協調和使用者體驗整合在單一持續敘述中來解決此問題。
-
-&#x200B;---
 
 ## 2.全通路忠誠度的真正含義
 
