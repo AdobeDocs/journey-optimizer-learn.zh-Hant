@@ -64,7 +64,7 @@ ht-degree: 100%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/tutorials/report-and-monitor/monitor-and-analyze-your-journey-with-live-reports" title="使用即時報告監視和分析您的歷程" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470709/?format=jpeg&nocache=1764706279498" alt="使用即時報告監視和分析您的歷程"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470846/?captions=chi_hant&format=jpeg&nocache=1764706279498" alt="使用即時報告監視和分析您的歷程"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -87,7 +87,7 @@ ht-degree: 100%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/tutorials/report-and-monitor/journey-reports" title="使用歷程報告監視和分析您的歷程" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470710/?format=jpeg&nocache=1764706279432" alt="使用歷程報告監視和分析您的歷程"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471474/?captions=chi_hant&format=jpeg&nocache=1764706279432" alt="使用歷程報告監視和分析您的歷程"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -110,7 +110,7 @@ ht-degree: 100%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/tutorials/report-and-monitor/channel-level-reports" title="管道層級報告" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3424537/?format=jpeg&nocache=1764706279481" alt="管道層級報告"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3448050/?captions=chi_hant&format=jpeg&nocache=1764706279481" alt="管道層級報告"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -133,7 +133,7 @@ ht-degree: 100%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/tutorials/report-and-monitor/all-time-reports" title="使用所有時間報告分析歷程的整體績效" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3475653/?format=jpeg&nocache=1764706279437" alt="使用所有時間報告分析歷程的整體績效"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3475798/?captions=chi_hant&format=jpeg&nocache=1764706279437" alt="使用所有時間報告分析歷程的整體績效"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -156,7 +156,7 @@ ht-degree: 100%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/tutorials/report-and-monitor/export-reports-in-csv-format" title="以 CSV 格式匯出報告" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3424603/?format=jpeg&nocache=1764706279503" alt="以 CSV 格式匯出報告"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3439625/?captions=chi_hant&format=jpeg&nocache=1764706279503" alt="以 CSV 格式匯出報告"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -202,7 +202,7 @@ ht-degree: 100%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/tutorials/report-and-monitor/enhanced-reporting-with-customer-journey-analytics" title="使用 Customer Journey Analytics 增強報告功能" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3430413/?format=jpeg&nocache=1764706279442" alt="使用 Customer Journey Analytics 增強報告功能"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3443162/?captions=chi_hant&format=jpeg&nocache=1764706279442" alt="使用 Customer Journey Analytics 增強報告功能"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
