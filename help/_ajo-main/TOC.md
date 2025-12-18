@@ -3,7 +3,7 @@ user-guide-title: Journey Optimizer 教學課程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 這些是 Journey Optimizer 教學課程。
 auto-video-transcripts: true
-source-git-commit: 45c7276e212f489c6d0a234d4e859bf94f188d6c
+source-git-commit: f557bb5542f413be99ae0f578a18f4dec60f0e06
 workflow-type: tm+mt
 source-wordcount: '971'
 ht-degree: 99%
@@ -22,7 +22,7 @@ ht-degree: 99%
    + [為行銷人員提供的行動裝置功能](/help/channels/mobile-capabilities.md)
    + [為開發人員提供的行動裝置功能](/help/channels/mobile-capabilities-for-developers.md)
    + [取得 AI 助理的說明](/help/ai-agents/ai-assistant.md)
-+ [Journey Optimizer — 行動學習中心](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/mobile-learning-hub/overview)
++ [Journey Optimizer — 行動學習中心](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/mobile-learning-hub/overview){target="_blank"}
 + 行銷活動 {#create-campaigns}
    + 動作行銷活動 {#action-campaigns}
       + [建立行銷活動](/help/campaigns/action-campaigns/create-a-campaign.md)
@@ -64,7 +64,7 @@ ht-degree: 99%
    + [使用規則產生器建立客群](/help/profiles-audiences-subscriptions/create-audiences-using-the-rule-builder.md)
    + [藉由上傳 CSV 檔案來建立新客群。](/help/profiles-audiences-subscriptions/import-and-activate-an-audience-by-uploading-a-csv-file.md)
    + [使用Web SDK，建立客群 (教學課程)](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/create-audiences-using-web-sdk/introduction){target="_blank"}
-   + [隨選評估客群](https://experienceleague.adobe.com/zh-hant/docs/platform-learn/tutorials/audiences/audience-builder/evaluate-audiences-on-demand)
+   + [隨選評估客群](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/audiences/audience-builder/evaluate-audiences-on-demand)
    + [訂閱和登陸頁面](/help/subscriptions-and-landing-pages.md)
 + 管道 {#channels}
    + [行動應用程式最佳化 — 概觀](/help/channels/mobile-app-optimization-overview.md)
