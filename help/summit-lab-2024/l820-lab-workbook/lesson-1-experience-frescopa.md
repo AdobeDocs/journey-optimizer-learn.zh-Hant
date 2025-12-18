@@ -10,7 +10,7 @@ recommendations: noDisplay, noCatalog
 jira: KT-14978
 thumbnail: KT-14978.jpeg
 exl-id: 1bbb978b-0401-4383-b507-48b46d84d19f
-source-git-commit: 55ba1a46c1473d94847e7fccc69ed2a33badb54c
+source-git-commit: 7b3d668e8400d9f86c764f5dc4c4455b50cd0cdc
 workflow-type: tm+mt
 source-wordcount: '559'
 ht-degree: 1%
@@ -34,11 +34,11 @@ ht-degree: 1%
 
 1. 在Fréscopa首頁按一下&#x200B;**[!UICONTROL 登入]**。
 
-   ![Fréscopa首頁](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/1-1-1-frescopa-homepage.png "Fréscopa首頁")
+   ![Fréscopa首頁](/help/summit-lab-2024/l820-lab-workbook/assets/1-1-1-frescopa-homepage.png "Fréscopa首頁")
 
 1. 在登入頁面上選取&#x200B;**[!UICONTROL 建立帳戶]**。
 
-   ![Fréscopa登入頁面](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/1-1-2-frescopa-sign-in-page.png "Fréscopa登入")
+   ![Fréscopa登入頁面](/help/summit-lab-2024/l820-lab-workbook/assets/1-1-2-frescopa-sign-in-page.png "Fréscopa登入")
 
 1. 在下一頁填寫您的詳細資訊：
 
@@ -57,19 +57,19 @@ ht-degree: 1%
 
    1. 輸入您的&#x200B;**名額號碼**。 （您可以在實驗室機器的案頭上找到它。）
 
-      ![實驗室電腦案頭](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/locate-seat-number.png)
+      ![實驗室電腦案頭](/help/summit-lab-2024/l820-lab-workbook/assets/locate-seat-number.png)
 
    1. 若要指定您是否擁有Fréscopa電腦，請選擇&#x200B;**是**&#x200B;或&#x200B;**否**。
 
 1. 按一下&#x200B;**註冊**。
 
-   ![Fréscopa註冊頁面](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/1-1-3-frescopa-registration-page.png){width="650" align="center" zoomable="yes"}
+   ![Fréscopa註冊頁面](/help/summit-lab-2024/l820-lab-workbook/assets/1-1-3-frescopa-registration-page.png){width="650" align="center" zoomable="yes"}
 
 ## 練習1.2 — 下載並安裝Fréscopa應用程式
 
 透過掃描您在註冊時收到的訊息中的QR碼或是以下掃描，將行動應用程式安裝在您的iOS或Android™裝置上：
 
-![Fréscopa行動應用程式QR碼](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/1-2-1-qr-codes.png "Fréscopa行動應用程式QR碼")
+![Fréscopa行動應用程式QR碼](/help/summit-lab-2024/l820-lab-workbook/assets/1-2-1-qr-codes.png "Fréscopa行動應用程式QR碼")
 
 裝置特定安裝：
 
@@ -83,23 +83,23 @@ ht-degree: 1%
 
 1. 移至&#x200B;**設定** > **一般** > **VPN與裝置管理**。
 
-   ![裝置管理設定畫面](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/1-2-2-device-management-screen.PNG "裝置管理設定畫面"){width="250" align="center" zoomable="yes"}
+   ![裝置管理設定畫面](/help/summit-lab-2024/l820-lab-workbook/assets/1-2-2-device-management-screen.PNG "裝置管理設定畫面"){width="250" align="center" zoomable="yes"}
 
 1. 選取&#x200B;**Adobe Systems Inc**&#x200B;和&#x200B;**信任Adobe Systems Inc**。
 
-   ![Adobe Systems選擇畫面](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/1-2-3-adobe-systems.PNG "Adobe Systems選擇畫面"){width="250" align="center" zoomable="yes"}
+   ![Adobe Systems選擇畫面](/help/summit-lab-2024/l820-lab-workbook/assets/1-2-3-adobe-systems.PNG "Adobe Systems選擇畫面"){width="250" align="center" zoomable="yes"}
    <br>
 
-   ![信任Adobe Systems畫面](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/1-2-4-trust-adobe.PNG){width="250" align="center" zoomable="yes"}
+   ![信任Adobe Systems畫面](/help/summit-lab-2024/l820-lab-workbook/assets/1-2-4-trust-adobe.PNG){width="250" align="center" zoomable="yes"}
 
-   * 您現在應該可以在您的iPhone上啟動&#x200B;**Fréscopa應用程式**： ![Fréscopa應用程式圖示](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/1-2-app-icon.png){width="50" align="center" zoomable="yes"}
+   * 您現在應該可以在您的iPhone上啟動&#x200B;**Fréscopa應用程式**： ![Fréscopa應用程式圖示](/help/summit-lab-2024/l820-lab-workbook/assets/1-2-app-icon.png){width="50" align="center" zoomable="yes"}
 
 
 1. 開啟應用程式。
 
-1. 在快顯視窗中按一下[允許&#x200B;**&#x200B;**]，允許DX示範應用程式傳送通知給您。
+1. 在快顯視窗中按一下[允許&#x200B;****]，允許DX示範應用程式傳送通知給您。
 
-   ![通知快顯視窗](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/1-2-allow-notifications.png){width="250" align="center" zoomable="yes"}
+   ![通知快顯視窗](/help/summit-lab-2024/l820-lab-workbook/assets/1-2-allow-notifications.png){width="250" align="center" zoomable="yes"}
 
 >[!TAB Android]
 
@@ -107,11 +107,11 @@ ht-degree: 1%
 
 在Android上，依照此處顯示的警示指示下載並安裝APK：
 
-![Android下載畫面](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/1-2-5-android-download.jpg "Android下載畫面"){width="250" align="center" zoomable="yes"}
+![Android下載畫面](/help/summit-lab-2024/l820-lab-workbook/assets/1-2-5-android-download.jpg "Android下載畫面"){width="250" align="center" zoomable="yes"}
 <br>
-![Android安裝畫面](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/1-2-6-android-installation.jpg){width="250" align="center" zoomable="yes"}
+![Android安裝畫面](/help/summit-lab-2024/l820-lab-workbook/assets/1-2-6-android-installation.jpg){width="250" align="center" zoomable="yes"}
 
-* 您現在應該可以在您的Android裝置上啟動&#x200B;**Fréscopa應用程式**： ![Fréscopa應用程式圖示](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/1-2-app-icon.png){width="50" align="center" zoomable="yes"}
+* 您現在應該可以在您的Android裝置上啟動&#x200B;**Fréscopa應用程式**： ![Fréscopa應用程式圖示](/help/summit-lab-2024/l820-lab-workbook/assets/1-2-app-icon.png){width="50" align="center" zoomable="yes"}
 
 >[!ENDTABS]
 
@@ -144,12 +144,12 @@ ht-degree: 1%
 >
 >在Frescopa首頁上，按一下&#x200B;**Adobe Summit Lab Challenge Progress** （頁面底部）。
 > 
->  ![挑戰進度按鈕](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/1-3-challenge-progress-button.png)
+>  ![挑戰進度按鈕](/help/summit-lab-2024/l820-lab-workbook/assets/1-3-challenge-progress-button.png)
 >
 > 您可以檢視已獲得的徽章：
 > 
-> ![徽章](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/1-3-badges.png)
+> ![徽章](/help/summit-lab-2024/l820-lab-workbook/assets/1-3-badges.png)
 
 在下列課程中，您將學習如何在Adobe Journey Optimizer中建立行動裝置和網頁體驗。
 
-[def]: /help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/1-2-4-trust-adobe.PNG
+[def]: /help/summit-lab-2024/l820-lab-workbook/assets/1-2-4-trust-adobe.PNG

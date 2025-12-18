@@ -9,7 +9,7 @@ recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
 exl-id: 4e968512-ebc1-42ee-873c-41d6c1ec3056
-source-git-commit: 55ba1a46c1473d94847e7fccc69ed2a33badb54c
+source-git-commit: 7b3d668e8400d9f86c764f5dc4c4455b50cd0cdc
 workflow-type: tm+mt
 source-wordcount: '206'
 ht-degree: 2%
@@ -22,7 +22,7 @@ ht-degree: 2%
 
 **步驟1：**&#x200B;從下列位置掃描您裝置的QR碼：
 
-![SecureFinancial行動應用程式QR碼](/help/summit-labs/summit-lab-2024-lab-assets/assets/dx-demo-app-qr-codes.png)
+![SecureFinancial行動應用程式QR碼](/help/summit-lab-2024-lab-assets/assets/dx-demo-app-qr-codes.png)
 
 裝置特定安裝：
 
@@ -34,11 +34,11 @@ ht-degree: 2%
 
 1. 在相機應用程式中顯示的模組上，按一下&#x200B;**安裝**。
 
-   ![安裝快顯視窗](/help/summit-labs/summit-lab-2024-lab-assets/assets/install_popup.png){width="250" align="center" zoomable="yes"}
+   ![安裝快顯視窗](/help/summit-lab-2024-lab-assets/assets/install_popup.png){width="250" align="center" zoomable="yes"}
 
 2. 關閉&#x200B;**攝影機**&#x200B;應用程式，並在熒幕上尋找DX示範應用程式
 
-   ![DX示範應用程式](/help/summit-labs/summit-lab-2024-lab-assets/assets/dx_demo_on_ios_screen.png){width="250" align="center" zoomable="yes"}
+   ![DX示範應用程式](/help/summit-lab-2024-lab-assets/assets/dx_demo_on_ios_screen.png){width="250" align="center" zoomable="yes"}
 
 
 ## 步驟3：信任Adobe企業開發人員
@@ -47,14 +47,14 @@ ht-degree: 2%
 
 1. 移至&#x200B;**設定** > **一般** > **VPN與裝置管理**。
 
-   ![裝置管理設定畫面](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/1-2-2-device-management-screen.PNG "裝置管理設定畫面"){width="250" align="center" zoomable="yes"}
+   ![裝置管理設定畫面](/help/summit-lab-2024/l820-lab-workbook/assets/1-2-2-device-management-screen.PNG "裝置管理設定畫面"){width="250" align="center" zoomable="yes"}
 
 1. 選取&#x200B;**Adobe Systems Inc**&#x200B;和&#x200B;**信任Adobe Systems Inc**。
 
-   ![Adobe Systems選擇畫面](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/1-2-3-adobe-systems.PNG "Adobe Systems選擇畫面"){width="250" align="center" zoomable="yes"}
+   ![Adobe Systems選擇畫面](/help/summit-lab-2024/l820-lab-workbook/assets/1-2-3-adobe-systems.PNG "Adobe Systems選擇畫面"){width="250" align="center" zoomable="yes"}
    <br>
 
-   ![信任Adobe Systems畫面](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/1-2-4-trust-adobe.PNG){width="250" align="center" zoomable="yes"}
+   ![信任Adobe Systems畫面](/help/summit-lab-2024/l820-lab-workbook/assets/1-2-4-trust-adobe.PNG){width="250" align="center" zoomable="yes"}
 
    您現在應該能夠在iPhone上啟動* SecureFinancial應用程式**：
 
@@ -65,9 +65,9 @@ ht-degree: 2%
 
 在Android上，依照此處顯示的警示指示，下載並安裝應用程式：
 
-![Android下載畫面](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/1-2-5-android-download.jpg "Android下載畫面"){width="250" align="center" zoomable="yes"}
+![Android下載畫面](/help/summit-lab-2024/l820-lab-workbook/assets/1-2-5-android-download.jpg "Android下載畫面"){width="250" align="center" zoomable="yes"}
 <br>
-![Android安裝畫面](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/1-2-6-android-installation.jpg){width="250" align="center" zoomable="yes"}
+![Android安裝畫面](/help/summit-lab-2024/l820-lab-workbook/assets/1-2-6-android-installation.jpg){width="250" align="center" zoomable="yes"}
 
 您現在應該能夠在Android裝置上啟動* SecureFinancial應用程式**：
 

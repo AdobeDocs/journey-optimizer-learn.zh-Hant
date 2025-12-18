@@ -10,7 +10,7 @@ recommendations: noDisplay, noCatalog
 jira: KT-13983
 thumbnail: KT-13983.jpeg
 exl-id: 0f84adfb-edb1-47fa-b696-58eec2b33bb1
-source-git-commit: 55ba1a46c1473d94847e7fccc69ed2a33badb54c
+source-git-commit: 7b3d668e8400d9f86c764f5dc4c4455b50cd0cdc
 workflow-type: tm+mt
 source-wordcount: '699'
 ht-degree: 2%
@@ -34,7 +34,7 @@ ht-degree: 2%
 
 1. 按一下&#x200B;**建立行銷活動**。
 
-   ![CreateCampaign](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/4-1-create-campaign.png)
+   ![CreateCampaign](/help/summit-lab-2024/l820-lab-workbook/assets/4-1-create-campaign.png)
 
 1. 在&#x200B;**建立行銷活動**&#x200B;頁面的&#x200B;**動作**&#x200B;區段中，選取&#x200B;**應用程式內訊息**&#x200B;核取方塊。
 
@@ -42,7 +42,7 @@ ht-degree: 2%
 
 1. 輸入下列URL： **https://dsn.adobe.com/web/adobe-summit-2024/exercise** - *這是您訊息會顯示的網頁。*
 
-   ![應用程式內URL](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/4-1-1-in-app-url.png)
+   ![應用程式內URL](/help/summit-lab-2024/l820-lab-workbook/assets/4-1-1-in-app-url.png)
 
 1. 按一下&#x200B;**[!UICONTROL 建立]**。
 
@@ -60,7 +60,7 @@ ht-degree: 2%
    > 
    > 例如，如果您的座位數為99： 
    >
-   > ![屬性名稱](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/4-1-2-properties-name.png)
+   > ![屬性名稱](/help/summit-lab-2024/l820-lab-workbook/assets/4-1-2-properties-name.png)
 
 
 ### 3.2.2設定自訂觸發規則
@@ -69,18 +69,18 @@ ht-degree: 2%
 
 1. 向下捲動至&#x200B;**[!UICONTROL Triggers區段]**，然後按一下&#x200B;**[!UICONTROL 編輯觸發器]**。
 
-   ![修改](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/3-2-1-2-edit-triggers.png)
+   ![修改](/help/summit-lab-2024/l820-lab-workbook/assets/3-2-1-2-edit-triggers.png)
 
 1. 在規則產生器中，按一下&#x200B;**[!UICONTROL 應用程式啟動]**，然後從下拉式清單中選取&#x200B;*傳送資料至Platform*。
-   ![觸發事件下拉式清單](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/trigger-drop-down-sent-to-platform.png)
+   ![觸發事件下拉式清單](/help/summit-lab-2024/l820-lab-workbook/assets/trigger-drop-down-sent-to-platform.png)
 
 1. 按一下&#x200B;**[!UICONTROL +新增條件]**&#x200B;以新增條件。
 
-   ![新增條件按鈕](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/3-2-1-3-add-condition.png)
+   ![新增條件按鈕](/help/summit-lab-2024/l820-lab-workbook/assets/3-2-1-3-add-condition.png)
 
 1. 從&#x200B;**[!UICONTROL 選取特徵]**&#x200B;下拉式清單中，選取&#x200B;**[!UICONTROL XDM事件型別]**。
 
-   ![XDM事件型別](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/4-1-2-dropdown-xdm-event.png)
+   ![XDM事件型別](/help/summit-lab-2024/l820-lab-workbook/assets/4-1-2-dropdown-xdm-event.png)
 
 
 1. 在下列文字欄位中，新增您可以記住的&#x200B;*`<custom string value>`*，然後按&#x200B;**[!UICONTROL 新增]** `<custom string value>`儲存值。
@@ -93,7 +93,7 @@ ht-degree: 2%
    > 例如︰`99web`
    > 
 
-   ![新增自訂觸發字串值](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/4-1-2-add-custom-trigger-dropdown.png)
+   ![新增自訂觸發字串值](/help/summit-lab-2024/l820-lab-workbook/assets/4-1-2-add-custom-trigger-dropdown.png)
 
 1. 按右上方的&#x200B;**[!UICONTROL 完成]**&#x200B;按鈕。
 
@@ -101,7 +101,7 @@ ht-degree: 2%
 >
 >您現在已使用自訂觸發事件定義您的網頁應用程式內訊息。
 >
->![已定義自訂觸發器的網頁行銷活動](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/4-1-2-2-web-campaign-with-custom-trigger.png)
+>![已定義自訂觸發器的網頁行銷活動](/help/summit-lab-2024/l820-lab-workbook/assets/4-1-2-2-web-campaign-with-custom-trigger.png)
 
 
 ### 3.2.3編輯應用程式內訊息的內容
@@ -110,7 +110,7 @@ ht-degree: 2%
 
 1. 按一下&#x200B;**動作**&#x200B;區段中的&#x200B;**編輯內容**&#x200B;按鈕以存取編寫建構。
 
-   ![編輯內容按鈕](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/3-1-3-1-edit-content-button.png)
+   ![編輯內容按鈕](/help/summit-lab-2024/l820-lab-workbook/assets/3-1-3-1-edit-content-button.png)
 
 1. 編寫程式與您在上述「行動應用程式內」練習中完成的程式相同。 請花點時間，以您自己的標題、內文和媒體內容自由編輯您的訊息。
 
@@ -128,13 +128,13 @@ ht-degree: 2%
 
 1. 前往Fréscopa網站，並導覽至瀏覽器上的&#x200B;**練習**&#x200B;頁面。
 
-   ![網路練習連結](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/4-2-frescopa-web-exercise-link.png)
+   ![網路練習連結](/help/summit-lab-2024/l820-lab-workbook/assets/4-2-frescopa-web-exercise-link.png)
 
 1. 請務必重新整理網頁。
 
 1. 輸入您在行銷活動中定義的唯一字串值。
 
-   ![練習頁面](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/4-2-exercise-page.png)
+   ![練習頁面](/help/summit-lab-2024/l820-lab-workbook/assets/4-2-exercise-page.png)
 
 1. 按一下&#x200B;**[!UICONTROL 傳送]**。
 
@@ -154,7 +154,7 @@ ht-degree: 2%
 
 **產品檔案：**
 
-* [開始使用應用程式內頻道](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer/using/in-app/get-started-in-app)
-* [建立網頁應用程式內訊息](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer/using/in-app/create-in-app-web)
-* [設計您的應用程式內內容](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer/using/in-app/design-in-app)
-* [檢查並傳送您的應用程式內通知](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer/using/in-app/send-in-app)
+* [開始使用應用程式內頻道](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/get-started-in-app)
+* [建立網頁應用程式內訊息](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/create-in-app-web)
+* [設計您的應用程式內內容](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/design-in-app)
+* [檢查並傳送您的應用程式內通知](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/send-in-app)
