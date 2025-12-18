@@ -4,9 +4,9 @@ user-guide-description: 在本實驗中，您將學習如何將商業通訊從�
 role: User
 level: Beginner,Intermediate
 breadcrumb-title: 擴展協調流程以融入全通路
-breadcrumb-url: /docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction
+breadcrumb-url: /docs/journey-optimizer-learn/summit-labs/scaling-orchestration-to-omnichannel-engagement/introduction
 auto-video-transcripts: true
-source-git-commit: 201470e35095b38617d1a1bb5d7b16c1e60f431e
+source-git-commit: 654d7a7f66a75bf76f679eb18a441510eff7b56d
 workflow-type: tm+mt
 source-wordcount: '83'
 ht-degree: 1%
@@ -14,7 +14,7 @@ ht-degree: 1%
 ---
 
 
-# 調整協調流程以提升全通路參與度{#scaling-orchestration-to-omnichannel-engagement}
+# 調整協調流程以提升全通路參與度 {#scaling-orchestration-to-omnichannel-engagement}
 
 + [簡介](/help/summit-labs/summit-lab-2025/introduction.md)
 + [第1課 — 體驗歷程](/help/summit-labs/summit-lab-2025/lesson-1-experience-the-journey.md)

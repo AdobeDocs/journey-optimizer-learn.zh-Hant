@@ -1,11 +1,13 @@
 ---
-user-guide-title: Adobe Summit — 實驗室活頁簿
-breadcrumb-title: Adobe Summit — 實驗室活頁簿
-breadcrumb-url: /docs/journey-optimizer-learn/adobe-summit-lab-workbooks/overview.html
+user-guide-title: Adobe Summit Lab 2024 — 建立個人化的行動時刻 — 活頁簿
+role: User
+level: Beginner,Intermediate
+breadcrumb-title: 建立個人化的行動時刻
+breadcrumb-url: /docs/journey-optimizer-learn/summit-labs/summit-lab-2024/build-personalized-mobile-moments/lab-overview
 auto-video-transcripts: true
-source-git-commit: 201470e35095b38617d1a1bb5d7b16c1e60f431e
+source-git-commit: 654d7a7f66a75bf76f679eb18a441510eff7b56d
 workflow-type: tm+mt
-source-wordcount: '42'
+source-wordcount: '56'
 ht-degree: 0%
 
 ---
