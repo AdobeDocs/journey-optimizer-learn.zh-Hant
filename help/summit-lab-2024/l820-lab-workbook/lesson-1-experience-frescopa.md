@@ -97,7 +97,7 @@ ht-degree: 1%
 
 1. 開啟應用程式。
 
-1. 在快顯視窗中按一下[允許&#x200B;****]，允許DX示範應用程式傳送通知給您。
+1. 在快顯視窗中按一下[允許&#x200B;**&#x200B;**]，允許DX示範應用程式傳送通知給您。
 
    ![通知快顯視窗](/help/summit-labs/summit-lab-2024/l820-lab-workbook/assets/1-2-allow-notifications.png){width="250" align="center" zoomable="yes"}
 
