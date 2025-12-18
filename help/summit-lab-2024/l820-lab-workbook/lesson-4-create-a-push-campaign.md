@@ -211,7 +211,7 @@ ht-degree: 2%
 
 **產品檔案：**
 
-* [開始使用推播通知](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/push/get-started-push)
-* [建立推播通知](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/push/create-push)
-* [設計推播通知](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/push/design-push)
-* [檢查並傳送推播通知](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/push/send-push)
+* [開始使用推播通知](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer/using/push/get-started-push)
+* [建立推播通知](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer/using/push/create-push)
+* [設計推播通知](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer/using/push/design-push)
+* [檢查並傳送推播通知](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer/using/push/send-push)
