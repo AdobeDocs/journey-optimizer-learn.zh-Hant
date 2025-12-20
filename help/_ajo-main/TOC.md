@@ -231,7 +231,7 @@ ht-degree: 99%
    + [正在產生優惠曝光和點按次數報告](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/reporting-on-ajo-od/introduction){target="_blank"}
    + [使用排名公式在 Journey Optimizer 中提供個人化優惠](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction){target="_blank"}
    + [強化客戶參與度](/help/use-cases/enhance-customer-engagement.md){target="_blank"}
-   + [將協調流程縮放為全頻道參與](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction.md){target="_blank"}
+   + [將協調流程縮放為全頻道參與](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction.md){target="_blank"}
    + 使用案例教戰手冊 {#use-case-playbooks}
       + [概觀](https://experienceleague.adobe.com/zh-hant/docs/platform-learn/tutorials/use-case-playbooks/overview){target="_blank"}
       + [設定教戰手冊沙箱](https://experienceleague.adobe.com/zh-hant/docs/platform-learn/tutorials/use-case-playbooks/configure-a-playbook-sandbox){target="_blank"}
@@ -241,6 +241,6 @@ ht-degree: 99%
    + [挑戰](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites)
    + Summit Labs {#summit-labs}
       + [透過 Adobe Journey Optimizer (2024) 建立個人化行動時刻](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/build-personalized-mobile-moments/lab-overview){target="_blank"}
-      + [請在 Adobe Journey Optimizer (2025 年版) 中，將協調流程縮放為全頻道參與](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction.md){target="_blank"}
+      + [請在 Adobe Journey Optimizer (2025 年版) 中，將協調流程縮放為全頻道參與](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction.md){target="_blank"}
 + 即時工作階段和深入探討 {#live-sessions-and-deep-dives}
    + [Experience League 現場表演錄影](/help/_ajo-main/experience-league-live-show-recordings.md)
