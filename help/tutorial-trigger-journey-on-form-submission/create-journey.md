@@ -16,7 +16,7 @@ ht-degree: 18%
 
 # 建立歷程
 
-在Adobe Journey Optimizer中建立歷程，並在Adobe Experience Platform收到&#x200B;**_AssetClassSelected_**事件時開始。
+在Adobe Journey Optimizer中建立歷程，並在Adobe Experience Platform收到&#x200B;**_AssetClassSelected_**&#x200B;事件時開始。
 建立歷程涉及建立以下設定
 
 建立電子郵件通道設定
