@@ -19,7 +19,7 @@ ht-degree: 0%
 設定表單以使用HTTP型整合即時傳送提交資料至Adobe Experience Platform，確保事件裝載與結構描述一致。
 
 定義HTTP串流端點
->[!VIDEO](https://video.tv.adobe.com/v/3478496)
+>[!VIDEO](https://video.tv.adobe.com/v/3478507?captions=chi_hant)
 
 
 
