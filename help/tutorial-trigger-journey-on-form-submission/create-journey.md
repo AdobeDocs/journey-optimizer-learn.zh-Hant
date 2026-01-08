@@ -21,7 +21,7 @@ ht-degree: 18%
 建立歷程涉及建立以下設定
 
 建立電子郵件通道設定
->[!VIDEO](https://video.tv.adobe.com/v/3478510)
+>[!VIDEO](https://video.tv.adobe.com/v/3478521?captions=chi_hant)
 
 
 

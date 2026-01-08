@@ -36,7 +36,7 @@ ht-degree: 4%
 * 將表單提交資料傳送至Adobe Experience Platform
 
 使用案例簡介和事件結構描述建立
->[!VIDEO](https://video.tv.adobe.com/v/3478471)
+>[!VIDEO](https://video.tv.adobe.com/v/3478482?captions=chi_hant)
 
 
 

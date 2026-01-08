@@ -19,7 +19,7 @@ ht-degree: 0%
 使用事件結構描述，在Adobe Journey Optimizer中定義自訂事件。 此事件會監聽傳至Adobe Experience Platform的表單提交資料。
 
 定義名為&#x200B;**_InvestmentPreference_**&#x200B;的自訂事件
->[!VIDEO](https://video.tv.adobe.com/v/3478483)
+>[!VIDEO](https://video.tv.adobe.com/v/3478494?captions=chi_hant)
 
 
 
