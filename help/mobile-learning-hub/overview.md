@@ -5,9 +5,10 @@ feature: Overview
 role: User, Admin, Developer
 hide: false
 index: true
+jira: KT-19860
 last-substantial-update: 2025-12-18T00:00:00Z
 exl-id: f0612a1d-f919-4b67-9e33-a9fb623062dc
-source-git-commit: c2f3040358442ac2bb78d02b2a210d93b327c3ee
+source-git-commit: 8a6ae2fa80db47751a864cc983446b306b6d8e7a
 workflow-type: tm+mt
 source-wordcount: '892'
 ht-degree: 0%
@@ -20,7 +21,7 @@ ht-degree: 0%
 
 探索最佳實務、瞭解如何促進採用並設定集中式報告工作流程（全都在一處），以提供具影響力、資料導向的行動體驗，隨時隨地觸及客戶。
 
->[!VIDEO](https://video.tv.adobe.com/v/3477009?captions=chi_hant&quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3476998?quality=12&learn=on){transcript=true}
 
 
 ## 行動裝置頻道總覽
