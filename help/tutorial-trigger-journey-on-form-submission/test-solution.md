@@ -7,9 +7,9 @@ level: Beginner
 doc-type: Tutorial
 last-substantial-update: 2025-12-25T00:00:00Z
 jira: KT-20014
-source-git-commit: 6e773afb6bf1770467f9c02739e6b3ede29c81f4
+source-git-commit: 319b1cd4a037807a944e5fb6438e47b5fcf4c1c4
 workflow-type: tm+mt
-source-wordcount: '155'
+source-wordcount: '154'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 
 測試解決方案
->[!VIDEO](https://video.tv.adobe.com/v/3478557?captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/3478546)
 
 ## 部署範例資產
 
@@ -51,8 +51,8 @@ ht-degree: 0%
 * 解壓縮[project-root.zip](assets/project-root.zip)的內容，並將其放在`trigger-journey`資料夾中。
 
 * 在`public`資料夾中建立名為`trigger-journey`的資料夾
-* 將[index.zip]的內容解壓縮至公用資料夾
-* 以適當的值更新`.env`檔案。 建立HTTP Source連線時，可從下載的cURL命令取得這些值
+* 以適當的值更新`.env`檔案。 建立HTTP Source連線時，可從下載的cURL命令取得這些值。
+* 將[index.zip](assets/index.zip)的內容解壓縮至`public`資料夾
 
 ## 執行伺服器
 
