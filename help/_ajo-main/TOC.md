@@ -4,9 +4,9 @@ user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 這些是 Journey Optimizer 教學課程。
 auto-video-transcripts: true
 source-git-commit: 4bf52614bd3fff34a3ec09eafc7f65a2bee74387
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '971'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -74,7 +74,7 @@ ht-degree: 99%
       + [在程式碼型頻道中使用決策](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer/using/decisioning/experience-decisioning/experience-decisioning-uc)
    + 直接郵件頻道{#direct-mail-channel}
       + [建立直接郵件](/help/channels/direct-mail.md)
-   + 電子郵件管道{#email-channel}
+   + 電子郵件頻道{#email-channel}
       + [電子郵件頻道 — 概觀](/help/channels/email-channel-overview.md)
       + [電子郵件設計與個人化 — 概觀](/help/channels/email-design-and-personalization-overview.md)
       + [使用電子郵件設計工具建立內容](/help/channels/create-content-with-the-email-designer.md)
@@ -181,11 +181,11 @@ ht-degree: 99%
    + [使用所有時間報告分析歷程的整體績效](/help/report-and-monitor/all-time-reports.md)
    + [以 CSV 格式匯出報告](/help/report-and-monitor/export-reports-in-csv-format.md)
    + [使用警示](/help/administration/alerts.md)
-   + [使用 Customer Journey Analytics 增強報告功能](/help/report-and-monitor/enhanced-reporting-with-customer-journey-analytics.md)
+   + [使用 Customer Journey Analytics 增強的報告功能](/help/report-and-monitor/enhanced-reporting-with-customer-journey-analytics.md)
 + 設定 {#configuration}
    + 設定管道 {#channel-configuration}
       + [設定管道](/help/set-up-channels/configure-channels.md)
-      + 電子郵件管道 {#email-channel}
+      + 電子郵件頻道 {#email-channel}
          + [建立和 IP 集區](/help/set-up-channels/create-ip-pool.md)
          + [設定子網域](/help/set-up-channels/set-up-subdomain.md)
          + [委派 CName 子網域](/help/set-up-channels/delegate-cname-subdomains.md)
@@ -212,7 +212,7 @@ ht-degree: 99%
    + [存取權管理](/help/set-up-access/access-management.md)
    + [設定以屬性為基礎的存取控制](/help/administration/attribute-based-access-control.md)
    + [使用沙箱](/help/set-up-access/create-and-manage-sandboxes.md)
-+ 資料控管與隱私權 {#data-governance-and-privacy}
++ 資料治理與隱私權 {#data-governance-and-privacy}
    + [資料治理框架](/help/privacy/data-governance-framework.md)
    + [使用標籤進行資料分類](/help/privacy/classify-data-using-lables.md)
    + [建立資料使用原則](/help/privacy/create-data-usage-policies.md)
