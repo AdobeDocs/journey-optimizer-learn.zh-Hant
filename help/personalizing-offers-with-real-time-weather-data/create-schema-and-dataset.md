@@ -27,7 +27,7 @@ ht-degree: 0%
 - 登入Adobe Experience Platform
 - 瀏覽至&#x200B;_&#x200B;**資料管理 — >結構描述 — >建立結構描述**&#x200B;_
 
-- 建立名為&#x200B;**_天氣結構描述_**&#x200B;的XDM事件型結構描述。 如果您不熟悉建立結構描述，請依照此[檔案](https://experienceleague.adobe.com/en/docs/experience-platform/xdm/tutorials/create-schema-ui)操作
+- 建立名為&#x200B;**_天氣結構描述_**&#x200B;的XDM事件型結構描述。 如果您不熟悉建立結構描述，請依照此[檔案](https://experienceleague.adobe.com/zh-hant/docs/experience-platform/xdm/tutorials/create-schema-ui)操作
 
 
 - 請確定結構描述有下列具有適當資料型別的欄位。
