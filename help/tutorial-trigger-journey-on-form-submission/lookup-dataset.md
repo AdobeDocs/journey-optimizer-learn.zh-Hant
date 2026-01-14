@@ -20,7 +20,7 @@ ht-degree: 0%
 
 在此使用案例中，當使用者提交投資偏好設定表單（股票、債券或CD）時，歷程會從參考資料集中動態查詢對應的投資詳細資料，並使用該資訊來個人化電子郵件。
 建立查詢資料集
->[!VIDEO](https://video.tv.adobe.com/v/3478760)
+>[!VIDEO](https://video.tv.adobe.com/v/3478771?captions=chi_hant)
 
 透過在上一步中提交表單設定來測試資料集查詢欄位
 
