@@ -7,10 +7,10 @@ level: Beginner
 doc-type: Tutorial
 last-substantial-update: 2025-12-25T00:00:00Z
 jira: KT-20014
-source-git-commit: 6e773afb6bf1770467f9c02739e6b3ede29c81f4
+source-git-commit: d742353780dbbdbf2dede31b50a779399a7de75d
 workflow-type: tm+mt
-source-wordcount: '116'
-ht-degree: 4%
+source-wordcount: '126'
+ht-degree: 3%
 
 ---
 
@@ -34,9 +34,10 @@ ht-degree: 4%
 * 設定電子郵件管道
 * 建立自訂事件觸發的歷程
 * 將表單提交資料傳送至Adobe Experience Platform
+* 設定資料集查詢功能，將參考資料納入電子郵件中
 
 使用案例簡介和事件結構描述建立
->[!VIDEO](https://video.tv.adobe.com/v/3478482?captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/3478471)
 
 
 

@@ -5,9 +5,9 @@ feature: Journeys
 role: User
 level: Beginner
 doc-type: Tutorial
-last-substantial-update: 2025-12-25T00:00:00Z
-jira: KT-20014
-source-git-commit: 319b1cd4a037807a944e5fb6438e47b5fcf4c1c4
+last-substantial-update: 2026-01-15T00:00:00Z
+jira: KT-20124
+source-git-commit: d742353780dbbdbf2dede31b50a779399a7de75d
 workflow-type: tm+mt
 source-wordcount: '104'
 ht-degree: 0%
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 在此使用案例中，當使用者提交投資偏好設定表單（股票、債券或CD）時，歷程會從參考資料集中動態查詢對應的投資詳細資料，並使用該資訊來個人化電子郵件。
 建立查詢資料集
->[!VIDEO](https://video.tv.adobe.com/v/3478771?captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/3478760)
 
 透過在上一步中提交表單設定來測試資料集查詢欄位
 
