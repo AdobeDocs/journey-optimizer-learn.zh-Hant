@@ -37,7 +37,7 @@ ht-degree: 3%
 * 設定資料集查詢功能，將參考資料納入電子郵件中
 
 使用案例簡介和事件結構描述建立
->[!VIDEO](https://video.tv.adobe.com/v/3478471)
+>[!VIDEO](https://video.tv.adobe.com/v/3478482?captions=chi_hant)
 
 
 
