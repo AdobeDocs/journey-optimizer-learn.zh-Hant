@@ -20,7 +20,7 @@ ht-degree: 0%
 
 開始進行Adobe Journey Optimizer Offer Decisioning的報告設定
 
-- 登入&#x200B;_**Journey Optimizer**_
+- 登入&#x200B;_&#x200B;**Journey Optimizer**&#x200B;_
 
-- 瀏覽至&#x200B;_**管理 — >設定 — >報告 — >管理 — >新增資料集**_
-- 選取&#x200B;_**Weather-schema-dataset**_，此資料集儲存了先前教學課程中產生的選件曝光次數和點按事件。
+- 瀏覽至&#x200B;_&#x200B;**管理 — >設定 — >報告 — >管理 — >新增資料集**&#x200B;_
+- 選取&#x200B;_&#x200B;**Weather-schema-dataset**&#x200B;_，此資料集儲存了先前教學課程中產生的選件曝光次數和點按事件。
