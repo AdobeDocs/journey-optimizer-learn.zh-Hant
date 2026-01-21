@@ -21,7 +21,7 @@ ht-degree: 0%
 若要啟用AJO Decisioning中的選件曝光數與點按數報告功能，必須設定下列元件：
 >[!NOTE]
 >
-> 這些先決條件已在[先前教學課程](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/create-schema-and-dataset)的建立結構描述和資料集區段中完成
+> 這些先決條件已在[先前教學課程](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/create-schema-and-dataset)的建立結構描述和資料集區段中完成
 
 ## &#x200B;1. Adobe Experience Platform (AEP)中的資料集
 
