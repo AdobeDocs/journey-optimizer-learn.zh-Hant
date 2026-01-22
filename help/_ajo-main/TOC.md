@@ -3,7 +3,7 @@ user-guide-title: Journey Optimizer 教學課程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 這些是 Journey Optimizer 教學課程。
 auto-video-transcripts: true
-source-git-commit: bd884367bec867c93c04a924c2ac7c3b15b2bfac
+source-git-commit: 970590b0f40adb5d642c2d183d9c387dfe203251
 workflow-type: tm+mt
 source-wordcount: '980'
 ht-degree: 99%
@@ -246,3 +246,4 @@ ht-degree: 99%
       + [請在 Adobe Journey Optimizer (2025 年版) 中，將協調流程縮放為全頻道參與](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
 + 即時工作階段和深入探討 {#live-sessions-and-deep-dives}
    + [Experience League 現場表演錄影](/help/_ajo-main/experience-league-live-show-recordings.md)
+
