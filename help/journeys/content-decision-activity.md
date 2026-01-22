@@ -22,4 +22,4 @@ ht-degree: 0%
 
 瞭解Journey Canvas中的內容決定活動如何讓使用者運用AJO Decisioning來提供個人化內容優惠方案。 使用此功能可根據擷取的優惠方案路由設定檔，或傳送優惠方案至外部系統，提高歷程的成效及個人化程度。
 
->[!VIDEO](https://video.tv.adobe.com/v/3479107/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3479118/?captions=chi_hant&learn=on&enablevpops)
