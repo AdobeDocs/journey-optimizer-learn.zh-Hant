@@ -3,9 +3,9 @@ user-guide-title: Journey Optimizer 教學課程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 這些是 Journey Optimizer 教學課程。
 auto-video-transcripts: true
-source-git-commit: dcc1eee548f7e71ee71260ba8a14e04640c3fe2a
+source-git-commit: 05fc150f0e8463def80766bd0c64bad5541d9067
 workflow-type: tm+mt
-source-wordcount: '980'
+source-wordcount: '986'
 ht-degree: 99%
 
 ---
@@ -93,6 +93,7 @@ ht-degree: 99%
    + 推播頻道{#push-channel}
       + [推播通知 — 概觀](/help/channels/push-notifications-overview.md)
       + [設定和傳送推播行銷活動](/help/channels/create-a-push-campaign.md)
+      + [使用AJO Decisioning最佳化推送通知](/help/decisioning/decisioning-in-push-notifications.md)
    + 簡訊/MMS 頻道{#sms-channel}
       + [SMS/MMS 訊息 — 概觀](/help/channels/sms-mms-messages-overview.md)
       + [設定、編寫並傳遞簡訊訊息](/help/channels/author-sms-messages.md)
