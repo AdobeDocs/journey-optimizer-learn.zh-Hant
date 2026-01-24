@@ -24,4 +24,4 @@ ht-degree: 20%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3479162/?learn=on&enablevpops)
 
-如需詳細資訊，請參閱[產品文件](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/direct-mail/direct-mail-journeys)。
+如需詳細資訊，請參閱[產品文件](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer/using/channels/direct-mail/direct-mail-journeys)。
