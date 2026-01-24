@@ -99,4 +99,4 @@ Adobe Journey Optimizer中的所有傳出通道都會在訊息傳送時執行自
 
 ## 客戶使用案例
 
-* [個人化參與飛行：航空公司如何透過Adobe Journey Optimizer （部落格）提升優惠方案](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-blogs/take-flight-with-personalization-how-airlines-can-elevate-offers/ba-p/767513)
+* [個人化參與飛行：航空公司如何透過Adobe Journey Optimizer （部落格）提升優惠方案](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-blogs/take-flight-with-personalization-how-airlines-can-elevate-offers/ba-p/767513?profile.language=zh-Hant)

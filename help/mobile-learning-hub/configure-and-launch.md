@@ -707,5 +707,5 @@ Journey Optimizer中的行動實作從應用程式中的&#x200B;**Adobe Experien
 
 ## 其他資源
 
-- [在行動裝置上使用以CDN為基礎的使用者端個人化(ODD)，以加快個人化速度（部落格）](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-blogs/using-cdn-based-client-side-personalization-odd-on-mobile-for/ba-p/761626){target="_blank"}
+- [在行動裝置上使用以CDN為基礎的使用者端個人化(ODD)，以加快個人化速度（部落格）](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-blogs/using-cdn-based-client-side-personalization-odd-on-mobile-for/ba-p/761626?profile.language=zh-Hant){target="_blank"}
 - [下一層級行動應用程式參與度和成長率（高峰會工作階段）的秘密](https://business.adobe.com/tw/summit/2025/sessions/the-secret-to-nextlevel-mobile-app-engagement-s603.html)
