@@ -1,6 +1,6 @@
 ---
-title: 歷程畫布中的內容決定活動
-description: 針對Journey Canvas中的內容選件善用AJO Decisioning 。
+title: 歷程畫布中的內容決策活動
+description: 針對歷程畫布中提供的內容，善用 AJO 決策。
 feature: Decisioning, Journeys
 role: User
 level: Beginner
@@ -13,14 +13,14 @@ hidefromtoc: true
 source-git-commit: d5f7fe98ec18b55f82520f461106bb18860d49c1
 workflow-type: tm+mt
 source-wordcount: '60'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# 內容決定活動
+# 內容決活動
 
-瞭解Journey Canvas中的內容決定活動如何讓使用者運用AJO Decisioning來提供個人化內容優惠方案。 使用此功能可根據擷取的優惠方案路由設定檔，或傳送優惠方案至外部系統，提高歷程的成效及個人化程度。
+瞭解歷程畫布中的內容決策活動，如何讓使用者善用 AJO 決策，提供個人化內容優惠。使用此功能可根據擷取的優惠，路由輪廓，或可將優惠傳送至外部系統，提升歷程的效能和個人化。
 
->[!VIDEO](https://video.tv.adobe.com/v/3479118/?captions=chi_hant&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3479107/?learn=on&enablevpops)
 

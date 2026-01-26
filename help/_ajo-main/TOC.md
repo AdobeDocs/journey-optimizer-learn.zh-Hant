@@ -43,7 +43,7 @@ ht-degree: 99%
    + [建立歷程簡介](/help/journeys/introduction-to-building-a-journey.md)
    + [建立測試輪廓](/help/journeys/test-a-journey.md)
    + [發佈歷程](/help/journeys/publish-a-journey.md)
-   + [內容決定活動](/help/journeys/content-decision-activity.md)
+   + [內容決活動](/help/journeys/content-decision-activity.md)
    + [使用案例 - 交易型歷程](/help/journeys/use-case-transactional-journey.md)
    + [使用案例 - 業務事件](/help/journeys/use-case-business-event.md)
    + [使用案例 - 讀取客群](/help/journeys/use-case-read-audience.md)
