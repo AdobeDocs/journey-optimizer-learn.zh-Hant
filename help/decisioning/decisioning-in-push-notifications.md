@@ -8,9 +8,9 @@ doc-type: Feature Video
 duration: 177
 last-substantial-update: 2026-01-24T00:00:00Z
 jira: KT-20180
-hidefromtoc: true
-hide: true
-source-git-commit: e1f86b6b4ddc16dc59b9571fda718ae144dd3137
+hidefromtoc: false
+hide: false
+source-git-commit: 31a43b91fe3281a7de2aacb04e7714106d43cf89
 workflow-type: tm+mt
 source-wordcount: '73'
 ht-degree: 0%
@@ -22,4 +22,4 @@ ht-degree: 0%
 
 瞭解如何使用AJO Decisioning來個人化對象的推播通知。 根據收件者設定檔建立吸引人的優惠方案以提高銷售量。 了解決策策略、測試行銷活動，並分析量度以便有效溝通。 提升參與度，並為客戶提供最相關的促銷活動。
 
->[!VIDEO](https://video.tv.adobe.com/v/3479221/?captions=chi_hant&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3479199/?learn=on&enablevpops)
