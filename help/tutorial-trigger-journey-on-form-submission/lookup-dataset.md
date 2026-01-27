@@ -22,7 +22,7 @@ ht-degree: 0%
 
 **正在建立查詢資料集**
 
->[!VIDEO](https://video.tv.adobe.com/v/3478760)
+>[!VIDEO](https://video.tv.adobe.com/v/3478771?captions=chi_hant)
 
 透過在上一步中提交表單設定來測試資料集查詢欄位
 

@@ -22,7 +22,7 @@ ht-degree: 18%
 
 **正在建立電子郵件通道設定**
 
->[!VIDEO](https://video.tv.adobe.com/v/3478510)
+>[!VIDEO](https://video.tv.adobe.com/v/3478521?captions=chi_hant)
 
 
 
