@@ -22,5 +22,5 @@ ht-degree: 100%
 
 瞭解歷程畫布中的內容決策活動，如何讓使用者善用 AJO 決策，提供個人化內容優惠。使用此功能可根據擷取的優惠，路由輪廓，或可將優惠傳送至外部系統，提升歷程的效能和個人化。
 
->[!VIDEO](https://video.tv.adobe.com/v/3479107/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3479118/?captions=chi_hant&learn=on&enablevpops)
 
