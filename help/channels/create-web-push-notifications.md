@@ -20,4 +20,4 @@ ht-degree: 0%
 
 網頁推播可讓網站直接將通知傳送至使用者的裝置，即使瀏覽器在背景亦然。 瞭解如何在Adobe Journey Optimizer中建立和傳送網頁推播通知。 本教學課程會引導您選取管道設定、編寫訊息、選擇對象和發佈行銷活動，以將您的觸角伸展至行動裝置以外。
 
->[!VIDEO](https://video.tv.adobe.com/v/3479341/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3479352/?captions=chi_hant&learn=on&enablevpops)
