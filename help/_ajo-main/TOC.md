@@ -6,7 +6,7 @@ auto-video-transcripts: true
 source-git-commit: 35b3b53670af62bb4f52c6df06834038ae9f7eba
 workflow-type: tm+mt
 source-wordcount: '1007'
-ht-degree: 97%
+ht-degree: 99%
 
 ---
 
@@ -75,7 +75,7 @@ ht-degree: 97%
       + [在程式碼型頻道中使用決策](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer/using/decisioning/experience-decisioning/experience-decisioning-uc)
    + 直接郵件頻道{#direct-mail-channel}
       + [建立直接郵件](/help/channels/direct-mail.md)
-      + [傳送包含歷程的直接郵件](/help/channels/direct-mail-in-journeys.md)
+      + [傳送已附上歷程的直接郵件](/help/channels/direct-mail-in-journeys.md)
    + 電子郵件頻道{#email-channel}
       + [電子郵件頻道 — 概觀](/help/channels/email-channel-overview.md)
       + [電子郵件設計與個人化 — 概觀](/help/channels/email-design-and-personalization-overview.md)
@@ -151,10 +151,10 @@ ht-degree: 97%
       + [端到端決策逐步說明](/help/decisioning/decisioning-end-to-end.md)
       + [瀏覽公式產生器介面](/help/decisioning/formula-builder-ui.md)
       + [可重複使用的規則](/help/decisioning/reusable-targeting-rules.md)
-      + [在表單提交時觸發歷程](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/trigger-journey-on-form-submission/introduction)
+      + [在提交表單時觸發歷程](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/trigger-journey-on-form-submission/introduction)
       + [使用即時天氣資料個人化優惠方案](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction)
       + [使用排名公式來提供個人化優惠](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction)
-      + [在電子郵件通道中使用決策](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/use-decisioning-in-email-channel/introduction)
+      + [在電子郵件頻道中使用決策](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/use-decisioning-in-email-channel/introduction)
       + [在推播通知中使用決策](/help/decisioning/decisioning-in-push-notifications.md)
       + [在簡訊訊息中使用決策](/help/decisioning/use-decisioning-in-an-sms-message.md)
    + 決策管理 {#decision-management}
