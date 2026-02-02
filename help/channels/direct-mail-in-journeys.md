@@ -1,6 +1,6 @@
 ---
-title: 傳送包含歷程的直接郵件
-description: 在Adobe Journey Optimizer中自動處理直接郵件。 瞭解檔案路由設定、設定和排程，以順暢傳送。
+title: 傳送已附上歷程的直接郵件
+description: 可在 Adobe Journey Optimizer 中自動處理直接郵件。瞭解檔案路由設定、設定和排程，即可順暢傳遞。
 feature: Direct Mail
 role: User
 level: Intermediate
@@ -11,17 +11,17 @@ jira: KT-20176
 hide: false
 hidefromtoc: false
 source-git-commit: 31a43b91fe3281a7de2aacb04e7714106d43cf89
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '93'
-ht-degree: 20%
+ht-degree: 100%
 
 ---
 
 
-# 傳送包含歷程的直接郵件
+# 傳送已附上歷程的直接郵件
 
-探索如何在Adobe Journey Optimizer中善用直接郵件頻道，以自動化並排程歷程中的直接郵件傳遞。 探索檔案路由設定、設定建立頻率，並在Journey Canvas上利用直接郵件動作。 此影片示範AJO如何佇列參與者、每隔一段時間產生時間戳記檔案，並在啟用後自動傳送。
+深入探索如何在 Adobe Journey Optimizer 中善用直接郵件頻道，以便進行自動化，同時在歷程中安排直接郵件傳遞。探索檔案路由設定、設定建立頻率，然後在歷程畫布上使用直接郵件動作。 此影片示範 AJO 如何佇列參與者，每隔一段間隔時間就會產生加蓋時間戳記的檔案，一旦啟用就會自動傳送。
 
->[!VIDEO](https://video.tv.adobe.com/v/3479173/?captions=chi_hant&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3479162/?learn=on&enablevpops)
 
 如需詳細資訊，請參閱[產品文件](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer/using/channels/direct-mail/direct-mail-journeys)。
