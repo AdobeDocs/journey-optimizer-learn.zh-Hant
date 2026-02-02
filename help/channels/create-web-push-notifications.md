@@ -20,4 +20,4 @@ ht-degree: 100%
 
 網頁推播讓網站可以直接把通知傳送到使用者的裝置上，即使在背景中使用瀏覽器也行。了解如何在 Adobe Journey Optimizer 中建立、傳送網頁推播通知本教學課程會引導您選取頻道設定、編寫訊息、選擇客群，同時發佈行銷活動，即可將您的觸角伸到行動裝置以外。
 
->[!VIDEO](https://video.tv.adobe.com/v/3479341/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3479352/?captions=chi_hant&learn=on&enablevpops)

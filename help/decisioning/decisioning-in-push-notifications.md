@@ -22,4 +22,4 @@ ht-degree: 100%
 
 瞭解如何使用 AJO 決策，將客群的推播通知個人化。根據收件者的輪廓，建立吸引人的優惠方案，以便推動銷售量。了解決策策略，測試行銷活動，然後分析量度，以便有效溝通。提高參與度，推出最相關的促銷活動給客戶參考。
 
->[!VIDEO](https://video.tv.adobe.com/v/3479199/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3479221/?captions=chi_hant&learn=on&enablevpops)
