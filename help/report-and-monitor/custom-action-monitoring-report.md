@@ -24,4 +24,4 @@ ht-degree: 16%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3479541/?learn=on&enablevpops)
 
-請參閱[產品文件](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/configure-journeys/action-journeys/reporting)以瞭解關於此功能的更多資訊。
+請參閱[產品文件](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer/using/configure-journeys/action-journeys/reporting)以瞭解關於此功能的更多資訊。
