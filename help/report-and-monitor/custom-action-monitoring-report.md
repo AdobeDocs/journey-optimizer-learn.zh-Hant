@@ -22,6 +22,6 @@ ht-degree: 7%
 
 此報表有助於識別問題、提升歷程績效並確保順暢運作。
 
->[!VIDEO](https://video.tv.adobe.com/v/3479541/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3479552/?captions=chi_hant&learn=on&enablevpops)
 
 如需有關此功能的詳細資訊，請參閱[產品檔案](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer/using/configure-journeys/action-journeys/reporting)。
