@@ -19,13 +19,13 @@ ht-degree: 100%
 探索由 Adobe Journey Optimizer 支援的真實行銷案例。這些使用案例顯示品牌如何建立更智慧的客戶歷程，從上線和重新參與，到個人化產品建議和跨管道協調。每個範例都會將策略與實施執行連線在一起，協助您將產品功能套用至實際業務目標。
 
 <!-- CARDS
-* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/use-cases/customer-onboarding
-* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/use-cases/abandoned-cart
-* https://experienceleague.adobe.com/en/docs/experience-platform/rtcdp/use-cases/personalization-insights-engagement/use-cases-luma
-* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction
-* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction
-* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/use-cases/enhance-customer-engagement
-* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction
+* https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/tutorials/use-cases/customer-onboarding
+* https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/tutorials/use-cases/abandoned-cart
+* https://experienceleague.adobe.com/zh-hant/docs/experience-platform/rtcdp/use-cases/personalization-insights-engagement/use-cases-luma
+* https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction
+* https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction
+* https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/tutorials/use-cases/enhance-customer-engagement
+* https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
@@ -103,7 +103,7 @@ ht-degree: 100%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction" title="在 Adobe Journey Optimizer 中使用網頁 SDK 以即時天氣資料個人化產品建議" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction./media_11e634b7fcda118d76753129e5511697a1e5145de.png?width=400&format=png&optimize=medium" alt="在 Adobe Journey Optimizer 中使用網頁 SDK 以即時天氣資料個人化產品建議"
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction./media_11e634b7fcda118d76753129e5511697a1e5145de.png?width=400&format=png&optimize=medium" alt="在 Adobe Journey Optimizer 中使用網頁 SDK 以即時天氣資料個人化產品建議"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
