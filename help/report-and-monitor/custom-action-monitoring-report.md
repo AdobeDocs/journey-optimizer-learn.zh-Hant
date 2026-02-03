@@ -8,7 +8,7 @@ doc-type: Feature Video
 duration: 164
 last-substantial-update: 2026-02-03T00:00:00Z
 jira: KT-20238
-source-git-commit: 589260ba993073b9d5b0c02ffd26b5127f7a389e
+source-git-commit: 6b732078afdde597f35d764d27064640fc05f44e
 workflow-type: tm+mt
 source-wordcount: '106'
 ht-degree: 16%
@@ -22,6 +22,7 @@ ht-degree: 16%
 
 此報表有助於識別問題、提升歷程績效並確保順暢運作。
 
->[!VIDEO](https://video.tv.adobe.com/v/3479552/?captions=chi_hant&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3479541/?learn=on&enablevpops)
 
-請參閱[產品文件](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer/using/configure-journeys/action-journeys/reporting)以瞭解關於此功能的更多資訊。
+請參閱[產品文件](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/configure-journeys/action-journeys/reporting)以瞭解關於此功能的更多資訊。
+
