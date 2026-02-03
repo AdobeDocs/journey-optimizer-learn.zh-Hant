@@ -22,4 +22,4 @@ ht-degree: 0%
 
 瞭解如何使用AJO Decisioning來個人化和最佳化簡訊內容。 增強您的SMS訊息，以改善參與度並達成業務目標。
 
->[!VIDEO](https://video.tv.adobe.com/v/3479529/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3479540/?captions=chi_hant&learn=on&enablevpops)
