@@ -8,19 +8,18 @@ doc-type: Feature Video
 duration: 123
 last-substantial-update: 2026-01-22T00:00:00Z
 jira: KT-20141
-hide: true
-hidefromtoc: true
-source-git-commit: d5f7fe98ec18b55f82520f461106bb18860d49c1
-workflow-type: ht
+hide: false
+hidefromtoc: false
+exl-id: 4455d0d1-b6d5-4407-8dd7-7b1dc7f336dd
+source-git-commit: 6dde4dcb61bd9e53a6fe7138b00cd53ff24ac72e
+workflow-type: tm+mt
 source-wordcount: '60'
 ht-degree: 100%
 
 ---
 
-
 # 內容決活動
 
 瞭解歷程畫布中的內容決策活動，如何讓使用者善用 AJO 決策，提供個人化內容優惠。使用此功能可根據擷取的優惠，路由輪廓，或可將優惠傳送至外部系統，提升歷程的效能和個人化。
 
->[!VIDEO](https://video.tv.adobe.com/v/3479118/?captions=chi_hant&learn=on&enablevpops)
-
+>[!VIDEO](https://video.tv.adobe.com/v/3479107/?learn=on&enablevpops)
