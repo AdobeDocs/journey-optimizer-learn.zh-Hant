@@ -11,16 +11,16 @@ jira: KT-16267
 hide: false
 hidefromtoc: false
 exl-id: 0aaf116d-e8e9-449d-99b5-800fee8c3c0a
-source-git-commit: 5ed78b3a8effd376662f5218a660ce8627206ced
-workflow-type: ht
+source-git-commit: 860a85106f3811cd827f621911e1625b46de2fcd
+workflow-type: tm+mt
 source-wordcount: '120'
-ht-degree: 100%
+ht-degree: 99%
 
 ---
 
 # 建立資料使用原則
 
-學習如何建立和管理資料使用原則。資料使用原則可讓您根據資料標籤，限制特定目的的資料使用。若要了解 API 型方法，請參閱[使用 API 建立資料使用原則](https://experienceleague.adobe.com/zh-hant/docs/experience-platform/data-governance/policies/create)。
+了解如何建立和管理資料使用原則。資料使用原則可讓您根據資料標籤，限制特定目的的資料使用。若要了解 API 型方法，請參閱[使用 API 建立資料使用原則](https://experienceleague.adobe.com/zh-hant/docs/experience-platform/data-governance/policies/create)。
 
 >[!NOTE]
 >
@@ -30,4 +30,4 @@ ht-degree: 100%
 
 >[!VIDEO](https://video.tv.adobe.com/v/32977/?learn=on)
 
-請參閱產品文件，以取得如何在 Journey Optimizer [使用同意原則工作](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer/using/privacy/consent/consent-restricted)的詳細資訊。
+請參閱產品文件，以取得如何在 Journey Optimizer [使用同意原則工作](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/privacy/consent/consent)的詳細資訊。
