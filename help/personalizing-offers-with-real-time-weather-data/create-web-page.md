@@ -9,7 +9,7 @@ last-substantial-update: 2025-06-10T00:00:00Z
 recommendations: noDisplay, noCatalog
 jira: KT-18258
 exl-id: 609a5ddf-d6c6-4f19-bd7f-bca8c266b759
-source-git-commit: 6e773afb6bf1770467f9c02739e6b3ede29c81f4
+source-git-commit: 3928a113f74d37b5b9cc2014c526326ef47d4919
 workflow-type: tm+mt
 source-wordcount: '445'
 ht-degree: 0%
@@ -42,8 +42,6 @@ ht-degree: 0%
 ```
 <script src="https://assets.adobedtm.com/AEM_TAGS/launch-ENabcd1234.min.js" async></script>
 ```
-
-
 
 ## 網頁的作用
 
@@ -98,13 +96,13 @@ JavaScript會根據使用者的位置動態擷取天氣資訊，並使用Adobe E
 
 6. **擷取並轉譯選件**
 
-   接收AJO Decisioning傳回的選件。
+* 接收AJO Decisioning傳回的選件。
 
-   解碼HTML內容。
+* 解碼HTML內容。
 
-   以動態方式將選件插入 <div id="offerContainer"> 元素。
+* 以動態方式將選件插入 <div id="offerContainer"> 元素。
 
 ## 後續步驟
 
-[測量並報告AJO Decisioning的影響。](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/reporting-on-ajo-od/introduction)
+[測量並報告AJO Decisioning的影響。](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/experience-decisioning/cja-reporting)
 

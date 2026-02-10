@@ -3,9 +3,9 @@ user-guide-title: Journey Optimizer 教學課程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 以下是Journey Optimizer教學課程。
 auto-video-transcripts: true
-source-git-commit: 860a85106f3811cd827f621911e1625b46de2fcd
+source-git-commit: 3928a113f74d37b5b9cc2014c526326ef47d4919
 workflow-type: tm+mt
-source-wordcount: '1009'
+source-wordcount: '1001'
 ht-degree: 98%
 
 ---
@@ -235,7 +235,6 @@ ht-degree: 98%
    + [捨棄的購物車](/help/use-cases/abandoned-cart.md)
    + [智慧重新參與 - 放棄瀏覽](https://experienceleague.adobe.com/zh-hant/docs/experience-platform/rtcdp/use-cases/personalization-insights-engagement/use-cases-luma){target="_blank"}
    + [在 Adobe Journey Optimizer 中使用網頁 SDK 以即時天氣資料將優惠方案個人化](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction){target="_blank"}
-   + [正在產生優惠曝光和點按次數報告](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/reporting-on-ajo-od/introduction){target="_blank"}
    + [使用排名公式在 Journey Optimizer 中提供個人化優惠](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction){target="_blank"}
    + [強化客戶參與度](/help/use-cases/enhance-customer-engagement.md){target="_blank"}
    + [將協調流程縮放為全頻道參與](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction.md){target="_blank"}
