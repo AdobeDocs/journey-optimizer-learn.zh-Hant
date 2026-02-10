@@ -30,4 +30,4 @@ ht-degree: 99%
 
 >[!VIDEO](https://video.tv.adobe.com/v/336218?quality=12&learn=on){transcript=true}
 
-如需詳細資訊，請參閱[產品文件](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/monitor/monitor-alerts-errors/alerts){target="_blank"}。
+如需詳細資訊，請參閱[產品文件](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer/using/monitor/monitor-alerts-errors/alerts){target="_blank"}。
