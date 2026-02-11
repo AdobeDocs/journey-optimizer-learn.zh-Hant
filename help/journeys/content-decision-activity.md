@@ -22,4 +22,4 @@ ht-degree: 64%
 
 瞭解Journey Canvas中的內容決定活動如何讓使用者運用Adobe Journey Optimizer Decisioning來提供個人化內容優惠方案。 使用此功能可根據擷取的優惠，路由輪廓，或可將優惠傳送至外部系統，提升歷程的效能和個人化。
 
->[!VIDEO](https://video.tv.adobe.com/v/3479107/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3479118/?captions=chi_hant&learn=on&enablevpops)
