@@ -3,9 +3,9 @@ user-guide-title: Journey Optimizer 教學課程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 以下是Journey Optimizer教學課程。
 auto-video-transcripts: true
-source-git-commit: afcdfe125025a480f5af9dc947889081b5690462
+source-git-commit: 43bc064671b80f6d0c6d073c125b17caf609f5c7
 workflow-type: tm+mt
-source-wordcount: '1001'
+source-wordcount: '1007'
 ht-degree: 98%
 
 ---
@@ -90,6 +90,8 @@ ht-degree: 98%
       + [在歷程建立應用程式內訊息](/help/channels/create-an-in-app-message-in-a-journey.md)
       + [撰寫應用程式內訊息](/help/channels/author-in-app-messages.md)
       + [設定應用程式內訊息的內容實驗](/help/experimentation/content-experiments-for-in-app-messages.md)
+   + 已上線活動(#live-activities)
+      + [iOS已上線活動](/help/channels/ios-live-activities.md)
    + 推播頻道{#push-channel}
       + [推播通知 — 概觀](/help/channels/push-notifications-overview.md)
       + [設定和傳送推播行銷活動](/help/channels/create-a-push-campaign.md)
