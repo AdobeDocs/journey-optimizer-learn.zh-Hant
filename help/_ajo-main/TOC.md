@@ -3,9 +3,9 @@ user-guide-title: Journey Optimizer 教學課程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 以下是Journey Optimizer教學課程。
 auto-video-transcripts: true
-source-git-commit: ff0ab4fb3eea53757109112655f664868148a476
+source-git-commit: 4fe31620f48ad8a121256775fdaf5cbc115e2b98
 workflow-type: tm+mt
-source-wordcount: '1006'
+source-wordcount: '1009'
 ht-degree: 98%
 
 ---
@@ -155,6 +155,7 @@ ht-degree: 98%
       + [在提交表單時觸發歷程](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/trigger-journey-on-form-submission/introduction)
       + [使用即時天氣資料個人化優惠方案](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction)
       + [使用排名公式來提供個人化優惠](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction)
+      + [AI模型深入分析](/help/decisioning/ai-model-insights.md)
       + [在電子郵件頻道中使用決策](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/use-decisioning-in-email-channel/introduction)
       + [在推播通知中使用決策](/help/decisioning/decisioning-in-push-notifications.md)
       + [在簡訊訊息中使用決策](/help/decisioning/use-decisioning-in-an-sms-message.md)
