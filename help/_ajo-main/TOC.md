@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer 教學課程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 以下是Journey Optimizer教學課程。
 auto-video-transcripts: true
-source-git-commit: 4fe31620f48ad8a121256775fdaf5cbc115e2b98
+source-git-commit: 933c5698604703cfb22cec44719839a3f52dc462
 workflow-type: tm+mt
-source-wordcount: '1009'
-ht-degree: 98%
+source-wordcount: '1014'
+ht-degree: 97%
 
 ---
 
@@ -54,6 +54,8 @@ ht-degree: 98%
    + [更新即時歷程中的內容](/help/journeys/update-content-in-live-journey.md)
    + [將歷程複製到另一個沙箱](/help/journeys/copy-a-journey.md)
    + [批次細分後，就會觸發日常歷程執行](/help/journeys/trigger-daily-journey-runs-after-batch-segmentation-completion.md)
++ 忠誠度 {#loyalty}
++[建立忠誠度挑戰](/help/loyalty/create-a-loyalty-challenge.md)
 + 衝突管理與優先順序 {#conflict-management}
    + [識別潛在衝突](/help/conflict-management/identify-potential-conflicts.md)
    + [指派優先順序分數](/help/conflict-management/assign-priority-score.md)
