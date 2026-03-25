@@ -1,11 +1,11 @@
 ---
 user-guide-title: Journey Optimizer 教學課程
 user-guide-breadcrumb: Journey Optimizer Learn
-user-guide-description: 以下是Journey Optimizer教學課程。
+user-guide-description: 這些是 Journey Optimizer 教學課程。
 auto-video-transcripts: true
-source-git-commit: 933c5698604703cfb22cec44719839a3f52dc462
+source-git-commit: c0f6193e71c14c947f0d884328e58dd8c7d75a0c
 workflow-type: tm+mt
-source-wordcount: '1014'
+source-wordcount: '1020'
 ht-degree: 97%
 
 ---
@@ -60,6 +60,7 @@ ht-degree: 97%
    + [識別潛在衝突](/help/conflict-management/identify-potential-conflicts.md)
    + [指派優先順序分數](/help/conflict-management/assign-priority-score.md)
    + [歷程頻率限定和優先順序](/help/conflict-management/journey-frequency-capping-and-prioritization.md)
+   + [在歷程中使用資料集查詢](/help/journeys/lookup-dataset.md)
    + [無訊息時間](/help/business-rules/configure-and-apply-quiet-hours.md)
 + 輪廓、客群和訂閱 {#profiles-audiences-subscriptions}
    + [簡介及客群 — 概觀](/help/profiles-audiences-subscriptions/profiles-and-audiences-overview.md)
