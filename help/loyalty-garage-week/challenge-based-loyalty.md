@@ -5,13 +5,13 @@ feature: Overview
 role: User
 hide: true
 index: false
-source-git-commit: ea0030d0742adf0058c8bb9ad3950ae9d96f8892
+exl-id: 57586174-2727-4f3d-96b4-7ca248941ab6
+source-git-commit: a4dc5f3d1aa5dc1906b3d8727e8da6e903de971c
 workflow-type: tm+mt
 source-wordcount: '2008'
 ht-degree: 0%
 
 ---
-
 
 # 挑戰型忠誠度
 
@@ -70,7 +70,7 @@ ht-degree: 0%
 
 系統還需要專為挑戰儲存設計的&#x200B;**設定檔資料結構**。 設定檔應追蹤作用中挑戰狀態、進度百分比、步驟完成指標、挑戰註冊日期、獲得的徽章、層級變更和挑戰完成歷史記錄。 這可讓計畫個人化挑戰建議、瞭解參與模式並量身打造獎勵。
 
-品牌也必須實作&#x200B;**協調層** (例如Adobe Journey Optimizer、Salesforce Journey Builder或Braze)，以便根據事件觸發即時歷程。 這包括在進度更新時傳送推播通知、在挑戰開始或結束時傳送電子郵件，以及以視覺化方式顯示進度的應用程式內訊息。
+品牌也必須實作&#x200B;**協調層** （例如Adobe Journey Optimizer、Salesforce Journey Builder或Braze），以便根據事件觸發即時歷程。 這包括在進度更新時傳送推播通知、在挑戰開始或結束時傳送電子郵件，以及以視覺化方式顯示進度的應用程式內訊息。
 
 最後，獎勵簽發通常需要&#x200B;**自訂動作或API整合**，以便在挑戰完成時提供點數、徽章或體驗。 這可以是自主開發的獎勵引擎、忠誠度SaaS平台或合作夥伴型獎勵廠商。
 

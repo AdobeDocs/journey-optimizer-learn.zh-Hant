@@ -8,20 +8,20 @@ index: true
 jira: KT-19860
 last-substantial-update: 2025-12-18T00:00:00Z
 exl-id: f0612a1d-f919-4b67-9e33-a9fb623062dc
-source-git-commit: 8a6ae2fa80db47751a864cc983446b306b6d8e7a
+source-git-commit: a4dc5f3d1aa5dc1906b3d8727e8da6e903de971c
 workflow-type: tm+mt
 source-wordcount: '892'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
 # Journey Optimizer — 行動學習中心
 
-透過Adobe Journey Optimizer快速啟動或提升您的行動互動策略。 此行動學習中心可為開發人員、管理員、行銷人員和分析師提供設定傳入和傳出行動頻道所需的一切，並將他們緊密整合到強大的跨頻道行銷活動和歷程中。
+透過 Adobe Journey Optimizer 快速啟動或提升您的行動參與策略。此行動學習中心特別針對開發人員、管理員、行銷人員、分析師，傳授設定入站和出站的行動裝置管道所需的知識，再將這些知識與強大的跨管道行銷活動和歷程緊密結合。
 
 探索最佳實務、瞭解如何促進採用並設定集中式報告工作流程（全都在一處），以提供具影響力、資料導向的行動體驗，隨時隨地觸及客戶。
 
->[!VIDEO](https://video.tv.adobe.com/v/3477009?captions=chi_hant&quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3476998?quality=12&learn=on){transcript=true}
 
 
 ## 行動裝置頻道總覽
@@ -99,4 +99,4 @@ Adobe Journey Optimizer中的所有傳出通道都會在訊息傳送時執行自
 
 ## 客戶使用案例
 
-* [個人化參與飛行：航空公司如何透過Adobe Journey Optimizer （部落格）提升優惠方案](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-blogs/take-flight-with-personalization-how-airlines-can-elevate-offers/ba-p/767513?profile.language=zh-Hant)
+* [個人化參與飛行：航空公司如何透過Adobe Journey Optimizer （部落格）提升優惠方案](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-blogs/take-flight-with-personalization-how-airlines-can-elevate-offers/ba-p/767513)
