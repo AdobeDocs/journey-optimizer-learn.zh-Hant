@@ -24,4 +24,4 @@ ht-degree: 1%
 
 瞭解如何透過設定任務、獎勵和時程表來建立忠誠度挑戰。 瞭解如何在背景自動產生完整客戶歷程時設定內容、訊息和對象。
 
->[!VIDEO](https://video.tv.adobe.com/v/3480326/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3480337/?captions=chi_hant&learn=on&enablevpops)
