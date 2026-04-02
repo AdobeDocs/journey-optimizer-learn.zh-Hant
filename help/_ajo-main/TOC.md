@@ -3,7 +3,7 @@ user-guide-title: Journey Optimizer 教學課程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 這些是 Journey Optimizer 教學課程。
 auto-video-transcripts: true
-source-git-commit: 0b3170fdcc60de2efe10ae542caa8c139f51ac78
+source-git-commit: 104f7ca9f80139719b42d49b96ea5c2ea34570bc
 workflow-type: tm+mt
 source-wordcount: '1020'
 ht-degree: 97%
@@ -41,6 +41,7 @@ ht-degree: 97%
    + [Journey 代理 - 概觀](/help/ai-agents/journey-agent-overview.md)
    + [探索全新歷程設計程式](/help/journeys/new-journey-designer.md)
    + [建立歷程簡介](/help/journeys/introduction-to-building-a-journey.md)
+   + [在歷程中使用資料集查詢](/help/journeys/lookup-dataset.md)
    + [建立測試輪廓](/help/journeys/test-a-journey.md)
    + [發佈歷程](/help/journeys/publish-a-journey.md)
    + [內容決活動](/help/journeys/content-decision-activity.md)
@@ -60,7 +61,7 @@ ht-degree: 97%
    + [識別潛在衝突](/help/conflict-management/identify-potential-conflicts.md)
    + [指派優先順序分數](/help/conflict-management/assign-priority-score.md)
    + [歷程頻率限定和優先順序](/help/conflict-management/journey-frequency-capping-and-prioritization.md)
-   + [在歷程中使用資料集查詢](/help/journeys/lookup-dataset.md)
+
    + [無訊息時間](/help/business-rules/configure-and-apply-quiet-hours.md)
 + 輪廓、客群和訂閱 {#profiles-audiences-subscriptions}
    + [簡介及客群 — 概觀](/help/profiles-audiences-subscriptions/profiles-and-audiences-overview.md)
