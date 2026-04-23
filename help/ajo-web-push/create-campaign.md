@@ -7,7 +7,8 @@ level: Beginner
 doc-type: Tutorial
 last-substantial-update: 2026-04-21T00:00:00Z
 jira: KT-20879
-source-git-commit: 45f86aeb8fca071436785cc55225d853bb21998f
+exl-id: 94fda23f-e26a-494b-8e5c-6c442bae61c4
+source-git-commit: c339fe796af1e691cd3b1c98cd6ba8a8772551e4
 workflow-type: tm+mt
 source-wordcount: '208'
 ht-degree: 1%
@@ -57,7 +58,3 @@ ht-degree: 1%
 ## 測試行銷活動
 
 若要測試行銷活動，請先在提示時選擇加入[，在](http://localhost:3000)網頁上啟用通知。 在您選擇加入後，請等待行銷活動在其排程時間執行。 行銷活動執行時，您應會在瀏覽器中收到推播通知。
-
-
-
-
