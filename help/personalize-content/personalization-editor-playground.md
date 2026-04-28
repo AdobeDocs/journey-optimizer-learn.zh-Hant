@@ -25,4 +25,4 @@ ht-degree: 100%
 
 了解如何運用事先定義的程式碼範例，編輯虛擬設定檔承載，並即時預覽個人化程式碼輸出。
 
->[!VIDEO](https://video.tv.adobe.com/v/3457868/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3475963/?captions=chi_hant&learn=on&enablevpops)
