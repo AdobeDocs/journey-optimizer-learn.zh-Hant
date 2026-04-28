@@ -1,6 +1,6 @@
 ---
 title: 建立忠誠度挑戰
-description: 瞭解如何透過設定任務、獎勵和時程表來建立忠誠度挑戰。 瞭解如何在背景自動產生完整客戶歷程時設定內容、訊息和對象。
+description: Learn how to create a loyalty challenge by setting up tasks, rewards, and schedules. Understand how to configure content, messaging, and audiences while a complete customer journey is generated automatically in the background.
 feature: Get Started
 role: Leader, User
 level: Beginner
@@ -13,7 +13,7 @@ hidefromtoc: true
 index: false
 badgeBet: label="Beta" type="Informative"
 exl-id: f6c373be-aeae-4d52-a4b1-84a312399f5e
-source-git-commit: a4dc5f3d1aa5dc1906b3d8727e8da6e903de971c
+source-git-commit: 3917e11cdf8c0450c19ce653a0964f6dc9da6a3c
 workflow-type: tm+mt
 source-wordcount: '75'
 ht-degree: 1%
@@ -22,6 +22,6 @@ ht-degree: 1%
 
 # 建立忠誠度挑戰
 
-瞭解如何透過設定任務、獎勵和時程表來建立忠誠度挑戰。 瞭解如何在背景自動產生完整客戶歷程時設定內容、訊息和對象。
+Learn how to create a loyalty challenge by setting up tasks, rewards, and schedules. Understand how to configure content, messaging, and audiences while a complete customer journey is generated automatically in the background.
 
->[!VIDEO](https://video.tv.adobe.com/v/3480337/?captions=chi_hant&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3480326/?learn=on&enablevpops)

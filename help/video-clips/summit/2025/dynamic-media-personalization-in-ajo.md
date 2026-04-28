@@ -8,7 +8,7 @@ hide: true
 hidefromtoc: true
 recommendations: noCatalog, noDisplay
 exl-id: b0a59059-ed5d-4f62-bfec-11f165b11a01
-source-git-commit: a4dc5f3d1aa5dc1906b3d8727e8da6e903de971c
+source-git-commit: 3917e11cdf8c0450c19ce653a0964f6dc9da6a3c
 workflow-type: tm+mt
 source-wordcount: '48'
 ht-degree: 0%
@@ -20,4 +20,4 @@ ht-degree: 0%
 瞭解Adobe Journey Optimizer如何與Experience Manager的Dynamic Media整合，為行銷活動啟用個人化的複合影像。
 
 <!-- 62_S520_3442520_48_dynamic-media-personalization-in-ajo -->
->[!VIDEO](https://video.tv.adobe.com/v/3460320/?captions=chi_hant&learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3458201/?learn=on&enablevpops=true)

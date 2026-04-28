@@ -1,6 +1,6 @@
 ---
 title: L731 速查表
-description: '本頁面包含 L731 Summit Lab 正在使用的文字及連結。 '
+description: 本頁面包含 L731 Summit Lab 正在使用的文字及連結。
 feature: In App, SMS, Push, Email
 doc-type: article
 role: User
@@ -9,9 +9,9 @@ recommendations: noDisplay, noCatalog
 hide: true
 hidefromtoc: true
 exl-id: ffc5e8c8-8729-4e7e-aa51-d74f91b0cf29
-source-git-commit: 783cf83169c9e12e07bf4ffc162adfe1b0c33d8f
+source-git-commit: 3917e11cdf8c0450c19ce653a0964f6dc9da6a3c
 workflow-type: tm+mt
-source-wordcount: '334'
+source-wordcount: '374'
 ht-degree: 98%
 
 ---
@@ -158,7 +158,7 @@ ht-degree: 98%
 | **觸發器** | 狀態 | 現在預訂 |  |
 | **編輯內容：**&#x200B;媒體 | 媒體 URL 選項 |  | https://i.ibb.co/NstLhjW/Firefly-Poster-with-heading-Adobe-Max-84773.jpg |
 | **編輯內容：**&#x200B;內容 | 標題 | 取得早鳥折扣！ |  |
-| **編輯內容：**&#x200B;內容 | 內文 | Adobe Max 重返拉斯維加斯。 準備好迎接鼓舞人心的演講者、技能擴展會議以及認識新的人。立即預訂套裝，可享有九折產品建議。 |  |
+| **編輯內容：**&#x200B;內容 | 內文 | Adobe Max 重返拉斯維加斯。 準備好迎接鼓舞人心的演講者、技能擴展會議以及認識新的人。 立即預訂套裝，可享有九折產品建議。 |  |
 | **編輯內容：**&#x200B;按鈕 | 按鈕 | 取得九折優惠！ | lab://booking?suite=presidential&amp;discount=10 |
 | **編輯內容：**&#x200B;按鈕 | 互動事件 | 應用程式內 CTA |  |
 | **在裝置上預覽** | 在裝置上預覽時使用的基底 URL |  | **iOS:** lab:// <br>**Android**: https://lab |
@@ -169,5 +169,5 @@ ht-degree: 98%
 |----|----|----|
 | 行銷活動名稱 | **`<your seat number> Max Push Campaign`** |  |
 | 標題 | 您好！ |  |
-| 內文 | 您知道嗎，Adobe Max 即將重返拉斯維加斯。立即預訂您的房間，可享有九折優惠。 |  |
+| 內文 | 您知道嗎，Adobe Max 即將重返拉斯維加斯。 立即預訂您的房間，可享有九折優惠。 |  |
 | 媒體 URL 選項 |  | https://i.ibb.co/1M0BnZn/Firefly-Big-conference-big-stage-with-ADBE-text-on-screen-40178.jpg |

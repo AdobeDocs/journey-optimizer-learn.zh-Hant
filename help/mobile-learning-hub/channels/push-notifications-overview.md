@@ -1,6 +1,6 @@
 ---
-title: 推播通知 — 概觀
-description: 推播通知是在手機、平板電腦或電腦上彈出的簡短訊息，即使使用者未使用傳送這些訊息的應用程式亦然。 這是應用程式「拍拍你的肩膀」並引起你注意的一種方式。
+title: Push notifications - overview
+description: Push notifications are short messages that pop up on a phone, tablet, or computer — even when the user is not using the app that sent them. They're a way for apps to "tap you on the shoulder" and get your attention.
 feature: Push
 role: User, Developer, Admin
 level: Beginner
@@ -9,13 +9,13 @@ index: true
 jira: KT-19861
 last-substantial-update: 2025-12-18T00:00:00Z
 exl-id: aab6af06-86bd-4d30-847f-fbf60b6bab34
-source-git-commit: a4dc5f3d1aa5dc1906b3d8727e8da6e903de971c
+source-git-commit: 3917e11cdf8c0450c19ce653a0964f6dc9da6a3c
 workflow-type: tm+mt
 source-wordcount: '47'
 ht-degree: 0%
 
 ---
 
-# 推播通知 — 概觀
+# Push notifications - overview
 
 {{$include /help/_includes/inc-push-notifications-overview.md}}

@@ -12,10 +12,10 @@ hide: false
 last-substantial-update: 2026-02-18T00:00:00Z
 jira: KT-20313
 exl-id: cd486a89-f97a-4d53-86f1-f66dc64d5f5e
-source-git-commit: bbd0ada4bf228b09995a50af84c25a276e9c956e
+source-git-commit: 3917e11cdf8c0450c19ce653a0964f6dc9da6a3c
 workflow-type: tm+mt
 source-wordcount: '69'
-ht-degree: 0%
+ht-degree: 47%
 
 ---
 
@@ -23,4 +23,4 @@ ht-degree: 0%
 
 瞭解如何分析AI模型訓練狀態、流量分配和效能，以最佳化Journey Optimizer中的個人化決策。 瞭解如何使用AI功能識別問題、疑難排解模型並提高轉換率。 本影片將引導您有效管理AI模型，以產生業務影響。
 
->[!VIDEO](https://video.tv.adobe.com/v/3479860/?captions=chi_hant&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3479849/?learn=on&enablevpops)

@@ -12,9 +12,9 @@ hidefromtoc: false
 index: true
 jira: KT-18519
 exl-id: a58a964b-0414-4061-ab5d-170f8a0a1f46
-source-git-commit: 783cf83169c9e12e07bf4ffc162adfe1b0c33d8f
+source-git-commit: 3917e11cdf8c0450c19ce653a0964f6dc9da6a3c
 workflow-type: tm+mt
-source-wordcount: '68'
+source-wordcount: '72'
 ht-degree: 100%
 
 ---
@@ -23,4 +23,4 @@ ht-degree: 100%
 
 了解 Journey Optimizer 行銷活動協調中所使用的關聯式存放區的基本概念，涵蓋結構描述設計、資料擷取、支援的來源，以及與即時輪廓存放區的主要差異。
 
->[!VIDEO](https://video.tv.adobe.com/v/3470225/?captions=chi_hant&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470214/?learn=on&enablevpops)

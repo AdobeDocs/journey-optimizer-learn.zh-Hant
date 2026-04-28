@@ -1,6 +1,6 @@
 ---
-title: SMS/MMS/RCS — 概觀
-description: SMS (Short Message Service)、MMS (Multimedia Messaging Service)和RCS (Rich Communication Services)是行動傳訊通道，可讓您直接聯絡到使用者的電話號碼，而不需要應用程式或網際網路連線(SMS/MMS)
+title: SMS/MMS/RCS - Overview
+description: SMS (Short Message Service), MMS (Multimedia Messaging Service), and RCS (Rich Communication Services) are mobile messaging channels that let you reach users directly on their phone number — without requiring an app or internet connection (SMS/MMS)
 feature: SMS
 role: User, Developer, Admin
 level: Beginner
@@ -9,13 +9,13 @@ index: true
 jira: KT-19867
 last-substantial-update: 2025-12-18T00:00:00Z
 exl-id: 0ddfaef4-cac2-43e4-a0e1-1aee0a3a3b0d
-source-git-commit: a4dc5f3d1aa5dc1906b3d8727e8da6e903de971c
+source-git-commit: 3917e11cdf8c0450c19ce653a0964f6dc9da6a3c
 workflow-type: tm+mt
 source-wordcount: '44'
 ht-degree: 0%
 
 ---
 
-# SMS/MMS/RCS — 概觀
+# SMS/MMS/RCS - Overview
 
 {{$include /help/_includes/inc-sms-mms-rcs-overview.md}}

@@ -7,19 +7,19 @@ role: User, Developer, Admin, Leader
 level: Beginner, Intermediate, Experienced
 doc-type: overview-page
 exl-id: 36e27d56-2255-4d41-961f-f8fd01e2d698
-source-git-commit: 6372164a4bef2e23b52529186592890a37da88e1
+source-git-commit: b43289032bea25bb7c0247cbd77eec35c3f816b3
 workflow-type: tm+mt
-source-wordcount: '597'
-ht-degree: 68%
+source-wordcount: '1044'
+ht-degree: 70%
 
 ---
 
 
 # Journey Optimizer 教學課程
 
-Journey Optimizer 可讓公司建立一致的情境式個人化客戶體驗。它可順暢引導客戶完成與品牌的整個歷程，從最初的接觸點一直到離開網站的那一刻，確保每個接觸點均可獲得具連結性且令人滿意的體驗。
+Journey Optimizer 可讓公司建立一致的情境式個人化客戶體驗。 它可順暢引導客戶完成與品牌的整個歷程，從最初的接觸點一直到離開網站的那一刻，確保每個接觸點均可獲得具連結性且令人滿意的體驗。
 
-本使用手冊包含 Adobe Journey Optimizer 功能和特性的相關影片和教學課程。透過參加 [Journey Optimizer 挑戰](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites)，練習運用您學到的知識。
+本使用手冊包含 Adobe Journey Optimizer 功能和特性的相關影片和教學課程。 透過參加 [Journey Optimizer 挑戰](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites)，練習運用您學到的知識。
 
 
 <div id="recs-overview-body-1"></div>
@@ -33,7 +33,7 @@ Journey Optimizer 可讓公司建立一致的情境式個人化客戶體驗。�
 
 <!--
 CARDS
-* https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/mobile-learning-hub/overview 
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/mobile-learning-hub/overview 
     {description = The Mobile Learning Hub equips developers, administrators, marketers, and analysts with everything needed to configure inbound and outbound mobile channels and integrate them seamlessly into powerful cross-channel campaigns and journeys.}
    {image = /help/assets/mobile-learning-hub.jpg}
 -->
@@ -57,7 +57,7 @@ CARDS
                     <p class="is-size-6">行動學習中心特別為了開發人員、管理員、行銷人員、分析師，提供設定傳入和傳出行動頻道所需的一切，再將這些資料緊密整合到強大的跨頻道行銷活動和歷程中。</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/mobile-learning-hub/overview" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">深入了解</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">進一步瞭解</span>
                 </a>
             </div>
         </div>
@@ -67,11 +67,12 @@ CARDS
 
 ## 最新 Experience League 直播活動
 
-<!-- CARDS
-* https://experienceleague.adobe.com/zh-hant/docs/events/experience-league-live-recordings/episodes/exl-live-episode-04-08-26
+<!-- 
+CARDS
+* https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-04-08-26
     {title = New Use Cases for Customer Engagement: iOS Live Activities, Web Push, and Persistent Messaging (April 8 12, 2026)}
     {description = In this Experience League Live session, we explore new surfaces and use cases for customer engagement as brands move beyond one-way, single-channel messaging. Discover how marketing and product teams can create more visible, contextual, and persistent experiences-driving continuous engagement and richer, real-time interactions across channels.}
-* https://experienceleague.adobe.com/zh-hant/docs/events/experience-league-live-recordings/episodes/exl-live-episode-03-12-26
+* https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-03-12-26
     {title = Get to Know Campaign Orchestration in Adobe Journey Optimizer (March 12, 2026)}
     {description = In this Experience League Live session, see how campaign orchestration in Journey Optimizer manages your large, one‑to‑many multi-channel marketing programs—from audience creation to launch.}
 -->
@@ -81,7 +82,7 @@ CARDS
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/zh-hant/docs/events/experience-league-live-recordings/episodes/exl-live-episode-04-08-26" title="客戶參與的新使用案例：iOS上線活動、網頁推播和持續性傳訊（2026年4月8日12日）" target="_blank" rel="referrer">
+                    <a href="https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-04-08-26" title="客戶參與的新使用案例：iOS上線活動、網頁推播和持續性傳訊（2026年4月8日12日）" target="_blank" rel="referrer">
                         <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3483389/?format=jpeg&nocache=1775837203653" alt="客戶參與的新使用案例：iOS上線活動、網頁推播和持續性傳訊（2026年4月8日12日）"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
@@ -90,11 +91,11 @@ CARDS
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/zh-hant/docs/events/experience-league-live-recordings/episodes/exl-live-episode-04-08-26" target="_blank" rel="referrer" title="客戶參與的新使用案例：iOS上線活動、網頁推播和持續性傳訊（2026年4月8日12日）">客戶參與的新使用案例：iOS上線活動、網頁推播和持續性傳訊（2026年4月8日12日）</a>
+                        <a href="https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-04-08-26" target="_blank" rel="referrer" title="客戶參與的新使用案例：iOS上線活動、網頁推播和持續性傳訊（2026年4月8日12日）">客戶參與的新使用案例：iOS上線活動、網頁推播和持續性傳訊（2026年4月8日12日）</a>
                     </p>
                     <p class="is-size-6">在這場Experience League Live會議中，當品牌超越單向單一管道的傳訊方式時，我們探索客戶參與的新表面和使用案例。 探索行銷和產品團隊如何建立更可見、情境式和持續性的體驗，進而促進各管道的持續參與和更豐富的即時互動。</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/zh-hant/docs/events/experience-league-live-recordings/episodes/exl-live-episode-04-08-26" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-04-08-26" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">觀看</span>
                 </a>
             </div>
@@ -104,7 +105,7 @@ CARDS
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/zh-hant/docs/events/experience-league-live-recordings/episodes/exl-live-episode-03-12-26" title="瞭解Adobe Journey Optimizer中的Campaign協調流程（2026年3月12日）" target="_blank" rel="referrer">
+                    <a href="https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-03-12-26" title="瞭解Adobe Journey Optimizer中的Campaign協調流程（2026年3月12日）" target="_blank" rel="referrer">
                         <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3481409/?format=jpeg&nocache=1775837203658" alt="瞭解Adobe Journey Optimizer中的Campaign協調流程（2026年3月12日）"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
@@ -113,11 +114,11 @@ CARDS
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/zh-hant/docs/events/experience-league-live-recordings/episodes/exl-live-episode-03-12-26" target="_blank" rel="referrer" title="瞭解Adobe Journey Optimizer中的Campaign協調流程（2026年3月12日）">瞭解Adobe Journey Optimizer中的行銷活動協調流程（2026年3月12日）</a>
+                        <a href="https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-03-12-26" target="_blank" rel="referrer" title="瞭解Adobe Journey Optimizer中的Campaign協調流程（2026年3月12日）">瞭解Adobe Journey Optimizer中的行銷活動協調流程（2026年3月12日）</a>
                     </p>
                     <p class="is-size-6">在這個Experience League Live工作階段中，瞭解Journey Optimizer中的行銷活動協調如何管理您大型的一對多多頻道行銷方案 — 從受眾建立到啟動。</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/zh-hant/docs/events/experience-league-live-recordings/episodes/exl-live-episode-03-12-26" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-03-12-26" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">觀看</span>
                 </a>
             </div>
@@ -132,9 +133,9 @@ CARDS
 
 <!--
 CARDS
-* https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/tutorials/introduction-to-journey-optimizer/key-capabilities-and-user-interface
-* https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/tutorials/journeys/introduction-to-building-a-journey
-* https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/tutorials/profiles-audiences-subscriptions/create-audiences-using-the-rule-builder
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/introduction-to-journey-optimizer/key-capabilities-and-user-interface
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/journeys/introduction-to-building-a-journey
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/profiles-audiences-subscriptions/create-audiences-using-the-rule-builder
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
@@ -143,7 +144,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/tutorials/introduction-to-journey-optimizer/key-capabilities-and-user-interface" title="重要功能和使用者介面" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3430323?captions=chi_hant&format=jpeg&nocache=1775837204145" alt="重要功能和使用者介面"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3424995?format=jpeg&nocache=1775837204145" alt="重要功能和使用者介面"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -166,7 +167,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/tutorials/journeys/introduction-to-building-a-journey" title="建立歷程簡介" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3430349?captions=chi_hant&format=jpeg&nocache=1775837204133" alt="建立歷程簡介"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3424996?format=jpeg&nocache=1775837204133" alt="建立歷程簡介"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -189,7 +190,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/tutorials/profiles-audiences-subscriptions/create-audiences-using-the-rule-builder" title="使用規則產生器建立客群" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3430328?captions=chi_hant&format=jpeg&nocache=1775837204142" alt="使用規則產生器建立客群"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3425020?format=jpeg&nocache=1775837204142" alt="使用規則產生器建立客群"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -212,9 +213,9 @@ CARDS
 
 <!--
 CARDS
-* https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/tutorials/content-management/ai-assistant/create-content-using-ai-assistant-for-content-generation
-* https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/tutorials/decision-capabilities/decisioning/decisioning-end-to-end
-* https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/tutorials/channels/in-app-channel/content-experiments-for-in-app-messages
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/content-management/ai-assistant/create-content-using-ai-assistant-for-content-generation
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/decision-capabilities/decisioning/decisioning-end-to-end
+* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/in-app-channel/content-experiments-for-in-app-messages
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
@@ -223,7 +224,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/tutorials/content-management/ai-assistant/create-content-using-ai-assistant-for-content-generation" title="請使用 AI 助理產生內容，以便建立內容" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3434646/?captions=chi_hant&format=jpeg&nocache=1775837204583" alt="請使用 AI 助理產生內容，以便建立內容"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3434635/?format=jpeg&nocache=1775837204583" alt="請使用 AI 助理產生內容，以便建立內容"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -269,7 +270,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/tutorials/channels/in-app-channel/content-experiments-for-in-app-messages" title="設定應用程式內訊息的內容實驗" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3445299/?captions=chi_hant&format=jpeg&nocache=1775837204584" alt="設定應用程式內訊息的內容實驗"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3419898/?format=jpeg&nocache=1775837204584" alt="設定應用程式內訊息的內容實驗"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
