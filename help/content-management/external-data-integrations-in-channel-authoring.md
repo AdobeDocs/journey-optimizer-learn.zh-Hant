@@ -22,4 +22,4 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3484118/?learn=on&enablevpops)
 
-如需詳細資訊，請參閱Adobe Journey Optimizer [產品檔案](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/combine/vendor-integration)。
+如需詳細資訊，請參閱Adobe Journey Optimizer [產品檔案](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer/using/content-management/combine/vendor-integration)。
