@@ -14,7 +14,7 @@ exl-id: f1d135e4-208c-45d4-8d7c-5d8496fb79b7
 source-git-commit: 3917e11cdf8c0450c19ce653a0964f6dc9da6a3c
 workflow-type: tm+mt
 source-wordcount: '161'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
@@ -24,9 +24,9 @@ ht-degree: 93%
 
 了解如何在範例 iOS 行動裝置行銷應用程式上設定和驗證推播管道通知。
 
->[!VIDEO](https://video.tv.adobe.com/v/3449633/?captions=chi_hant&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3433053/?learn=on)
 
 如需詳細資訊，請參閱產品文件：
 
-* [開始使用引導式頻道設定](https://experienceleague.adobe.com/docs/journey-optimizer/using/configuration/guided-setup/set-mobile-config.html?lang=zh-Hant){target="_blank"}
+* [開始使用引導式管道設定](https://experienceleague.adobe.com/docs/journey-optimizer/using/configuration/guided-setup/set-mobile-config.html?lang=zh-Hant){target="_blank"}
 * [建立管道設定](https://experienceleague.adobe.com/docs/journey-optimizer/using/configuration/guided-setup/create-channel-set-up.html?lang=zh-Hant){target="_blank"}

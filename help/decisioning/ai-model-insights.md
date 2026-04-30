@@ -1,6 +1,6 @@
 ---
-title: 在Journey Optimizer中最佳化AI模型
-description: 瞭解如何在Journey Optimizer中分析AI模型效能及最佳化決策。
+title: 在 Journey Optimizer 中最佳化 AI 模型
+description: 探索在 Journey Optimizer 中如何分析 AI 模型效能和最佳化決策。
 feature: Decisioning
 topic: Artificial Intelligence
 role: Admin, User
@@ -15,12 +15,12 @@ exl-id: cd486a89-f97a-4d53-86f1-f66dc64d5f5e
 source-git-commit: 3917e11cdf8c0450c19ce653a0964f6dc9da6a3c
 workflow-type: tm+mt
 source-wordcount: '69'
-ht-degree: 47%
+ht-degree: 100%
 
 ---
 
-# AI模型深入分析
+# AI 模型洞察
 
-瞭解如何分析AI模型訓練狀態、流量分配和效能，以最佳化Journey Optimizer中的個人化決策。 瞭解如何使用AI功能識別問題、疑難排解模型並提高轉換率。 本影片將引導您有效管理AI模型，以產生業務影響。
+瞭解如何分析 AI 模型訓練狀態、流量分配和效能，以最佳化 Journey Optimizer 中的個人化決策。 瞭解如何使用AI功能識別問題、疑難排解模型並提高轉換率。 此影片將引導您有效管理 AI 模型，以推動業務影響。
 
->[!VIDEO](https://video.tv.adobe.com/v/3479860/?captions=chi_hant&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3479849/?learn=on&enablevpops)

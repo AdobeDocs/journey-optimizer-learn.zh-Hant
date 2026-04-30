@@ -15,7 +15,7 @@ exl-id: e5eee841-77a6-4001-8192-6e34bc745ce1
 source-git-commit: 3917e11cdf8c0450c19ce653a0964f6dc9da6a3c
 workflow-type: tm+mt
 source-wordcount: '81'
-ht-degree: 87%
+ht-degree: 100%
 
 ---
 
@@ -23,6 +23,6 @@ ht-degree: 87%
 
 了解如何在 Journey Optimizer 管道中落實資料使用原則。
 
->[!VIDEO](https://video.tv.adobe.com/v/3434916/?captions=chi_hant&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3434901/?learn=on)
 
 請參閱產品文件，以取得有關 [資料治理](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer/using/privacy/action-privacy-restricted) 以及如何在 Journey Optimizer [使用同意原則工作](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer/using/privacy/consent/consent) 的詳細資訊。

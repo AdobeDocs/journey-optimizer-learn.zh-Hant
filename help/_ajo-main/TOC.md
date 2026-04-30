@@ -6,7 +6,7 @@ auto-video-transcripts: true
 source-git-commit: c6f5a9c78193f6540456ff0e1062970000f832b7
 workflow-type: tm+mt
 source-wordcount: '1380'
-ht-degree: 93%
+ht-degree: 99%
 
 ---
 
@@ -76,7 +76,7 @@ ht-degree: 93%
    + 程式碼型體驗頻道{#code-based-experience-channel}
       + [建立程式碼型體驗行銷活動](/help/channels/create-a-code-based-experience-campaign.md)
       + [將表單欄位新增至程式碼型體驗頻道範本](/help/channels/form-fields-in-code-based-experiences.md)
-      + [Use decisioning in the code based channel](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer/using/decisioning/experience-decisioning/experience-decisioning-uc)
+      + [在基於程式碼的管道中使用決策](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer/using/decisioning/experience-decisioning/experience-decisioning-uc)
    + 直接郵件頻道{#direct-mail-channel}
       + [建立直接郵件](/help/channels/direct-mail.md)
       + [傳送已附上歷程的直接郵件](/help/channels/direct-mail-in-journeys.md)
@@ -94,8 +94,8 @@ ht-degree: 93%
       + [在歷程建立應用程式內訊息](/help/channels/create-an-in-app-message-in-a-journey.md)
       + [撰寫應用程式內訊息](/help/channels/author-in-app-messages.md)
       + [設定應用程式內訊息的內容實驗](/help/experimentation/content-experiments-for-in-app-messages.md)
-   + 已上線活動 {#live-activities}
-      + [iOS已上線活動](/help/channels/ios-live-activities.md)
+   + 即時動態 {#live-activities}
+      + [iOS 即時動態](/help/channels/ios-live-activities.md)
    + 推播頻道{#push-channel}
       + [推播通知 — 概觀](/help/channels/push-notifications-overview.md)
       + [設定和傳送推播行銷活動](/help/channels/create-a-push-campaign.md)
@@ -150,20 +150,20 @@ ht-degree: 93%
 + 實驗 {#experimentation}
    + [實驗簡介](/help/experimentation/introduction-to-experimentation.md)
    + [建立電子郵件行銷活動的內容實驗](/help/experimentation/content-experiments-for-emails.md)
-   + [實驗代理 - 概觀](/help/ai-agents/experimentation-agent-overview.md)
+   + [Experimentation 代理 - 概觀](/help/ai-agents/experimentation-agent-overview.md)
 + 決定功能{#decision-capabilities}
    + 決策 {#decisioning}
       + [決策簡介](/help/decisioning/introduction-to-decisioning.md)
       + [端到端決策逐步說明](/help/decisioning/decisioning-end-to-end.md)
       + [瀏覽公式產生器介面](/help/decisioning/formula-builder-ui.md)
       + [可重複使用的規則](/help/decisioning/reusable-targeting-rules.md)
-      + [在表單提交時觸發歷程](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/trigger-journey-on-form-submission/introduction)
-      + [使用即時天氣資料個人化優惠方案](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction)
-      + [使用排名公式來提供個人化優惠](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction)
-      + [AI模型深入分析](/help/decisioning/ai-model-insights.md)
-      + [在電子郵件頻道中使用決策](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/use-decisioning-in-email-channel/introduction)
+      + [在提交表單時觸發歷程](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/trigger-journey-on-form-submission/introduction)
+      + [以即時天氣資料個人化產品建議](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction)
+      + [使用排名公式提供個人化優惠方案](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction)
+      + [AI 模型洞察](/help/decisioning/ai-model-insights.md)
+      + [在電子郵件管道中使用決策](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/use-decisioning-in-email-channel/introduction)
       + [在推播通知中使用決策](/help/decisioning/decisioning-in-push-notifications.md)
-      + [在簡訊訊息中使用決策](/help/decisioning/use-decisioning-in-an-sms-message.md)
+      + [在簡訊中使用決策](/help/decisioning/use-decisioning-in-an-sms-message.md)
    + 決策管理 {#decision-management}
       + [決策管理簡介](/help/decision-management/introduction-to-decision-management.md)
       + [決策管理功能示範](/help/decision-management/demo-of-decision-management-capabilities.md)
@@ -237,19 +237,19 @@ ht-degree: 93%
    + [AI 助理](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/tutorials/introduction-to-journey-optimizer/ai-assistant)
    + [用於內容產生的 AI 助理](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/tutorials/content-management/ai-assistant/ai-assistant-for-content-generation-overview)
    + [Journey 代理 - 概觀](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/tutorials/journeys/journey-agent-overview)
-   + [實驗代理 - 概觀](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/tutorials/experimentation/experimentation-agent-overview)
+   + [Experimentation 代理 - 概觀](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/tutorials/experimentation/experimentation-agent-overview)
 + 使用案例與最佳做法{#use-cases}
    + [客戶引導](/help/use-cases/customer-onboarding.md)
    + [捨棄的購物車](/help/use-cases/abandoned-cart.md)
    + [智慧重新參與 - 放棄瀏覽](https://experienceleague.adobe.com/zh-hant/docs/experience-platform/rtcdp/use-cases/personalization-insights-engagement/use-cases-luma){target="_blank"}
-   + [使用Web SDK在Adobe Journey Optimizer中使用即時天氣資料個人化優惠方案](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction){target="_blank"}
+   + [在 Adobe Journey Optimizer 中使用網頁 SDK 以即時天氣資料個人化產品建議](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction){target="_blank"}
    + [使用排名公式在 Journey Optimizer 中提供個人化優惠](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction){target="_blank"}
    + [強化客戶參與度](/help/use-cases/enhance-customer-engagement.md){target="_blank"}
    + [將協調流程縮放為全頻道參與](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction.md){target="_blank"}
    + 使用案例教戰手冊 {#use-case-playbooks}
       + [概觀](https://experienceleague.adobe.com/zh-hant/docs/platform-learn/tutorials/use-case-playbooks/overview){target="_blank"}
-      + [設定Playbook沙箱](https://experienceleague.adobe.com/zh-hant/docs/platform-learn/tutorials/use-case-playbooks/configure-a-playbook-sandbox){target="_blank"}
-      + [建立和發佈Playbook例項](https://experienceleague.adobe.com/zh-hant/docs/platform-learn/tutorials/use-case-playbooks/create-and-publish-a-playbook-instance){target="_blank"}
+      + [設定教戰手冊沙箱](https://experienceleague.adobe.com/zh-hant/docs/platform-learn/tutorials/use-case-playbooks/configure-a-playbook-sandbox){target="_blank"}
+      + [建立和發佈教戰手冊執行個體](https://experienceleague.adobe.com/zh-hant/docs/platform-learn/tutorials/use-case-playbooks/create-and-publish-a-playbook-instance){target="_blank"}
 + 練習、實驗與挑戰 {#exercises-and-challenges}
    + [設定訓練沙箱](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites)
    + [挑戰](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites)

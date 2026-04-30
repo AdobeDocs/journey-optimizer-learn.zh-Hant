@@ -1,6 +1,6 @@
 ---
-title: 在簡訊訊息中使用決策
-description: 探索AJO Decisioning如何個人化和最佳化簡訊內容，以提升參與度。
+title: 在簡訊中使用決策
+description: 探索 AJO Decisioning 如何個人化和最佳化簡訊內容，以提升參與度。
 feature: Decisioning, SMS
 role: User
 level: Intermediate
@@ -14,12 +14,12 @@ exl-id: 60b29c0c-c3a5-4a20-9298-68119f4d4cc6
 source-git-commit: 3917e11cdf8c0450c19ce653a0964f6dc9da6a3c
 workflow-type: tm+mt
 source-wordcount: '47'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# 在簡訊訊息中使用決策
+# 在簡訊中使用決策
 
-瞭解如何使用AJO Decisioning來個人化和最佳化簡訊內容。 增強您的SMS訊息，以改善參與度並達成業務目標。
+了解如何使用 AJO 決策將簡訊內容個人化和最佳化。 提升簡訊內容，以改善參與度和達成業務目標。
 
->[!VIDEO](https://video.tv.adobe.com/v/3479540/?captions=chi_hant&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3479529/?learn=on&enablevpops)

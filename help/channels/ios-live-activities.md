@@ -1,6 +1,6 @@
 ---
-title: iOS Live Activities
-description: 瞭解如何使用Adobe Journey Optimizer設定iOS Live活動，以在iPhone鎖定畫面和Dynamic Island上提供豐富的即時更新。
+title: iOS 即時動態
+description: 了解如何使用 Adobe Journey Optimizer 設定iOS 即時動態，以在 iPhone 鎖定畫面與動態島上提供豐富的即時更新。
 feature: Channel Configuration
 topic: Mobile
 role: Admin, Developer, User
@@ -15,12 +15,12 @@ exl-id: f474f1bb-efeb-44fd-9c62-09afdf81ee03
 source-git-commit: 3917e11cdf8c0450c19ce653a0964f6dc9da6a3c
 workflow-type: tm+mt
 source-wordcount: '56'
-ht-degree: 89%
+ht-degree: 100%
 
 ---
 
-# iOS Live Activities
+# iOS 即時動態
 
-瞭解如何使用Adobe Journey Optimizer設定iOS Live活動，以在iPhone鎖定畫面和Dynamic Island上提供豐富的即時更新。
+了解如何使用 Adobe Journey Optimizer 設定iOS 即時動態，以在 iPhone 鎖定畫面與動態島上提供豐富的即時更新。
 
->[!VIDEO](https://video.tv.adobe.com/v/3479875/?captions=chi_hant&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3479864/?learn=on&enablevpops)
