@@ -22,4 +22,4 @@ ht-degree: 100%
 
 了解如何使用 AJO 決策將簡訊內容個人化和最佳化。 提升簡訊內容，以改善參與度和達成業務目標。
 
->[!VIDEO](https://video.tv.adobe.com/v/3479529/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3479540/?captions=chi_hant&learn=on&enablevpops)

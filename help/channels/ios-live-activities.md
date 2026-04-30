@@ -23,4 +23,4 @@ ht-degree: 100%
 
 了解如何使用 Adobe Journey Optimizer 設定iOS 即時動態，以在 iPhone 鎖定畫面與動態島上提供豐富的即時更新。
 
->[!VIDEO](https://video.tv.adobe.com/v/3479864/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3479875/?captions=chi_hant&learn=on&enablevpops)
