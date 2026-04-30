@@ -20,4 +20,4 @@ ht-degree: 100%
 
 了解如何建立以程式碼為主的體驗活動，透過支援伺服器端、基於 API 或基於 SDK 的實施方法來擴展個人化，進而與開發環境無縫整合。
 
->[!VIDEO](https://video.tv.adobe.com/v/3428868/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3449464/?captions=chi_hant&learn=on)

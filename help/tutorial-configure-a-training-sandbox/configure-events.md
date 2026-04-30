@@ -21,7 +21,7 @@ ht-degree: 100%
 
 以下影片說明如何建立事件：
 
->[!VIDEO](https://video.tv.adobe.com/v/336253?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3431513?captions=chi_hant&quality=12&learn=on){transcript=true}
 
 ## 建立 Luma 線上購買事件
 

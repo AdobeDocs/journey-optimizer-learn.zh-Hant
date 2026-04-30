@@ -21,4 +21,4 @@ ht-degree: 100%
 
 了解如何存取、導覽和匯出頻道層級的報告。 如需詳細資訊，請造訪[頻道報告文件](https://experienceleague.adobe.com/docs/journey-optimizer/using/reporting/channel-report/channel-report.html?lang=zh-Hant)。
 
->[!VIDEO](https://video.tv.adobe.com/v/3424537/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3448050/?captions=chi_hant&learn=on)

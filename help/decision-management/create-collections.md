@@ -20,4 +20,4 @@ ht-degree: 100%
 
 集合的功能是管理邏輯群組中的產品建議，是建立決策管理活動的必要活動。 動態集合可讓您根據標籤來分類產品建議，而靜態集合則可讓您手動整理產品建議。
 
->[!VIDEO](https://video.tv.adobe.com/v/329376?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3474879?captions=chi_hant&quality=12&learn=on){transcript=true}

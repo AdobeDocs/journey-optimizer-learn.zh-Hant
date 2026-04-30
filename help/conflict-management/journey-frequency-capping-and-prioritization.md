@@ -20,6 +20,6 @@ ht-degree: 100%
 
 了解如何針對入站動作進行優先排序，確保客戶有資格使用相同管道設定進行多項入站動作時，能向客戶傳遞最優先的內容。
 
->[!VIDEO](https://video.tv.adobe.com/v/3435530/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3447626/?captions=chi_hant&learn=on&enablevpops)
 
 請參閱產品文件以了解關於[歷程上限與仲裁](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer/using/conflict-prioritization/capping-rules/journey-capping)的更多資訊。

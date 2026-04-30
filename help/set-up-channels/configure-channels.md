@@ -20,6 +20,6 @@ ht-degree: 100%
 
 了解什麼是管道設定，以及如何在 Adobe Journey Optimizer 加以使用。
 
->[!VIDEO](https://video.tv.adobe.com/v/3433124/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3480462/?captions=chi_hant&learn=on)
 
 更多有關如何設定管道設定的資訊，[請參閱產品文件](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer/using/configuration/channel-surfaces#set-up-channel-surfaces)。
