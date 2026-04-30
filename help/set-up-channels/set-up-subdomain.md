@@ -1,6 +1,6 @@
 ---
 title: 設定子網域
-description: 瞭解如何在 Adobe Journey Optimizer 為電子郵件頻道設定子網域。
+description: 了解如何在 Adobe Journey Optimizer 中為電子郵件通路設定子網域。
 feature: Subdomains, Deliverability, Channel Configuration, Email
 role: Admin
 level: Beginner
@@ -18,6 +18,6 @@ ht-degree: 100%
 
 # 設定子網域
 
-瞭解如何在 Adobe Journey Optimizer 為電子郵件頻道設定子網域。
+了解如何在 Adobe Journey Optimizer 中為電子郵件通路設定子網域。
 
->[!VIDEO](https://video.tv.adobe.com/v/3463236/?learn=on&enablevpops&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/3458490/?learn=on&enablevpops)

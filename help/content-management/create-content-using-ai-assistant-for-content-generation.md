@@ -1,6 +1,6 @@
 ---
-title: 請使用 AI 助理建立內容，以便建立內容
-description: 瞭解如何使用 AI 助理，為文字和影像產生主動式內容變化版本建議，可應用於建立內容。
+title: 請使用 AI 助理產生內容，以便建立內容
+description: 瞭解如何使用 AI 助理，為文字和影像產生主動式內容變化版本建議，可用於建立內容。
 feature: Content Assistant
 topic: Content Management
 role: User
@@ -17,8 +17,8 @@ ht-degree: 100%
 
 ---
 
-# 請使用 AI 助理產生內容，以便建立內容
+# 請使用 AI 助理建立內容，以便進行內容產生
 
-瞭解如何使用 AI 助理，為文字和影像產生主動式內容變化版本建議，可應用於建立內容。
+瞭解如何使用 AI 助理，為文字和影像產生主動式內容變化版本建議，可用於建立內容。
 
->[!VIDEO](https://video.tv.adobe.com/v/3434646/?learn=on&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/3434635/?learn=on)

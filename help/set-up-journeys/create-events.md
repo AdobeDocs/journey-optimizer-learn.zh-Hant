@@ -10,7 +10,7 @@ role: Admin, Developer
 level: Beginner
 exl-id: 6275786c-d407-4d46-95f0-e366acad1054
 source-git-commit: fd9d277be00449155c49b3809fe647d7342b6acd
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '36'
 ht-degree: 100%
 
@@ -20,5 +20,5 @@ ht-degree: 100%
 
 了解如何設定事件、指定串流端點和事件裝載。
 
->[!VIDEO](https://video.tv.adobe.com/v/3431513?quality=12&learn=on&captions=chi_hant){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/336253?quality=12&learn=on){transcript=true}
 

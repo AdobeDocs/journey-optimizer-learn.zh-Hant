@@ -12,7 +12,7 @@ hidefromtoc: true
 exl-id: 0edd792a-14e5-4fb4-94e0-f032be89d267
 source-git-commit: e0aee000736f2e1d2ac290c4e24b2e0de95753a0
 workflow-type: ht
-source-wordcount: '122'
+source-wordcount: '125'
 ht-degree: 100%
 
 ---
@@ -30,4 +30,4 @@ ht-degree: 100%
 
 對於想要透過世界上最熱門的訊息平台之一擴大觸及率和參與度的行銷人員來說，這就是理想選擇。
 
->[!VIDEO](https://video.tv.adobe.com/v/3470255/?learn=on&enablevpops&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/3470244/?learn=on&enablevpops)

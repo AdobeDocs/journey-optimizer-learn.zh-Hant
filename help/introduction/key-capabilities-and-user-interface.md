@@ -1,6 +1,6 @@
 ---
 title: 重要功能和使用者介面
-description: 瞭解 Journey Optimizer 的重要功能和角色。 瞭解如何使用使用者介面。
+description: 瞭解 Journey Optimizer 的重要功能和人物誌。 瞭解如何使用使用者介面。
 jira: KT-7606
 thumbnail: 3424995.jpeg
 feature: Overview
@@ -11,7 +11,7 @@ level: Beginner
 last-substantial-update: 2024-01-29T00:00:00Z
 exl-id: e1d846ed-34ed-44bb-ad69-cedbaaebe706
 source-git-commit: 2e342ee349761103215370f8f86c4c5855c51114
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '42'
 ht-degree: 100%
 
@@ -19,6 +19,6 @@ ht-degree: 100%
 
 # 重要功能和使用者介面
 
-瞭解 Journey Optimizer 的重要功能和角色。 瞭解如何使用使用者介面。
+瞭解 Journey Optimizer 的重要功能和人物誌。 瞭解如何使用使用者介面。
 
->[!VIDEO](https://video.tv.adobe.com/v/3430323?quality=12&learn=on&captions=chi_hant){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3424995?quality=12&learn=on){transcript=true}

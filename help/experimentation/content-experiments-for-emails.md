@@ -1,6 +1,6 @@
 ---
 title: 設定電子郵件的內容實驗
-description: 瞭解如何設定內容實驗以進行 A/B 測試並探索電子郵件內容，以最佳方式推動您的業務目標。
+description: 了解如何設定內容實驗以進行 A/B 測試並探索電子郵件內容，以最佳方式推動您的業務目標。
 feature: Email, Experimentation
 role: User
 level: Beginner

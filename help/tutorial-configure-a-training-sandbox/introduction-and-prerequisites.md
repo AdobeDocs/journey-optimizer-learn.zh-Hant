@@ -1,6 +1,6 @@
 ---
 title: 設定訓練沙箱 - 簡介
-description: 瞭解如何設定沙箱以供訓練之用。 逐一完成設定方案、擷取範例資料和建立事件所需的步驟。
+description: 了解如何設定用於訓練的沙箱。 逐步說明設定結構描述、擷取範例資料和建立事件所需的步驟。
 feature: Sandboxes, Data Management, Application Settings
 doc-type: tutorial
 jira: KT-9382
@@ -9,8 +9,8 @@ level: Beginner
 last-substantial-update: 2023-02-01T00:00:00Z
 exl-id: 8fa673de-9be9-4ab2-94cf-cfa8ac518223
 source-git-commit: 81f5cc22d46f89ee1c7164a92988311ca6036b8b
-workflow-type: tm+mt
-source-wordcount: '305'
+workflow-type: ht
+source-wordcount: '353'
 ht-degree: 100%
 
 ---
@@ -19,9 +19,9 @@ ht-degree: 100%
 
 ![橫幅教學課程 - 設定訓練沙箱](./assets/ajo-banner-configure-training-sandbox.png)
 
-本教學課程專為負責提供 Adobe [!DNL Journey Optimizer]訓練環境的管理員及資料工程師所設計。瞭解設定方案、擷取範例資料和建立事件所需的步驟。 您也可以建立三個測試設定檔，讓學習者檢查其工作。
+本教學課程專為負責提供 Adobe [!DNL Journey Optimizer]訓練環境的管理員及資料工程師所設計。 瞭解設定結構描述、擷取範例資料和建立事件所需的步驟。 您也可以建立三個測試輪廓，讓學習者檢查其工作。
 
-提供的範例資料以一家名為&#x200B;_[!DNL Luma]_的虛構運動服裝公司為基礎。[!DNL Luma]在多個國家/地區設有商店、線上網站以及行動應用程式。 [!DNL Luma] 使用 Adobe Journey Optimizer 來為客戶提供連結、情境式和個人化的體驗。
+提供的範例資料以一家名為&#x200B;_[!DNL Luma]_的虛構運動服裝公司為基礎。 [!DNL Luma]在多個國家/地區設有商店、線上網站以及行動應用程式。 [!DNL Luma] 使用 Adobe Journey Optimizer 來為客戶提供連結、情境式和個人化的體驗。
 
 在本教學課程結束時，您將擁有一個支援 [Journey Optimizer 挑戰](/help/challenges/introduction-and-prerequisites.md)區段的實作練習中介紹的[!DNL Luma]範例沙箱。
 

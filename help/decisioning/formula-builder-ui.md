@@ -1,6 +1,6 @@
 ---
 title: Adobe Journey Optimizer 中公式產生器介面的指南
-description: 了解如何使用 Adobe Journey Optimizer 中的 AI 公式產生器，建立自訂產品建議排名策略。本逐步解說說明如何使用 AI 公式產生器來結合模型分數、輪廓和產品建議資料、內容訊號以及業務規則，以根據您的行銷目標個人化決策和排定產品建議優先順序。
+description: 了解如何使用 Adobe Journey Optimizer 中的 AI 公式產生器，建立自訂產品建議排名策略。 本逐步解說說明如何使用 AI 公式產生器來結合模型分數、輪廓和產品建議資料、內容訊號以及業務規則，以根據您的行銷目標個人化決策和排定產品建議優先順序。
 feature: Decisioning
 topic: Integrations
 role: User

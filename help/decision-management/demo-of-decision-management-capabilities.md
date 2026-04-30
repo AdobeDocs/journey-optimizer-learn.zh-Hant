@@ -9,7 +9,7 @@ thumbnail: 326841.jpg
 exl-id: 44136443-a3fd-435f-9f6d-23c7696acabe
 source-git-commit: 5a9739f647322a2a7211580f4fff04ae6f9453b3
 workflow-type: ht
-source-wordcount: '66'
+source-wordcount: '68'
 ht-degree: 100%
 
 ---
@@ -18,4 +18,4 @@ ht-degree: 100%
 
 瞭解各大品牌如何善用決策管理，定義並管理優惠，應用即時客戶資料，同時提供符合客戶期望的合適體驗。
 
->[!VIDEO](https://video.tv.adobe.com/v/3470052?quality=12&learn=on&captions=chi_hant){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/326841?quality=12&learn=on){transcript=true}

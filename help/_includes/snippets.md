@@ -1,7 +1,7 @@
 ---
 source-git-commit: ac61c4d30929b559826b4a770fc10c26aec74830
 workflow-type: ht
-source-wordcount: '178'
+source-wordcount: '221'
 ht-degree: 100%
 
 ---
@@ -31,16 +31,16 @@ Experience League LIVE:
 
 >[!NOTE]
 >
->目前此功能僅開放給部分組織使用 (可用性限制)。 若要取得存取權，請和您的 Adobe 代表聯絡。
+>目前此功能僅開放給部分組織使用 (可用性限制)。 若想取得存取權，請聯絡您的 Adobe 代表。
 
 ## Beta {#beta}
 
 >[!AVAILABILITY]
 >
->此功能目前為 Beta 版本，僅供 Beta 版客戶使用。若要加入 Beta 版計畫，請連絡 Adobe 客戶服務。
+>此功能目前為 Beta 版本，僅供 Beta 版客戶使用。 若要加入 Beta 版計畫，請連絡 Adobe 客戶服務。
 
 ## Platform 影片 — 原則 (#platform-video)
 
 >[!NOTE]
 >
->該影片在 Adobe Experience Platform 使用者介面演示了此功能。Journey Optimizer 左側導覽的資料管理和隱私區段中，提供相同功能。
+>該影片在 Adobe Experience Platform 使用者介面演示了此功能。 Journey Optimizer 左側導覽的資料管理和隱私區段中，提供相同功能。

@@ -10,8 +10,8 @@ thumbnail: 3424392.jpg
 last-substantial-update: 2023-09-27T00:00:00Z
 exl-id: 23f12d51-9841-41f5-9028-1507c4b538cf
 source-git-commit: 2493f6cad316173f5b33d664e3215ed71d13ff76
-workflow-type: tm+mt
-source-wordcount: '71'
+workflow-type: ht
+source-wordcount: '83'
 ht-degree: 100%
 
 ---
@@ -22,4 +22,4 @@ ht-degree: 100%
 
 如需從 Adobe Journey Optimizer 將資料集匯出至雲端儲存空間位置的詳細資訊，請造訪此[文件](https://experienceleague.adobe.com/docs/journey-optimizer/using/data-management/datasets/export-datasets.html?lang=zh-Hant)。
 
->[!VIDEO](https://video.tv.adobe.com/v/3448829/?learn=on&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/3424392/?learn=on)

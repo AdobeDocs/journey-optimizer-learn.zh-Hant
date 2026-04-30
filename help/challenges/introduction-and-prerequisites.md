@@ -1,14 +1,14 @@
 ---
 title: Journey Optimizer 挑戰 - 簡介和先決條件
-description: 挑戰提供了實施您所學知識所需的情境和要求。 每個挑戰都說明了您所實施的獨特使用案例。
+description: 挑戰提供了實施您所學知識所需的情境和要求。 每個挑戰都說明了您實作的獨特使用案例。
 feature: Journeys
 role: User
 level: Beginner
 last-substantial-update: 2023-02-01T00:00:00Z
 exl-id: 87a79560-c098-4e72-abec-6b750ec730ee
 source-git-commit: 201470e35095b38617d1a1bb5d7b16c1e60f431e
-workflow-type: tm+mt
-source-wordcount: '411'
+workflow-type: ht
+source-wordcount: '547'
 ht-degree: 100%
 
 ---
@@ -61,7 +61,7 @@ Luma 正尋求推廣其最新的服裝和用具系列，並努力推動現有客
       </div>
   </td>
   <td>
-   <strong><a href="summer-collection-announcement-challenge.md">建立夏季系列發佈 </strong>
+   <strong><a href="summer-collection-announcement-challenge.md">建立夏季系列發佈</strong>
     </a>
       <p>
       <em>建立歷程，將夏季系列發佈電子郵件傳送至現有客戶客群。 </em>
@@ -76,13 +76,13 @@ Luma 正尋求推廣其最新的服裝和用具系列，並努力推動現有客
     <td>
     <div>
     <a>
-      <img alt="歡迎！" src="./assets/email-assets/luma-transactional-onboarding-1.png"/>
+      <img alt="歡迎畫面" src="./assets/email-assets/luma-transactional-onboarding-1.png"/>
     </a>
     </div>
     <td>
     <div >
       <a>
-    <strong><a href="loyalty-status-welcome-email-challenge.md">建立忠誠度狀態歡迎電子郵件 </strong>
+    <strong><a href="loyalty-status-welcome-email-challenge.md">建立忠誠度狀態歡迎電子郵件</strong>
     </a>
     </div>
     <p>
@@ -103,11 +103,11 @@ Luma 正尋求推廣其最新的服裝和用具系列，並努力推動現有客
   </td>
   <td>
       <a href="order-confirmation-challenge.md">
- <strong><a href="order-confirmation-challenge.md">建立訂單確認</strong>
- </a>
+    <strong><a href="order-confirmation-challenge.md">建立訂單確認</strong>
+    </a>
     <div>
     <p>
-    <em>測試您關於如何建立和個人化異動訊息的知識
+    <em>測試您關於如何建立和個人化交易型訊息的知識
     </em>
     <p>
     <b>所需技能：</b>

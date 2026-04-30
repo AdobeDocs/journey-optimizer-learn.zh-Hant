@@ -16,7 +16,7 @@ ht-degree: 100%
 
 # 決策管理簡介
 
-瞭解 Journey Optimizer 的決策管理。影片內容包括決策管理功能解決的企業難題、重要功能、基礎架構和主要使用案例。
+瞭解 Journey Optimizer 的決策管理。 影片內容包括決策管理功能解決的企業難題、重要功能、基礎架構和主要使用案例。
 
 >[!VIDEO](https://video.tv.adobe.com/v/326961?quality=12&learn=on){transcript=true}
 

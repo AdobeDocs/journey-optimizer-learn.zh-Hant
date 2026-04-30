@@ -1,7 +1,7 @@
 ---
-title: 建立個人化優惠方案
+title: 建立個人化產品建議
 seo-title: Create personalized offers for decision management
-description: 瞭解如何建立個人化的產品以用於決策管理。 個人化優惠具有與其相關的適用性規則，可協助您僅向相關客戶顯示。
+description: 瞭解如何建立個人化的產品以用於決策管理。 個人化產品建議具有與其相關的適用性規則，可協助您僅向相關客戶顯示。
 feature: Offers, Personalization
 jira: KT-6781
 thumbnail: 329375.jpg
@@ -9,15 +9,15 @@ role: User
 level: Beginner
 exl-id: 03428751-340f-4400-9162-b0f3021f1af1
 source-git-commit: fd9d277be00449155c49b3809fe647d7342b6acd
-workflow-type: tm+mt
-source-wordcount: '98'
+workflow-type: ht
+source-wordcount: '128'
 ht-degree: 100%
 
 ---
 
-# 建立個人化優惠方案
+# 建立個人化產品建議
 
-瞭解如何建立[個人化產品](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/managing-offers-in-the-offer-library/creating-personalized-offers.html?lang=zh-Hant)以用於決策管理。 個人化優惠具有與其相關的適用性規則，可協助您僅向相關客戶顯示。 例如，您可以將雪鏟的優惠方案限制在下雪地區，而且只能在冬季進行。
+瞭解如何建立[個人化產品](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/managing-offers-in-the-offer-library/creating-personalized-offers.html?lang=zh-Hant)以用於決策管理。 個人化產品建議具有與其相關的適用性規則，可協助您僅向相關客戶顯示。 例如，您可以將雪鏟的產品建議限制在下雪地區，而且只能在冬季進行。
 
 >[!VIDEO](https://video.tv.adobe.com/v/329375?quality=12&learn=on){transcript=true}
 

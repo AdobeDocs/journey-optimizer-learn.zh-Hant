@@ -9,8 +9,8 @@ level: Beginner
 recommendations: noDisplay, noCatalog
 exl-id: c7826818-c28a-493b-8aba-9d8a8102336d
 source-git-commit: fd9d277be00449155c49b3809fe647d7342b6acd
-workflow-type: tm+mt
-source-wordcount: '160'
+workflow-type: ht
+source-wordcount: '158'
 ht-degree: 100%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 100%
 
 以下影片說明如何建立事件：
 
->[!VIDEO](https://video.tv.adobe.com/v/3431513?quality=12&learn=on&captions=chi_hant){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/336253?quality=12&learn=on){transcript=true}
 
 ## 建立 Luma 線上購買事件
 
@@ -34,7 +34,7 @@ ht-degree: 100%
    | [!UICONTROL 名稱] | `LumaOnlinePurchase` |
    | [!UICONTROL 類型] | [!UICONTROL 單一] |
    | [!UICONTROL 事件 ID 類型] | [!UICONTROL 規則型] |
-   | [!UICONTROL 方案] | `Luma Web Events Schema` |
+   | [!UICONTROL 結構描述] | `Luma Web Events Schema` |
    | [!UICONTROL 欄位] | `eventType` <br>`commerce.order.priceTotal`<br>`commerce.order.purchaseOrderNumber`<br>`commerce.shipping.adress.street1`<br>`commerce.shipping.adress.city`<br>`commerce.shipping.adress.postalCode`<br>`commerce.shipping.adress.state`<br>`productListItems.quantity`<br>`productListItems.Luma Product Catalog Schema._your Organization_ID.name`<br>`productListItems.Luma Product Catalog Schema._your Organization_IDprice`<br>`productListItems.Luma Product Catalog Schema._your Organization_ID.imageURL`<br>`productListItems.Luma Product Catalog Schema._your Organization_ID.url` |
 
 1. 新增[!UICONTROL 事件 ID 條件]：`LumaOnlinePurchase.eventType is commerce.purchases`：
@@ -58,8 +58,8 @@ ht-degree: 100%
 |-------------|-----------|
 | [!UICONTROL 名稱] | `LumaProductRestock` |
 | [!UICONTROL 類型] | [!UICONTROL 商務] |
-| [!UICONTROL 方案] | [!DNL Luma Product Inventory Event Schema] |
-| [!UICONTROL 欄位] | SKU <br> stockEventType<br><b>LumaProductCatalogSchema。_yourOrganizationID.product：</b> <br>名稱<br>價格<br> ImageURL<br>說明 |
+| [!UICONTROL 結構描述] | [!DNL Luma Product Inventory Event Schema] |
+| [!UICONTROL 欄位] | SKU <br> stockEventType<br><b>LumaProductCatalogSchema._yourOrganizationID.product :</b> <br>名稱<br>價格<br> ImageURL<br>description |
 | [!UICONTROL 條件] | LumaProductRestock._`your organization's ID`.inventoryEvent.stockEventType 為重新進貨 |
 
-恭喜！您的沙箱現已可供使用。
+恭喜！ 您的沙箱現已可供使用。

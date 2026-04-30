@@ -1,6 +1,6 @@
 ---
-title: 建立決定規則
-description: 瞭解如何針對決策管理建立決定規則。 規則是個人化優惠方案的必要建置區塊元件之一。
+title: 建立決策規則
+description: 了解如何針對決策管理建立決定規則。 規則是個人化產品建議的必要建置區塊元件之一。
 feature: Offers
 jira: KT-6738
 thumbnail: 329373.jpg
@@ -8,15 +8,15 @@ role: User
 level: Beginner
 exl-id: 1b4cd1cd-f082-46ec-a331-9733d7c87bde
 source-git-commit: fd9d277be00449155c49b3809fe647d7342b6acd
-workflow-type: tm+mt
-source-wordcount: '112'
+workflow-type: ht
+source-wordcount: '139'
 ht-degree: 100%
 
 ---
 
-# 建立決定規則
+# 建立決策規則
 
-瞭解如何針對決策管理建立[決策規則](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/create-components/creating-decision-rules.html?lang=zh-Hant)。 規則或「決策規則」是個人化優惠方案的必要建置區塊元件之一。 規則是以 Platform 即時客戶設定檔中的事件和屬性所建立，可形成優惠的資格限制。例如，規則可用來限制給生活在下雪地區的客戶提供雪鏟的優惠方案。
+瞭解如何針對決策管理建立[決策規則](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/create-components/creating-decision-rules.html?lang=zh-Hant)。 規則或「決策規則」是個人化產品建議的必要建置區塊元件之一。 規則是以 Platform 即時客戶輪廓中的事件和屬性所建立，可形成產品建議的資格限制。 例如，規則可用來限制給生活在下雪地區的客戶提供雪鏟的產品建議。
 
 >[!VIDEO](https://video.tv.adobe.com/v/329373?quality=12&learn=on){transcript=true}
 
