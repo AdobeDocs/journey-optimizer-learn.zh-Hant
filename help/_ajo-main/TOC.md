@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer 教學課程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 這些是 Journey Optimizer 教學課程。
 auto-video-transcripts: true
-source-git-commit: c6f5a9c78193f6540456ff0e1062970000f832b7
+source-git-commit: d394b0e73b0606d68c19bc97e40869a4e41c4dde
 workflow-type: tm+mt
-source-wordcount: '1380'
-ht-degree: 99%
+source-wordcount: '1422'
+ht-degree: 96%
 
 ---
 
@@ -45,23 +45,25 @@ ht-degree: 99%
    + [建立測試輪廓](/help/journeys/test-a-journey.md)
    + [發佈歷程](/help/journeys/publish-a-journey.md)
    + [內容決活動](/help/journeys/content-decision-activity.md)
-   + [使用案例 - 交易型歷程](/help/journeys/use-case-transactional-journey.md)
-   + [使用案例 - 業務事件](/help/journeys/use-case-business-event.md)
-   + [使用案例 - 讀取客群](/help/journeys/use-case-read-audience.md)
-   + [使用案例 - 客群資格篩選](/help/journeys/use-case-audience-qualification.md)
    + [掌握多屬性篩選功能](/help/journeys/mastering-multi-attribute-filtering.md)
    + [使用歷程試運行驗證歷程邏輯](/help/journeys/journey-dry-run.md)
    + [使用補充 ID，解除鎖定歷程重新進入](/help/journeys/unlock-journey-reentry-with-supplemental-id.md)
    + [更新即時歷程中的內容](/help/journeys/update-content-in-live-journey.md)
    + [將歷程複製到另一個沙箱](/help/journeys/copy-a-journey.md)
    + [批次細分後，就會觸發日常歷程執行](/help/journeys/trigger-daily-journey-runs-after-batch-segmentation-completion.md)
+   + [使用案例] {#use-cases}
+      + [使用案例 - 交易型歷程](/help/journeys/use-case-transactional-journey.md)
+      + [使用案例 - 業務事件](/help/journeys/use-case-business-event.md)
+      + [使用案例 - 讀取客群](/help/journeys/use-case-read-audience.md)
+      + [使用案例 - 客群資格篩選](/help/journeys/use-case-audience-qualification.md)
+   + [教學課程]{#tutorials}
+      + [在表單提交時觸發歷程](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/trigger-journey-on-form-submission/introduction)
 + 忠誠度 {#loyalty}
    + [建立忠誠度挑戰](/help/loyalty/create-a-loyalty-challenge.md)
 + 衝突管理與優先順序 {#conflict-management}
    + [識別潛在衝突](/help/conflict-management/identify-potential-conflicts.md)
    + [指派優先順序分數](/help/conflict-management/assign-priority-score.md)
    + [歷程頻率限定和優先順序](/help/conflict-management/journey-frequency-capping-and-prioritization.md)
-
    + [無訊息時間](/help/business-rules/configure-and-apply-quiet-hours.md)
 + 輪廓、客群和訂閱 {#profiles-audiences-subscriptions}
    + [簡介及客群 — 概觀](/help/profiles-audiences-subscriptions/profiles-and-audiences-overview.md)
@@ -153,17 +155,22 @@ ht-degree: 99%
    + [Experimentation 代理 - 概觀](/help/ai-agents/experimentation-agent-overview.md)
 + 決定功能{#decision-capabilities}
    + 決策 {#decisioning}
-      + [決策簡介](/help/decisioning/introduction-to-decisioning.md)
-      + [端到端決策逐步說明](/help/decisioning/decisioning-end-to-end.md)
-      + [瀏覽公式產生器介面](/help/decisioning/formula-builder-ui.md)
-      + [可重複使用的規則](/help/decisioning/reusable-targeting-rules.md)
-      + [在提交表單時觸發歷程](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/trigger-journey-on-form-submission/introduction)
-      + [以即時天氣資料個人化產品建議](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction)
-      + [使用排名公式提供個人化優惠方案](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction)
-      + [AI 模型洞察](/help/decisioning/ai-model-insights.md)
-      + [在電子郵件管道中使用決策](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/use-decisioning-in-email-channel/introduction)
-      + [在推播通知中使用決策](/help/decisioning/decisioning-in-push-notifications.md)
-      + [在簡訊中使用決策](/help/decisioning/use-decisioning-in-an-sms-message.md)
+      + 決策基礎知識 {#fundamentals}
+         + [決策簡介](/help/decisioning/introduction-to-decisioning.md)
+         + [端到端決策逐步說明](/help/decisioning/decisioning-end-to-end.md)
+         + [瀏覽公式產生器介面](/help/decisioning/formula-builder-ui.md)
+         + [可重複使用的規則](/help/decisioning/reusable-targeting-rules.md)
+         + [使用排名公式提供個人化優惠方案](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction)
+         + [AI 模型洞察](/help/decisioning/ai-model-insights.md)
+      + 套用決定以個人化訊息 {#content-and-offers}
+         + [電子郵件中的決策簡介](/help/decisioning/introduction-to-decisioning-in-emails.md)
+         + [使用決定來個人化電子郵件（教學課程）](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/use-decisioning-in-email-channel/introduction)
+         + [在推播通知中使用決策](/help/decisioning/decisioning-in-push-notifications.md)
+         + [在簡訊中使用決策](/help/decisioning/use-decisioning-in-an-sms-message.md)
+         + [使用決策，將網頁優惠個人化 (教學課程)](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/use-decisioning-to-personalize-web-offers/introduction){target="_blank"}
+      + 從外部觸發器和互動觸發決策
+         + [在提交表單時觸發歷程](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/trigger-journey-on-form-submission/introduction)
+         + [使用即時天氣資料個人化優惠方案](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction)
    + 決策管理 {#decision-management}
       + [決策管理簡介](/help/decision-management/introduction-to-decision-management.md)
       + [決策管理功能示範](/help/decision-management/demo-of-decision-management-capabilities.md)
@@ -177,7 +184,6 @@ ht-degree: 99%
       + [建立決定](/help/decision-management/create-decisions.md)
       + [以 Decisions API 傳遞產品建議](/help/decision-management/deliver-offers-with-the-decisions-api.md)
       + [頻率上限](/help/decision-management/frequency-capping.md)
-   + [使用決策，將網頁優惠個人化 (教學課程)](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/use-decisioning-to-personalize-web-offers/introduction){target="_blank"}
 + 資料管理 {#data-management}
    + [概觀](/help/data-management/set-up-data-overview.md)
    + [建立結構描述](/help/data-management/create-schema.md)
