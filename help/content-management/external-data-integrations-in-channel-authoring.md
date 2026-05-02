@@ -20,6 +20,6 @@ ht-degree: 0%
 
 瞭解如何將外部資料和內容整合至Adobe Journey Optimizer。 這可協助您增強個人化，並改善傳出頻道的參與。 請觀看以下影片以瞭解更多資訊。
 
->[!VIDEO](https://video.tv.adobe.com/v/3484118/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3484129/?captions=chi_hant&learn=on&enablevpops)
 
 如需詳細資訊，請參閱Adobe Journey Optimizer [產品檔案](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer/using/content-management/combine/vendor-integration)。
