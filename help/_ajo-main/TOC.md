@@ -3,9 +3,9 @@ user-guide-title: Journey Optimizer 教學課程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 這些是 Journey Optimizer 教學課程。
 auto-video-transcripts: true
-source-git-commit: 1a5852226764c45bbcc4c7e2a9c698d3d6447e9b
+source-git-commit: 0105cb737db3f7ca87302a114806fff251c11c49
 workflow-type: tm+mt
-source-wordcount: '1422'
+source-wordcount: '1434'
 ht-degree: 96%
 
 ---
@@ -36,6 +36,8 @@ ht-degree: 96%
    + 協調的行銷活動 {#orchestrated-campaigns}
       + [協調的行銷活動簡介](/help/campaigns/orchestrated-campaigns/introduction-to-orchestrated-campaigns.md)
       + [關聯式存放區基本知識](/help/campaigns/orchestrated-campaigns/relational-store-basics.md)
+      + [為協調的行銷活動設定結構描述和資料集](/help/campaigns/orchestrated-campaigns/set-up-schemas-and-datasets-for-orchestrated-campaigns.md)
+      + [建立協調的行銷活動](/help/campaigns/orchestrated-campaigns/build-an-orchestrated-campaign.md)
 + 歷程 {#journeys}
    + [歷程設計工具 - 概觀](/help/journeys/journey-designer-overview.md)
    + [Journey 代理 - 概觀](/help/ai-agents/journey-agent-overview.md)
@@ -168,7 +170,7 @@ ht-degree: 96%
          + [在推播通知中使用決策](/help/decisioning/decisioning-in-push-notifications.md)
          + [在簡訊中使用決策](/help/decisioning/use-decisioning-in-an-sms-message.md)
          + [使用決策，將網頁優惠個人化 (教學課程)](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/use-decisioning-to-personalize-web-offers/introduction){target="_blank"}
-      + 從外部觸發器和互動觸發決策 {#triggers}
+      + 從外部觸發器和互動觸發決策 {#trigger}
          + [在提交表單時觸發歷程](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/trigger-journey-on-form-submission/introduction)
          + [使用即時天氣資料個人化優惠方案](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction)
    + 決策管理 {#decision-management}
