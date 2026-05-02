@@ -3,7 +3,7 @@ user-guide-title: Journey Optimizer 教學課程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 這些是 Journey Optimizer 教學課程。
 auto-video-transcripts: true
-source-git-commit: 0105cb737db3f7ca87302a114806fff251c11c49
+source-git-commit: 5952c9421ea5138783bc6493a7b79c0494936b45
 workflow-type: tm+mt
 source-wordcount: '1434'
 ht-degree: 96%
@@ -164,7 +164,7 @@ ht-degree: 96%
          + [可重複使用的規則](/help/decisioning/reusable-targeting-rules.md)
          + [使用排名公式提供個人化優惠方案](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction)
          + [AI 模型洞察](/help/decisioning/ai-model-insights.md)
-      + 套用決定以個人化訊息 {#content-and-offers}
+      + 使用決策功能個人化訊息 {#use-decisioning}
          + [電子郵件中的決策簡介](/help/decisioning/introduction-to-decisioning-in-emails.md)
          + [使用決定來個人化電子郵件（教學課程）](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/use-decisioning-in-email-channel/introduction)
          + [在推播通知中使用決策](/help/decisioning/decisioning-in-push-notifications.md)
