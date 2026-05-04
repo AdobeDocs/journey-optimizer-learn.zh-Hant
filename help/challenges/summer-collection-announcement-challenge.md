@@ -7,8 +7,8 @@ role: User
 level: Beginner
 last-substantial-update: 2023-02-01T00:00:00Z
 exl-id: ae457be7-2c67-4950-a072-1d7030b0e17b
-source-git-commit: 201470e35095b38617d1a1bb5d7b16c1e60f431e
-workflow-type: ht
+source-git-commit: dc5c129309b9f1dfd6e392b8446b68c60111f82e
+workflow-type: tm+mt
 source-wordcount: '1154'
 ht-degree: 100%
 
@@ -88,7 +88,7 @@ stringCompare("equals", loyalty.tier, ["diamond", "gold", "platinum", "silver"],
 
 >[!BEGINTABS]
 
->[!TAB 工作]
+>[!TAB 任務]
 
 #### 傳送夏季系列發佈
 
@@ -117,9 +117,9 @@ stringCompare("equals", loyalty.tier, ["diamond", "gold", "platinum", "silver"],
          * 主旨列：*(收件者的名字)，探索 Luma 女士系列！*
          * 電子郵件內文：`WomensCollectionEmail.html`
       * 其他客戶應收到 **Luma - 八折系列**&#x200B;電子郵件。
-      * 訊息標題： *Luma - 八折系列*
-      * 主旨列： *(收件者的名字)，享受八折產品建議！*
-      * 電子郵件內文：`20OOffCollectionEmail.html`
+         * 訊息標題： *Luma - 八折系列*
+         * 主旨列： *(收件者的名字)，享受八折產品建議！*
+         * 電子郵件內文：`20OOffCollectionEmail.html`
    1. 在上方傳送目標電子郵件後，請等待兩天再開啟電子郵件
    1. 如果目標電子郵件未在兩天內開啟，請傳送 **Luma - 八折系列電子郵件**&#x200B;作為最終的重新定位嘗試
 
@@ -151,7 +151,7 @@ stringCompare("equals", loyalty.tier, ["diamond", "gold", "platinum", "silver"],
 3. 向自己傳送一份校樣。
 
 結果:\
-您應會收到電子郵件。 主旨列應為：*Stanleigh，探索男士新運動用具！*&#x200B;與電子郵件內文應與您在預覽中看到的內容相符。
+您應會收到電子郵件。 主旨列應為：*Stanleigh，探索男士新運動用具！* 與電子郵件內文應與您在預覽中看到的內容相符。
 
 >[!NOTE]
 >你可能需要幾分鐘才能收到校樣。
@@ -201,7 +201,7 @@ stringCompare("equals", loyalty.tier, ["diamond", "gold", "platinum", "silver"],
 1. 開啟第二封電子郵件，歷程應該會結束。
 1. 您可以重複步驟 4。 - 7. 對於全部三個輪廓，以檢查分支是否正常運作。
 1. 若要測試逾時，請將等待時間設為 30 秒，然後再次觸發項目。
-1. 請勿開啟您收到的電子郵件 (請勿預覽電子郵件 (!))，並讓等待時間過去。
+1. 請勿開啟您收到的電子郵件 (請勿預覽電子郵件 (!)) ，並讓等待時間過去。
 
 您應會收到下列電子郵件：
 
