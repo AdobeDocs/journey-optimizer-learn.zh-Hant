@@ -20,4 +20,4 @@ ht-degree: 0%
 
 瞭解如何使用Journey Agent （內建於Adobe Journey Optimizer中的AI支援助理）來分析即時歷程、識別對象衝突和設定檔流失，以及使用自然語言建立完整的多步驟歷程。 在此影片中，您將瞭解Journey Agent如何提供透明的見解、可操作的建議和引導式核准，幫助您對現有歷程進行疑難排解，並更快地構建新歷程，所有這一切都無需離開AI助理
 
->[!VIDEO](https://video.tv.adobe.com/v/3486294/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3486305/?captions=chi_hant&learn=on&enablevpops)
