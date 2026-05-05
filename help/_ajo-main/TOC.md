@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer 教學課程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 這些是 Journey Optimizer 教學課程。
 auto-video-transcripts: true
-source-git-commit: dc5c129309b9f1dfd6e392b8446b68c60111f82e
+source-git-commit: 0a4f552baab06a7d8269692269ba23010bb71fda
 workflow-type: tm+mt
-source-wordcount: '1434'
-ht-degree: 96%
+source-wordcount: '1421'
+ht-degree: 95%
 
 ---
 
@@ -244,7 +244,7 @@ ht-degree: 96%
 + AI 助理 {#ai-assistant}
    + [AI 助理](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/tutorials/introduction-to-journey-optimizer/ai-assistant)
    + [用於內容產生的 AI 助理](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/tutorials/content-management/ai-assistant/ai-assistant-for-content-generation-overview)
-   + [Journey 代理 - 概觀](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/tutorials/journeys/journey-agent-overview)
+   + [Journey Agent](/help/ai-agents/journey-agent-overview.md)
    + [Experimentation 代理 - 概觀](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/tutorials/experimentation/experimentation-agent-overview)
 + 使用案例與最佳做法{#use-cases}
    + [客戶引導](/help/use-cases/customer-onboarding.md)

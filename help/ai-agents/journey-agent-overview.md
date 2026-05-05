@@ -1,24 +1,23 @@
 ---
-title: Journey 代理概觀
-description: Journey 代理使用 AI，透過對話式介面建立、分析和最佳化 B2B/B2C 歷程。
-feature: AI Assistant, Journeys
-feature-set: Journey Optimizer, Experience Platform
-role: User, Developer, Leader, Admin
+title: 使用AI支援的Journey Agent分析歷程
+description: 瞭解Adobe Journey Optimizer中的Journey Agent如何分析即時歷程、識別問題，以及使用可操作見解建置多步驟歷程。
+feature: null
+role: User
 level: Beginner
-last-substantial-update: 2025-10-08T00:00:00Z
-jira: KT-19109
-exl-id: 96202701-aa2f-4d6a-816e-c9a8cc433278
-source-git-commit: d4cc60f4448caec92f704026783e2bbe029427f5
-workflow-type: ht
-source-wordcount: '96'
-ht-degree: 100%
+doc-type: Feature Video
+duration: 308
+last-substantial-update: 2026-05-05T00:00:00Z
+jira: KT-21114
+source-git-commit: 0a4f552baab06a7d8269692269ba23010bb71fda
+workflow-type: tm+mt
+source-wordcount: '101'
+ht-degree: 0%
 
 ---
 
-# Journey 代理概觀
 
-了解您可以在 Adobe Experience Platform 應用程式 (例如 Real-Time Customer Data Platform、Journey Optimizer 和 Customer Journey Analytics) 中使用 AI 助理執行哪些操作。
+# 使用Journey Agent分析和建立歷程
 
->[!VIDEO](https://video.tv.adobe.com/v/3429845/?learn=on)
+瞭解如何使用Journey Agent （內建於Adobe Journey Optimizer中的AI支援助理）來分析即時歷程、識別對象衝突和設定檔流失，以及使用自然語言建立完整的多步驟歷程。 在此影片中，您將瞭解Journey Agent如何提供透明的見解、可操作的建議和引導式核准，幫助您對現有歷程進行疑難排解，並更快地構建新歷程，所有這一切都無需離開AI助理
 
-請參閱[使用 AI 助理](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer/using/get-started/ai-assistant)，以取得 Journey Optimizer 支援的使用案例相關資訊。 如需詳細文件，請造訪 [Adobe Experience Platform 中的 AI 助理](https://experienceleague.adobe.com/zh-hant/docs/experience-platform/ai-assistant/home)文件。
+>[!VIDEO](https://video.tv.adobe.com/v/3486294/?learn=on&enablevpops)
