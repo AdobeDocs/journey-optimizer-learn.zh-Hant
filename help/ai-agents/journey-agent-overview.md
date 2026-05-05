@@ -1,14 +1,15 @@
 ---
 title: 使用Journey Agent分析和建立歷程
 description: 瞭解Adobe Journey Optimizer中的Journey Agent如何分析即時歷程、識別問題，以及使用可操作見解建置多步驟歷程。
-feature: null
+feature: AI Assistant, Journeys
 role: User
 level: Beginner
 doc-type: Feature Video
 duration: 308
 last-substantial-update: 2026-05-05T00:00:00Z
 jira: KT-21114
-source-git-commit: c5adf39e71b3f7cfa7d15a8fe2e77aef5d9a4cd1
+exl-id: 96202701-aa2f-4d6a-816e-c9a8cc433278
+source-git-commit: 33966f55733c4636cea2156db030e8bdcff6238a
 workflow-type: tm+mt
 source-wordcount: '103'
 ht-degree: 0%
@@ -20,4 +21,4 @@ ht-degree: 0%
 
 瞭解如何使用Journey Agent （內建於Adobe Journey Optimizer中的AI支援助理）來分析即時歷程、識別對象衝突和設定檔流失，以及使用自然語言建立完整的多步驟歷程。 在此影片中，您將瞭解Journey Agent如何提供透明的見解、可操作的建議和引導式核准，幫助您對現有歷程進行疑難排解，並更快地構建新歷程，所有這一切都無需離開AI助理
 
->[!VIDEO](https://video.tv.adobe.com/v/3486305/?captions=chi_hant&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3486294/?learn=on&enablevpops)
