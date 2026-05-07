@@ -9,11 +9,10 @@ doc-type: Feature Video
 duration: 222
 last-substantial-update: 2025-04-23T00:00:00Z
 jira: KT-17533
-hidefromtoc: false
 hide: false
 index: true
 exl-id: bb544d0d-4c11-412c-afa9-377d784c33e2
-source-git-commit: 3917e11cdf8c0450c19ce653a0964f6dc9da6a3c
+source-git-commit: 22d85639209aec92b8b0d8aa22494ebe3d7195f9
 workflow-type: tm+mt
 source-wordcount: '127'
 ht-degree: 100%
@@ -26,6 +25,6 @@ ht-degree: 100%
 
 本教學課程涵蓋如何直接在 AJO 中修改影像、使用 HTML 模式新增文字覆蓋，在 AEM 中建立可用於超個人化的動態媒體範本，還會透過為不同客群區段，量身打造內容，將行銷活動個人化。 此整合可讓行銷人員有效建立吸引人的行銷活動，並將行銷活動個人化，不必在應用程式之間切換。
 
->[!VIDEO](https://video.tv.adobe.com/v/3463793/?captions=chi_hant&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3457695/?learn=on&enablevpops)
 
 如需此功能的詳細資訊，請參閱[產品文件](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer/using/content-management/combine/aem-dynamic)。

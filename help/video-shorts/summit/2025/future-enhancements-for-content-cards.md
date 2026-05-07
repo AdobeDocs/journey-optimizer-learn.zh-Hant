@@ -5,10 +5,9 @@ doc-type: Short Video
 duration: 84
 index: false
 hide: true
-hidefromtoc: true
 recommendations: noCatalog, noDisplay
 exl-id: 337862e4-6046-4e8e-a40a-2f6481c67af5
-source-git-commit: 3917e11cdf8c0450c19ce653a0964f6dc9da6a3c
+source-git-commit: 8952c9c79d6c5b5f26ba6db20c52f29c26ef23e4
 workflow-type: tm+mt
 source-wordcount: '44'
 ht-degree: 0%
@@ -20,4 +19,4 @@ ht-degree: 0%
 快速瀏覽即將推出的內容卡功能，包括新範本、訊息收件匣等。
 
 <!-- 62_S603_3442534_83_future-enhancements-for-content-cards -->
->[!VIDEO](https://video.tv.adobe.com/v/3460331/?captions=chi_hant&learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3458202/?learn=on&enablevpops=true)

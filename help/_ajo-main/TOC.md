@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer 教學課程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 這些是 Journey Optimizer 教學課程。
 auto-video-transcripts: true
-source-git-commit: 26f6ddfc8a6395635038d0efdce9aa5c23122bca
+source-git-commit: 8952c9c79d6c5b5f26ba6db20c52f29c26ef23e4
 workflow-type: tm+mt
 source-wordcount: '1448'
-ht-degree: 93%
+ht-degree: 91%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 93%
    + [Journey Optimizer – 概觀](/help/introduction/journey-optimizer-overview.md)
    + [Journey Optimizer 簡介](/help/introduction/introduction.md)
    + [重要功能和使用者介面](/help/introduction/key-capabilities-and-user-interface.md)
-   + [架構](/help/introduction/architecture.md)
+   + {hide-from-toc}[架構](/help/introduction/architecture.md)
    + [為行銷人員提供的行動裝置功能](/help/channels/mobile-capabilities.md)
    + [為開發人員提供的行動裝置功能](/help/channels/mobile-capabilities-for-developers.md)
    + [取得 AI 助理的說明](/help/ai-agents/ai-assistant.md)
@@ -41,7 +41,7 @@ ht-degree: 93%
 + 歷程 {#journeys}
    + [歷程設計工具 - 概觀](/help/journeys/journey-designer-overview.md)
    + [使用Journey Agent分析和建立歷程](/help/ai-agents/journey-agent-overview.md)
-   + [探索全新歷程設計程式](/help/journeys/new-journey-designer.md)
+   + {hide-from-toc}[探索新的歷程Designer](/help/journeys/new-journey-designer.md)
    + [建立歷程簡介](/help/journeys/introduction-to-building-a-journey.md)
    + [在歷程中使用資料集查詢](/help/journeys/lookup-dataset.md)
    + [建立測試輪廓](/help/journeys/test-a-journey.md)
@@ -61,7 +61,7 @@ ht-degree: 93%
    + 教學課程{#tutorials}
       + [在表單提交時觸發歷程](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/trigger-journey-on-form-submission/introduction)
 + 忠誠度 {#loyalty}
-   + [建立忠誠度挑戰](/help/loyalty/create-a-loyalty-challenge.md)
+   + {hide-from-toc}[建立忠誠度挑戰](/help/loyalty/create-a-loyalty-challenge.md)
 + 衝突管理與優先順序 {#conflict-management}
    + [識別潛在衝突](/help/conflict-management/identify-potential-conflicts.md)
    + [指派優先順序分數](/help/conflict-management/assign-priority-score.md)
@@ -69,7 +69,7 @@ ht-degree: 93%
    + [無訊息時間](/help/business-rules/configure-and-apply-quiet-hours.md)
 + 輪廓、客群和訂閱 {#profiles-audiences-subscriptions}
    + [簡介及客群 — 概觀](/help/profiles-audiences-subscriptions/profiles-and-audiences-overview.md)
-   + [統一輪廓和分段 - 概觀](/help/profiles-audiences-subscriptions/unified-profile-and-segmentation-overview.md)
+   + {hide-from-toc}[整合式設定檔和區段 — 概觀](/help/profiles-audiences-subscriptions/unified-profile-and-segmentation-overview.md)
    + [使用規則產生器建立客群](/help/profiles-audiences-subscriptions/create-audiences-using-the-rule-builder.md)
    + [藉由上傳 CSV 檔案來建立新客群。](/help/profiles-audiences-subscriptions/import-and-activate-an-audience-by-uploading-a-csv-file.md)
    + [使用Web SDK，建立客群 (教學課程)](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/create-audiences-using-web-sdk/introduction){target="_blank"}
@@ -115,7 +115,7 @@ ht-degree: 93%
       + [製作網路行銷活動](/help/channels/author-a-web-campaign.md)
       + [網頁編輯器中的 SPA 支援](/help/channels/singel-page-application-support.md)
    + WhatsApp {#whatsapp}
-      + [開始使用 WhatsApp 訊息 (端到端)](/help/channels/get-started-with-whatsapp-in-ajo.md)
+      + {hide-from-toc}[開始使用WhatsApp （端對端）](/help/channels/get-started-with-whatsapp-in-ajo.md)
       + [WhatsApp 頻道簡介](/help/channels/whatsapp-introduction.md)
       + [設定 WhatsApp 頻道](/help/channels/set-up-whatsapp.md)
       + [建立 WhatsApp 歷程](/help/channels/create-a-whatsapp-journey.md)
@@ -230,9 +230,9 @@ ht-degree: 93%
    + 業務規則 {#business-rules}
       + [設定頻率上限規則](/help/business-rules/configure-frequency-capping-rules.md)
       + [使用規則集](/help/business-rules/work-with-rule-sets.md)
-      + [測試並報告頻率規則](/help/business-rules/test-and-report-on-frequency-rules.md)
+      + {hide-from-toc}[測試並報告頻率規則](/help/business-rules/test-and-report-on-frequency-rules.md)
 + 存取控制 {#access-control}
-   + [存取權管理](/help/set-up-access/access-management.md)
+   + {hide-from-toc}[存取權管理](/help/set-up-access/access-management.md)
    + [設定以屬性為基礎的存取控制](/help/administration/attribute-based-access-control.md)
    + [使用沙箱](/help/set-up-access/create-and-manage-sandboxes.md)
 + 資料治理與隱私權 {#data-governance-and-privacy}
@@ -244,7 +244,7 @@ ht-degree: 93%
 + AI助理和代理程式 {#ai-assistant}
    + [AI 助理](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/tutorials/introduction-to-journey-optimizer/ai-assistant)
    + [用於內容產生的 AI 助理](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/tutorials/content-management/ai-assistant/ai-assistant-for-content-generation-overview)
-   + [使用Journey Agent分析和建立歷程](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/tutorials/journeys/journey-agent-overview?lang=en)
+   + [使用Journey Agent分析和建立歷程](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/journeys/journey-agent-overview?lang=en)
    + [Experimentation 代理 - 概觀](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/tutorials/experimentation/experimentation-agent-overview)
 + 使用案例與最佳做法{#use-cases}
    + [客戶引導](/help/use-cases/customer-onboarding.md)
