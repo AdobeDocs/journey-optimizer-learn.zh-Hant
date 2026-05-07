@@ -20,4 +20,4 @@ ht-degree: 100%
 
 了解如何針對報告和單一小工具下載 CSV 報告。
 
->[!VIDEO](https://video.tv.adobe.com/v/3424603/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3439625/?captions=chi_hant&learn=on)

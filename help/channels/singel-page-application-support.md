@@ -29,4 +29,4 @@ ht-degree: 100%
 
 如需詳細資訊，請造訪[開始使用網路頻道文件](https://experienceleague.adobe.com/docs/journey-optimizer/using/web/get-started-web.html?lang=zh-Hant)。
 
->[!VIDEO](https://video.tv.adobe.com/v/3424536/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3446896/?captions=chi_hant&learn=on)
