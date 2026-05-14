@@ -33,4 +33,4 @@ ht-degree: 0%
 
 探索如何在Adobe Journey Optimizer Decisioning中設定優惠方案、集合和適用性規則，以控制哪些客戶符合哪個產品優惠方案的資格。
 
->[!VIDEO](https://video.tv.adobe.com/v/3491078/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3491101/?captions=chi_hant&learn=on&enablevpops)

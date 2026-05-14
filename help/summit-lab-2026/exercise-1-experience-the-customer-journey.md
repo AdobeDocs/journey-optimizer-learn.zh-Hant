@@ -36,4 +36,4 @@ ht-degree: 0%
 
 探索SecurFinancial示範網站的端對端客戶體驗 — 透過觸發即時SMS的貸款申請，從匿名訪客到具有個人化產品優惠的註冊使用者，全都由Adobe Journey Optimizer策劃。
 
->[!VIDEO](https://video.tv.adobe.com/v/3489999/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3490197/?captions=chi_hant&learn=on&enablevpops)
