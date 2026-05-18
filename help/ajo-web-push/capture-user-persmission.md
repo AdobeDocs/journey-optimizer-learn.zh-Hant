@@ -5,11 +5,18 @@ feature: Push
 role: User
 level: Beginner
 doc-type: Tutorial
-last-substantial-update: 2026-04-21T00:00:00Z
+last-substantial-update: 2026-04-21T00:00:00.000Z
 jira: KT-20879
-source-git-commit: 45f86aeb8fca071436785cc55225d853bb21998f
+exl-id: 5897420a-7488-4d48-b56c-86a53d1d2395
+TQID: 'https://experienceleague.adobe.com/O5xiLJ7UOQNYSkfpCa2umhCkxt1cKILsO4fOKxtVifM'
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+feature_v2:
+  - id: d556b755-390a-43f0-be32-a08cf6236126
+  - id: d998adac-2f81-400b-a669-d07bb196e4eb
+source-git-commit: 880ae31cbaadba400f072d59c0b114978bb90fb5
 workflow-type: tm+mt
-source-wordcount: '214'
+source-wordcount: 219
 ht-degree: 0%
 
 ---
@@ -21,4 +28,3 @@ ht-degree: 0%
 若要啟用Web推播通知，頁面會先透過呼叫初始化函式內的fetch(&quot;/config&quot;)來載入設定檔。 此設定由Node.js應用程式提供，並包含資料流ID、組織ID、VAPID公開金鑰、應用程式ID和追蹤資料集ID等金鑰值。 載入設定後，就會初始化Adobe Web SDK，並註冊Service Worker以支援推送訊息。 當使用者按一下啟用通知時，瀏覽器會提示他們使用網頁通知API取得許可權。 如果授予許可權，網路SDK會將推送訂閱傳送至Adobe Experience Platform，使用者會在24小時內標籤為已選擇加入，以避免重複提示。 啟動伺服器後，您可以在[範例應用程式](http://localhost:3000/)中包含的本機網頁shop-smart.html上嘗試此流程。
 
 ![request-permissions](assets/request-notifications.png)
-
