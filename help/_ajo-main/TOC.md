@@ -3,9 +3,9 @@ user-guide-title: Journey Optimizer 教學課程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 這些是 Journey Optimizer 教學課程。
 auto-video-transcripts: true
-source-git-commit: 8952c9c79d6c5b5f26ba6db20c52f29c26ef23e4
+source-git-commit: 1c3f167bb1a734802d705ebce7ca3f9833b9ca5a
 workflow-type: tm+mt
-source-wordcount: '1448'
+source-wordcount: '1453'
 ht-degree: 91%
 
 ---
@@ -53,6 +53,7 @@ ht-degree: 91%
    + [更新即時歷程中的內容](/help/journeys/update-content-in-live-journey.md)
    + [將歷程複製到另一個沙箱](/help/journeys/copy-a-journey.md)
    + [批次細分後，就會觸發日常歷程執行](/help/journeys/trigger-daily-journey-runs-after-batch-segmentation-completion.md)
+   + [將歷程節點儲存為片段](/help/journeys/journey-fragments.md)
    + 使用案例 {#use-cases}
       + [使用案例 - 交易型歷程](/help/journeys/use-case-transactional-journey.md)
       + [使用案例 - 業務事件](/help/journeys/use-case-business-event.md)
@@ -244,7 +245,7 @@ ht-degree: 91%
 + AI助理和代理程式 {#ai-assistant}
    + [AI 助理](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/tutorials/introduction-to-journey-optimizer/ai-assistant)
    + [用於內容產生的 AI 助理](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/tutorials/content-management/ai-assistant/ai-assistant-for-content-generation-overview)
-   + [使用Journey Agent分析和建立歷程](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/tutorials/journeys/journey-agent-overview?lang=en)
+   + [使用Journey Agent分析和建立歷程](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/journeys/journey-agent-overview?lang=en)
    + [Experimentation 代理 - 概觀](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/tutorials/experimentation/experimentation-agent-overview)
 + 使用案例與最佳做法{#use-cases}
    + [客戶引導](/help/use-cases/customer-onboarding.md)
