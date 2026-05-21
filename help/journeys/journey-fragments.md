@@ -30,5 +30,5 @@ ht-degree: 0%
 
 瞭解如何在Adobe Journey Optimizer中建立可重複使用的歷程片段。 此功能可讓使用者將一組歷程節點儲存為片段，以便在其他歷程中快速重複使用。 透過使用片段，您可以節省時間、簡化工作流程，並確保多個歷程之間的一致性。 觀看內嵌影片，瞭解詳細逐步解說和實用範例。
 
->[!VIDEO](https://video.tv.adobe.com/v/3491387/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3491398/?captions=chi_hant&learn=on&enablevpops)
 
