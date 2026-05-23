@@ -32,4 +32,4 @@ ht-degree: 0%
 
 探索Adobe Journey Optimizer Decisioning如何為每個客戶選取並提供最相關的優惠方案，從優惠方案集區和集合，透過資格篩選和排名，到選擇策略和決定政策。
 
->[!VIDEO](https://video.tv.adobe.com/v/3490205/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3490221/?captions=chi_hant&learn=on&enablevpops)
