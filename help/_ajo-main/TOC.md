@@ -3,9 +3,9 @@ user-guide-title: Journey Optimizer 教學課程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 這些是 Journey Optimizer 教學課程。
 auto-video-transcripts: true
-source-git-commit: 1c3f167bb1a734802d705ebce7ca3f9833b9ca5a
+source-git-commit: debae556440c9bd902b0adb7590db960f42b3bf2
 workflow-type: tm+mt
-source-wordcount: '1453'
+source-wordcount: '1459'
 ht-degree: 91%
 
 ---
@@ -245,8 +245,9 @@ ht-degree: 91%
 + AI助理和代理程式 {#ai-assistant}
    + [AI 助理](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/tutorials/introduction-to-journey-optimizer/ai-assistant)
    + [用於內容產生的 AI 助理](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/tutorials/content-management/ai-assistant/ai-assistant-for-content-generation-overview)
-   + [使用Journey Agent分析和建立歷程](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/tutorials/journeys/journey-agent-overview?lang=en)
+   + [使用Journey Agent分析和建立歷程](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/journeys/journey-agent-overview?lang=en)
    + [Experimentation 代理 - 概觀](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/tutorials/experimentation/experimentation-agent-overview)
+   + [使用Adobe Marketing Agent計畫對象](/help/ai-agents/plan-audiences-using-adobe-marketing-agent.md)
 + 使用案例與最佳做法{#use-cases}
    + [客戶引導](/help/use-cases/customer-onboarding.md)
    + [捨棄的購物車](/help/use-cases/abandoned-cart.md)
