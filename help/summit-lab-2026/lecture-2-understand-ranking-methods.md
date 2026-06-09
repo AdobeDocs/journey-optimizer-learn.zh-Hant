@@ -36,4 +36,4 @@ ht-degree: 0%
 
 瞭解Adobe Journey Optimizer Decisioning中可用的各種排名方法，包括規則型排名公式和AI最佳化模型。
 
->[!VIDEO](https://video.tv.adobe.com/v/3491465/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3491476/?captions=chi_hant&learn=on&enablevpops)
