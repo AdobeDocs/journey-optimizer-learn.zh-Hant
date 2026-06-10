@@ -8,10 +8,10 @@ doc-type: Tutorial
 last-substantial-update: 2026-04-21T00:00:00Z
 jira: KT-20879
 exl-id: 2635641b-5ae2-4303-bac7-02c3702950f0
-source-git-commit: c339fe796af1e691cd3b1c98cd6ba8a8772551e4
+source-git-commit: 108686aa75358f940b5d7d83e7f04bf55f72978f
 workflow-type: tm+mt
-source-wordcount: '146'
-ht-degree: 0%
+source-wordcount: '147'
+ht-degree: 2%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 0%
 
 請依照下列步驟，在本機系統上執行範例應用程式。
 
-## 1.安裝Node.js
+## &#x200B;1. 安裝節點.js
 
 確定您的系統上已安裝&#x200B;**Node.js （版本16或更新版本）**。
 
@@ -30,22 +30,22 @@ ht-degree: 0%
 
 驗證安裝
 
-```node -v```
+`node -v`
 
-```npm -v```
+`npm -v`
 
 
-## 2.複製存放庫
+## &#x200B;2. 複製存放庫
 
-```git clone https://github.com/gbedekar489/ajo-web-push.git```
+`git clone https://github.com/gbedekar489/ajo-web-push.git`
 
-```cd ajo-web-push```
+`cd ajo-web-push`
 
-## 3.安裝相依性
+## &#x200B;3. 安裝相依性
 
-```npm install```
+`npm install`
 
-## 4.設定環境變數
+## &#x200B;4. 設定環境變數
 
 在根目錄中建立.env檔案，並新增下列內容：
 
