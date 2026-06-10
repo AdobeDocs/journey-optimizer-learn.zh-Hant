@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer 教學課程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 這些是 Journey Optimizer 教學課程。
 auto-video-transcripts: true
-source-git-commit: debae556440c9bd902b0adb7590db960f42b3bf2
+source-git-commit: a69447a58313dc109ea82d6af2746341aff90b8b
 workflow-type: tm+mt
-source-wordcount: '1459'
-ht-degree: 91%
+source-wordcount: '1468'
+ht-degree: 90%
 
 ---
 
@@ -48,6 +48,7 @@ ht-degree: 91%
    + [發佈歷程](/help/journeys/publish-a-journey.md)
    + [內容決活動](/help/journeys/content-decision-activity.md)
    + [掌握多屬性篩選功能](/help/journeys/mastering-multi-attribute-filtering.md)
+   + [在歷程中搭配同盟對象使用多實體鎖定目標](/help/journeys/multi-entity-targeting-in-journeys.md)
    + [使用歷程試運行驗證歷程邏輯](/help/journeys/journey-dry-run.md)
    + [使用補充 ID，解除鎖定歷程重新進入](/help/journeys/unlock-journey-reentry-with-supplemental-id.md)
    + [更新即時歷程中的內容](/help/journeys/update-content-in-live-journey.md)
@@ -75,7 +76,7 @@ ht-degree: 91%
    + [藉由上傳 CSV 檔案來建立新客群。](/help/profiles-audiences-subscriptions/import-and-activate-an-audience-by-uploading-a-csv-file.md)
    + [使用Web SDK，建立客群 (教學課程)](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/create-audiences-using-web-sdk/introduction){target="_blank"}
    + [按需評估客群](https://experienceleague.adobe.com/zh-hant/docs/platform-learn/tutorials/audiences/audience-builder/evaluate-audiences-on-demand)
-   + [訂閱和登陸頁面](/help/subscriptions-and-landing-pages.md)
+   + [訂閱和登陸頁面](/help/profiles-audiences-subscriptions/subscriptions-and-landing-pages.md)
 + 管道 {#channels}
    + [行動應用程式最佳化 — 概觀](/help/channels/mobile-app-optimization-overview.md)
    + 程式碼型體驗頻道{#code-based-experience-channel}
@@ -245,7 +246,7 @@ ht-degree: 91%
 + AI助理和代理程式 {#ai-assistant}
    + [AI 助理](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/tutorials/introduction-to-journey-optimizer/ai-assistant)
    + [用於內容產生的 AI 助理](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/tutorials/content-management/ai-assistant/ai-assistant-for-content-generation-overview)
-   + [使用Journey Agent分析和建立歷程](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/tutorials/journeys/journey-agent-overview?lang=en)
+   + [使用Journey Agent分析和建立歷程](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/journeys/journey-agent-overview?lang=en)
    + [Experimentation 代理 - 概觀](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/tutorials/experimentation/experimentation-agent-overview)
    + [使用Adobe Marketing Agent計畫對象](/help/ai-agents/plan-audiences-using-adobe-marketing-agent.md)
 + 使用案例與最佳做法{#use-cases}
@@ -257,7 +258,7 @@ ht-degree: 91%
    + [強化客戶參與度](/help/use-cases/enhance-customer-engagement.md){target="_blank"}
    + [將協調流程縮放為全頻道參與](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction.md){target="_blank"}
    + 使用案例教戰手冊 {#use-case-playbooks}
-      + [概觀](https://experienceleague.adobe.com/zh-hant/docs/platform-learn/tutorials/use-case-playbooks/overview){target="_blank"}
+      + [概覽](https://experienceleague.adobe.com/zh-hant/docs/platform-learn/tutorials/use-case-playbooks/overview){target="_blank"}
       + [設定教戰手冊沙箱](https://experienceleague.adobe.com/zh-hant/docs/platform-learn/tutorials/use-case-playbooks/configure-a-playbook-sandbox){target="_blank"}
       + [建立和發佈教戰手冊執行個體](https://experienceleague.adobe.com/zh-hant/docs/platform-learn/tutorials/use-case-playbooks/create-and-publish-a-playbook-instance){target="_blank"}
 + 練習、實驗與挑戰 {#exercises-and-challenges}
@@ -268,5 +269,3 @@ ht-degree: 91%
       + [請在 Adobe Journey Optimizer (2025 年版) 中，將協調流程縮放為全頻道參與](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
 + 即時工作階段和深入探討 {#live-sessions-and-deep-dives}
    + [Experience League 現場表演錄影](/help/_ajo-main/experience-league-live-show-recordings.md)
-
-
