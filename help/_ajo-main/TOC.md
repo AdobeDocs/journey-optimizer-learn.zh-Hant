@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer 教學課程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 這些是 Journey Optimizer 教學課程。
 auto-video-transcripts: true
-source-git-commit: 8d3931426cb20a64fabf3f4cb61b1ee9e3d2eba7
+source-git-commit: df7a7efd87137cd9bca0e3efca39f12a18b7990c
 workflow-type: tm+mt
-source-wordcount: '1475'
-ht-degree: 90%
+source-wordcount: '1484'
+ht-degree: 89%
 
 ---
 
@@ -142,6 +142,7 @@ ht-degree: 90%
       + [用於內容產生的 AI 助理 - 概觀](/help/content-management/ai-assistant-for-content-generation-overview.md)
       + [請使用 AI 助理建立內容，以便進行內容產生](/help/content-management/create-content-using-ai-assistant-for-content-generation.md)
       + [品牌方針建立與管理](/help/content-management/brand-guideline-creation-and-management.md)
+   + {hide-from-toc}[根據設定檔偏好設定或傾向分數最佳化管道](/help/channels/channel-optimization.md)
    + [使用 GenStudio 建立電子郵件](/help/content-management/create-an-email-using-genstudio.md)
    + [啟用管道製作中的外部資料整合](/help/content-management/external-data-integrations-in-channel-authoring.md)
 + 將內容個人化 {#personalize-content}
@@ -247,7 +248,7 @@ ht-degree: 90%
 + AI助理和代理程式 {#ai-assistant}
    + [AI 助理](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/tutorials/introduction-to-journey-optimizer/ai-assistant)
    + [用於內容產生的 AI 助理](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/tutorials/content-management/ai-assistant/ai-assistant-for-content-generation-overview)
-   + [使用Journey Agent分析和建立歷程](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/tutorials/journeys/journey-agent-overview?lang=en)
+   + [使用Journey Agent分析和建立歷程](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/journeys/journey-agent-overview?lang=en)
    + [Experimentation 代理 - 概觀](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/tutorials/experimentation/experimentation-agent-overview)
    + [使用Adobe Marketing Agent計畫對象](/help/ai-agents/plan-audiences-using-adobe-marketing-agent.md)
 + 使用案例與最佳做法{#use-cases}
