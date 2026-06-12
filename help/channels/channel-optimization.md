@@ -1,6 +1,6 @@
 ---
 title: 根據設定檔偏好設定或傾向分數最佳化管道
-description: 瞭解Adobe Journey Optimizer的管道最佳化功能如何協助您透過最有效的管道觸及客戶 — 不論是透過手動優先順序、設定檔屬性或Adobe的AI模型 — 確保您的訊息傳遞至每個客戶最有可能參與的地方。
+description: 瞭解Adobe Journey Optimizer的管道最佳化功能如何協助您使用手動優先順序、設定檔屬性或Adobe的AI模型，以最有效的管道觸及客戶，讓您的訊息深入每個客戶最有可能參與的地方。
 feature: Channels
 role: Developer
 level: Beginner, Intermediate, Experienced
@@ -25,9 +25,9 @@ level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 topic_v2:
   - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
-source-git-commit: df7a7efd87137cd9bca0e3efca39f12a18b7990c
+source-git-commit: 19b32f3289b422a3fa778b0af07319be1b032287
 workflow-type: tm+mt
-source-wordcount: 100
+source-wordcount: 96
 ht-degree: 2%
 
 ---
@@ -37,6 +37,6 @@ ht-degree: 2%
 
 {{limited-availability}}
 
-瞭解Adobe Journey Optimizer的管道最佳化功能如何協助您透過最有效的管道觸及客戶 — 不論是透過手動優先順序、設定檔屬性或Adobe的AI模型 — 確保您的訊息傳遞至每個客戶最有可能參與的地方。
+瞭解Adobe Journey Optimizer的管道最佳化功能如何協助您使用手動優先順序、設定檔屬性或Adobe的AI模型，以最有效的管道觸及客戶，讓您的訊息深入每個客戶最有可能參與的地方。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3492141/?captions=chi_hant&learn=on&enablevpops)
