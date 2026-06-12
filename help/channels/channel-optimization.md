@@ -39,4 +39,4 @@ ht-degree: 2%
 
 瞭解Adobe Journey Optimizer的管道最佳化功能如何協助您透過最有效的管道觸及客戶 — 不論是透過手動優先順序、設定檔屬性或Adobe的AI模型 — 確保您的訊息傳遞至每個客戶最有可能參與的地方。
 
->[!VIDEO](https://video.tv.adobe.com/v/3492132/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3492141/?captions=chi_hant&learn=on&enablevpops)
