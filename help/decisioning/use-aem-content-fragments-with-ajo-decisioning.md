@@ -1,6 +1,6 @@
 ---
-title: 如何搭配Journey Optimizer Decisioning使用Experience Manager內容片段
-description: 瞭解如何將Adobe Experience Manager內容片段與Adobe Journey搭配使用，以個人化和最佳化敏捷通訊中的內容。
+title: 如何搭配 Journey Optimizer Decisioning 使用 Experience Manager 內容片段
+description: 瞭解如何將 Adobe Experience Manager 內容片段與 Adobe Journey 搭配使用，以個人化和最佳化敏捷通訊中的內容。
 feature: Decisioning
 role: User
 level: Beginner, Intermediate
@@ -23,15 +23,15 @@ topic_v2:
   - id: f5c2a4bb-71ca-4d7e-8efd-442250e6ba48
   - id: e6ff21d3-dec6-4298-8590-7c749fffaf78
 source-git-commit: 56a1d7868c410dc2f9811194c52cffc5c627b461
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: 66
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# 如何搭配Journey Optimizer Decisioning使用Experience Manager內容片段
+# 如何搭配 Journey Optimizer Decisioning 使用 Experience Manager 內容片段
 
-瞭解如何將Adobe Experience Manager內容片段與Adobe Journey搭配使用，以個人化和最佳化敏捷通訊中的內容。
+瞭解如何將 Adobe Experience Manager 內容片段與 Adobe Journey 搭配使用，以個人化和最佳化敏捷通訊中的內容。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3492224/?captions=chi_hant&learn=on&enablevpops)
