@@ -1,6 +1,6 @@
 ---
 title: AI 助理
-description: 了解您可以在以 Adobe Experience Platform 為基礎的應用程式 (例如 Real-Time Customer Data Platform、Journey Optimizer 和 Customer Journey Analytics) 中使用 AI 助理執行哪些操作。
+description: 瞭解Adobe Experience Platform應用程式（包括Real-Time Customer Data Platform、Journey Optimizer和Customer Journey Analytics）中的AI助理。
 feature: Overview
 role: Admin, Developer, User
 level: Beginner
@@ -11,24 +11,20 @@ jira: KT-15789
 exl-id: 6c2134ec-7d0c-4fe2-9281-22a10ace1890
 autotag-review: '2026-05-18T17:14:46.340Z'
 TQID: 'https://experienceleague.adobe.com/8RiX51WRVl6eua18TfPLGgNgWB3Eh1rURNxGQ52KXp4'
-product_v2:
-  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
-role_v2:
-  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
-  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-source-git-commit: 880ae31cbaadba400f072d59c0b114978bb90fb5
+product_v2: id: cb954087-f4fc-4456-afb9-e939cabcdc79
+role_v2: id: c66ffd68-0f65-42bb-aa23-b4020f12e0bdid: ff6a42d2-313e-452e-93a6-792e4fad9ff8id: b69b2659-1057-424e-8fc5-ed9e016dc554
+source-git-commit: b519aa58085d08dd492c1b59a7267b31d6339f00
 workflow-type: tm+mt
-source-wordcount: 104
-ht-degree: 100%
+source-wordcount: 101
+ht-degree: 66%
 
 ---
 
 # AI 助理
 
-了解您可以在以 Adobe Experience Platform 為基礎的應用程式 (例如 Real-Time Customer Data Platform、Journey Optimizer 和 Customer Journey Analytics) 中使用 AI 助理執行哪些操作。
+了解您可以在 Adobe Experience Platform 應用程式 (例如 Real-Time Customer Data Platform、Journey Optimizer 和 Customer Journey Analytics) 中使用 AI 助理執行哪些操作。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3429845/?learn=on)
 
-請參閱[使用 AI 助理](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer/using/get-started/ai-assistant)，以取得 Journey Optimizer 支援的使用案例相關資訊。 如需詳細文件，請造訪 [Adobe Experience Platform 中的 AI 助理](https://experienceleague.adobe.com/zh-hant/docs/experience-platform/ai-assistant/home)文件。
+請參閱[使用 AI 助理](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/get-started/work-efficiently/ai-features)，以取得 Journey Optimizer 支援的使用案例相關資訊。 如需詳細文件，請造訪 [Adobe Experience Platform 中的 AI 助理](https://experienceleague.adobe.com/zh-hant/docs/experience-platform/ai-assistant/home)文件。
 
