@@ -31,5 +31,5 @@ ht-degree: 100%
 
 如需此功能的詳細資訊，請造訪[文件](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer/using/orchestrate-journeys/manage-journey/supplemental-identifier){target="_blank"}。
 
->[!VIDEO](https://video.tv.adobe.com/v/3491835/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3491844/?captions=chi_hant&learn=on)
 
