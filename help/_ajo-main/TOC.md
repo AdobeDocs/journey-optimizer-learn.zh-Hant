@@ -6,7 +6,7 @@ auto-video-transcripts: true
 source-git-commit: 3bd73234af9246e6ea0b7c3cf3b18aad5389d2ac
 workflow-type: tm+mt
 source-wordcount: '1484'
-ht-degree: 89%
+ht-degree: 100%
 
 ---
 
@@ -40,15 +40,15 @@ ht-degree: 89%
       + [建立協調的行銷活動](/help/campaigns/orchestrated-campaigns/build-an-orchestrated-campaign.md)
 + 歷程 {#journeys}
    + [歷程設計工具 - 概觀](/help/journeys/journey-designer-overview.md)
-   + [使用Journey Agent分析和建立歷程](/help/ai-agents/journey-agent-overview.md)
-   + {hide-from-toc}[探索新的歷程Designer](/help/journeys/new-journey-designer.md)
+   + [使用 Journey 代理分析和建立歷程](/help/ai-agents/journey-agent-overview.md)
+   + {hide-from-toc}[探索全新歷程設計工具](/help/journeys/new-journey-designer.md)
    + [建立歷程簡介](/help/journeys/introduction-to-building-a-journey.md)
    + [在歷程中使用資料集查詢](/help/journeys/lookup-dataset.md)
    + [建立測試輪廓](/help/journeys/test-a-journey.md)
    + [發佈歷程](/help/journeys/publish-a-journey.md)
    + [內容決活動](/help/journeys/content-decision-activity.md)
    + [掌握多屬性篩選功能](/help/journeys/mastering-multi-attribute-filtering.md)
-   + [在歷程中搭配同盟對象使用多實體鎖定目標](/help/journeys/multi-entity-targeting-in-journeys.md)
+   + [在歷程中搭配聯合客群使用多實體目標定位](/help/journeys/multi-entity-targeting-in-journeys.md)
    + [使用歷程試運行驗證歷程邏輯](/help/journeys/journey-dry-run.md)
    + [使用補充 ID，解除鎖定歷程重新進入](/help/journeys/unlock-journey-reentry-with-supplemental-id.md)
    + [更新即時歷程中的內容](/help/journeys/update-content-in-live-journey.md)
@@ -61,7 +61,7 @@ ht-degree: 89%
       + [使用案例 - 讀取客群](/help/journeys/use-case-read-audience.md)
       + [使用案例 - 客群資格篩選](/help/journeys/use-case-audience-qualification.md)
    + 教學課程{#tutorials}
-      + [在表單提交時觸發歷程](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/trigger-journey-on-form-submission/introduction)
+      + [在提交表單時觸發歷程](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/trigger-journey-on-form-submission/introduction)
 + 忠誠度 {#loyalty}
    + {hide-from-toc}[建立忠誠度挑戰](/help/loyalty/create-a-loyalty-challenge.md)
 + 衝突管理與優先順序 {#conflict-management}
@@ -71,7 +71,7 @@ ht-degree: 89%
    + [無訊息時間](/help/business-rules/configure-and-apply-quiet-hours.md)
 + 輪廓、客群和訂閱 {#profiles-audiences-subscriptions}
    + [簡介及客群 — 概觀](/help/profiles-audiences-subscriptions/profiles-and-audiences-overview.md)
-   + {hide-from-toc}[整合式設定檔和區段 — 概觀](/help/profiles-audiences-subscriptions/unified-profile-and-segmentation-overview.md)
+   + {hide-from-toc}[統一輪廓和細分 - 概觀](/help/profiles-audiences-subscriptions/unified-profile-and-segmentation-overview.md)
    + [使用規則產生器建立客群](/help/profiles-audiences-subscriptions/create-audiences-using-the-rule-builder.md)
    + [藉由上傳 CSV 檔案來建立新客群。](/help/profiles-audiences-subscriptions/import-and-activate-an-audience-by-uploading-a-csv-file.md)
    + [使用Web SDK，建立客群 (教學課程)](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/create-audiences-using-web-sdk/introduction){target="_blank"}
@@ -117,7 +117,7 @@ ht-degree: 89%
       + [製作網路行銷活動](/help/channels/author-a-web-campaign.md)
       + [網頁編輯器中的 SPA 支援](/help/channels/singel-page-application-support.md)
    + WhatsApp {#whatsapp}
-      + {hide-from-toc}[開始使用WhatsApp （端對端）](/help/channels/get-started-with-whatsapp-in-ajo.md)
+      + {hide-from-toc}[開始使用 WhatsApp (端到端)](/help/channels/get-started-with-whatsapp-in-ajo.md)
       + [WhatsApp 頻道簡介](/help/channels/whatsapp-introduction.md)
       + [設定 WhatsApp 頻道](/help/channels/set-up-whatsapp.md)
       + [建立 WhatsApp 歷程](/help/channels/create-a-whatsapp-journey.md)
@@ -142,7 +142,7 @@ ht-degree: 89%
       + [用於內容產生的 AI 助理 - 概觀](/help/content-management/ai-assistant-for-content-generation-overview.md)
       + [請使用 AI 助理建立內容，以便進行內容產生](/help/content-management/create-content-using-ai-assistant-for-content-generation.md)
       + [品牌方針建立與管理](/help/content-management/brand-guideline-creation-and-management.md)
-   + [根據設定檔偏好設定或傾向分數最佳化管道](/help/channels/channel-optimization.md)
+   + [根據輪廓偏好設定或傾向分數最佳化管道](/help/channels/channel-optimization.md)
    + [使用 GenStudio 建立電子郵件](/help/content-management/create-an-email-using-genstudio.md)
    + [啟用管道製作中的外部資料整合](/help/content-management/external-data-integrations-in-channel-authoring.md)
 + 將內容個人化 {#personalize-content}
@@ -169,14 +169,14 @@ ht-degree: 89%
          + [AI 模型洞察](/help/decisioning/ai-model-insights.md)
       + 使用決策功能個人化訊息 {#use-decisioning}
          + [電子郵件中的決策簡介](/help/decisioning/introduction-to-decisioning-in-emails.md)
-         + [使用決定來個人化電子郵件（教學課程）](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/use-decisioning-in-email-channel/introduction){target="_blank"}
+         + [使用決策功能個人化電子郵件 (教學課程)](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/use-decisioning-in-email-channel/introduction){target="_blank"}
          + [在推播通知中使用決策](/help/decisioning/decisioning-in-push-notifications.md)
          + [在簡訊中使用決策](/help/decisioning/use-decisioning-in-an-sms-message.md)
          + [使用決策，將網頁優惠個人化 (教學課程)](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/use-decisioning-to-personalize-web-offers/introduction){target="_blank"}
-         + [將Experience Manager內容片段用於Decisioning](/help/decisioning/use-aem-content-fragments-with-ajo-decisioning.md)
-      + 從外部觸發器和互動觸發決策 {#trigger}
+         + [使用 Experience Manager 內容片段與決策功能](/help/decisioning/use-aem-content-fragments-with-ajo-decisioning.md)
+      + 從外部觸發程序和互動觸發決策 {#trigger}
          + [在提交表單時觸發歷程](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/trigger-journey-on-form-submission/introduction){target="_blank"}
-         + [使用即時天氣資料個人化優惠方案](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction){target="_blank"}
+         + [以即時天氣資料個人化產品建議](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction){target="_blank"}
    + 決策管理 {#decision-management}
       + [決策管理簡介](/help/decision-management/introduction-to-decision-management.md)
       + [決策管理功能示範](/help/decision-management/demo-of-decision-management-capabilities.md)
@@ -245,12 +245,12 @@ ht-degree: 89%
    + [建立資料使用原則](/help/privacy/create-data-usage-policies.md)
    + [在 Journey Optimizer 管道中執行資料使用原則](/help/privacy/enforce-data-usage-policies-in-journey-optimizer-channels.md)
    + [遮罩訊息中的資料](/help/privacy/mask-data-in-messages.md)
-+ AI助理和代理程式 {#ai-assistant}
++ AI 助理和代理程式 {#ai-assistant}
    + [AI 助理](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/tutorials/introduction-to-journey-optimizer/ai-assistant)
    + [用於內容產生的 AI 助理](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/tutorials/content-management/ai-assistant/ai-assistant-for-content-generation-overview)
-   + [使用Journey Agent分析和建立歷程](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/tutorials/journeys/journey-agent-overview?lang=en)
+   + [使用 Journey 代理分析和建立歷程](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/tutorials/journeys/journey-agent-overview)
    + [Experimentation 代理 - 概觀](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/tutorials/experimentation/experimentation-agent-overview)
-   + [使用Adobe Marketing Agent計畫對象](/help/ai-agents/plan-audiences-using-adobe-marketing-agent.md)
+   + [使用 Adobe Marketing Agent 規劃客群](/help/ai-agents/plan-audiences-using-adobe-marketing-agent.md)
 + 使用案例與最佳做法{#use-cases}
    + [客戶引導](/help/use-cases/customer-onboarding.md)
    + [捨棄的購物車](/help/use-cases/abandoned-cart.md)
