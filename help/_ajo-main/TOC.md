@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer 教學課程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 這些是 Journey Optimizer 教學課程。
 auto-video-transcripts: true
-source-git-commit: 3bd73234af9246e6ea0b7c3cf3b18aad5389d2ac
+source-git-commit: a734b1fca9bae1ed8252e5493ca410ef6665a827
 workflow-type: tm+mt
-source-wordcount: '1484'
-ht-degree: 100%
+source-wordcount: '1490'
+ht-degree: 99%
 
 ---
 
@@ -132,6 +132,7 @@ ht-degree: 100%
       + [建立運算式片段](/help/content-management/expression-fragments.md)
       + [將富文字新增至可編輯的片段](/help/content-management/add-rich-text-to-editable-fragments.md)
       + [使用 AEM 內容片段](/help/content-management/aem-content-fragments.md)
+      + [使用AEM內容片段(Managed Services)](/help/content-management/aem-content-fragments-managed-services.md)
    + 內容範本{#content-templates}
       + [建立內容範本](/help/content-management/templates/create-content-templates.md)
       + [鎖定範本中的內容](/help/content-management/templates/content-locking.md)
