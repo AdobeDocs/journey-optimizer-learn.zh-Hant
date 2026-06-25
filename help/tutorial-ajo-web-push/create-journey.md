@@ -55,7 +55,7 @@ ht-degree: 0%
 若要開始撰寫訊息，請按一下`Content`以開啟內容標籤，您可以在其中定義固定文字和衍生自事件資料的動態欄位。
 ![內容推播](assets/compose-message.png)
 
-指定推送訊息的標題，然後開啟個人化編輯器以撰寫訊息內文。 內容會動態包含價格已下跌的產品名稱。 若要實現此目的，請使用每個[協助程式函式](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/personalization/functions/helpers#each)
+指定推送訊息的標題，然後開啟個人化編輯器以撰寫訊息內文。 內容會動態包含價格已下跌的產品名稱。 若要實現此目的，請使用每個[協助程式函式](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer/using/content-management/personalization/functions/helpers#each)
 重複產品清單，並在訊息中呈現其名稱。
 
 ## 撰寫訊息內文

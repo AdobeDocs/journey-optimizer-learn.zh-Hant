@@ -106,7 +106,7 @@ ht-degree: 98%
       + [推播通知 — 概觀](/help/channels/push-notifications-overview.md)
       + [設定和傳送推播行銷活動](/help/channels/create-a-push-campaign.md)
       + [建立網頁推播通知](/help/channels/create-web-push-notifications.md)
-      + [網路推播端對端教學課程](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/ajo-web-push/introduction)
+      + [網路推播端對端教學課程](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/ajo-web-push/introduction)
    + 簡訊/MMS 頻道{#sms-channel}
       + [SMS/MMS 訊息 — 概觀](/help/channels/sms-mms-messages-overview.md)
       + [設定、編寫並傳遞簡訊訊息](/help/channels/author-sms-messages.md)
