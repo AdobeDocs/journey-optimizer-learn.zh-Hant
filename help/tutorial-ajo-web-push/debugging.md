@@ -20,7 +20,7 @@ ht-degree: 2%
 此頁面提供除錯網頁推播通知流程的實用提示，包括驗證網頁SDK請求、檢查AEP中的ECID和使用者設定檔，以及確保正確傳送和接收price.drop等事件。
 
 - **使用Adobe Experience Platform Debugger （Chrome擴充功能）**\
-  安裝適用於Chrome](https://chrome.google.com/webstore/detail/adobe-experience-platform/bfnnokhpnncpkdmbokanobigaccjkpob)的[AEP Debugger擴充功能，以更輕鬆地檢查Web SDK活動：
+  安裝適用於Chrome[&#128279;](https://chrome.google.com/webstore/detail/adobe-experience-platform/bfnnokhpnncpkdmbokanobigaccjkpob)的AEP Debugger擴充功能，以更輕鬆地檢查Web SDK活動：
 
 此工具可讓您：
  — 檢視網頁SDK請求和回應\
