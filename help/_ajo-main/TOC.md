@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer 教學課程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 這些是 Journey Optimizer 教學課程。
 auto-video-transcripts: true
-source-git-commit: a734b1fca9bae1ed8252e5493ca410ef6665a827
+source-git-commit: 776a68854ccfb6b0f170d1f984e89809493a9fef
 workflow-type: tm+mt
-source-wordcount: '1490'
-ht-degree: 99%
+source-wordcount: '1507'
+ht-degree: 98%
 
 ---
 
@@ -106,6 +106,7 @@ ht-degree: 99%
       + [推播通知 — 概觀](/help/channels/push-notifications-overview.md)
       + [設定和傳送推播行銷活動](/help/channels/create-a-push-campaign.md)
       + [建立網頁推播通知](/help/channels/create-web-push-notifications.md)
+      + [網路推播端對端教學課程](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/ajo-web-push/introduction)
    + 簡訊/MMS 頻道{#sms-channel}
       + [SMS/MMS 訊息 — 概觀](/help/channels/sms-mms-messages-overview.md)
       + [設定、編寫並傳遞簡訊訊息](/help/channels/author-sms-messages.md)
