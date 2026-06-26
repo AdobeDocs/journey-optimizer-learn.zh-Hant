@@ -3,7 +3,7 @@ user-guide-title: Journey Optimizer 教學課程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 這些是 Journey Optimizer 教學課程。
 auto-video-transcripts: true
-source-git-commit: 776a68854ccfb6b0f170d1f984e89809493a9fef
+source-git-commit: 6d5c21692c9761d3259bb106063239a310f4de6f
 workflow-type: tm+mt
 source-wordcount: '1507'
 ht-degree: 98%
@@ -106,7 +106,7 @@ ht-degree: 98%
       + [推播通知 — 概觀](/help/channels/push-notifications-overview.md)
       + [設定和傳送推播行銷活動](/help/channels/create-a-push-campaign.md)
       + [建立網頁推播通知](/help/channels/create-web-push-notifications.md)
-      + [網路推播端對端教學課程](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/ajo-web-push/introduction)
+      + [網路推播端對端教學課程](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/ajo-web-push/introduction)
    + 簡訊/MMS 頻道{#sms-channel}
       + [SMS/MMS 訊息 — 概觀](/help/channels/sms-mms-messages-overview.md)
       + [設定、編寫並傳遞簡訊訊息](/help/channels/author-sms-messages.md)
@@ -272,4 +272,4 @@ ht-degree: 98%
       + [透過 Adobe Journey Optimizer (2024) 建立個人化行動時刻](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/build-personalized-mobile-moments/lab-overview){target="_blank"}
       + [請在 Adobe Journey Optimizer (2025 年版) 中，將協調流程縮放為全頻道參與](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
 + 即時工作階段和深入探討 {#live-sessions-and-deep-dives}
-   + [Experience League 現場表演錄影](/help/_ajo-main/experience-league-live-show-recordings.md)
+   + [Experience League LIVE 節目錄影](/help/_ajo-main/experience-league-live-show-recordings.md)
