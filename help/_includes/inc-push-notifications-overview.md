@@ -1,8 +1,8 @@
 ---
 source-git-commit: ac61c4d30929b559826b4a770fc10c26aec74830
 workflow-type: tm+mt
-source-wordcount: '425'
-ht-degree: 2%
+source-wordcount: '437'
+ht-degree: 3%
 
 ---
 
@@ -12,7 +12,7 @@ ht-degree: 2%
 
 **推播通知**&#x200B;是在手機、平板電腦或電腦上顯示的短訊息，即使使用者未使用傳送這些訊息的應用程式亦然。 這是應用程式「拍拍你的肩膀」並引起你注意的一種方式。
 
-例如：
+例如:
 
 * 購物應用程式可能會提醒您有大減價的機會。
 * 傳遞應用程式可能會讓您知道您的訂單正在路上。

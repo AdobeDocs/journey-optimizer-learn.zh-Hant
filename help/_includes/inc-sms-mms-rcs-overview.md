@@ -1,7 +1,7 @@
 ---
 source-git-commit: ac61c4d30929b559826b4a770fc10c26aec74830
 workflow-type: tm+mt
-source-wordcount: '388'
+source-wordcount: '404'
 ht-degree: 2%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 2%
 
 這些頻道是裝置原生、高可見度，並可廣泛存取。 當即時、觸及或有保證的傳送很重要時，這是最理想的選擇。
 
-範例：
+範例:
 
 * 銀行透過SMS傳送詐騙警報。
 * retailer會透過MMS分享優惠券影像。
