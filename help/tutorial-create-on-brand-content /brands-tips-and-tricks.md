@@ -21,4 +21,4 @@ ht-degree: 0%
 
 探索實用秘訣，將品牌指引從Adobe Journey Optimizer延伸到GenStudio和Adobe Express等工具。 瞭解如何調整撰寫樣式、視覺元素和AI輔助輸出，以維持品牌一致性。 本頁也會說明如何建立詳細的品牌規格，以及使用範例來產生內容。 您也會瞭解如何管理多個品牌，以支援多樣化的團隊和溝通策略。
 
->[!VIDEO](https://video.tv.adobe.com/v/3494272/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3494291/?captions=chi_hant&learn=on&enablevpops)

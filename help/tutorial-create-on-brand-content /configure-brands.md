@@ -21,4 +21,4 @@ ht-degree: 0%
 
 瞭解如何在Adobe Journey Optimizer中設定品牌指引，以確保跨所有管道的一致品牌上溝通。 本指南涵蓋上傳品牌檔案和建構關鍵品牌元素，包括撰寫樣式、視覺效果和身分識別詳細資訊。 您也會瞭解如何調整這些指引，以強化內容產生並自動化品質檢查，讓您的品牌識別保持強大而有效。 觀看以下影片以逐步解說。
 
->[!VIDEO](https://video.tv.adobe.com/v/3494292/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3494376/?captions=chi_hant&learn=on&enablevpops)

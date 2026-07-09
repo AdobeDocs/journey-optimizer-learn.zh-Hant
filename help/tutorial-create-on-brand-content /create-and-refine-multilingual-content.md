@@ -21,4 +21,4 @@ ht-degree: 0%
 
 瞭解如何跨語言翻譯和調整您的內容，同時保持品牌一致性。 此概觀說明如何建立行銷活動的多語言版本，並使用AI輔助翻譯快速產生本地化內容。 您也會瞭解如何調整語調和傳訊以符合您的品牌方針，以及如何結合自動化工作流程與即時翻譯，以有效擴充跨管道的全球通訊。
 
->[!VIDEO](https://video.tv.adobe.com/v/3494538/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3494635/?captions=chi_hant&learn=on&enablevpops)
