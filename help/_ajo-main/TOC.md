@@ -147,7 +147,7 @@ ht-degree: 98%
    + [根據輪廓偏好設定或傾向分數最佳化管道](/help/channels/channel-optimization.md)
    + [使用 GenStudio 建立電子郵件](/help/content-management/create-an-email-using-genstudio.md)
    + [啟用管道製作中的外部資料整合](/help/content-management/external-data-integrations-in-channel-authoring.md)
-   + [在Journey Optimizer中建立品牌上內容 — 教學課程](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/create-on-brand-content/overview)
+   + [在Journey Optimizer中建立品牌上內容 — 教學課程](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/create-on-brand-content/overview)
 + 將內容個人化 {#personalize-content}
    + [個人化編輯器 — 概觀](/help/personalize-content/personalization-editor-overview.md)
    + [以輪廓和客群成員資格為基礎的個人化](/help/personalize-content/profile-and-audience-membership-based-personalization.md)
