@@ -4,9 +4,9 @@ user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 這些是 Journey Optimizer 教學課程。
 auto-video-transcripts: true
 source-git-commit: 6d5c21692c9761d3259bb106063239a310f4de6f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1507'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -106,7 +106,7 @@ ht-degree: 98%
       + [推播通知 — 概觀](/help/channels/push-notifications-overview.md)
       + [設定和傳送推播行銷活動](/help/channels/create-a-push-campaign.md)
       + [建立網頁推播通知](/help/channels/create-web-push-notifications.md)
-      + [網路推播端對端教學課程](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/ajo-web-push/introduction)
+      + [網路推播端到端教學課程](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/ajo-web-push/introduction)
    + 簡訊/MMS 頻道{#sms-channel}
       + [SMS/MMS 訊息 — 概觀](/help/channels/sms-mms-messages-overview.md)
       + [設定、編寫並傳遞簡訊訊息](/help/channels/author-sms-messages.md)
@@ -133,7 +133,7 @@ ht-degree: 98%
       + [建立運算式片段](/help/content-management/expression-fragments.md)
       + [將富文字新增至可編輯的片段](/help/content-management/add-rich-text-to-editable-fragments.md)
       + [使用 AEM 內容片段](/help/content-management/aem-content-fragments.md)
-      + [使用AEM內容片段(Managed Services)](/help/content-management/aem-content-fragments-managed-services.md)
+      + [使用 AEM 內容片段 (Managed Services)](/help/content-management/aem-content-fragments-managed-services.md)
    + 內容範本{#content-templates}
       + [建立內容範本](/help/content-management/templates/create-content-templates.md)
       + [鎖定範本中的內容](/help/content-management/templates/content-locking.md)
@@ -262,7 +262,7 @@ ht-degree: 98%
    + [強化客戶參與度](/help/use-cases/enhance-customer-engagement.md){target="_blank"}
    + [將協調流程縮放為全頻道參與](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction.md){target="_blank"}
    + 使用案例教戰手冊 {#use-case-playbooks}
-      + [概覽](https://experienceleague.adobe.com/zh-hant/docs/platform-learn/tutorials/use-case-playbooks/overview){target="_blank"}
+      + [概觀](https://experienceleague.adobe.com/zh-hant/docs/platform-learn/tutorials/use-case-playbooks/overview){target="_blank"}
       + [設定教戰手冊沙箱](https://experienceleague.adobe.com/zh-hant/docs/platform-learn/tutorials/use-case-playbooks/configure-a-playbook-sandbox){target="_blank"}
       + [建立和發佈教戰手冊執行個體](https://experienceleague.adobe.com/zh-hant/docs/platform-learn/tutorials/use-case-playbooks/create-and-publish-a-playbook-instance){target="_blank"}
 + 練習、實驗與挑戰 {#exercises-and-challenges}
