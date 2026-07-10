@@ -34,4 +34,4 @@ ht-degree: 100%
 
 本教學課程將逐步引導您設定存放庫連線、使用內容顧問驗證設定，以及直接在個人化編輯器中選取內容片段，讓行銷人員能夠在其行銷活動中有效率地重複使用和預覽 AEM 內容。
 
->[!VIDEO](https://video.tv.adobe.com/v/3492529/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3492538/?captions=chi_hant&learn=on&enablevpops)
