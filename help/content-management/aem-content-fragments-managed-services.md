@@ -1,6 +1,6 @@
 ---
-title: 在Journey Optimizer中使用AEM內容片段(Managed Services)
-description: 瞭解如何在Journey Optimizer中設定和使用Adobe Experience Manager (AEM) Managed Services整合，將內容片段整合至您的撰寫工作流程。 本教學課程將逐步引導您設定存放庫連線、使用內容警告器驗證設定，以及直接在個人化編輯器中選取內容片段，讓行銷人員能夠在其行銷活動中有效率地重複使用和預覽AEM內容。
+title: 在 Journey Optimizer 中使用 AEM 內容片段 (Managed Services)
+description: 瞭解如何在 Journey Optimizer 中設定和使用 Adobe Experience Manager (AEM) Managed Services 整合，將內容片段整合至您的製作工作流程。本教學課程將逐步引導您設定存放庫連線、使用內容顧問驗證設定，以及直接在個人化編輯器中選取內容片段，讓行銷人員能夠在其行銷活動中有效率地重複使用和預覽 AEM 內容。
 feature: Integrations, Fragments
 topic: Content Management, Integrations
 role: User
@@ -22,16 +22,16 @@ subfeature_v2:
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
 source-git-commit: a734b1fca9bae1ed8252e5493ca410ef6665a827
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: 136
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# 在Journey Optimizer中使用AEM內容片段(Managed Services)
+# 在 Journey Optimizer 中使用 AEM 內容片段 (Managed Services)
 
-瞭解如何在Journey Optimizer中設定和使用Adobe Experience Manager (AEM) Managed Services整合，將內容片段整合至您的撰寫工作流程。
+瞭解如何在 Journey Optimizer 中設定和使用 Adobe Experience Manager (AEM) Managed Services 整合，將內容片段整合至您的製作工作流程。
 
-本教學課程將逐步引導您設定存放庫連線、使用內容警告器驗證設定，以及直接在個人化編輯器中選取內容片段，讓行銷人員能夠在其行銷活動中有效率地重複使用和預覽AEM內容。
+本教學課程將逐步引導您設定存放庫連線、使用內容顧問驗證設定，以及直接在個人化編輯器中選取內容片段，讓行銷人員能夠在其行銷活動中有效率地重複使用和預覽 AEM 內容。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3492538/?captions=chi_hant&learn=on&enablevpops)

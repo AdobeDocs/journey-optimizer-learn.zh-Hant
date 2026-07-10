@@ -1,6 +1,6 @@
 ---
 title: AI 助理
-description: 瞭解Adobe Experience Platform應用程式（包括Real-Time Customer Data Platform、Journey Optimizer和Customer Journey Analytics）中的AI助理。
+description: 瞭解 Adobe Experience Platform 應用程式中的 AI 助理，包括 Real-Time Customer Data Platform、Journey Optimizer 和 Customer Journey Analytics。
 feature: Overview
 role: Admin, Developer, User
 level: Beginner
@@ -18,9 +18,9 @@ role_v2:
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
 source-git-commit: b519aa58085d08dd492c1b59a7267b31d6339f00
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: 101
-ht-degree: 66%
+ht-degree: 100%
 
 ---
 
@@ -30,5 +30,5 @@ ht-degree: 66%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3429845/?learn=on)
 
-請參閱[使用 AI 助理](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/get-started/work-efficiently/ai-features)，以取得 Journey Optimizer 支援的使用案例相關資訊。 如需詳細文件，請造訪 [Adobe Experience Platform 中的 AI 助理](https://experienceleague.adobe.com/zh-hant/docs/experience-platform/ai-assistant/home)文件。
+請參閱[使用 AI 助理](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer/using/get-started/work-efficiently/ai-features)，以取得 Journey Optimizer 支援的使用案例相關資訊。 如需詳細文件，請造訪 [Adobe Experience Platform 中的 AI 助理](https://experienceleague.adobe.com/zh-hant/docs/experience-platform/ai-assistant/home)文件。
 
