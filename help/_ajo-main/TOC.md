@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer 教學課程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 這些是 Journey Optimizer 教學課程。
 auto-video-transcripts: true
-source-git-commit: 6d5c21692c9761d3259bb106063239a310f4de6f
-workflow-type: ht
-source-wordcount: '1507'
-ht-degree: 100%
+source-git-commit: 0069f593c0a73f0d7b25421cfd5fb72c99032110
+workflow-type: tm+mt
+source-wordcount: '1527'
+ht-degree: 98%
 
 ---
 
@@ -147,6 +147,7 @@ ht-degree: 100%
    + [根據輪廓偏好設定或傾向分數最佳化管道](/help/channels/channel-optimization.md)
    + [使用 GenStudio 建立電子郵件](/help/content-management/create-an-email-using-genstudio.md)
    + [啟用管道製作中的外部資料整合](/help/content-management/external-data-integrations-in-channel-authoring.md)
+   + [在Journey Optimizer中建立品牌上內容 — 教學課程](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/create-on-brand-content/overview)
 + 將內容個人化 {#personalize-content}
    + [個人化編輯器 — 概觀](/help/personalize-content/personalization-editor-overview.md)
    + [以輪廓和客群成員資格為基礎的個人化](/help/personalize-content/profile-and-audience-membership-based-personalization.md)
@@ -262,7 +263,7 @@ ht-degree: 100%
    + [強化客戶參與度](/help/use-cases/enhance-customer-engagement.md){target="_blank"}
    + [將協調流程縮放為全頻道參與](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction.md){target="_blank"}
    + 使用案例教戰手冊 {#use-case-playbooks}
-      + [概觀](https://experienceleague.adobe.com/zh-hant/docs/platform-learn/tutorials/use-case-playbooks/overview){target="_blank"}
+      + [概覽](https://experienceleague.adobe.com/zh-hant/docs/platform-learn/tutorials/use-case-playbooks/overview){target="_blank"}
       + [設定教戰手冊沙箱](https://experienceleague.adobe.com/zh-hant/docs/platform-learn/tutorials/use-case-playbooks/configure-a-playbook-sandbox){target="_blank"}
       + [建立和發佈教戰手冊執行個體](https://experienceleague.adobe.com/zh-hant/docs/platform-learn/tutorials/use-case-playbooks/create-and-publish-a-playbook-instance){target="_blank"}
 + 練習、實驗與挑戰 {#exercises-and-challenges}
