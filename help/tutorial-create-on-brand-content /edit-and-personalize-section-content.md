@@ -21,4 +21,4 @@ ht-degree: 0%
 
 瞭解如何使用AI技能縮小和個人化內容的個別區段。 本影片說明如何在維持品牌一致性的同時，編輯現有範本中的主旨行、前言、文字區塊和影像。 您將探索如何套用提示、運用參考內容、調整語調和訊息，以及產生新的視覺效果，同時使用品牌指導方針以確保溝通的每個元件都可獲得高品質、符合規範的結果。
 
->[!VIDEO](https://video.tv.adobe.com/v/3495868/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3495887/?captions=chi_hant&learn=on&enablevpops)
