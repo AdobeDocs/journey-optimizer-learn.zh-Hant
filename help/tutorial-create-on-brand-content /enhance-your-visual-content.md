@@ -1,17 +1,17 @@
 ---
-title: 增強您的視覺內容
-description: 瞭解如何使用AI支援的工具增強和自訂視覺內容，以打造更吸引人的品牌上設計。
+title: 使用AI增強您的視覺內容
+description: 在此步驟中，您可以使用Adobe Journey Optimizer中的AI工具來增強和自訂影像和圖形。
 feature: Content Assistant
 topic: Content Management
 role: User
 level: Intermediate
 doc-type: Feature Video
 duration: 418
-last-substantial-update: 2026-07-14T00:00:00Z
+last-substantial-update: 2026-07-15T00:00:00Z
 jira: KT-20386
-source-git-commit: e1229050841f7552371b380142f645c36b11e957
+source-git-commit: e42f67b96ec1230e5b918a4acc6b2ef5078cef09
 workflow-type: tm+mt
-source-wordcount: '108'
+source-wordcount: '98'
 ht-degree: 0%
 
 ---
@@ -19,6 +19,6 @@ ht-degree: 0%
 
 # 使用AI增強您的視覺內容
 
-瞭解如何使用AI支援的工具增強和自訂視覺內容，以打造更吸引人的品牌上設計。 本影片說明如何直接在您的工作流程中產生資訊圖形、新增覆蓋圖以及調整影像，同時運用整合來擴充編輯功能。 您可以探索如何套用品牌元素（如標誌、色彩和字型），並在工具之間無縫切換，以維持一致性和控制力，確保從建立到最終設計的所有視覺資產都與您的品牌認同一致。
+在此步驟中，您可以使用Adobe Journey Optimizer中的AI工具來增強和自訂影像和圖形。 您可以產生資訊圖形、新增覆蓋圖，以及調整影像，同時讓圖志、顏色和字型與您的品牌保持一致。 您可以在Adobe Journey Optimizer和Adobe Express之間移動資產，以擴充編輯並維持一致性。 在此步驟結束時，您可以將品牌上的視覺效果儲存到存放庫，以便跨行銷活動重複使用。
 
->[!VIDEO](https://video.tv.adobe.com/v/3494645/?captions=chi_hant&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3494537/?learn=on)
