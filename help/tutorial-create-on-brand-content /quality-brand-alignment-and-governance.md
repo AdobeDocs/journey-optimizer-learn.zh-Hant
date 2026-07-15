@@ -21,4 +21,4 @@ ht-degree: 0%
 
 瞭解如何評估並改善內容品質，同時根據您的品牌指導方針進行檢查，包括書面和視覺資產。 您可以使用自動化品質檢查以及即時分數和可操作的建議，針對AI產生的和手動編寫的內容評估品牌一致性。 您可以在內容上線之前，使用自動化QA作為團隊治理和檢閱程式中的協助者，識別並修正文案、影像、影象和法規遵循中的問題。
 
->[!VIDEO](https://video.tv.adobe.com/v/3494636/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3494654/?captions=chi_hant&learn=on)
