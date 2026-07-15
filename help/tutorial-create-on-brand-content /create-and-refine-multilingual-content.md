@@ -21,4 +21,4 @@ ht-degree: 0%
 
 在此步驟中，您會使用Adobe Journey Optimizer將訊息翻譯並調整成其他語言，範例為西班牙文和法文。 您可以將現有的接觸點複製到地區設定範本，並使用AI功能來產生品牌內翻譯，連同其他手動或自動化翻譯工作流程。 您可以檢閱評分、調整語調和訊息，並讓翻譯內容與您的品牌指導方針保持一致。
 
->[!VIDEO](https://video.tv.adobe.com/v/3494538/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3494635/?captions=chi_hant&learn=on)
