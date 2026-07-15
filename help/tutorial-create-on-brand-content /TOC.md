@@ -6,9 +6,9 @@ level: Intermediate
 breadcrumb-title: create-on-brand-content
 breadcrumb-url: /docs/journey-optimizer-learn/create-on-brand-content/overview
 auto-video-transcripts: true
-source-git-commit: a3d5313e85480df4d027143d6e3285ac239f9692
+source-git-commit: 8b1bcb574398f3d904ab0aefd26e6267d247b15d
 workflow-type: tm+mt
-source-wordcount: '107'
+source-wordcount: '112'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 0%
 + [為行銷人員在Adobe Journey Optimizer中建立AI支援的品牌內內容](./overview.md)
 + 簡介和品牌設定 {#introduction-and-brand-setup}
    + [使用AI建立品牌內電子郵件內容](./introduction.md)
-   + [設定品牌](./configure-brands.md)
+   + [為AI支援的內容設定品牌](./configure-brands.md)
    + [品牌指導方針提示](./brands-tips-and-tricks.md)
 + 使用AI產生內容 {#generate-content}
    + [從頭開始建立內容](./create-content-from-scratch.md)
