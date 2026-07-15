@@ -20,4 +20,4 @@ ht-degree: 2%
 
 此簡介會逐步解說如何使用AI支援的工具來協助您產生電子郵件內容、套用品牌指引，以及使用範本、提示和參考內容來擴展個人化。 您也會看到AI功能如何支援內容產生和品質保證，確保您的傳訊從一開始就與您的品牌保持一致、符合要求並保持一致。
 
->[!VIDEO](https://video.tv.adobe.com/v/3494282/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3494367/?captions=chi_hant&learn=on)

@@ -21,4 +21,4 @@ ht-degree: 0%
 
 此影片示範如何從範本開始、套用品牌指引，以及如何使用簡單的提示從頭開始建立電子郵件、推播通知和應用程式內訊息。 您也會瞭解如何調整色調、影像和訊息，同時利用AI驅動的變異和評分，在您的全通路體驗中快速產生高品質、一致的內容。
 
->[!VIDEO](https://video.tv.adobe.com/v/3434635/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3434646/?captions=chi_hant&learn=on)

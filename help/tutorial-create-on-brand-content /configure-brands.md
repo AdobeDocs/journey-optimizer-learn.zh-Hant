@@ -21,4 +21,4 @@ ht-degree: 0%
 
 本影片將逐步說明如何上傳品牌指引檔案、建構關鍵品牌元素，以及定義撰寫風格、視覺內容和身分識別詳細資訊。 您也會瞭解如何調整及自訂這些准則，以支援AI產生的內容及自動化的品質檢查，確保每個頻道間一致的品牌上通訊。
 
->[!VIDEO](https://video.tv.adobe.com/v/3494292/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3494376/?captions=chi_hant&learn=on)

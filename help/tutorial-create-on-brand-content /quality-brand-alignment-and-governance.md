@@ -21,4 +21,4 @@ ht-degree: 0%
 
 瞭解如何使用AI支援的工具來評估及改善內容品質，同時維持強大的品牌一致性。 此概觀說明如何將品牌指引套用至產生和手動建立的內容、自動化品質檢查，以及識別在撰寫風格和視覺元素方面改善的機會。 您也會瞭解如何使用即時評分和可操作的建議，讓每個資產都合規、一致並準備好進行傳送。
 
->[!VIDEO](https://video.tv.adobe.com/v/3494636/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3494654/?captions=chi_hant&learn=on)
