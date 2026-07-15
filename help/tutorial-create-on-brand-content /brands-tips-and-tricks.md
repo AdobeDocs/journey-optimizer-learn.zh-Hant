@@ -21,4 +21,4 @@ ht-degree: 0%
 
 在此步驟中，您將瞭解如何將Adobe Journey Optimizer中設定的品牌套用至其他Adobe工具，例如GenStudio和Adobe Express。 您可以調整撰寫樣式設定和視覺規格，並直接在Adobe Journey Optimizer中新增文字和影像範例，以改善AI產生的內容和自動化品質檢查。 您也可以管理多個品牌，以支援不同的部門與溝通策略。
 
->[!VIDEO](https://video.tv.adobe.com/v/3494272/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3494291/?captions=chi_hant&learn=on)
