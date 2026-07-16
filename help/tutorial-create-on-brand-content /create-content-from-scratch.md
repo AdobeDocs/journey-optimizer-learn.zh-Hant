@@ -1,24 +1,24 @@
 ---
-title: 從頭開始建立內容
-description: 瞭解如何使用範本、品牌指引和AI驅動變數，從頭開始建立電子郵件、推播通知和應用程式內訊息。
+title: 從頭開始建立全通路內容
+description: 在此步驟中，您會從現有的內容範本開始，並使用AI功能產生完整資產。
 feature: Content Assistant
 topic: Content Management
 role: User
 level: Intermediate
 doc-type: Feature Video
 duration: 182
-last-substantial-update: 2026-07-14T00:00:00Z
+last-substantial-update: 2026-07-15T00:00:00Z
 jira: KT-16226
-source-git-commit: d80b00583c47ed90a73d0058aad46472b04df681
+source-git-commit: ab64a156f9bbd1496ebfa4d06dbfea37a8bc1e71
 workflow-type: tm+mt
-source-wordcount: '84'
+source-wordcount: '97'
 ht-degree: 0%
 
 ---
 
 
-# 從頭開始建立內容
+# 從頭開始建立全通路內容
 
-此影片示範如何從範本開始、套用品牌指引，以及如何使用簡單的提示從頭開始建立電子郵件、推播通知和應用程式內訊息。 您也會瞭解如何調整色調、影像和訊息，同時利用AI驅動的變異和評分，在您的全通路體驗中快速產生高品質、一致的內容。
+在此步驟中，您會從現有的內容範本開始，使用AI功能產生完整的資產，例如電子郵件、推播通知或應用程式內訊息。 您可以套用品牌指南並設定語言、色調和影像設定，讓內容保持在品牌上。 您可以產生多個AI驅動型變體、檢閱品牌得分，並手動編輯內容，或使用第二個AI傳遞來調整訊息和視覺效果。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3434646/?captions=chi_hant&learn=on)
