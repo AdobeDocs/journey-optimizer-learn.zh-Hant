@@ -7,9 +7,10 @@ level: Beginner
 doc-type: Tutorial
 last-substantial-update: 2025-10-31T00:00:00Z
 jira: KT-19558
-source-git-commit: b70717bd66deb3c070c6dd155f13f8cb72fce7c3
+exl-id: 1f861559-addd-48b6-999a-f01d4959771f
+source-git-commit: d4cc60f4448caec92f704026783e2bbe029427f5
 workflow-type: tm+mt
-source-wordcount: '79'
+source-wordcount: '80'
 ht-degree: 0%
 
 ---
@@ -20,4 +21,4 @@ ht-degree: 0%
 
 您會瞭解如何定義重要欄位，例如名字、電子郵件、忠誠度狀態和年收入，上傳真實的客戶資料，並使用該資料建立高價值客戶的對象。
 
->[!VIDEO](https://video.tv.adobe.com/v/3476449/?captions=chi_hant&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3476421/?learn=on)
