@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer 教學課程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 這些是 Journey Optimizer 教學課程。
 auto-video-transcripts: true
-source-git-commit: c2595614a6d78b3877b12f3d2d0b5040364bd1ee
+source-git-commit: 2a17c140eaa72c4421691a27589b7edac99add92
 workflow-type: tm+mt
-source-wordcount: '1552'
-ht-degree: 97%
+source-wordcount: '1562'
+ht-degree: 95%
 
 ---
 
@@ -41,14 +41,14 @@ ht-degree: 97%
 + 歷程 {#journeys}
   + [歷程設計工具 - 概觀](/help/journeys/journey-designer-overview.md)
   + [新歷程畫布簡介](/help/journeys/introduction-to-the-new-journey-canvas.md)
-  + [使用 Journey 代理分析和建立歷程](/help/ai-agents/journey-agent-overview.md)
-  + {hide-from-toc}[探索全新歷程設計工具](/help/journeys/new-journey-designer.md)
   + [建立歷程簡介](/help/journeys/introduction-to-building-a-journey.md)
-  + [在歷程中使用資料集查詢](/help/journeys/lookup-dataset.md)
+  + [使用AI分析和建立歷程](/help/ai-agents/journey-agent-overview.md)
   + [建立測試輪廓](/help/journeys/test-a-journey.md)
+  + {hide-from-toc}[與外部對象一起模擬歷程](/help/journeys/simulate-journeys-with-external-audiences.md)
   + [發佈歷程](/help/journeys/publish-a-journey.md)
   + [內容決活動](/help/journeys/content-decision-activity.md)
-  + [掌握多屬性篩選功能](/help/journeys/mastering-multi-attribute-filtering.md)
+  + [在歷程中使用資料集查詢](/help/journeys/lookup-dataset.md)
+  + [主要多屬性篩選](/help/journeys/mastering-multi-attribute-filtering.md)
   + [在歷程中搭配聯合客群使用多實體目標定位](/help/journeys/multi-entity-targeting-in-journeys.md)
   + [使用歷程試運行驗證歷程邏輯](/help/journeys/journey-dry-run.md)
   + [使用補充 ID，解除鎖定歷程重新進入](/help/journeys/unlock-journey-reentry-with-supplemental-id.md)
@@ -124,6 +124,7 @@ ht-degree: 97%
     + [WhatsApp 頻道簡介](/help/channels/whatsapp-introduction.md)
     + [設定 WhatsApp 頻道](/help/channels/set-up-whatsapp.md)
     + [建立 WhatsApp 歷程](/help/channels/create-a-whatsapp-journey.md)
+  + {hide-from-toc}[設定及使用自訂頻道](/help/channels/configure-and-use-custom-channels.md)
 + 內容管理{#content-management}
   + [訊息製作 — 概觀](/help/content-management/message-authoring-overview.md)
   + 管理資產 {#assets}
@@ -177,6 +178,7 @@ ht-degree: 97%
       + [使用決策功能個人化電子郵件 (教學課程)](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/use-decisioning-in-email-channel/introduction){target="_blank"}
       + [在推播通知中使用決策](/help/decisioning/decisioning-in-push-notifications.md)
       + [在簡訊中使用決策](/help/decisioning/use-decisioning-in-an-sms-message.md)
+      + {hide-from-toc}[在網頁視覺化編輯器中使用決策](/help/decisioning/use-decisioning-within-the-web-visual-editor.md)
       + [使用決策，將網頁優惠個人化 (教學課程)](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/use-decisioning-to-personalize-web-offers/introduction){target="_blank"}
       + [使用 Experience Manager 內容片段與決策功能](/help/decisioning/use-aem-content-fragments-with-ajo-decisioning.md)
     + 從外部觸發程序和互動觸發決策 {#trigger}
