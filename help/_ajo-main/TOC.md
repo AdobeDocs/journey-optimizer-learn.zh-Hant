@@ -3,9 +3,9 @@ user-guide-title: Journey Optimizer 教學課程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 這些是 Journey Optimizer 教學課程。
 auto-video-transcripts: true
-source-git-commit: 57c9805e1a1f9f7392c90955902009df56751058
+source-git-commit: 2a17c140eaa72c4421691a27589b7edac99add92
 workflow-type: tm+mt
-source-wordcount: '1555'
+source-wordcount: '1562'
 ht-degree: 95%
 
 ---
@@ -93,7 +93,7 @@ ht-degree: 95%
     + [使用電子郵件設計工具建立內容](/help/channels/create-content-with-the-email-designer.md)
     + [匯入及編寫 HTML 電子郵件內容](/help/channels/import-and-author-html-email-content.md)
     + [預覽、校樣和發佈](/help/channels/preview-proof-and-publish.md)
-    + [AI支援的品牌內內容建立 — 教學課程](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/create-on-brand-content/overview)
+    + [AI支援的品牌內內容建立 — 教學課程](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/create-on-brand-content/overview)
   + 內容卡片{#content-cards}
     + [建立內容卡](/help/channels/create-content-cards.md)
   + 應用程式內頻道{#in-app-channel}
@@ -150,7 +150,7 @@ ht-degree: 95%
   + [根據輪廓偏好設定或傾向分數最佳化管道](/help/channels/channel-optimization.md)
   + [使用 GenStudio 建立電子郵件](/help/content-management/create-an-email-using-genstudio.md)
   + [啟用管道製作中的外部資料整合](/help/content-management/external-data-integrations-in-channel-authoring.md)
-  + [在Journey Optimizer中建立品牌上內容 — 教學課程](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/create-on-brand-content/overview)
+  + [在Journey Optimizer中建立品牌上內容 — 教學課程](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/create-on-brand-content/overview)
 + 將內容個人化 {#personalize-content}
   + [個人化編輯器 — 概觀](/help/personalize-content/personalization-editor-overview.md)
   + [以輪廓和客群成員資格為基礎的個人化](/help/personalize-content/profile-and-audience-membership-based-personalization.md)
@@ -178,6 +178,7 @@ ht-degree: 95%
       + [使用決策功能個人化電子郵件 (教學課程)](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/use-decisioning-in-email-channel/introduction){target="_blank"}
       + [在推播通知中使用決策](/help/decisioning/decisioning-in-push-notifications.md)
       + [在簡訊中使用決策](/help/decisioning/use-decisioning-in-an-sms-message.md)
+      + {hide-from-toc}[在網頁視覺化編輯器中使用決策](/help/decisioning/use-decisioning-within-the-web-visual-editor.md)
       + [使用決策，將網頁優惠個人化 (教學課程)](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/use-decisioning-to-personalize-web-offers/introduction){target="_blank"}
       + [使用 Experience Manager 內容片段與決策功能](/help/decisioning/use-aem-content-fragments-with-ajo-decisioning.md)
     + 從外部觸發程序和互動觸發決策 {#trigger}
