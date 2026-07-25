@@ -31,4 +31,4 @@ ht-degree: 2%
 
 本影片逐步說明如何端對端建立自訂傳出頻道，並在歷程中使用。
 
->[!VIDEO](https://video.tv.adobe.com/v/3496286/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496295/?captions=chi_hant&learn=on&enablevpops)

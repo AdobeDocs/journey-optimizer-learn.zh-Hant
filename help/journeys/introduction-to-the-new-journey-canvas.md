@@ -26,4 +26,4 @@ ht-degree: 0%
 
 探索Adobe Journey Optimizer的全新歷程畫布體驗。 此更新引入現代化呈現引擎，其可支援Journey Canvas，使其與已用於協調行銷活動和受眾構成的體驗保持一致。
 
->[!VIDEO](https://video.tv.adobe.com/v/3496193/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496202/?captions=chi_hant&learn=on&enablevpops)
