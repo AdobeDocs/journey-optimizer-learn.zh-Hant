@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer 教學課程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 這些是 Journey Optimizer 教學課程。
 auto-video-transcripts: true
-source-git-commit: 375545aa89523d2e9b6a8975b0f2a459274fb2b4
+source-git-commit: b8b058d92e642d5a7787115b3ee7218d5d12c46f
 workflow-type: tm+mt
-source-wordcount: '1562'
-ht-degree: 95%
+source-wordcount: '1557'
+ht-degree: 94%
 
 ---
 
@@ -63,8 +63,6 @@ ht-degree: 95%
     + [使用案例 - 客群資格篩選](/help/journeys/use-case-audience-qualification.md)
   + 教學課程{#tutorials}
     + [在提交表單時觸發歷程](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/trigger-journey-on-form-submission/introduction)
-+ 忠誠度 {#loyalty}
-  + {hide-from-toc}[建立忠誠度挑戰](/help/loyalty/create-a-loyalty-challenge.md)
 + 衝突管理與優先順序 {#conflict-management}
   + [識別潛在衝突](/help/conflict-management/identify-potential-conflicts.md)
   + [指派優先順序分數](/help/conflict-management/assign-priority-score.md)
@@ -93,7 +91,7 @@ ht-degree: 95%
     + [使用電子郵件設計工具建立內容](/help/channels/create-content-with-the-email-designer.md)
     + [匯入及編寫 HTML 電子郵件內容](/help/channels/import-and-author-html-email-content.md)
     + [預覽、校樣和發佈](/help/channels/preview-proof-and-publish.md)
-    + [AI支援的品牌內內容建立 — 教學課程](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/create-on-brand-content/overview)
+    + [AI支援的品牌內內容建立 — 教學課程](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/create-on-brand-content/overview)
   + 內容卡片{#content-cards}
     + [建立內容卡](/help/channels/create-content-cards.md)
   + 應用程式內頻道{#in-app-channel}
@@ -150,7 +148,7 @@ ht-degree: 95%
   + [根據輪廓偏好設定或傾向分數最佳化管道](/help/channels/channel-optimization.md)
   + [使用 GenStudio 建立電子郵件](/help/content-management/create-an-email-using-genstudio.md)
   + [啟用管道製作中的外部資料整合](/help/content-management/external-data-integrations-in-channel-authoring.md)
-  + [在Journey Optimizer中建立品牌上內容 — 教學課程](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/create-on-brand-content/overview)
+  + [在Journey Optimizer中建立品牌上內容 — 教學課程](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/create-on-brand-content/overview)
 + 將內容個人化 {#personalize-content}
   + [個人化編輯器 — 概觀](/help/personalize-content/personalization-editor-overview.md)
   + [以輪廓和客群成員資格為基礎的個人化](/help/personalize-content/profile-and-audience-membership-based-personalization.md)
