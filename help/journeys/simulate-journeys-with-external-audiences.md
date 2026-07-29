@@ -26,4 +26,4 @@ ht-degree: 0%
 
 瞭解如何模擬使用CSV檔案中的外部受眾設定檔或同盟受眾構成（包括設定檔中未儲存的屬性，例如票證ID或旅行日期）的歷程。 此影片逐步解說如何篩選對象、使用外部屬性個人化訊息、建立模擬使用者，以及在歷程上線前模擬對象資料以驗證正確路徑。
 
->[!VIDEO](https://video.tv.adobe.com/v/3496269/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496278/?captions=chi_hant&learn=on&enablevpops)
