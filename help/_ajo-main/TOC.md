@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer 教學課程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 這些是 Journey Optimizer 教學課程。
 auto-video-transcripts: true
-source-git-commit: 2a17c140eaa72c4421691a27589b7edac99add92
+source-git-commit: b8b058d92e642d5a7787115b3ee7218d5d12c46f
 workflow-type: tm+mt
-source-wordcount: '1562'
-ht-degree: 95%
+source-wordcount: '1557'
+ht-degree: 94%
 
 ---
 
@@ -44,7 +44,7 @@ ht-degree: 95%
   + [建立歷程簡介](/help/journeys/introduction-to-building-a-journey.md)
   + [使用AI分析和建立歷程](/help/ai-agents/journey-agent-overview.md)
   + [建立測試輪廓](/help/journeys/test-a-journey.md)
-  + {hide-from-toc}[與外部對象一起模擬歷程](/help/journeys/simulate-journeys-with-external-audiences.md)
+  + [使用外部對象模擬歷程](/help/journeys/simulate-journeys-with-external-audiences.md)
   + [發佈歷程](/help/journeys/publish-a-journey.md)
   + [內容決活動](/help/journeys/content-decision-activity.md)
   + [在歷程中使用資料集查詢](/help/journeys/lookup-dataset.md)
@@ -63,8 +63,6 @@ ht-degree: 95%
     + [使用案例 - 客群資格篩選](/help/journeys/use-case-audience-qualification.md)
   + 教學課程{#tutorials}
     + [在提交表單時觸發歷程](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/trigger-journey-on-form-submission/introduction)
-+ 忠誠度 {#loyalty}
-  + {hide-from-toc}[建立忠誠度挑戰](/help/loyalty/create-a-loyalty-challenge.md)
 + 衝突管理與優先順序 {#conflict-management}
   + [識別潛在衝突](/help/conflict-management/identify-potential-conflicts.md)
   + [指派優先順序分數](/help/conflict-management/assign-priority-score.md)
@@ -124,7 +122,7 @@ ht-degree: 95%
     + [WhatsApp 頻道簡介](/help/channels/whatsapp-introduction.md)
     + [設定 WhatsApp 頻道](/help/channels/set-up-whatsapp.md)
     + [建立 WhatsApp 歷程](/help/channels/create-a-whatsapp-journey.md)
-  + {hide-from-toc}[設定及使用自訂頻道](/help/channels/configure-and-use-custom-channels.md)
+  + [設定和使用自訂頻道](/help/channels/configure-and-use-custom-channels.md)
 + 內容管理{#content-management}
   + [訊息製作 — 概觀](/help/content-management/message-authoring-overview.md)
   + 管理資產 {#assets}
