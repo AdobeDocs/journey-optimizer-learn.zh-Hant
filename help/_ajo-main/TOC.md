@@ -3,7 +3,7 @@ user-guide-title: Journey Optimizer 教學課程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 這些是 Journey Optimizer 教學課程。
 auto-video-transcripts: true
-source-git-commit: 2a17c140eaa72c4421691a27589b7edac99add92
+source-git-commit: 375545aa89523d2e9b6a8975b0f2a459274fb2b4
 workflow-type: tm+mt
 source-wordcount: '1562'
 ht-degree: 95%
@@ -44,7 +44,7 @@ ht-degree: 95%
   + [建立歷程簡介](/help/journeys/introduction-to-building-a-journey.md)
   + [使用AI分析和建立歷程](/help/ai-agents/journey-agent-overview.md)
   + [建立測試輪廓](/help/journeys/test-a-journey.md)
-  + {hide-from-toc}[與外部對象一起模擬歷程](/help/journeys/simulate-journeys-with-external-audiences.md)
+  + [使用外部對象模擬歷程](/help/journeys/simulate-journeys-with-external-audiences.md)
   + [發佈歷程](/help/journeys/publish-a-journey.md)
   + [內容決活動](/help/journeys/content-decision-activity.md)
   + [在歷程中使用資料集查詢](/help/journeys/lookup-dataset.md)
@@ -93,7 +93,7 @@ ht-degree: 95%
     + [使用電子郵件設計工具建立內容](/help/channels/create-content-with-the-email-designer.md)
     + [匯入及編寫 HTML 電子郵件內容](/help/channels/import-and-author-html-email-content.md)
     + [預覽、校樣和發佈](/help/channels/preview-proof-and-publish.md)
-    + [AI支援的品牌內內容建立 — 教學課程](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/create-on-brand-content/overview)
+    + [AI支援的品牌內內容建立 — 教學課程](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/create-on-brand-content/overview)
   + 內容卡片{#content-cards}
     + [建立內容卡](/help/channels/create-content-cards.md)
   + 應用程式內頻道{#in-app-channel}
@@ -124,7 +124,7 @@ ht-degree: 95%
     + [WhatsApp 頻道簡介](/help/channels/whatsapp-introduction.md)
     + [設定 WhatsApp 頻道](/help/channels/set-up-whatsapp.md)
     + [建立 WhatsApp 歷程](/help/channels/create-a-whatsapp-journey.md)
-  + {hide-from-toc}[設定及使用自訂頻道](/help/channels/configure-and-use-custom-channels.md)
+  + [設定和使用自訂頻道](/help/channels/configure-and-use-custom-channels.md)
 + 內容管理{#content-management}
   + [訊息製作 — 概觀](/help/content-management/message-authoring-overview.md)
   + 管理資產 {#assets}
@@ -150,7 +150,7 @@ ht-degree: 95%
   + [根據輪廓偏好設定或傾向分數最佳化管道](/help/channels/channel-optimization.md)
   + [使用 GenStudio 建立電子郵件](/help/content-management/create-an-email-using-genstudio.md)
   + [啟用管道製作中的外部資料整合](/help/content-management/external-data-integrations-in-channel-authoring.md)
-  + [在Journey Optimizer中建立品牌上內容 — 教學課程](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/create-on-brand-content/overview)
+  + [在Journey Optimizer中建立品牌上內容 — 教學課程](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/create-on-brand-content/overview)
 + 將內容個人化 {#personalize-content}
   + [個人化編輯器 — 概觀](/help/personalize-content/personalization-editor-overview.md)
   + [以輪廓和客群成員資格為基礎的個人化](/help/personalize-content/profile-and-audience-membership-based-personalization.md)
