@@ -7,9 +7,9 @@ level: Beginner
 doc-type: Tutorial
 jira: KT-21773
 last-substantial-update: 2026-07-28T00:00:00Z
-source-git-commit: 35dcb7e021fa57e88131d1ea1fd47112a22674f5
+source-git-commit: b173f9353a11fa2b5b3b5316a2601ac2be695891
 workflow-type: tm+mt
-source-wordcount: '376'
+source-wordcount: '384'
 ht-degree: 0%
 
 ---
@@ -37,8 +37,8 @@ ht-degree: 0%
 
 此單元會逐步引導您建立和設定端對端的忠誠度挑戰：型別、結構和排程、任務和獎勵。
 
-* [建立並發佈您的第一個忠誠度挑戰](./configure-your-challenge/create-and-publish-your-first-loyalty-challenge.md)
-瞭解如何建立挑戰：型別（標準/條紋/循序）、結構和排程、儲存和發佈挑戰（不含歷程）。
+* [設定忠誠度挑戰](./configure-your-challenge/set-up-a-loyalty-challenge.md)
+瞭解如何選取正確的挑戰型別、設定對象和時程表、定義參與規則，並控制如何追蹤和獎勵進度，以設定忠誠度挑戰。
 * [設定忠誠度挑戰的任務](./configure-your-challenge/create-tasks.md)
 瞭解如何設定任務：購買和支出、數量、合格專案和排除專案，以及重複使用。
 * [針對您的忠誠度挑戰設定獎勵](./configure-your-challenge/configure-rewards-for-your-loyalty-challenge.md)
