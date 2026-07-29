@@ -19,4 +19,4 @@ ht-degree: 0%
 
 瞭解如何使用購買、支出和自訂事件活動（包括適用性規則、排除和可重複使用的任務範本），建立及設定忠誠度挑戰任務。
 
->[!VIDEO](https://video.tv.adobe.com/v/3496442/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496451/?captions=chi_hant&learn=on&enablevpops)

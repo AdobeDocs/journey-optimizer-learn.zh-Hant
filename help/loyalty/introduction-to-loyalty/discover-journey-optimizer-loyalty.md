@@ -19,4 +19,4 @@ ht-degree: 0%
 
 瞭解如何使用Adobe Journey Optimizer忠誠度，透過AI支援的深入分析、最適化gamification，以及可促進參與和忠誠度結果的統一客戶設定檔，將忠誠度資料轉換為個人化體驗。
 
->[!VIDEO](https://video.tv.adobe.com/v/3496441/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496460/?captions=chi_hant&learn=on&enablevpops)
