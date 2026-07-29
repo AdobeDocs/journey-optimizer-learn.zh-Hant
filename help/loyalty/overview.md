@@ -7,7 +7,7 @@ level: Beginner
 doc-type: Tutorial
 jira: KT-21773
 last-substantial-update: 2026-07-28T00:00:00Z
-source-git-commit: b173f9353a11fa2b5b3b5316a2601ac2be695891
+source-git-commit: 7523b27390c4d3a5447a0ee340eee07086d22be8
 workflow-type: tm+mt
 source-wordcount: '384'
 ht-degree: 0%
@@ -41,7 +41,7 @@ ht-degree: 0%
 瞭解如何選取正確的挑戰型別、設定對象和時程表、定義參與規則，並控制如何追蹤和獎勵進度，以設定忠誠度挑戰。
 * [設定忠誠度挑戰的任務](./configure-your-challenge/create-tasks.md)
 瞭解如何設定任務：購買和支出、數量、合格專案和排除專案，以及重複使用。
-* [針對您的忠誠度挑戰設定獎勵](./configure-your-challenge/configure-rewards-for-your-loyalty-challenge.md)
+* [針對您的忠誠度挑戰設定獎勵](./configure-your-challenge/configure-rewards.md)
 瞭解如何設定獎勵：提供者、里程碑與完成傳遞、獎勵型別與優惠券。
 * [透過Loyalty AI代理程式提出挑戰並獲得見解](./configure-your-challenge/create-challenges-and-get-insights-with-the-loyalty-ai-agent.md)
 瞭解如何使用Loyalty AI代理程式來提出挑戰並取得見解。
