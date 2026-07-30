@@ -7,7 +7,7 @@ level: Beginner
 doc-type: Tutorial
 jira: KT-21773
 last-substantial-update: 2026-07-28T00:00:00Z
-source-git-commit: 283c626c96cd675549425af430b7db463b2fa0ad
+source-git-commit: 22b92b46ddf2d970ddb37bccd4de9ec289cd5ed8
 workflow-type: tm+mt
 source-wordcount: '337'
 ht-degree: 11%
@@ -36,7 +36,7 @@ ht-degree: 11%
 瞭解如何設定任務：購買和支出、數量、合格專案和排除專案，以及重複使用。
 * [針對您的忠誠度挑戰設定獎勵](./configure-your-challenge/configure-rewards.md)
 瞭解如何設定獎勵：提供者、里程碑與完成傳遞、獎勵型別與優惠券。
-* [透過Loyalty AI代理程式提出挑戰並獲得見解](./configure-your-challenge/create-challenges-and-get-insights-with-the-loyalty-ai-agent.md)
+* [透過Loyalty AI代理程式提出挑戰並獲得見解](./configure-your-challenge/create-a-challenge-and-get-insights-with-with-cx-enterprise-coworker.md)
 瞭解如何使用Loyalty AI代理程式來提出挑戰並取得見解。
 
 ## 套用並顯示您的挑戰
