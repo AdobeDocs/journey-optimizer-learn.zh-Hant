@@ -11,7 +11,7 @@ recommendations: noDisplay, noCatalog
 exl-id: 6b1eec78-153c-4ea5-acfe-2dcc6f1e6078
 source-git-commit: 82d82b3aac2bf91e259b01fd8c6b4d6065f9640a
 workflow-type: tm+mt
-source-wordcount: '334'
+source-wordcount: '348'
 ht-degree: 0%
 
 ---
@@ -35,9 +35,9 @@ JavaScript接著會剖析這些HTML區塊，並將每個區塊包裝在輪播專
 * 將[提供的檔案解壓縮至此排名公式資料夾。](assets/ranking-formula.zip)
 
 * 導覽至資料夾並啟動伺服器，執行應用程式：
-   * `cd ranking-formula`
+  * `cd ranking-formula`
 
-   * `node server.js`
+  * `node server.js`
 
 
 * 開啟瀏覽器並前往http://localhost:3000/formula.html。
