@@ -19,4 +19,4 @@ ht-degree: 0%
 
 瞭解如何使用預先建立的範本、影像、按鈕和應用程式設定來建立挑戰內容卡，以促進忠誠度挑戰並在您的應用程式中顯示參與者進度。
 
->[!VIDEO](https://video.tv.adobe.com/v/3496529/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496538/?captions=chi_hant&learn=on&enablevpops)

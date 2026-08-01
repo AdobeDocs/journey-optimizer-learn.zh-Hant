@@ -19,4 +19,4 @@ ht-degree: 8%
 
 瞭解如何透過選擇獎勵型別、定義傳送方法以及在關鍵里程碑或挑戰完成時獎勵參與者來設定挑戰獎勵。
 
->[!VIDEO](https://video.tv.adobe.com/v/3496481/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496490/?captions=chi_hant&learn=on&enablevpops)

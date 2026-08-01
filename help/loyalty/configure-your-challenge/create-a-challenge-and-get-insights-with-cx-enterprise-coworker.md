@@ -19,4 +19,4 @@ ht-degree: 0%
 
 瞭解如何使用CX Enterprise Co-worker來建立、設定和啟動使用自然語言的忠誠度挑戰，包括受眾、獎勵、時間表和自動化歷程設定。
 
->[!VIDEO](https://video.tv.adobe.com/v/3496528/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496547/?captions=chi_hant&learn=on&enablevpops)
