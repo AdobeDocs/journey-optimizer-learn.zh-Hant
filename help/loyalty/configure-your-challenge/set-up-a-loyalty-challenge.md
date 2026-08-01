@@ -19,4 +19,4 @@ ht-degree: 0%
 
 瞭解如何選取正確的挑戰型別、設定對象和時程表、定義參與規則，並控制如何追蹤和獎勵進度，以設定忠誠度挑戰。
 
->[!VIDEO](https://video.tv.adobe.com/v/3496471/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496480/?captions=chi_hant&learn=on&enablevpops)
