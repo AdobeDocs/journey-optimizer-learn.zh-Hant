@@ -21,7 +21,7 @@ ht-degree: 5%
 
 探索最佳實務、瞭解如何促進採用並設定集中式報告工作流程（全都在一處），以提供具影響力、資料導向的行動體驗，隨時隨地觸及客戶。
 
->[!VIDEO](https://video.tv.adobe.com/v/3477009?captions=chi_hant&quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3476998?quality=12&learn=on){transcript=true}
 
 
 ## 行動裝置頻道總覽
@@ -99,4 +99,4 @@ Adobe Journey Optimizer中的所有傳出通道都會在訊息傳送時執行自
 
 ## 客戶使用案例
 
-* [使用個人化體驗快速上路：航空公司如何使用Adobe Journey Optimizer提升優惠方案（部落格）](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-blogs/take-flight-with-personalization-how-airlines-can-elevate-offers/ba-p/767513?profile.language=zh-Hant)
+* [使用個人化體驗快速上路：航空公司如何使用Adobe Journey Optimizer提升優惠方案（部落格）](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-blogs/take-flight-with-personalization-how-airlines-can-elevate-offers/ba-p/767513)
