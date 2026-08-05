@@ -10,7 +10,7 @@ jira: KT-7541
 thumbnail: 3419959.jpeg
 exl-id: dfb4466d-84f2-4727-80cd-1b92cf604151
 source-git-commit: 2493f6cad316173f5b33d664e3215ed71d13ff76
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '43'
 ht-degree: 100%
 
@@ -21,4 +21,4 @@ ht-degree: 100%
 了解如何建立 Offer Decisioning 的 AI 模式，以及如何將其套用至決策。
 功能：產品建議
 
->[!VIDEO](https://video.tv.adobe.com/v/3445655/?captions=chi_hant&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3444682/?captions=chi_hant&learn=on){transcript=true}

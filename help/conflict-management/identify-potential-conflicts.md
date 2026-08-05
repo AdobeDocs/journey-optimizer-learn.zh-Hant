@@ -30,6 +30,6 @@ ht-degree: 100%
 
 了解如何識別和管理潛在衝突，例如重疊的客群、同時進行的時間軸、共用的通訊管道，以及跨歷程和行銷活動的頻率限制，以確保順暢且客戶友善的通訊體驗。
 
->[!VIDEO](https://video.tv.adobe.com/v/3435528/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3445655/?captions=chi_hant&learn=on&enablevpops)
 
 請參閱產品文件，以取得有關如何[在歷程與行銷活動中偵測潛在衝突](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer/using/conflict-prioritization/conflicts)的詳細資訊。

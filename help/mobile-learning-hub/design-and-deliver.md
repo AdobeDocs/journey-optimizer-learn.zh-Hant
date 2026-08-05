@@ -1,6 +1,6 @@
 ---
-title: Design and deliver
-description: Discover how to build and deliver impactful mobile communications using Adobe Journey Optimizer. Learn to create, design, and send a variety of message types—including push notifications, in-app messages, content cards, SMS/MMS/RCS, WhatsApp marketing messages, and code-based experiences—tailored to your audience and optimized for mobile engagement.
+title: 設計與傳遞
+description: 瞭解如何使用Adobe Journey Optimizer建立和提供具影響力的行動通訊。 瞭解如何建立、設計和傳送各種訊息型別（包括推播通知、應用程式內訊息、內容卡、SMS/MMS/RCS、WhatsApp行銷訊息和程式碼型體驗），以針對您的對象量身打造並最佳化行動參與。
 role: User
 level: Beginner, Intermediate
 hide: false
@@ -10,12 +10,12 @@ last-substantial-update: 2025-12-18T00:00:00Z
 exl-id: ea3ada11-8b2f-47d0-89d2-c22dc87f36be
 source-git-commit: 3917e11cdf8c0450c19ce653a0964f6dc9da6a3c
 workflow-type: tm+mt
-source-wordcount: '2669'
-ht-degree: 53%
+source-wordcount: '3509'
+ht-degree: 68%
 
 ---
 
-# Design and deliver
+# 設計與傳遞
 
 瞭解如何使用Adobe Journey Optimizer建立和提供具影響力的行動通訊。 瞭解如何建立、設計和傳送各種訊息型別，包括推播通知、應用程式內訊息、內容卡、SMS/MMS/RCS、WhatsApp行銷訊息，以及為您的對象量身打造並最佳化行動互動的程式碼型體驗。
 
@@ -122,7 +122,7 @@ CARDS
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/tutorials/decision-capabilities/decisioning/decisioning-in-push-notifications" target="_blank" rel="referrer" title="使用 AJO 決策，將推播通知最佳化">使用AJO Decisioning最佳化推送通知</a>
+                        <a href="https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/tutorials/decision-capabilities/decisioning/decisioning-in-push-notifications" target="_blank" rel="referrer" title="使用 AJO 決策，將推播通知最佳化">使用 AJO 決策將推播通知最佳化</a>
                     </p>
                     <p class="is-size-6">使用 AJO 決策，透過個人化推播通知，強化參與度。 先建立量身打造的優惠方案，再分析行銷活動績效。</p>
                 </div>
@@ -179,7 +179,7 @@ CARDS
                     <p class="is-size-6">了解如何撰寫及測試應用程式內訊息。</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/in-app-channel/author-in-app-messages.html?lang=zh-Hant" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">進一步瞭解</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解更多</span>
                 </a>
             </div>
         </div>
@@ -202,7 +202,7 @@ CARDS
                     <p class="is-size-6">了解什麼是應用程式內訊息。 了解如何在 Campaigns 中建立、設定和發佈應用程式內訊息。</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/tutorials/create-campaigns/action-campaigns/in-app" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">進一步瞭解</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解更多</span>
                 </a>
             </div>
         </div>
@@ -333,7 +333,7 @@ CARDS
                     <p class="is-size-6">了解如何在 Journey Optimizer 行銷活動和歷程中設定、編寫及傳遞簡訊。</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/tutorials/channels/sms-channel/author-sms-messages" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">進一步瞭解</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解更多</span>
                 </a>
             </div>
         </div>
@@ -342,8 +342,8 @@ CARDS
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/tutorials/channels/sms-channel/sms-double-opt-in" title="Sinch和Infobip的雙重選擇加入" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440291/?captions=chi_hant&format=jpeg&nocache=1770071085934" alt="Sinch和Infobip的雙重選擇加入"
+                    <a href="https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/tutorials/channels/sms-channel/sms-double-opt-in" title="Sinch 與 Infobip 的雙重選擇加入" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440291/?captions=chi_hant&format=jpeg&nocache=1770071085934" alt="Sinch 與 Infobip 的雙重選擇加入"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -351,7 +351,7 @@ CARDS
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/tutorials/channels/sms-channel/sms-double-opt-in" target="_blank" rel="referrer" title="Sinch和Infobip的雙重選擇加入">Sinch 和 Infobip 的雙重選擇加入</a>
+                        <a href="https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/tutorials/channels/sms-channel/sms-double-opt-in" target="_blank" rel="referrer" title="Sinch 與 Infobip 的雙重選擇加入">Sinch 和 Infobip 的雙重選擇加入</a>
                     </p>
                     <p class="is-size-6">了解如何為 SMS 設定雙重選擇加入。</p>
                 </div>
@@ -588,7 +588,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/tutorials/conflict-management/identify-potential-conflicts" title="識別潛在衝突" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3435528/?format=jpeg&nocache=1770071087955" alt="識別潛在衝突"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3445655/?captions=chi_hant&format=jpeg&nocache=1770071087955" alt="識別潛在衝突"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -684,7 +684,7 @@ CARDS
                     <p class="is-size-6">了解如何使用儲存在訊息中的個人化資料庫項目並管理個人化資料庫項目。</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/tutorials/personalize-content/use-and-manage-saved-expressions-in-personalization-library" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">進一步瞭解</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解更多</span>
                 </a>
             </div>
         </div>
@@ -692,7 +692,7 @@ CARDS
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
 
-### Control message frequency to avoid user fatigue:
+### 控制訊息頻率以避免使用者疲勞：
 
 <!--
 CARDS
@@ -714,7 +714,7 @@ CARDS
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/tutorials/conflict-management/assign-priority-score" target="_blank" rel="referrer" title="針對傳入動作指派優先順序分數">Assign Priority Scores to Inbound Actions</a>
+                        <a href="https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/tutorials/conflict-management/assign-priority-score" target="_blank" rel="referrer" title="針對傳入動作指派優先順序分數">指派優先順序分數給傳入動作</a>
                     </p>
                     <p class="is-size-6">了解如何針對入站動作進行優先排序，確保客戶有資格使用相同管道設定進行多項入站動作時，能向客戶傳遞最優先的內容。</p>
                 </div>
@@ -737,7 +737,7 @@ CARDS
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/tutorials/conflict-management/journey-frequency-capping-and-prioritization" target="_blank" rel="referrer" title="歷程頻率上限和優先順序">Journey Frequency Capping and Prioritization</a>
+                        <a href="https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/tutorials/conflict-management/journey-frequency-capping-and-prioritization" target="_blank" rel="referrer" title="歷程頻率上限和優先順序">歷程頻率上限和優先順序</a>
                     </p>
                     <p class="is-size-6">了解如何針對入站動作進行優先排序，確保客戶有資格使用相同管道設定進行多項入站動作時，能向客戶傳遞最優先的內容。</p>
                 </div>
