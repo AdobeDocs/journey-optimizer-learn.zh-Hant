@@ -1,6 +1,6 @@
 ---
-title: 使用決策功能在網頁視覺編輯器內個人化您的網頁
-description: 瞭解如何使用決策功能在網頁視覺編輯器內個人化您的網頁。
+title: 在網頁視覺編輯器內使用決策功能來個人化您的網頁
+description: 瞭解如何在網頁視覺編輯器內使用決策功能來個人化您的網頁。
 feature: Decisioning, Web Channel
 role: User
 level: Beginner
@@ -11,23 +11,19 @@ last-substantial-update: '2026-07-24T00:00:00.000Z'
 jira: KT-22144
 autotag-review: '2026-07-24T14:37:35.522Z'
 TQID: 'https://experienceleague.adobe.com/GFkannRNsMugkENhQLnhz0s8BSlKWSZbq3E0ABlxsoU'
-product_v2:
-  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
-feature_v2:
-  - id: a4cb03e1-327e-499d-9de8-e0c0db8a63a2
-  - id: d0a62d3c-b79e-47e4-929e-40ef3cffa037
-subfeature_v2:
-  - id: c618a0dc-1818-4c6d-9916-0d92e6796f24
+product_v2: id: cb954087-f4fc-4456-afb9-e939cabcdc79
+feature_v2: id: a4cb03e1-327e-499d-9de8-e0c0db8a63a2id: d0a62d3c-b79e-47e4-929e-40ef3cffa037
+subfeature_v2: id: c618a0dc-1818-4c6d-9916-0d92e6796f24
 source-git-commit: 0e0dc8b1e62c73e3597c8f62cffc71e3be35aa14
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: 54
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# 使用決策功能在網頁視覺編輯器內個人化您的網頁
+# 在網頁視覺編輯器內使用決策功能來個人化您的網頁
 
-瞭解如何使用決策功能在網頁視覺編輯器內個人化您的網頁。
+瞭解如何在網頁視覺編輯器內使用決策功能來個人化您的網頁。
 
->[!VIDEO](https://video.tv.adobe.com/v/3496312/?captions=chi_hant&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496300/?learn=on&enablevpops)
