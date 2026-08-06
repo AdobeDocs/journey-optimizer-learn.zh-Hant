@@ -1,6 +1,6 @@
 ---
-title: 使用決策功能在網頁視覺編輯器內個人化您的網頁
-description: 瞭解如何使用決策功能在網頁視覺編輯器內個人化您的網頁。
+title: 在網頁視覺編輯器內使用決策功能來個人化您的網頁
+description: 瞭解如何在網頁視覺編輯器內使用決策功能來個人化您的網頁。
 feature: Decisioning, Web Channel
 role: User
 level: Beginner
@@ -19,15 +19,15 @@ feature_v2:
 subfeature_v2:
   - id: c618a0dc-1818-4c6d-9916-0d92e6796f24
 source-git-commit: 0e0dc8b1e62c73e3597c8f62cffc71e3be35aa14
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: 54
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# 使用決策功能在網頁視覺編輯器內個人化您的網頁
+# 在網頁視覺編輯器內使用決策功能來個人化您的網頁
 
-瞭解如何使用決策功能在網頁視覺編輯器內個人化您的網頁。
+瞭解如何在網頁視覺編輯器內使用決策功能來個人化您的網頁。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3496312/?captions=chi_hant&learn=on&enablevpops)

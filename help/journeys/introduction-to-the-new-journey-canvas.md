@@ -1,6 +1,6 @@
 ---
 title: 新歷程畫布簡介
-description: 探索Adobe Journey Optimizer的全新歷程畫布體驗。 此更新引入現代化呈現引擎，其可支援Journey Canvas，使其與已用於協調行銷活動和受眾構成的體驗保持一致。
+description: 探索 Adobe Journey Optimizer 的全新歷程畫布體驗。此更新引入現代化渲染引擎來驅動歷程畫布，使其與編排行銷活動及客群構成中現有的體驗一致。
 feature: Journeys
 role: User
 level: Beginner, Intermediate, Experienced
@@ -15,15 +15,15 @@ product_v2:
 feature_v2:
   - id: d998adac-2f81-400b-a669-d07bb196e4eb
 source-git-commit: aada6451a411d6e29f34399dc1cb8f397f71029b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: 82
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
 # 新歷程畫布簡介
 
-探索Adobe Journey Optimizer的全新歷程畫布體驗。 此更新引入現代化呈現引擎，其可支援Journey Canvas，使其與已用於協調行銷活動和受眾構成的體驗保持一致。
+探索 Adobe Journey Optimizer 的全新歷程畫布體驗。此更新引入現代化渲染引擎來驅動歷程畫布，使其與編排行銷活動及客群構成中現有的體驗一致。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3496202/?captions=chi_hant&learn=on&enablevpops)

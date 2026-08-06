@@ -4,9 +4,9 @@ user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 這些是 Journey Optimizer 教學課程。
 auto-video-transcripts: true
 source-git-commit: f48d568f64c413c5fc1ae9b4de48735d207af7e3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1567'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -42,13 +42,13 @@ ht-degree: 94%
   + [歷程設計工具 - 概觀](/help/journeys/journey-designer-overview.md)
   + [新歷程畫布簡介](/help/journeys/introduction-to-the-new-journey-canvas.md)
   + [建立歷程簡介](/help/journeys/introduction-to-building-a-journey.md)
-  + [使用AI分析和建立歷程](/help/ai-agents/journey-agent-overview.md)
+  + [使用 AI 分析並建立歷程](/help/ai-agents/journey-agent-overview.md)
   + [建立測試輪廓](/help/journeys/test-a-journey.md)
-  + [使用外部對象模擬歷程](/help/journeys/simulate-journeys-with-external-audiences.md)
+  + [使用外部客群模擬歷程](/help/journeys/simulate-journeys-with-external-audiences.md)
   + [發佈歷程](/help/journeys/publish-a-journey.md)
   + [內容決活動](/help/journeys/content-decision-activity.md)
   + [在歷程中使用資料集查詢](/help/journeys/lookup-dataset.md)
-  + [主要多屬性篩選](/help/journeys/mastering-multi-attribute-filtering.md)
+  + [掌握多屬性篩選功能](/help/journeys/mastering-multi-attribute-filtering.md)
   + [在歷程中搭配聯合客群使用多實體目標定位](/help/journeys/multi-entity-targeting-in-journeys.md)
   + [使用歷程試運行驗證歷程邏輯](/help/journeys/journey-dry-run.md)
   + [使用補充 ID，解除鎖定歷程重新進入](/help/journeys/unlock-journey-reentry-with-supplemental-id.md)
@@ -92,7 +92,7 @@ ht-degree: 94%
     + [使用電子郵件設計工具建立內容](/help/channels/create-content-with-the-email-designer.md)
     + [匯入及編寫 HTML 電子郵件內容](/help/channels/import-and-author-html-email-content.md)
     + [預覽、校樣和發佈](/help/channels/preview-proof-and-publish.md)
-    + [AI支援的品牌內內容建立 — 教學課程](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/create-on-brand-content/overview)
+    + [使用 AI 建立符合品牌形象的內容 — 教學課程](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/create-on-brand-content/overview)
   + 內容卡片{#content-cards}
     + [建立內容卡](/help/channels/create-content-cards.md)
   + 應用程式內頻道{#in-app-channel}
@@ -123,7 +123,7 @@ ht-degree: 94%
     + [WhatsApp 頻道簡介](/help/channels/whatsapp-introduction.md)
     + [設定 WhatsApp 頻道](/help/channels/set-up-whatsapp.md)
     + [建立 WhatsApp 歷程](/help/channels/create-a-whatsapp-journey.md)
-  + [設定和使用自訂頻道](/help/channels/configure-and-use-custom-channels.md)
+  + [設定並使用自訂管道](/help/channels/configure-and-use-custom-channels.md)
 + 內容管理{#content-management}
   + [訊息製作 — 概觀](/help/content-management/message-authoring-overview.md)
   + 管理資產 {#assets}
@@ -149,7 +149,7 @@ ht-degree: 94%
   + [根據輪廓偏好設定或傾向分數最佳化管道](/help/channels/channel-optimization.md)
   + [使用 GenStudio 建立電子郵件](/help/content-management/create-an-email-using-genstudio.md)
   + [啟用管道製作中的外部資料整合](/help/content-management/external-data-integrations-in-channel-authoring.md)
-  + [在Journey Optimizer中建立品牌上內容 — 教學課程](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/create-on-brand-content/overview)
+  + [在 Journey Optimizer 中建立符合品牌形象的內容 — 教學課程](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/create-on-brand-content/overview)
 + 將內容個人化 {#personalize-content}
   + [個人化編輯器 — 概觀](/help/personalize-content/personalization-editor-overview.md)
   + [以輪廓和客群成員資格為基礎的個人化](/help/personalize-content/profile-and-audience-membership-based-personalization.md)
@@ -177,7 +177,7 @@ ht-degree: 94%
       + [使用決策功能個人化電子郵件 (教學課程)](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/use-decisioning-in-email-channel/introduction){target="_blank"}
       + [在推播通知中使用決策](/help/decisioning/decisioning-in-push-notifications.md)
       + [在簡訊中使用決策](/help/decisioning/use-decisioning-in-an-sms-message.md)
-      + {hide-from-toc}[在網頁視覺化編輯器中使用決策](/help/decisioning/use-decisioning-within-the-web-visual-editor.md)
+      + {hide-from-toc}[在網頁視覺化編輯器中使用決策功能](/help/decisioning/use-decisioning-within-the-web-visual-editor.md)
       + [使用決策，將網頁優惠個人化 (教學課程)](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/use-decisioning-to-personalize-web-offers/introduction){target="_blank"}
       + [使用 Experience Manager 內容片段與決策功能](/help/decisioning/use-aem-content-fragments-with-ajo-decisioning.md)
     + 從外部觸發程序和互動觸發決策 {#trigger}
@@ -266,7 +266,7 @@ ht-degree: 94%
   + [強化客戶參與度](/help/use-cases/enhance-customer-engagement.md){target="_blank"}
   + [將協調流程縮放為全頻道參與](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction.md){target="_blank"}
   + 使用案例教戰手冊 {#use-case-playbooks}
-    + [概覽](https://experienceleague.adobe.com/zh-hant/docs/platform-learn/tutorials/use-case-playbooks/overview){target="_blank"}
+    + [概觀](https://experienceleague.adobe.com/zh-hant/docs/platform-learn/tutorials/use-case-playbooks/overview){target="_blank"}
     + [設定教戰手冊沙箱](https://experienceleague.adobe.com/zh-hant/docs/platform-learn/tutorials/use-case-playbooks/configure-a-playbook-sandbox){target="_blank"}
     + [建立和發佈教戰手冊執行個體](https://experienceleague.adobe.com/zh-hant/docs/platform-learn/tutorials/use-case-playbooks/create-and-publish-a-playbook-instance){target="_blank"}
 + 練習、實驗與挑戰 {#exercises-and-challenges}

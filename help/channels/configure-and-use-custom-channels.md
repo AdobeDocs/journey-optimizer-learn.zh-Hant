@@ -1,6 +1,6 @@
 ---
-title: 設定和使用自訂頻道
-description: 瞭解如何使用自訂管道連結Adobe Journey Optimizer原生不支援的傳訊管道，例如Slack、WeChat、Telegram或您自己的專屬平台。
+title: 設定並使用自訂管道
+description: 瞭解如何使用自訂管道連結 Adobe Journey Optimizer 原生不支援的傳訊管道，例如 Slack、WeChat、Telegram 或您自己的專屬平台。
 feature: Channels
 role: Admin, User
 level: Beginner, Intermediate
@@ -16,19 +16,19 @@ product_v2:
 feature_v2:
   - id: d0a62d3c-b79e-47e4-929e-40ef3cffa037
 source-git-commit: 507316431c32151c0b07499c60a261fed57f391e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: 80
-ht-degree: 2%
+ht-degree: 100%
 
 ---
 
 
-# 設定和使用自訂頻道
+# 設定並使用自訂管道
 
 {{limited-availability}}
 
-瞭解如何使用自訂管道連結Adobe Journey Optimizer原生不支援的傳訊管道，例如Slack、WeChat、Telegram或您自己的專屬平台。
+瞭解如何使用自訂管道連結 Adobe Journey Optimizer 原生不支援的傳訊管道，例如 Slack、WeChat、Telegram 或您自己的專屬平台。
 
-本影片逐步說明如何端對端建立自訂傳出頻道，並在歷程中使用。
+本影片逐步說明如何端對端建立自訂傳出管道，並將其用於歷程中。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3496295/?captions=chi_hant&learn=on&enablevpops)
