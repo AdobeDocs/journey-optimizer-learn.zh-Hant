@@ -26,4 +26,4 @@ ht-degree: 100%
 
 探索 Adobe Journey Optimizer 的全新歷程畫布體驗。此更新引入現代化渲染引擎來驅動歷程畫布，使其與編排行銷活動及客群構成中現有的體驗一致。
 
->[!VIDEO](https://video.tv.adobe.com/v/3496193/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496202/?captions=chi_hant&learn=on&enablevpops)

@@ -30,4 +30,4 @@ ht-degree: 100%
 
 瞭解如何在網頁視覺編輯器內使用決策功能來個人化您的網頁。
 
->[!VIDEO](https://video.tv.adobe.com/v/3496300/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496312/?captions=chi_hant&learn=on&enablevpops)
