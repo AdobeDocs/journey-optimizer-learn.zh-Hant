@@ -9,9 +9,9 @@ last-substantial-update: 2025-04-30T00:00:00Z
 recommendations: noDisplay, noCatalog
 jira: KT-17923
 exl-id: 33b084ea-e712-4de0-8836-8795efaac7e2
-source-git-commit: 163edfb3367d03729d68c9339ee2af4a0fe3a1b3
+source-git-commit: 'null'
 workflow-type: tm+mt
-source-wordcount: '402'
+source-wordcount: '408'
 ht-degree: 0%
 
 ---
@@ -33,7 +33,7 @@ ht-degree: 0%
 
 ### 確認Launch規則執行
 
-* 開啟Adobe Experience Platform Debugger (Chrome擴充功能)
+* 開啟Adobe Experience Platform Debugger （Chrome擴充功能）
 * 登入除錯工具
 * 提交表單
 * 確認已擷取assetClassSelection的DataPushed事件
@@ -43,7 +43,7 @@ ht-degree: 0%
 
 ### 取得ECID
 
-ECID (Experience Cloud ID)是Adobe的永久性唯一識別碼，用於在Experience Cloud解決方案和工作階段中識別及統一使用者。
+ECID (Experience Cloud ID)是Adobe永續性的唯一識別碼，用於在Experience Cloud解決方案和工作階段中識別及統一使用者。
 
 * Chrome開發人員工具→網路索引標籤
 

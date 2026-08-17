@@ -1,7 +1,7 @@
 ---
 source-git-commit: ac61c4d30929b559826b4a770fc10c26aec74830
 workflow-type: tm+mt
-source-wordcount: '265'
+source-wordcount: '275'
 ht-degree: 3%
 
 ---
@@ -12,7 +12,7 @@ ht-degree: 3%
 **WhatsApp**&#x200B;是一款熱門的傳訊應用程式，可讓企業使用WhatsApp Business API透過個人化、對話式傳訊方式與客戶互動。\
 在Adobe Journey Optimizer中，WhatsApp可讓您直接將豐富、互動式的行銷和客戶服務訊息傳送給使用者的WhatsApp帳戶。
 
-範例：
+範例:
 
 * 傳送訂單更新或傳遞通知。
 * 透過聊天提供客戶支援。
