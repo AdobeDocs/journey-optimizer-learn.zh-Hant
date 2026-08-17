@@ -7,10 +7,10 @@ level: Beginner
 doc-type: Tutorial
 jira: KT-21773
 last-substantial-update: 2026-07-28T00:00:00Z
-source-git-commit: ac2e0d7217b3e0099b711c34e5793086835a3c15
+source-git-commit: 6313b2380e7b9a1cdd7b3ad1ba4b877fcc304000
 workflow-type: tm+mt
-source-wordcount: '312'
-ht-degree: 12%
+source-wordcount: '396'
+ht-degree: 10%
 
 ---
 
@@ -25,6 +25,13 @@ ht-degree: 12%
 
 * [瞭解哪些Journey Optimizer忠誠度](./introduction-to-loyalty/discover-journey-optimizer-loyalty.md)
 瞭解Journey Optimizer忠誠度是什麼、它在AJO下的位置以及挑戰生命週期。
+
+## 設定忠誠度
+
+本節介紹開始建立挑戰之前所需的一次性初始設定。
+
+* [設定忠誠獎勵提供者](./set-up-loyalty/set-up-a-loyalty-reward-provider.md)
+瞭解如何設定獎勵提供者、建立獎勵定義及設定獎勵裝載，以便Adobe Journey Optimizer可透過您的外部獎勵系統發出忠誠度獎勵。
 
 ## 設定您的挑戰
 
@@ -45,3 +52,5 @@ ht-degree: 12%
 
 * [建立挑戰內容卡](./apply-and-display-your-challenge/build-a-challenge-content-card.md)
 瞭解如何建置挑戰內容卡/程式碼型體驗，涵蓋選擇加入、進度和完成階段的動態進度，以及獎勵和管道設定。
+* [針對您的挑戰設定生命週期訊息](./apply-and-display-your-challenge/set-up-lifecycle-messaging-for-your-challenge.md)
+瞭解如何針對忠誠度挑戰的每個階段設定多管道訊息，從邀請和參與訊息到完成和獎勵通知。
