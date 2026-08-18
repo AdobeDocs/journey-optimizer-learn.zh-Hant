@@ -6,9 +6,9 @@ level: Beginner
 breadcrumb-title: 忠誠度
 breadcrumb-url: /docs/journey-optimizer-learn/loyalty/overview
 auto-video-transcripts: true
-source-git-commit: 9cf282f2c9f448648852931bfe0f3f7bb789205d
+source-git-commit: 3612bdc9c50be6999eba47f3c6e68c82c2120d20
 workflow-type: tm+mt
-source-wordcount: '110'
+source-wordcount: '119'
 ht-degree: 0%
 
 ---
@@ -27,6 +27,7 @@ ht-degree: 0%
   + [透過忠誠度AI代理程式提出挑戰並取得見解](./configure-your-challenge/create-a-challenge-and-get-insights-with-cx-enterprise-coworker.md)
 + 套用並顯示您的挑戰 {#apply-and-display-your-challenge}
   + [建立挑戰內容卡](./apply-and-display-your-challenge/build-a-challenge-content-card.md)
+  + [使用程式碼型體驗管道顯示挑戰內容](./apply-and-display-your-challenge/display-challenge-content-using-code-based-experience-channel.md)
   + [針對您的挑戰設定生命週期訊息](./apply-and-display-your-challenge/set-up-lifecycle-messaging-for-your-challenge.md)
 + 分析和報告 {#analyze-and-report}
   + {hide-from-toc}[使用挑戰報告追蹤效能](./analyze-and-report/track-performance-with-the-challenge-report.md)

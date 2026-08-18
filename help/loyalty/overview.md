@@ -7,9 +7,9 @@ level: Beginner
 doc-type: Tutorial
 jira: KT-21773
 last-substantial-update: 2026-07-28T00:00:00Z
-source-git-commit: 6313b2380e7b9a1cdd7b3ad1ba4b877fcc304000
+source-git-commit: 3612bdc9c50be6999eba47f3c6e68c82c2120d20
 workflow-type: tm+mt
-source-wordcount: '396'
+source-wordcount: '393'
 ht-degree: 10%
 
 ---
@@ -51,6 +51,6 @@ ht-degree: 10%
 本節說明如何透過內容卡和程式碼型體驗來向客戶提出挑戰。
 
 * [建立挑戰內容卡](./apply-and-display-your-challenge/build-a-challenge-content-card.md)
-瞭解如何建置挑戰內容卡/程式碼型體驗，涵蓋選擇加入、進度和完成階段的動態進度，以及獎勵和管道設定。
+瞭解如何建立挑戰內容卡，內容涵蓋選擇加入、進展和完成階段中的動態進度，以及獎勵和管道設定。
 * [針對您的挑戰設定生命週期訊息](./apply-and-display-your-challenge/set-up-lifecycle-messaging-for-your-challenge.md)
 瞭解如何針對忠誠度挑戰的每個階段設定多管道訊息，從邀請和參與訊息到完成和獎勵通知。
