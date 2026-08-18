@@ -6,9 +6,9 @@ level: Beginner
 breadcrumb-title: 忠誠度
 breadcrumb-url: /docs/journey-optimizer-learn/loyalty/overview
 auto-video-transcripts: true
-source-git-commit: ac2e0d7217b3e0099b711c34e5793086835a3c15
+source-git-commit: 3612bdc9c50be6999eba47f3c6e68c82c2120d20
 workflow-type: tm+mt
-source-wordcount: '99'
+source-wordcount: '119'
 ht-degree: 0%
 
 ---
@@ -18,12 +18,16 @@ ht-degree: 0%
 
 + [開始使用行銷人員適用的Journey Optimizer忠誠度](./overview.md)
 + [探索Journey Optimizer忠誠度](./introduction-to-loyalty/discover-journey-optimizer-loyalty.md)
++ 設定忠誠度 {#set-up-loyality}
+  + [設定忠誠度獎勵提供者](./set-up-loyalty/set-up-a-loyalty-reward-provider.md)
 + 設定您的挑戰 {#configure-your-challenge}
   + [設定忠誠度挑戰](./configure-your-challenge/set-up-a-loyalty-challenge.md)
   + [建立您的忠誠度挑戰任務](./configure-your-challenge/create-tasks.md)
   + [針對您的忠誠度挑戰設定獎勵](./configure-your-challenge/configure-rewards.md)
   + [透過忠誠度AI代理程式提出挑戰並取得見解](./configure-your-challenge/create-a-challenge-and-get-insights-with-cx-enterprise-coworker.md)
 + 套用並顯示您的挑戰 {#apply-and-display-your-challenge}
-  + [使用程式碼型體驗建立挑戰內容卡](./apply-and-display-your-challenge/build-a-challenge-content-card.md)
+  + [建立挑戰內容卡](./apply-and-display-your-challenge/build-a-challenge-content-card.md)
+  + [使用程式碼型體驗管道顯示挑戰內容](./apply-and-display-your-challenge/display-challenge-content-using-code-based-experience-channel.md)
+  + [針對您的挑戰設定生命週期訊息](./apply-and-display-your-challenge/set-up-lifecycle-messaging-for-your-challenge.md)
 + 分析和報告 {#analyze-and-report}
   + {hide-from-toc}[使用挑戰報告追蹤效能](./analyze-and-report/track-performance-with-the-challenge-report.md)
