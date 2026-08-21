@@ -3,7 +3,7 @@ user-guide-title: Journey Optimizer 教學課程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 這些是 Journey Optimizer 教學課程。
 auto-video-transcripts: true
-source-git-commit: 9a3164399d0a0e0f1434650e1f7a7bca55eb9793
+source-git-commit: e168e56efe575659b5f48e97af77b899f8b6c962
 workflow-type: tm+mt
 source-wordcount: '1573'
 ht-degree: 99%
@@ -64,7 +64,7 @@ ht-degree: 99%
     + [使用案例 - 客群資格篩選](/help/journeys/use-case-audience-qualification.md)
   + 教學課程{#tutorials}
     + [在提交表單時觸發歷程](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/trigger-journey-on-form-submission/introduction)
-+ [忠誠度](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/loyalty/overview)
++ [忠誠度](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/loyalty/overview){target="_blank"}
 + 衝突管理與優先順序 {#conflict-management}
   + [識別潛在衝突](/help/conflict-management/identify-potential-conflicts.md)
   + [指派優先順序分數](/help/conflict-management/assign-priority-score.md)
@@ -178,7 +178,7 @@ ht-degree: 99%
       + [使用決策功能個人化電子郵件 (教學課程)](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/use-decisioning-in-email-channel/introduction){target="_blank"}
       + [在推播通知中使用決策](/help/decisioning/decisioning-in-push-notifications.md)
       + [在簡訊中使用決策](/help/decisioning/use-decisioning-in-an-sms-message.md)
-      + {hide-from-toc}[在網頁視覺化編輯器中使用決策功能](/help/decisioning/use-decisioning-within-the-web-visual-editor.md)
+      + [在網頁視覺編輯器中使用決策](/help/decisioning/use-decisioning-within-the-web-visual-editor.md)
       + [使用決策，將網頁優惠個人化 (教學課程)](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/use-decisioning-to-personalize-web-offers/introduction){target="_blank"}
       + [使用 Experience Manager 內容片段與決策功能](/help/decisioning/use-aem-content-fragments-with-ajo-decisioning.md)
     + 從外部觸發程序和互動觸發決策 {#trigger}
