@@ -25,4 +25,4 @@ ht-degree: 0%
 
 瞭解如何針對忠誠度挑戰的每個階段設定多管道訊息，從邀請和參與訊息到完成和獎勵通知。
 
->[!VIDEO](https://video.tv.adobe.com/v/3497455/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3497464/?captions=chi_hant&learn=on&enablevpops)

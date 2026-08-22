@@ -28,4 +28,4 @@ ht-degree: 0%
 
 瞭解如何使用程式碼型體驗來促進忠誠度挑戰、顯示挑戰進度，以及使用HTML或JSON在應用程式內提供個人化內容。
 
->[!VIDEO](https://video.tv.adobe.com/v/3497465/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3497474/?captions=chi_hant&learn=on&enablevpops)

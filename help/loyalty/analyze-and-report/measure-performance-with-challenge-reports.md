@@ -28,4 +28,4 @@ ht-degree: 0%
 
 瞭解如何使用挑戰報表和績效儀表板來測量參與率、完成率、收入歸因和整體忠誠計畫績效。
 
->[!VIDEO](https://video.tv.adobe.com/v/3497534/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3497568/?captions=chi_hant&learn=on&enablevpops)
