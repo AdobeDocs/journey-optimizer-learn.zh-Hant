@@ -19,4 +19,4 @@ ht-degree: 0%
 
 快速模擬透過自動化關鍵流程簡化了測試客戶歷程。 它會產生測試設定檔、協調事件、加快等待時間並驗證情境。 此工具有助於在發佈之前確保複雜的歷程按預期運作，節省時間並提高準確性。
 
->[!VIDEO](https://video.tv.adobe.com/v/3497475/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3497484/?captions=chi_hant&learn=on&enablevpops)

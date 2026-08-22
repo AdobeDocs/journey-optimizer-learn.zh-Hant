@@ -30,4 +30,4 @@ ht-degree: 0%
 
 瞭解如何發佈挑戰並自動產生歷程。 探索如何將挑戰通訊轉換為歷程協調、檢閱產生的歷程結構，並使用其他條件、決策或最佳化邏輯來自訂它。
 
->[!VIDEO](https://video.tv.adobe.com/v/3498577/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3498586/?captions=chi_hant&learn=on&enablevpops)

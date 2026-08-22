@@ -23,4 +23,4 @@ ht-degree: 0%
 
 瞭解如何設定獎勵提供者、建立獎勵定義及設定獎勵裝載，以便Adobe Journey Optimizer可透過您的外部獎勵系統發出忠誠度獎勵。
 
->[!VIDEO](https://video.tv.adobe.com/v/3497346/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3497418/?captions=chi_hant&learn=on&enablevpops)
