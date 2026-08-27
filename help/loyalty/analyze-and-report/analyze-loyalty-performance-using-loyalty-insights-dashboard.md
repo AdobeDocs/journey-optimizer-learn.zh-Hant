@@ -19,4 +19,4 @@ ht-degree: 0%
 
 探索「忠誠度深入分析」儀表板，瞭解AI產生的深入分析如何協助您識別忠誠度計畫績效的重大變更、根據業務KPI排定結果的優先順序，以及對最重要的量度採取行動。
 
->[!VIDEO](https://video.tv.adobe.com/v/3497534/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3497568/?captions=chi_hant&learn=on&enablevpops)
