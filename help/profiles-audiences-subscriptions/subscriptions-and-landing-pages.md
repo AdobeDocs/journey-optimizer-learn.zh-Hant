@@ -23,4 +23,4 @@ ht-degree: 100%
 * 在訊息中整合取消訂閱/訂閱選項
 * 設定相關歷程
 
->[!VIDEO](https://video.tv.adobe.com/v/341280?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502221?captions=chi_hant&quality=12&learn=on){transcript=true}
