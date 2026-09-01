@@ -31,4 +31,4 @@ ht-degree: 0%
 
 使用挑戰報告和儀表板來測量忠誠計畫的參與率、完成率和收入。
 
->[!VIDEO](https://video.tv.adobe.com/v/3497534/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3497568/?captions=chi_hant&learn=on&enablevpops)
