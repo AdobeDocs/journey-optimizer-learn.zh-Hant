@@ -24,9 +24,9 @@ topic_v2:
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
   - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: fe7c7987788fc67bb5c7a58f61fa829f9e6146c1
+source-git-commit: 8b6b00c0ce8aabe6e683005a283ff219487bf6b4
 workflow-type: tm+mt
-source-wordcount: 1405
+source-wordcount: 1519
 ht-degree: 43%
 
 ---
@@ -53,8 +53,8 @@ CARDS
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/loyalty/discover-journey-optimizer-loyalty" title="探索Journey Optimizer忠誠度" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3496460/?captions=chi_hant&format=jpeg&nocache=1787869052840" alt="探索Journey Optimizer忠誠度"
+                    <a href="https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/loyalty/introduction/discover-journey-optimizer-loyalty" title="探索Journey Optimizer忠誠度" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3496460/?captions=chi_hant&format=jpeg&nocache=1789156823533" alt="探索Journey Optimizer忠誠度"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -62,11 +62,11 @@ CARDS
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/loyalty/discover-journey-optimizer-loyalty" target="_blank" rel="referrer" title="探索Journey Optimizer忠誠度">探索Journey Optimizer忠誠度</a>
+                        <a href="https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/loyalty/introduction/discover-journey-optimizer-loyalty" target="_blank" rel="referrer" title="探索Journey Optimizer忠誠度">探索Journey Optimizer忠誠度</a>
                     </p>
                     <p class="is-size-6">瞭解Journey Optimizer忠誠度是什麼、它在AJO下的位置以及挑戰生命週期。</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/loyalty/discover-journey-optimizer-loyalty" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/loyalty/introduction/discover-journey-optimizer-loyalty" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">觀看</span>
                 </a>
             </div>
@@ -94,7 +94,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./set-up-loyalty/set-up-a-loyalty-reward-provider.md" title="設定忠誠度獎勵提供者" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3497418/?captions=chi_hant&format=jpeg&nocache=1787869053174" alt="設定忠誠度獎勵提供者"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3497418/?captions=chi_hant&format=jpeg&nocache=1789156823971" alt="設定忠誠度獎勵提供者"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -140,7 +140,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./configure-your-challenge/set-up-a-loyalty-challenge.md" title="設定忠誠度挑戰" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3496480/?captions=chi_hant&format=jpeg&nocache=1787869053564" alt="設定忠誠度挑戰"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3496480/?captions=chi_hant&format=jpeg&nocache=1789156824314" alt="設定忠誠度挑戰"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -163,7 +163,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./configure-your-challenge/create-tasks.md" title="建立您的忠誠度挑戰任務" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3496451/?captions=chi_hant&format=jpeg&nocache=1787869053552" alt="建立您的忠誠度挑戰任務"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3496451/?captions=chi_hant&format=jpeg&nocache=1789156824304" alt="建立您的忠誠度挑戰任務"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -186,7 +186,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./configure-your-challenge/configure-rewards.md" title="設定獎勵" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3496490/?captions=chi_hant&format=jpeg&nocache=1787869053558" alt="設定獎勵"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3496490/?captions=chi_hant&format=jpeg&nocache=1789156824293" alt="設定獎勵"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -209,7 +209,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./configure-your-challenge/create-a-challenge-and-get-insights-with-cx-enterprise-coworker.md" title="與CX Enterprise Co-worker一起提出忠誠度挑戰及表面分析" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3496547/?captions=chi_hant&format=jpeg&nocache=1787869053547" alt="與CX Enterprise Co-worker一起提出忠誠度挑戰及表面分析"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3496547/?captions=chi_hant&format=jpeg&nocache=1789156824322" alt="與CX Enterprise Co-worker一起提出忠誠度挑戰及表面分析"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -241,6 +241,8 @@ CARDS
   {description = Learn how to build a challenge content card / code-based experience, covering opt-in and dynamic progress across the opt-in, progress, and completed stages, plus rewards and channel configuration.}
 * ./apply-and-display-your-challenge/display-challenge-content-using-code-based-experience-channel.md
   {description = Learn how to use code-based experiences to promote loyalty challenges, display challenge progress, and deliver personalized content within your app using HTML or JSON.}
+* ./apply-and-display-your-challenge/personalize-content-with-challenge-attributes-using-custom-actions.md
+  {description = Learn how to retrieve challenge data with a custom action and use it to dynamically personalize content cards and code-based experiences based on each member's challenge progress and rewards.}
 * ./apply-and-display-your-challenge/set-up-lifecycle-messaging-for-your-challenge.md
   {description = Learn how to configure multi-channel messaging for every stage of a loyalty challenge, from invitations and engagement messages to completion and reward notifications.}
 * ./apply-and-display-your-challenge/publish-a-challenge-and-generate-a-journey.md
@@ -253,7 +255,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./apply-and-display-your-challenge/build-a-challenge-content-card.md" title="建立挑戰內容卡" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3496538/?captions=chi_hant&format=jpeg&nocache=1787869053793" alt="建立挑戰內容卡"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3496538/?captions=chi_hant&format=jpeg&nocache=1789156824978" alt="建立挑戰內容卡"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -276,7 +278,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./apply-and-display-your-challenge/display-challenge-content-using-code-based-experience-channel.md" title="使用程式碼型體驗管道顯示挑戰內容" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3497474/?captions=chi_hant&format=jpeg&nocache=1787869053789" alt="使用程式碼型體驗管道顯示挑戰內容"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3497474/?captions=chi_hant&format=jpeg&nocache=1789156824965" alt="使用程式碼型體驗管道顯示挑戰內容"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -294,12 +296,35 @@ CARDS
             </div>
         </div>
     </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Personalize content with challenge attributes using custom actions">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="./apply-and-display-your-challenge/personalize-content-with-challenge-attributes-using-custom-actions.md" title="使用自訂動作利用挑戰屬性個人化內容" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3503375/?format=jpeg&nocache=1789156824989" alt="使用自訂動作利用挑戰屬性個人化內容"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="./apply-and-display-your-challenge/personalize-content-with-challenge-attributes-using-custom-actions.md" target="_blank" rel="referrer" title="使用自訂動作利用挑戰屬性個人化內容">使用自訂動作以挑戰屬性個人化內容</a>
+                    </p>
+                    <p class="is-size-6">瞭解如何使用自訂動作擷取挑戰資料，並用於根據每位成員的挑戰進度和獎勵，動態地個人化內容卡和程式碼型體驗。</p>
+                </div>
+                <a href="./apply-and-display-your-challenge/personalize-content-with-challenge-attributes-using-custom-actions.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">觀看</span>
+                </a>
+            </div>
+        </div>
+    </div>
     <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Set up lifecycle messaging for your challenge">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./apply-and-display-your-challenge/set-up-lifecycle-messaging-for-your-challenge.md" title="針對您的挑戰設定生命週期訊息" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3497464/?captions=chi_hant&format=jpeg&nocache=1787869053804" alt="針對您的挑戰設定生命週期訊息"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3497464/?captions=chi_hant&format=jpeg&nocache=1789156824972" alt="針對您的挑戰設定生命週期訊息"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -322,7 +347,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./apply-and-display-your-challenge/publish-a-challenge-and-generate-a-journey.md" title="發佈挑戰並產生歷程" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3498586/?captions=chi_hant&format=jpeg&nocache=1787869053798" alt="發佈挑戰並產生歷程"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3498586/?captions=chi_hant&format=jpeg&nocache=1789156824984" alt="發佈挑戰並產生歷程"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -363,7 +388,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./analyze-and-report/measure-performance-with-challenge-reports.md" title="使用挑戰報告測量挑戰效能" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3497568/?captions=chi_hant&format=jpeg&nocache=1787869054075" alt="使用挑戰報告測量挑戰效能"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3497568/?captions=chi_hant&format=jpeg&nocache=1789156825529" alt="使用挑戰報告測量挑戰效能"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -381,12 +406,12 @@ CARDS
             </div>
         </div>
     </div>
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Analyze loyalty performance using the loyalty insights dashboard">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Analyze loyalty performance with the insights dashboard">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="./analyze-and-report/analyze-loyalty-performance-using-loyalty-insights-dashboard.md" title="使用忠誠度分析儀表板來分析忠誠度績效" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3502413/?format=jpeg&nocache=1787869054083" alt="使用忠誠度分析儀表板來分析忠誠度績效"
+                    <a href="./analyze-and-report/analyze-loyalty-performance-using-loyalty-insights-dashboard.md" title="使用見解儀表板分析熟客績效" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3502413/?format=jpeg&nocache=1789156825538" alt="使用見解儀表板分析熟客績效"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -394,7 +419,7 @@ CARDS
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="./analyze-and-report/analyze-loyalty-performance-using-loyalty-insights-dashboard.md" target="_blank" rel="referrer" title="使用忠誠度分析儀表板來分析忠誠度績效">使用熟客方案見解儀表板分析熟客方案績效</a>
+                        <a href="./analyze-and-report/analyze-loyalty-performance-using-loyalty-insights-dashboard.md" target="_blank" rel="referrer" title="使用見解儀表板分析熟客績效">使用見解儀表板分析熟客績效</a>
                     </p>
                     <p class="is-size-6">探索「忠誠度深入分析」儀表板，瞭解AI產生的深入分析如何協助您識別忠誠度計畫績效的重大變更、根據業務KPI排定結果的優先順序，以及對最重要的量度採取行動。</p>
                 </div>
