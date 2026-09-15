@@ -35,4 +35,4 @@ ht-degree: 0%
 
 瞭解如何使用自訂動作擷取挑戰資料，並用於根據每位成員的挑戰進度和獎勵，動態地個人化內容卡和程式碼型體驗。
 
->[!VIDEO](https://video.tv.adobe.com/v/3503375/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3503393/?captions=chi_hant&learn=on&enablevpops)
