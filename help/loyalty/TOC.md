@@ -1,24 +1,23 @@
 ---
-user-guide-title: 開始使用Journey Optimizer忠誠度
-user-guide-description: 瞭解如何加入Adobe Journey Optimizer忠誠度、設定挑戰、套用和顯示挑戰並分析其成效。
+user-guide-title: 開始使用Journey Optimizer Loyalty
+user-guide-description: 瞭解如何加入Adobe Journey Optimizer Loyalty、設定挑戰、套用和顯示挑戰並分析其效能。
 role: User
 level: Beginner
 breadcrumb-title: 忠誠度
 breadcrumb-url: /docs/journey-optimizer-learn/loyalty/overview
 auto-video-transcripts: true
-source-git-commit: b812dd2c5228314771c572a184ae396aa400d524
+source-git-commit: 46d45d93310e930dff2cc491b76b19658630811f
 workflow-type: tm+mt
-source-wordcount: '145'
+source-wordcount: '149'
 ht-degree: 0%
-
 ---
 
+# 開始使用Journey Optimizer Loyalty {#loyalty}
 
-# 開始使用Journey Optimizer忠誠度 {#loyalty}
-
-+ [開始使用行銷人員適用的Journey Optimizer忠誠度](./overview.md)
++ [開始使用行銷人員適用的Journey Optimizer Loyalty](./overview.md)
 + 熟客率簡介 {#introduction}
-  + [探索Journey Optimizer忠誠度](./introduction-to-loyalty/discover-journey-optimizer-loyalty.md)
+  + [探索Journey Optimizer Loyalty](./introduction-to-loyalty/discover-journey-optimizer-loyalty.md)
+  + [瞭解忠誠度挑戰概念](./help/loyalty/introduction-to-loyalty/understand-loyalty-challenge-concepts.md)
 + 設定忠誠度 {#set-up-loyality}
   + [設定忠誠度獎勵提供者](./set-up-loyalty/set-up-a-loyalty-reward-provider.md)
 + 設定您的挑戰 {#configure-your-challenge}
