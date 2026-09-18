@@ -20,9 +20,9 @@ Adobe Journey Optimizer中的排名公式會在Offer Decisioning期間使用，�
 
 * 登入Journey Optimizer
 
-* 導覽至&#x200B;_**決策 — >策略設定 — >排名公式 — >建立公式**_
+* 導覽至&#x200B;_&#x200B;**決策 — >策略設定 — >排名公式 — >建立公式**&#x200B;_
 
-為公式&#x200B;_**命名Weather - Related - Offers**_
+為公式&#x200B;_&#x200B;**命名Weather - Related - Offers**&#x200B;_
 
 
 
