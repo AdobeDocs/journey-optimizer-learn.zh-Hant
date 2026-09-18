@@ -50,9 +50,9 @@ ht-degree: 43%
 <!--
 CARDS
 
-* https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/loyalty/introduction/discover-journey-optimizer-loyalty
+* https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/loyalty/introduction/discover-journey-optimizer-loyalty
   {description = Understand what Journey Optimizer Loyalty is, where it sits under AJO, and the challenge lifecycle.}
-* https://experienceleague.adobe.com/en/slides/understand-loyalty-challenge-concepts
+* https://experienceleague.adobe.com/zh-hant/slides/understand-loyalty-challenge-concepts
     {decription = Before you build anything in Adobe Journey Optimizer Loyalty, it helps to understand what a loyalty challenge is and the few pieces it's made of.}
 
 -->
@@ -62,7 +62,7 @@ CARDS
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/loyalty/introduction/discover-journey-optimizer-loyalty" title="探索Journey Optimizer Loyalty" target="_blank" rel="referrer">
+                    <a href="https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/loyalty/introduction/discover-journey-optimizer-loyalty" title="探索Journey Optimizer Loyalty" target="_blank" rel="referrer">
                         <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3496441/?format=jpeg&nocache=1789773692859" alt="探索Journey Optimizer Loyalty"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
@@ -71,11 +71,11 @@ CARDS
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/loyalty/introduction/discover-journey-optimizer-loyalty" target="_blank" rel="referrer" title="探索Journey Optimizer Loyalty">探索Journey Optimizer Loyalty</a>
+                        <a href="https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/loyalty/introduction/discover-journey-optimizer-loyalty" target="_blank" rel="referrer" title="探索Journey Optimizer Loyalty">探索Journey Optimizer Loyalty</a>
                     </p>
                     <p class="is-size-6">瞭解Journey Optimizer Loyalty是什麼、它在AJO之下的位置以及挑戰生命週期。</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/loyalty/introduction/discover-journey-optimizer-loyalty" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/loyalty/introduction/discover-journey-optimizer-loyalty" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">觀看</span>
                 </a>
             </div>
@@ -85,8 +85,8 @@ CARDS
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/slides/understand-loyalty-challenge-concepts" title="瞭解忠誠度挑戰概念" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/slides/media_1f770caceb9f5f729468044b7d16782f0857bc158.png?width=400&format=pjpg&optimize=medium" alt="瞭解忠誠度挑戰概念"
+                    <a href="https://experienceleague.adobe.com/zh-hant/slides/understand-loyalty-challenge-concepts" title="瞭解忠誠度挑戰概念" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/zh-hant/slides/media_1f770caceb9f5f729468044b7d16782f0857bc158.png?width=400&format=pjpg&optimize=medium" alt="瞭解忠誠度挑戰概念"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -94,11 +94,11 @@ CARDS
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/slides/understand-loyalty-challenge-concepts" target="_blank" rel="referrer" title="瞭解忠誠度挑戰概念">瞭解忠誠度挑戰概念</a>
+                        <a href="https://experienceleague.adobe.com/zh-hant/slides/understand-loyalty-challenge-concepts" target="_blank" rel="referrer" title="瞭解忠誠度挑戰概念">瞭解忠誠度挑戰概念</a>
                     </p>
                     <p class="is-size-6">在Adobe Journey Optimizer Loyalty中建立任何內容之前，請先瞭解什麼是忠誠度挑戰，以及它所建立的幾個部分。 ...</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/slides/understand-loyalty-challenge-concepts" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/zh-hant/slides/understand-loyalty-challenge-concepts" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解更多</span>
                 </a>
             </div>
