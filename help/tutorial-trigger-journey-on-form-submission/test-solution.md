@@ -5,24 +5,23 @@ feature: Journeys
 role: User
 level: Beginner
 doc-type: Tutorial
-last-substantial-update: 2025-12-25T00:00:00Z
+last-substantial-update: 2025-12-25
 jira: KT-20014
-source-git-commit: 319b1cd4a037807a944e5fb6438e47b5fcf4c1c4
+exl-id: 9b4a3e0c-d153-4a6b-a7de-b926bd669f6a
+source-git-commit: d4cc60f4448caec92f704026783e2bbe029427f5
 workflow-type: tm+mt
-source-wordcount: '154'
+source-wordcount: '144'
 ht-degree: 0%
-
 ---
-
 # 測試解決方案
 
 
 測試解決方案
->[!VIDEO](https://video.tv.adobe.com/v/3478557?captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/3478546)
 
 ## 部署範例資產
 
-如果您尚未安裝Node.js，請從這裡[下載並](https://nodejs.org/)安裝
+如果您尚未安裝Node.js，請從這裡](https://nodejs.org/)下載並[安裝
 
 執行以驗證安裝：
 
@@ -50,15 +49,13 @@ ht-degree: 0%
 
 * 解壓縮[project-root.zip](assets/project-root.zip)的內容，並將其放在`trigger-journey`資料夾中。
 
-* 在`public`資料夾中建立名為`trigger-journey`的資料夾
+* 在`trigger-journey`資料夾中建立名為`public`的資料夾
 * 以適當的值更新`.env`檔案。 建立HTTP Source連線時，可從下載的cURL命令取得這些值。
 * 將[index.zip](assets/index.zip)的內容解壓縮至`public`資料夾
 
 ## 執行伺服器
 
 確定您位於`trigger-journey`目錄中。
-執行命令`node server.js`
+執行命令 `node server.js`
 將瀏覽器指向[網頁](http://localhost:3000/)
 填寫並提交表單。 歷程會觸發，並傳送電子郵件至表單中輸入的電子郵件ID。
-
-

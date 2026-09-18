@@ -1,20 +1,19 @@
 ---
 title: 在Adobe Journey Optimizer中使用JSON內容傳遞Personalization
-description: 運用Adobe Journey Optimizer (AJO)中的JSON內容型別，建置靈活、資料導向的個人化體驗。
+description: 利用 Adobe Journey Optimizer (AJO) 中的 JSON 內容類型來建置靈活且受資料驅動的個人化體驗。
 feature: Decisioning
 role: User
 level: Beginner
 doc-type: Tutorial
-last-substantial-update: 2025-06-18T00:00:00Z
+last-substantial-update: 2025-06-18
 jira: KT-18387
 recommendations: noDisplay, noCatalog
-source-git-commit: 9f5b52063605832a9b00c05fb1a93bf60ec7686f
+exl-id: a09beca4-9266-4004-9831-d3c706b631a5
+source-git-commit: b4cf9b677c6bc142e1013649db16b3a70b405052
 workflow-type: tm+mt
-source-wordcount: '489'
-ht-degree: 0%
-
+source-wordcount: '501'
+ht-degree: 3%
 ---
-
 # 在Adobe Journey Optimizer中使用JSON內容傳遞Personalization
 
 此區段作為進階使用者的額外資源提供，這些使用者想要更深入控制優惠方案在前端上的呈現方式。
@@ -66,5 +65,5 @@ ht-degree: 0%
 
 為協助您開始使用，請下載範例HTML檔案和JavaScript檔案，示範如何使用JSON型選件並在網頁上動態轉譯。
 
-[JavaScript代碼](assets/weather-related-offers-script-multiple-json.js)
+[JavaScript程式碼](assets/weather-related-offers-script-multiple-json.js)
 [HTML檔案](assets/multiple-json.html)
