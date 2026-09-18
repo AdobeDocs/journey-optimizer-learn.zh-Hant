@@ -19,4 +19,4 @@ ht-degree: 0%
 
 **定義HTTP串流端點**
 
->[!VIDEO](https://video.tv.adobe.com/v/3478496)
+>[!VIDEO](https://video.tv.adobe.com/v/3478507?captions=chi_hant)
