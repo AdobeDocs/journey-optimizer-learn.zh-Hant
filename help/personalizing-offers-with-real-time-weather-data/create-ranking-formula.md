@@ -5,16 +5,15 @@ feature: Decisioning
 role: User
 level: Beginner
 doc-type: Tutorial
-last-substantial-update: 2025-06-10T00:00:00Z
+last-substantial-update: 2025-06-10
 recommendations: noDisplay, noCatalog
 jira: KT-18258
-source-git-commit: c04a15418e31dc82597b7759386907013728bb0d
+exl-id: 23a9d36f-ac2c-42a5-b08d-79c7118920c9
+source-git-commit: b4cf9b677c6bc142e1013649db16b3a70b405052
 workflow-type: tm+mt
-source-wordcount: '259'
+source-wordcount: '260'
 ht-degree: 0%
-
 ---
-
 # 建立排名公式
 
 Adobe Journey Optimizer中的排名公式會在Offer Decisioning期間使用，尤其是在選取策略中，用來決定合格優惠方案的優先順序。 適用性篩選之後，排名公式就會開始起作用，當多個優惠符合指定設定檔的資格時，但應根據商業邏輯或設定檔內容只顯示前一個（或少數個）。

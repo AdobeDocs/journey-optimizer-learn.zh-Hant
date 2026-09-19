@@ -1,20 +1,19 @@
 ---
 title: 使用Adobe Web SDK觸發Adobe Journey Optimizer歷程
-description: 瞭解如何善用透過Adobe Journey Optimizer標籤設定的AEP Web SDK，從使用者登入等網站事件開始Adobe Experience Platform歷程
+description: 了解如何善用透過 Adobe Experience Platform 標記設定的 AEP Web SDK，從使用者登入一類網站事件開始 Adobe Journey Optimizer 歷程
 feature: Profiles
 role: User
 level: Beginner
 doc-type: Tutorial
-last-substantial-update: 2025-09-24T00:00:00Z
+last-substantial-update: 2025-09-24
 recommendations: noDisplay, noCatalog
 jira: KT-19287
-source-git-commit: 6927cade07790603e711f4e6e4c3f6982a56e6f5
+exl-id: c6d4f720-3780-4012-a2bd-8eae23599144
+source-git-commit: d4cc60f4448caec92f704026783e2bbe029427f5
 workflow-type: tm+mt
-source-wordcount: '283'
-ht-degree: 0%
-
+source-wordcount: '290'
+ht-degree: 10%
 ---
-
 # 使用Adobe Web SDK觸發Adobe Journey Optimizer歷程
 
 在身分拼接教學課程的這個擴充功能中，會觸發Adobe Journey Optimizer歷程，利用登入使用者拼接的設定檔向其傳送電子郵件。 **本文假設您熟悉電子郵件頻道，並為電子郵件頻道建立內容。**
@@ -53,7 +52,3 @@ ht-degree: 0%
 
 * 檢視歷程報告以驗證此
 * ![歷程報告](assets/journey-triggered-report.png)
-
-
-
-

@@ -5,16 +5,15 @@ feature: Decisioning
 role: User
 level: Beginner
 doc-type: Tutorial
-last-substantial-update: 2025-06-10T00:00:00Z
+last-substantial-update: 2025-06-10
 jira: KT-18258
 recommendations: noDisplay, noCatalog
-source-git-commit: c04a15418e31dc82597b7759386907013728bb0d
+exl-id: 0a249214-b6a1-4e71-99d9-8a9da0322b15
+source-git-commit: b4cf9b677c6bc142e1013649db16b3a70b405052
 workflow-type: tm+mt
-source-wordcount: '119'
+source-wordcount: '120'
 ht-degree: 0%
-
 ---
-
 # 建立選取策略
 
 選擇策略是可重複使用的設定，結合優惠方案集合與適用性規則，以及決定決策原則中使用策略時會顯示哪些優惠方案的排名方法。

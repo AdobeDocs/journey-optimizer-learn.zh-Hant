@@ -5,15 +5,14 @@ feature: Decisioning
 role: User
 level: Beginner
 doc-type: Tutorial
-last-substantial-update: 2026-01-21T00:00:00Z
+last-substantial-update: 2026-01-21
 jira: KT-18526
-source-git-commit: bef6d831c639d40514552dae3ff20132626a4a09
+exl-id: 34027499-0037-4ea1-813b-51be15eafe24
+source-git-commit: d4cc60f4448caec92f704026783e2bbe029427f5
 workflow-type: tm+mt
-source-wordcount: '224'
+source-wordcount: '230'
 ht-degree: 0%
-
 ---
-
 # 為AJO行銷活動啟用頻率限定
 
 若要套用頻率限定至選件，請完成下列步驟：
@@ -47,5 +46,3 @@ ht-degree: 0%
 ## 傳送曝光和追蹤事件
 
 修改現有的JavaScript程式碼，以使用Adobe Web SDK擷取優惠閱聽和互動事件並傳送至Adobe Experience Platform。 請參閱此處提供的[範常式式碼。](capture-impression-click-events.md)
-
-
