@@ -1,5 +1,5 @@
 ---
-source-git-commit: 084d4d9457db32e30855cd6466439b1de96f2b68
+source-git-commit: fc279f2ff41f624e4a6a0c4c930cedfcc2745dc5
 workflow-type: tm+mt
 source-wordcount: '360'
 ht-degree: 3%
@@ -12,10 +12,10 @@ ht-degree: 3%
 
 Adobe Journey Optimizer支援兩個主要行動平台上的即時活動：
 
-* **[iOS Live活動](/help/channels/ios-live-activities.md)** — iPhone鎖定畫面和動態島上的豐富即時更新。
-* **[Android即時更新](/help/channels/android-live-updates.md)** — Android通知陰影中的即時、持續更新。
+* **[iOS Live活動](/help/channels/ios-live-activities.md)**： iPhone鎖定畫面及Dynamic Island上的豐富即時更新。
+* **[Android即時更新](/help/channels/android-live-updates.md)**： Android通知陰影中的即時、持續更新。
 
-若要設定Mobile SDK並使用API來啟動、更新及結束客戶歷程中的即時體驗，請參閱[設定即時活動](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer/using/channels/live-activity/configure-live-activity/mobile-live-configuration-sdk){target="_blank"}。
+若要設定Mobile SDK並使用API來啟動、更新及結束客戶歷程中的即時體驗，請參閱[設定即時活動](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/channels/live-activity/configure-live-activity/mobile-live-configuration-sdk){target="_blank"}。
 
 ## 使用案例
 
@@ -30,7 +30,7 @@ Adobe Journey Optimizer支援兩個主要行動平台上的即時活動：
 
 ## 當&#x200B;*不*&#x200B;使用已上線活動時
 
-* 對於沒有明確結尾的長期執行或未結束狀態 — 在基礎處理完成時結束活動。
-* 針對促銷或行銷內容 — 請改用推播通知、應用程式內訊息或內容卡。
+* 對於沒有明確結尾的長期執行或未結束狀態 — 一旦基礎處理完成，即結束活動。
+* 促銷或行銷內容 — 請改用推播通知、應用程式內訊息或內容卡。
 * 當更新節奏非常快時 — 頻繁的更新會被作業系統限制，或者讓使用者感到嘈雜。
 * 如果您的應用程式不支援iOS Live活動或Android Live更新所需的最低作業系統版本。
