@@ -6,15 +6,13 @@ level: Beginner, Intermediate
 hide: false
 index: true
 jira: KT-19870
-last-substantial-update: 2025-12-18T00:00:00Z
+last-substantial-update: 2025-12-18
 exl-id: ea3ada11-8b2f-47d0-89d2-c22dc87f36be
-source-git-commit: 3917e11cdf8c0450c19ce653a0964f6dc9da6a3c
+source-git-commit: 084d4d9457db32e30855cd6466439b1de96f2b68
 workflow-type: tm+mt
-source-wordcount: '3509'
-ht-degree: 68%
-
+source-wordcount: '3622'
+ht-degree: 67%
 ---
-
 # 設計與傳遞
 
 瞭解如何使用Adobe Journey Optimizer建立和提供具影響力的行動通訊。 瞭解如何建立、設計和傳送各種訊息型別，包括推播通知、應用程式內訊息、內容卡、SMS/MMS/RCS、WhatsApp行銷訊息，以及為您的對象量身打造並最佳化行動互動的程式碼型體驗。
@@ -273,6 +271,32 @@ CARDS
 | ![建立及設定內容卡&#x200B;](./assets/configuration.svg) [**建立及設定內容卡**](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer/using/channels/content-card/create-content-card){target="_blank"} | ![設計內容卡&#x200B;](./assets/content-management.png){width="50"}[**設計內容卡**](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer/using/channels/content-card/design-content-card){target="_blank"} |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
+>[!TAB 已上線活動]
+
+### 即時動態
+
+>[!PREREQUISITES]
+>
+> 1. 確認應用程式已與Mobile SDK整合，並設定了即時活動擴充功能（請參閱[設定即時活動](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer/using/channels/live-activity/configure-live-activity/mobile-live-configuration-sdk){target="_blank"}）。
+> 2. 確保客戶設定檔和受眾區段準備好進行目標定位。
+
+#### iOS 即時動態
+
+了解如何使用 Adobe Journey Optimizer 設定iOS 即時動態，以在 iPhone 鎖定畫面與動態島上提供豐富的即時更新。
+
+>[!VIDEO](https://video.tv.adobe.com/v/3479875/?captions=chi_hant&learn=on&enablevpops)
+
+#### Android即時更新
+
+瞭解如何在Adobe Journey Optimizer中建立和傳遞Android即時更新，啟用即時、持續的客戶體驗，讓使用者在活動進行時瞭解最新資訊。
+
+>[!VIDEO](https://video.tv.adobe.com/v/3503646/?learn=on&enablevpops)
+
+#### 產品文件
+
+| ![設定已上線活動&#x200B;](./assets/configuration.svg) [**設定已上線活動**](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer/using/channels/live-activity/configure-live-activity/mobile-live-configuration-sdk){target="_blank"} |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
 >[!TAB SMS/MMS/RCS]
 
 ### SMS/MMS/RCS訊息
@@ -307,7 +331,7 @@ CARDS
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/tutorials/channels/sms-channel/sms-mms-messages-overview" target="_blank" rel="referrer" title="SMS/MMS 訊息 — 概觀">SMS/MMS 訊息 - 概觀</a>
                     </p>
-                    <p class="is-size-6">了解如何建立、排程發送及散佈 SMS 和 MMS 訊息，隨時隨地輕鬆觸及您的客戶。</p>
+                    <p class="is-size-6">了解如何建立、排程及散佈 SMS 和 MMS 訊息，隨時隨地輕鬆觸及您的客戶。</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/tutorials/channels/sms-channel/sms-mms-messages-overview" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">觀看</span>
@@ -388,7 +412,7 @@ CARDS
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/tutorials/channels/sms-channel/author-mms" target="_blank" rel="referrer" title="編寫多媒體簡訊訊息">製作MMS訊息</a>
                     </p>
-                    <p class="is-size-6">瞭解如何將 Journey Optimizer 連線至多媒體簡訊服務提供者，以及如何建立多媒體簡訊頻道介面。</p>
+                    <p class="is-size-6">瞭解如何將 Journey Optimizer 連線至多媒體簡訊服務提供者，以及如何建立多媒體簡訊管道表面。</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/tutorials/channels/sms-channel/author-mms" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">觀看</span>
@@ -471,7 +495,7 @@ CARDS
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/tutorials/channels/code-based-experience-channel/form-fields-in-code-based-experiences" title="請將表單欄位新增至程式碼型體驗頻道範本" target="_blank" rel="referrer">
+                    <a href="https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/tutorials/channels/code-based-experience-channel/form-fields-in-code-based-experiences" title="將表單欄位新增至程式碼型體驗頻道範本" target="_blank" rel="referrer">
                         <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464002/?captions=chi_hant&format=jpeg&nocache=1770071087005" alt="請將表單欄位新增至程式碼型體驗頻道範本"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
@@ -532,7 +556,7 @@ CARDS
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/tutorials/channels/whatsapp/whatsapp-introduction" target="_blank" rel="referrer" title="WhatsApp 頻道簡介">WhatsApp 頻道簡介</a>
                     </p>
-                    <p class="is-size-6">該影片從高層次概述了 WhatsApp 與 Adobe Journey Optimizer 整合的價值。 其強調 WhatsApp 的全球影響力和參與度優勢，並概述設定 WhatsApp 企業帳戶、產生存取權杖和建立訊息範本等關鍵先決條件。</p>
+                    <p class="is-size-6">該影片提供 WhatsApp 與 Adobe Journey Optimizer 整合價值的高層次概觀。 其強調 WhatsApp 的全球影響力和參與度優勢，並概述設定 WhatsApp 企業帳戶、產生存取權杖和建立訊息範本等關鍵先決條件。</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/tutorials/channels/whatsapp/whatsapp-introduction" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">觀看</span>
@@ -670,8 +694,8 @@ CARDS
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/tutorials/personalize-content/use-and-manage-saved-expressions-in-personalization-library" title="使用和管理個人化資料庫中已儲存的運算式" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/340941?format=jpeg&nocache=1770071088436" alt="使用和管理個人化資料庫中已儲存的運算式"
+                    <a href="https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/tutorials/personalize-content/use-and-manage-saved-expressions-in-personalization-library" title="使用和管理個人化程式庫中已儲存的運算式" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/340941?format=jpeg&nocache=1770071088436" alt="使用和管理個人化程式庫中已儲存的運算式"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -681,7 +705,7 @@ CARDS
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/tutorials/personalize-content/use-and-manage-saved-expressions-in-personalization-library" target="_blank" rel="referrer" title="使用和管理個人化資料庫中已儲存的運算式">使用和管理儲存在個人化資料庫中的運算式</a>
                     </p>
-                    <p class="is-size-6">了解如何使用儲存在訊息中的個人化資料庫項目並管理個人化資料庫項目。</p>
+                    <p class="is-size-6">了解如何在訊息中使用已儲存的個人化程式庫項目，以及如何建立和管理個人化程式庫項目。</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/tutorials/personalize-content/use-and-manage-saved-expressions-in-personalization-library" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解更多</span>

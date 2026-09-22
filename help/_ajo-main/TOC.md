@@ -3,13 +3,11 @@ user-guide-title: Journey Optimizer 教學課程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 這些是 Journey Optimizer 教學課程。
 auto-video-transcripts: true
-source-git-commit: e168e56efe575659b5f48e97af77b899f8b6c962
+source-git-commit: f63c9bad8aa86867296132baa3f2a3be58883a9d
 workflow-type: tm+mt
-source-wordcount: '1573'
-ht-degree: 99%
-
+source-wordcount: '1579'
+ht-degree: 98%
 ---
-
 
 # Journey Optimizer 教學課程 {#tutorials}
 
@@ -104,6 +102,7 @@ ht-degree: 99%
     + [設定應用程式內訊息的內容實驗](/help/experimentation/content-experiments-for-in-app-messages.md)
   + 即時動態 {#live-activities}
     + [iOS 即時動態](/help/channels/ios-live-activities.md)
+    + [設定Android的即時更新](/help/channels/android-live-updates.md)
   + 推播頻道{#push-channel}
     + [推播通知 — 概觀](/help/channels/push-notifications-overview.md)
     + [設定和傳送推播行銷活動](/help/channels/create-a-push-campaign.md)
@@ -267,7 +266,7 @@ ht-degree: 99%
   + [強化客戶參與度](/help/use-cases/enhance-customer-engagement.md){target="_blank"}
   + [將協調流程縮放為全頻道參與](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction.md){target="_blank"}
   + 使用案例教戰手冊 {#use-case-playbooks}
-    + [概觀](https://experienceleague.adobe.com/zh-hant/docs/platform-learn/tutorials/use-case-playbooks/overview){target="_blank"}
+    + [概覽](https://experienceleague.adobe.com/zh-hant/docs/platform-learn/tutorials/use-case-playbooks/overview){target="_blank"}
     + [設定教戰手冊沙箱](https://experienceleague.adobe.com/zh-hant/docs/platform-learn/tutorials/use-case-playbooks/configure-a-playbook-sandbox){target="_blank"}
     + [建立和發佈教戰手冊執行個體](https://experienceleague.adobe.com/zh-hant/docs/platform-learn/tutorials/use-case-playbooks/create-and-publish-a-playbook-instance){target="_blank"}
 + 練習、實驗與挑戰 {#exercises-and-challenges}

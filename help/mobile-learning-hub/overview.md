@@ -6,18 +6,16 @@ role: User, Admin, Developer
 hide: false
 index: true
 jira: KT-19860
-last-substantial-update: 2025-12-18T00:00:00Z
+last-substantial-update: 2025-12-18
 exl-id: f0612a1d-f919-4b67-9e33-a9fb623062dc
-source-git-commit: 3917e11cdf8c0450c19ce653a0964f6dc9da6a3c
+source-git-commit: 1b8691391bcbe2f8dfa8c8b7f98058933af11a15
 workflow-type: tm+mt
-source-wordcount: '944'
+source-wordcount: '973'
 ht-degree: 5%
-
 ---
-
 # Journey Optimizer — 行動學習中心
 
-透過 Adobe Journey Optimizer 快速啟動或提升您的行動參與策略。 此行動學習中心特別針對開發人員、管理員、行銷人員、分析師，傳授設定入站和出站的行動裝置管道所需的知識，再將這些知識與強大的跨管道行銷活動和歷程緊密結合。
+透過 Adobe Journey Optimizer 快速啟動或提升您的行動參與策略。 此行動學習中心為開發人員、管理員、行銷人員和分析師提供設定入站與出站行動管道所需的一切，並將這些管道順暢整合至強大的跨管道行銷活動和歷程中。
 
 探索最佳實務、瞭解如何促進採用並設定集中式報告工作流程（全都在一處），以提供具影響力、資料導向的行動體驗，隨時隨地觸及客戶。
 
@@ -34,9 +32,9 @@ Journey Optimizer支援傳入和傳出的行動裝置頻道：
 
 Adobe Journey Optimizer中的所有傳出通道都會在訊息傳送時執行自訂同意原則。 如果未針對特定行銷動作授與同意，則會自動抑制訊息，以確保符合規範的傳送。
 
-| ![推播通知](/help/mobile-learning-hub/assets/mobile-phone.webp){width=&quot;250&quot;， height=&quot;250&quot;}<br> **[推播通知](/help/mobile-learning-hub/channels/push-notifications-overview.md)** | ![SMS/MMS/RCS](/help/mobile-learning-hub/assets/SMS.png){width=&quot;250&quot;， height=&quot;250&quot;}<br> **[簡訊/多媒體簡訊/RCS](/help/mobile-learning-hub/channels/sms-mms-rcs-overview.md)** | ![WhatsApp](/help/mobile-learning-hub/assets/whatsapp.webp){width=&quot;250&quot;， height=&quot;250&quot;}<br> **[WhatsApp](/help/mobile-learning-hub/channels/whatsapp-overview.md)** |
-|-------------------------------------|------------------------------------|-------------------------------|
-| 推播訊息會在應用程式外部傳送，立即引起您的注意。 它們非常適合用於時效性強的更新，並鼓勵使用者返回您的應用程式。 | 直接訊息傳送至使用者的行動電話，不需要應用程式。 非常適合緊急警報、提醒和影像或影片等豐富媒體內容。 | 透過廣泛使用的傳訊應用程式提供對話管道，允許個人化、雙向通訊和互動式行銷活動。 |
+| ![推播通知](/help/mobile-learning-hub/assets/mobile-phone.webp){width=&quot;250&quot;， height=&quot;250&quot;}<br> **[推播通知](/help/mobile-learning-hub/channels/push-notifications-overview.md)** | ![SMS/MMS/RCS](/help/mobile-learning-hub/assets/SMS.png){width=&quot;250&quot;， height=&quot;250&quot;}<br> **[簡訊/多媒體簡訊/RCS](/help/mobile-learning-hub/channels/sms-mms-rcs-overview.md)** | ![WhatsApp](/help/mobile-learning-hub/assets/whatsapp.webp){width=&quot;250&quot;， height=&quot;250&quot;}<br> **[WhatsApp](/help/mobile-learning-hub/channels/whatsapp-overview.md)** | ![已上線的活動](/help/mobile-learning-hub/assets/live-activities.png){width=&quot;250&quot;， height=&quot;250&quot;}<br> **[已上線活動](/help/mobile-learning-hub/channels/live-activities-overview.md)** |
+|-------------------------------------|------------------------------------|-------------------------------|-------------------------------|
+| 推播訊息會在應用程式外部傳送，立即引起您的注意。 它們非常適合用於時效性強的更新，並鼓勵使用者返回您的應用程式。 | 直接訊息傳送至使用者的行動電話，不需要應用程式。 非常適合緊急警報、提醒和影像或影片等豐富媒體內容。 | 透過廣泛使用的傳訊應用程式提供對話管道，允許個人化、雙向通訊和互動式行銷活動。 | 鎖定畫面、動態島或通知陰影上的即時、持續更新，可隨著活動進行時隨時通知客戶。 |
 
 ### 傳入頻道
 
