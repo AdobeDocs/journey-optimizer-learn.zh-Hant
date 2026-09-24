@@ -18,6 +18,6 @@ ht-degree: 100%
 
 瞭解 Adobe Journey Optimizer 是什麼、此解決方案解決的業務挑戰，以及主要使用案例。
 
->[!VIDEO](https://video.tv.adobe.com/v/3424995?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3430323?captions=chi_hant&quality=12&learn=on){transcript=true}
 
   <br>
