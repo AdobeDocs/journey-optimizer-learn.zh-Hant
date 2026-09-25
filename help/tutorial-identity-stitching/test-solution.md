@@ -5,24 +5,22 @@ feature: Audiences
 role: User
 level: Beginner
 doc-type: Tutorial
-last-substantial-update: 2025-05-19T00:00:00Z
+last-substantial-update: 2025-05-19
 recommendations: noDisplay, noCatalog
 jira: KT-18089
 exl-id: b7bad65d-c978-4981-a914-6cb039433c8b
 source-git-commit: 6927cade07790603e711f4e6e4c3f6982a56e6f5
 workflow-type: tm+mt
-source-wordcount: '335'
+source-wordcount: '342'
 ht-degree: 0%
-
 ---
-
 # 測試身分拼接
 
 此範例應用程式會模擬真實世界的登入流程，在將CRM ID傳送至Adobe Experience Platform (AEP)之前，使用者憑證會在伺服器端驗證。 本機Node.js伺服器可用來安全地提供網頁、處理基本驗證邏輯，以及避免可能會干擾Adobe Launch或網頁SDK功能的瀏覽器限制（例如封鎖的本機檔案存取或遺失CORS標題）。 此設定可確保體驗更接近真實的生產環境。
 
 ## 安裝節點.js
 
-如果您尚未安裝Node.js，請從這裡[下載並](https://nodejs.org/)安裝
+如果您尚未安裝Node.js，請從這裡](https://nodejs.org/)下載並[安裝
 
 執行以驗證安裝：
 
