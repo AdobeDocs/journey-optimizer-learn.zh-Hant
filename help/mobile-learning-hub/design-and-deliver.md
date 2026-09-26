@@ -290,7 +290,7 @@ CARDS
 
 瞭解如何在Adobe Journey Optimizer中建立和傳遞Android即時更新，啟用即時、持續的客戶體驗，讓使用者在活動進行時瞭解最新資訊。
 
->[!VIDEO](https://video.tv.adobe.com/v/3503646/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3503655/?captions=chi_hant&learn=on&enablevpops)
 
 #### 產品文件
 

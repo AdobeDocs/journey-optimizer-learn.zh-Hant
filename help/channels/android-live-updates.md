@@ -25,4 +25,4 @@ ht-degree: 0%
 
 瞭解如何在Adobe Journey Optimizer中建立和傳遞Android即時更新，啟用即時、持續的客戶體驗，讓使用者在活動進行時瞭解最新資訊。 本教學課程示範如何設定Android即時更新頻道、建立和啟用行銷活動，以及使用API來開始、更新和結束客戶歷程中的即時體驗
 
->[!VIDEO](https://video.tv.adobe.com/v/3503646/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3503655/?captions=chi_hant&learn=on&enablevpops)
