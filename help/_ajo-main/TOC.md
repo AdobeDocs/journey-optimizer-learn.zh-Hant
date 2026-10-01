@@ -4,9 +4,9 @@ user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 這些是 Journey Optimizer 教學課程。
 auto-video-transcripts: true
 source-git-commit: f63c9bad8aa86867296132baa3f2a3be58883a9d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1579'
-ht-degree: 98%
+ht-degree: 100%
 ---
 
 # Journey Optimizer 教學課程 {#tutorials}
@@ -43,7 +43,7 @@ ht-degree: 98%
   + [使用 AI 分析並建立歷程](/help/ai-agents/journey-agent-overview.md)
   + [建立測試輪廓](/help/journeys/test-a-journey.md)
   + [使用外部客群模擬歷程](/help/journeys/simulate-journeys-with-external-audiences.md)
-  + [透過快速模擬加速歷程測試](/help/journeys/accelerate-journey-testing-with-quick-simulation.md)
+  + [使用快速模擬加速歷程測試](/help/journeys/accelerate-journey-testing-with-quick-simulation.md)
   + [發佈歷程](/help/journeys/publish-a-journey.md)
   + [內容決活動](/help/journeys/content-decision-activity.md)
   + [在歷程中使用資料集查詢](/help/journeys/lookup-dataset.md)
@@ -102,7 +102,7 @@ ht-degree: 98%
     + [設定應用程式內訊息的內容實驗](/help/experimentation/content-experiments-for-in-app-messages.md)
   + 即時動態 {#live-activities}
     + [iOS 即時動態](/help/channels/ios-live-activities.md)
-    + [設定Android的即時更新](/help/channels/android-live-updates.md)
+    + [設定 Android 的即時更新](/help/channels/android-live-updates.md)
   + 推播頻道{#push-channel}
     + [推播通知 — 概觀](/help/channels/push-notifications-overview.md)
     + [設定和傳送推播行銷活動](/help/channels/create-a-push-campaign.md)
@@ -177,7 +177,7 @@ ht-degree: 98%
       + [使用決策功能個人化電子郵件 (教學課程)](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/use-decisioning-in-email-channel/introduction){target="_blank"}
       + [在推播通知中使用決策](/help/decisioning/decisioning-in-push-notifications.md)
       + [在簡訊中使用決策](/help/decisioning/use-decisioning-in-an-sms-message.md)
-      + [在網頁視覺編輯器中使用決策](/help/decisioning/use-decisioning-within-the-web-visual-editor.md)
+      + [在網頁視覺化編輯器中使用決策](/help/decisioning/use-decisioning-within-the-web-visual-editor.md)
       + [使用決策，將網頁優惠個人化 (教學課程)](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/use-decisioning-to-personalize-web-offers/introduction){target="_blank"}
       + [使用 Experience Manager 內容片段與決策功能](/help/decisioning/use-aem-content-fragments-with-ajo-decisioning.md)
     + 從外部觸發程序和互動觸發決策 {#trigger}
@@ -266,7 +266,7 @@ ht-degree: 98%
   + [強化客戶參與度](/help/use-cases/enhance-customer-engagement.md){target="_blank"}
   + [將協調流程縮放為全頻道參與](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction.md){target="_blank"}
   + 使用案例教戰手冊 {#use-case-playbooks}
-    + [概覽](https://experienceleague.adobe.com/zh-hant/docs/platform-learn/tutorials/use-case-playbooks/overview){target="_blank"}
+    + [概觀](https://experienceleague.adobe.com/zh-hant/docs/platform-learn/tutorials/use-case-playbooks/overview){target="_blank"}
     + [設定教戰手冊沙箱](https://experienceleague.adobe.com/zh-hant/docs/platform-learn/tutorials/use-case-playbooks/configure-a-playbook-sandbox){target="_blank"}
     + [建立和發佈教戰手冊執行個體](https://experienceleague.adobe.com/zh-hant/docs/platform-learn/tutorials/use-case-playbooks/create-and-publish-a-playbook-instance){target="_blank"}
 + 練習、實驗與挑戰 {#exercises-and-challenges}
