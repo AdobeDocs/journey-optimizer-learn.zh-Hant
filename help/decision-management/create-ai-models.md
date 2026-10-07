@@ -31,4 +31,4 @@ ht-degree: 100%
 了解如何建立產品建議決策的 AI 模型，以及如何將其套用至決策。
 功能：產品建議
 
->[!VIDEO](https://video.tv.adobe.com/v/3419959/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3444682/?captions=chi_hant&learn=on){transcript=true}

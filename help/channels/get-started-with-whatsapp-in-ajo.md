@@ -48,4 +48,4 @@ ht-degree: 100%
 
 非常適合想要透過全球最受歡迎的訊息平台之一擴大觸及範圍和參與度的行銷人員。
 
->[!VIDEO](https://video.tv.adobe.com/v/3470244/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470255/?captions=chi_hant&learn=on&enablevpops)
