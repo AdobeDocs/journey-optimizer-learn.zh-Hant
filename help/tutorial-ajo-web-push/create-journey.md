@@ -5,16 +5,26 @@ feature: Push
 role: User
 level: Beginner
 doc-type: Tutorial
-last-substantial-update: 2026-04-21T00:00:00Z
+last-substantial-update: 2026-04-21T00:00:00.000Z
 jira: KT-20879
 exl-id: 14342b47-5485-4f7f-9312-cff1ee0f8972
-source-git-commit: 676c21ca09e0df8d404b05081d71b147755d65d5
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+feature_v2:
+  - id: 66e1fd99-672d-5d64-aa58-eca107f0fbae
+    internal-label: Push
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
 workflow-type: tm+mt
-source-wordcount: '461'
+source-wordcount: '481'
 ht-degree: 0%
-
 ---
-
 # 建立歷程
 
 在此步驟中，您將會在Adobe Journey Optimizer中建立由自訂price.drop事件觸發的歷程。 收到此事件時，歷程會即時開始，並傳送推播通知給選擇加入的使用者，以啟用事件導向參與。
@@ -53,7 +63,7 @@ ht-degree: 0%
 使用個人化編輯器，將靜態和動態內容的組合新增至推播通知，讓訊息更具吸引力及相關性。
 
 若要開始撰寫訊息，請按一下`Content`以開啟內容標籤，您可以在其中定義固定文字和衍生自事件資料的動態欄位。
-![內容推播](assets/compose-message.png)
+![內容 — 推播](assets/compose-message.png)
 
 指定推送訊息的標題，然後開啟個人化編輯器以撰寫訊息內文。 內容會動態包含價格已下跌的產品名稱。 若要實現此目的，請使用每個[協助程式函式](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer/using/content-management/personalization/functions/helpers#each)
 重複產品清單，並在訊息中呈現其名稱。
@@ -61,7 +71,7 @@ ht-degree: 0%
 ## 撰寫訊息內文
 
 從協助程式函式選單中選取並插入`Each`函式。
-![輔助函式](assets/journey-content-helper-function.png)
+![協助程式函式](assets/journey-content-helper-function.png)
 
 選取內容屬性 |Journey Orchestration |活動 | PriceDropEvent | productListItems |名稱
 

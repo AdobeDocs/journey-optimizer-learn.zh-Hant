@@ -7,13 +7,14 @@ index: false
 hide: true
 recommendations: noCatalog, noDisplay
 exl-id: 8e98961d-23d0-4700-8030-f2b3a2843228
-source-git-commit: 8952c9c79d6c5b5f26ba6db20c52f29c26ef23e4
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
 workflow-type: tm+mt
 source-wordcount: '56'
 ht-degree: 0%
-
 ---
-
 # AI導向Personalization：Adobe代理程式運作中
 
 瞭解Adobe的智慧型代理程式如何大規模協調超個人化客戶體驗，解決預算緊張和內容生產瓶頸等難題。

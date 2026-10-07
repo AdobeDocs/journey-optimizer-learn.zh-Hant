@@ -7,13 +7,14 @@ index: false
 hide: true
 recommendations: noCatalog, noDisplay
 exl-id: 1b1b2b1f-c6e7-4afd-bb6f-39de2f93857c
-source-git-commit: 8952c9c79d6c5b5f26ba6db20c52f29c26ef23e4
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
 workflow-type: tm+mt
 source-wordcount: '52'
 ht-degree: 0%
-
 ---
-
 # 瞭解Adobe Journey Optimizer的核心
 
 瞭解Adobe Journey Optimizer (AJO)如何運用即時客戶資料，以跨管道提供一致且相關的體驗。

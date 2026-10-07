@@ -8,13 +8,32 @@ role: Admin
 level: Beginner
 recommendations: noDisplay, noCatalog
 exl-id: de870229-d9a6-4051-9f76-13d402cce3b4
-source-git-commit: d848272dba814c300aa21110316b5b37ccb719ce
-workflow-type: ht
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+feature_v2:
+  - id: aeebb91a-f216-4d5f-8da1-3a7e6f696ed0
+    internal-label: Data management activity
+  - id: d556b755-390a-43f0-be32-a08cf6236126
+    internal-label: Configuration
+  - id: bb359667-ec7d-4d4b-8663-5850fc219d32
+    internal-label: Administration
+subfeature_v2:
+  - id: d2e8a157-b3b0-4143-9ff3-809bf400be56
+    internal-label: Sandboxes
+  - id: efb19423-4da4-4fd1-88d8-5ee8c71ae766
+    internal-label: Application settings
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
+workflow-type: tm+mt
 source-wordcount: '1033'
 ht-degree: 100%
-
 ---
-
 # 手動設定資料
 
 在本節中，您將建立必要的身分識別命名空間，並透過建立[[!UICONTROL 結構]來定義[!DNL Luma]範例資料結構](https://experienceleague.adobe.com/docs/experience-platform/xdm/schema/composition.html?lang=zh-Hant)。
@@ -24,7 +43,7 @@ ht-degree: 100%
 
 ## 步驟 1：建立身分識別命名空間
 
-在此步驟中，您將為名為`lumaLoyaltyId`、`lumaCrmId`及`lumaProductSKU`的[!DNL Luma]自訂身分識別欄位建立身分識別命名空間。 身分識別命名空間在建立即時客戶輪廓方面扮演關鍵角色，因為相同命名空間中的兩個相符值可讓兩個資料來源形成身分識別圖表。
+在此步驟中，您將為名為`lumaLoyaltyId`、`lumaCrmId`及`lumaProductSKU`的[!DNL Luma]自訂身分識別欄位建立身分識別命名空間。 身分識別命名空間在建立即時客戶輪廓方面扮演關鍵角色，因為相同命名空間中的兩個相符值可讓兩個資料來源形成身分識別圖。
 
 首先，為[!DNL Luma Loyalty ID]結構描述建立[!UICONTROL 命名空間]：
 
@@ -75,7 +94,7 @@ ht-degree: 100%
 
 本節說明如何建立[!DNL Luma Loyalty]結構及設定欄位群組。
 
-#### 建立結構
+#### 建立結構描述
 
 1. 前往左側導覽的&#x200B;**[!UICONTROL 資料管理]** > **[!UICONTROL 結構]**。
 
@@ -99,7 +118,7 @@ ht-degree: 100%
 
    * **[!UICONTROL 個人聯絡詳細資訊]**&#x200B;有關基本聯絡詳細資訊，如電子郵件地址和電話號碼。
 
-   * **[!UICONTROL 忠誠度詳細資料]**，用於忠誠度詳細資訊，如點數、加入日期或狀態。 忠誠度欄位群組在清單的最下方，因此最容易搜尋。
+   * **[!UICONTROL 忠誠度詳細資料]**，用於忠誠度詳細資訊，如點數、加入日期或狀態。 忠誠度欄位群組在清單中相當靠下，因此搜尋它最容易。
 
 1. 選取&#x200B;**[!UICONTROL 新增欄位群組]**&#x200B;將所有三個欄位群組新增至結構描述。
 
@@ -158,7 +177,7 @@ ht-degree: 100%
 
 #### 設定身分識別
 
-您現在擁有[!UICONTROL 命名空間]及[!DNL Luma Loyalty schema]設定。 您必須先標籤身分識別欄位，才能內嵌資料。 與[!UICONTROL 即時客戶輪廓]一起使用的每個結構描述都需要指定主要身分識別，並且每個內嵌的記錄都必須具有該欄位的值。
+您現在擁有[!UICONTROL 命名空間]及[!DNL Luma Loyalty schema]設定。 在您攝取資料之前，必須先為身分識別欄位加上標籤。 與[!UICONTROL 即時客戶輪廓]一起使用的每個結構描述都需要指定主要身分識別，並且每個內嵌的記錄都必須具有該欄位的值。
 
 1. 設定&#x200B;**主要身分識別**：
 
@@ -192,7 +211,7 @@ ht-degree: 100%
 
    5. 選取&#x200B;**[!UICONTROL 「套用」]**。
 
-#### 啟用輪廓並儲存結構
+#### 啟用輪廓並儲存結構描述
 
 1. 選取結構描述的頂端節點。
 

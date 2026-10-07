@@ -6,16 +6,29 @@ topic: Integrations
 role: User
 level: Beginner
 doc-type: Article
-last-substantial-update: 2025-07-08T00:00:00Z
+last-substantial-update: 2025-07-08T00:00:00.000Z
 jira: KT-18451
 exl-id: 3cb280b3-71e5-4e91-9252-5679d794d4c4
-source-git-commit: 6c4f33d1f55be298781cfb0958862f9710e3647a
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+feature_v2:
+  - id: a984631b-2bae-4860-9b15-69c41a799dcb
+    internal-label: APIs and SDKs
+subfeature_v2:
+  - id: a7a194a0-75e2-4913-8a83-14714fbf68e6
+    internal-label: Decisioning API
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
 workflow-type: tm+mt
-source-wordcount: '698'
+source-wordcount: '708'
 ht-degree: 3%
-
 ---
-
 # 使用Adobe Web SDK擷取優惠方案互動，以進行AI模型訓練
 
 >[!NOTE]
@@ -24,7 +37,7 @@ ht-degree: 3%
 
 
 
-本文示範如何透過直接在Adobe Experience Platform程式碼中呼叫alloy(&quot;sendEvent&quot; ...)，使用JavaScript Web SDK擷取優惠方案互動事件（例如曝光數或點按數）。 資料會內嵌至AEP，並用於在Adobe Journey Optimizer (AJO)中訓練AI模型，以根據即時行為更聰明地排名選件。
+本文示範如何使用Adobe Experience Platform Web SDK，透過呼叫alloy(「sendEvent」 ...)來擷取優惠方案互動事件（例如曝光數或點按數） 直接在您的JavaScript程式碼中存取。 資料會內嵌至AEP，並用於在Adobe Journey Optimizer (AJO)中訓練AI模型，以根據即時行為更聰明地排名選件。
 
 若要在Adobe Journey Optimizer中建立優惠方案排名的AI模型，您的資料集必須根據包含主張互動欄位群組的結構描述。 此欄位群組支援decisioning.propositionDisplay和decisioning.propositionInteract等關鍵決策事件，以及invessedPropositions、display和interact等必要欄位。
 

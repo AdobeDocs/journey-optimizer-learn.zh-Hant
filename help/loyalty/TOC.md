@@ -6,9 +6,9 @@ level: Beginner
 breadcrumb-title: 忠誠度
 breadcrumb-url: /docs/journey-optimizer-learn/loyalty/overview
 auto-video-transcripts: true
-source-git-commit: b01ac079dd907d420e91dae44e47d11660587e2d
+source-git-commit: a07c147cfaeb33372c1626a2c23b54c77c28f637
 workflow-type: tm+mt
-source-wordcount: '149'
+source-wordcount: '170'
 ht-degree: 0%
 ---
 
@@ -19,6 +19,10 @@ ht-degree: 0%
   + [探索Journey Optimizer Loyalty](./introduction-to-loyalty/discover-journey-optimizer-loyalty.md)
   + [瞭解忠誠度挑戰概念](./introduction-to-loyalty/understand-loyalty-challenge-concepts.md)
 + 設定忠誠度 {#set-up-loyality}
+  + 設定忠誠度資料擷取 {#set-up-loyalty-data-ingestion}
+    + [準備熟客資料結構](./set-up-loyalty/prepare-loyalty-data-structures.md)
+    + [連線並對應忠誠度資料](./set-up-loyalty/connect-and-map-loyalty-data.md)
+    + [驗證忠誠度資料並設定績效報表](./set-up-loyalty/verify-loyalty-data-and-configure-performance-reporting.md)
   + [設定忠誠度獎勵提供者](./set-up-loyalty/set-up-a-loyalty-reward-provider.md)
 + 設定您的挑戰 {#configure-your-challenge}
   + [設定忠誠度挑戰](./configure-your-challenge/set-up-a-loyalty-challenge.md)

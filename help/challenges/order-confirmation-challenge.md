@@ -5,15 +5,25 @@ jira: KT-7531
 feature: Journeys
 role: User
 level: Beginner
-last-substantial-update: 2023-02-01T00:00:00Z
+last-substantial-update: 2023-02-01T00:00:00.000Z
 exl-id: ec86e2ac-081d-47aa-a948-007107baa2b4
-source-git-commit: 7861e0ca17a616273f5ea1b4d850310f1f4ec8b8
-workflow-type: ht
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+feature_v2:
+  - id: d998adac-2f81-400b-a669-d07bb196e4eb
+    internal-label: Journeys
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
+workflow-type: tm+mt
 source-wordcount: '688'
 ht-degree: 100%
-
 ---
-
 
 # 建立訂單確認電子郵件
 
@@ -47,9 +57,9 @@ Luma 正在推出線上商店，希望確保提供良好的客戶體驗。 客�
 
    * 使用`Luma - Order summary`範本並加以修改：
 
-      * 移除`You may also like`區段
+     * 移除`You may also like`區段
 
-      * 在電子郵件底部新增取消訂閱連結
+     * 在電子郵件底部新增取消訂閱連結
 
 電子郵件應有如下的結構：
 
@@ -108,13 +118,13 @@ Luma 正在推出線上商店，希望確保提供良好的客戶體驗。 客�
        <p><li>將此區段新增至<b>收貨方</b>區段下方。
       </p><br>
       <p><b>提示：</b>
-      <li>在此區段使用結構元件 <b>1:2 欄左側</b>
+      <li>在此區段使用結構元件<b>1:2 欄左側</b>
       <li>這是內容事件資訊。
       <li>使用 [!UICONTROL helper function]: [!UICONTROL Each]
       <li>切換至程式碼編輯器格式以新增內容資料。
   </td>
   <td>
-    <strong>標頭</strong>
+    <strong>Header</strong>
     <p>
   訂單：<em>{purchaseOrderNumber}</em>
     </p>
@@ -140,7 +150,7 @@ Luma 正在推出線上商店，希望確保提供良好的客戶體驗。 客�
 
 1. 在切換至測試模式之前，請先覆寫電子郵件參數以將測試電子郵件傳送至您的電子郵件地址：
    1. 開啟電子郵件詳細資料檢視。
-   1. 在電子郵件參數區段，按一下 T 符號 (啟動參數覆寫
+   1. 在電子郵件參數區段，按一下 T 符號 (啟用參數覆寫
    1. 按一下「地址」欄位
    1. 在下一個畫面的運算式編輯器中，新增您的電子郵件地址：*「yourname@yourdomain」* ，並加上括弧，然後按一下「確定」。
 1. 將歷程置於測試模式

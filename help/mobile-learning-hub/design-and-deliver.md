@@ -6,9 +6,20 @@ level: Beginner, Intermediate
 hide: false
 index: true
 jira: KT-19870
-last-substantial-update: 2025-12-18
+last-substantial-update: 2025-12-18T00:00:00.000Z
 exl-id: ea3ada11-8b2f-47d0-89d2-c22dc87f36be
-source-git-commit: 084d4d9457db32e30855cd6466439b1de96f2b68
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
 workflow-type: tm+mt
 source-wordcount: '3622'
 ht-degree: 67%
@@ -288,7 +299,7 @@ CARDS
 
 #### Android即時更新
 
-瞭解如何在Adobe Journey Optimizer中建立和傳遞Android即時更新，啟用即時、持續的客戶體驗，讓使用者在活動進行時瞭解最新資訊。
+瞭解如何在 Adobe Journey Optimizer 中建立並傳送 Android 即時更新，以提供即時且持續的客戶體驗，讓使用者在活動進行時掌握最新狀況。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3503655/?captions=chi_hant&learn=on&enablevpops)
 

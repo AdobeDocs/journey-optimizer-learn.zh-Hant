@@ -7,13 +7,14 @@ index: false
 hide: true
 recommendations: noCatalog, noDisplay
 exl-id: d8d1b55b-dcd7-489a-9bf1-f10f42272b5d
-source-git-commit: 8952c9c79d6c5b5f26ba6db20c52f29c26ef23e4
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
 workflow-type: tm+mt
 source-wordcount: '64'
 ht-degree: 0%
-
 ---
-
 # 在Adobe Journey Optimizer中使用AI助理轉換工作流程
 
 探索Adobe Journey Optimizer中的AI助理如何提供即時資料深入分析和疑難排解功能，進而革新工作流程，節省數小時的手動工作。

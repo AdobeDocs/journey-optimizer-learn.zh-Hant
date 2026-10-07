@@ -1,21 +1,34 @@
 ---
 title: 在AJO程式碼型體驗中使用可編輯的表單欄位
-description: 瞭解如何使用Adobe Journey Optimizer程式碼型體驗範本中的內嵌表單欄位建立可編輯的內容區塊，讓行銷人員能夠使用動態、可重複使用的行銷活動內容。
+description: 了解如何在 Adobe Journey Optimizer 的程式碼型體驗範本中，透過內嵌表單欄位建立可編輯的內容區塊，讓行銷人員能使用動態且可重複利用的活動內容。
 feature: Decisioning
 role: User
 level: Beginner
 doc-type: Tutorial
-last-substantial-update: 2025-06-22T00:00:00Z
+last-substantial-update: 2025-06-22T00:00:00.000Z
 recommendations: noDisplay, noCatalog
 jira: KT-18416
 exl-id: 0ba695d6-becb-440d-b0d0-de5b51b42562
-source-git-commit: 65d91d4fb0e978e62e5d95bf40355dcb8d27efb9
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+feature_v2:
+  - id: a984631b-2bae-4860-9b15-69c41a799dcb
+    internal-label: APIs and SDKs
+subfeature_v2:
+  - id: a7a194a0-75e2-4913-8a83-14714fbf68e6
+    internal-label: Decisioning API
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
 workflow-type: tm+mt
-source-wordcount: '197'
-ht-degree: 1%
-
+source-wordcount: '221'
+ht-degree: 22%
 ---
-
 # 在AJO程式碼型體驗中使用可編輯的表單欄位
 
 在許多行銷歷程中，尤其是在法規管制的產業，包含法律免責宣告是很重要的，這些免責宣告會因行銷活動、地理區域或產品而異。 透過直接在AJO Personalization編輯器中使用[可編輯欄位](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/tutorials/channels/code-based-experience-channel/form-fields-in-code-based-experiences)，行銷人員和法律團隊可以保持對免責宣告文字的完整控制，而不需要涉及開發人員或修改決定邏輯。

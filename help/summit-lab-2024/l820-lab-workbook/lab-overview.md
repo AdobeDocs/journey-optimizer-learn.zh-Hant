@@ -8,15 +8,28 @@ doc-type: Tutorial
 duration: 0
 jira: KT-14977
 thumbnail: KT-14977.jpeg
-last-substantial-update: 2024-03-26T00:00:00Z
+last-substantial-update: 2024-03-26T00:00:00.000Z
 exl-id: e6d029f9-c936-427b-9d6e-4e296fd3c3ce
-source-git-commit: 1de5297037b9ec707fca7f28e65ae6149f7ad076
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+feature_v2:
+  - id: bb359667-ec7d-4d4b-8663-5850fc219d32
+    internal-label: Administration
+subfeature_v2:
+  - id: fdac7813-bd56-47ae-9f6d-fa94ad1c5dee
+    internal-label: Overview
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
 workflow-type: tm+mt
-source-wordcount: '503'
+source-wordcount: '505'
 ht-degree: 0%
-
 ---
-
 # 實驗室活頁簿
 
 ![Adobe Summit — 替代文字](/help/summit-lab-2024/l820-lab-workbook/assets/adobe-summit.png "Adobe Summit")
@@ -35,11 +48,11 @@ ht-degree: 0%
 >參與者不得複製、使用、散佈或洩露機密資訊給任何個人或實體。
 >產品披露僅供參考，並不保證任何未來功能或特性，且隨時可能變更。 因此，這些產品特性或功能絕不是您與Adobe合約的一部分，也不會以任何方式提供給您。
 ><br>
->**免責宣告**
+>**免責聲明**
 >Adobe可讓您及早存取功能，這些功能運用了創新型人工智慧技術。 請注意，這些功能仍在開發中，可能會產生非預期或不準確的回應。 我們歡迎您提供意見反應，我們將此功能推向市場。
 
 
-### 重要技巧
+### 重點提要
 
 * 瞭解各種支援的行動體驗。
 * 設定推播行銷活動。

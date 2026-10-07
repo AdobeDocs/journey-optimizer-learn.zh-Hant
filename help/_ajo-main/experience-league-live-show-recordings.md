@@ -4,13 +4,20 @@ description: Experience League LIVE 是 Experience League 團隊製作的直播�
 feature: Overview
 doc-type: Catalog
 exl-id: 459c062f-b56f-4611-99f5-8bb88ad5d476
-source-git-commit: 6d5c21692c9761d3259bb106063239a310f4de6f
-workflow-type: ht
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+feature_v2:
+  - id: bb359667-ec7d-4d4b-8663-5850fc219d32
+    internal-label: Administration
+subfeature_v2:
+  - id: fdac7813-bd56-47ae-9f6d-fa94ad1c5dee
+    internal-label: Overview
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
+workflow-type: tm+mt
 source-wordcount: '2456'
 ht-degree: 100%
-
 ---
-
 # Experience League LIVE 節目
 
 Experience League LIVE 是數位體驗產品啟用團隊製作的直播串流節目。 您可以藉此機會與 Adobe 產品專家交流，並學到您可以透過 Adobe Experience Cloud 應用程式套用的可落實秘訣、技巧和策略。
@@ -36,7 +43,7 @@ CARDS
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/zh-hant/docs/events/experience-league-live-recordings/episodes/exl-live-episode-04-08-26" title="客戶參與的新使用案例：iOS 即時動態、網頁推播及持續傳訊 (2026 年 4 月 8 12日)" target="_blank" rel="referrer">
+                    <a href="https://experienceleague.adobe.com/zh-hant/docs/events/experience-league-live-recordings/episodes/exl-live-episode-04-08-26" title="客戶參與的新使用案例：iOS 即時動態、網頁推播及持續傳送訊息 (2026 年 4 月 8、12 日)" target="_blank" rel="referrer">
                         <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3483389/?format=jpeg&nocache=1775836544790" alt="客戶參與的新使用案例：iOS 即時動態、網頁推播及持續傳訊 (2026 年 4 月 8 12日)"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
@@ -45,13 +52,13 @@ CARDS
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/zh-hant/docs/events/experience-league-live-recordings/episodes/exl-live-episode-04-08-26" target="_blank" rel="referrer" title="客戶參與的新使用案例：iOS 即時動態、網頁推播及持續傳訊 (2026 年 4 月 8 12日)">客戶參與的新使用案例：iOS 即時動態、網頁推播及持續傳訊 (2026 年 4 月 8 12日)</a>
+                        <a href="https://experienceleague.adobe.com/zh-hant/docs/events/experience-league-live-recordings/episodes/exl-live-episode-04-08-26" target="_blank" rel="referrer" title="客戶參與的新使用案例：iOS 即時動態、網頁推播及持續傳送訊息 (2026 年 4 月 8、12 日)">客戶參與的新使用案例：iOS 即時動態、網頁推播及持續傳送訊息 (2026 年 4 月 812 日)</a>
                     </p>
                     <p class="is-size-6">在這場 Experience League 直播研討會中，我們探索當品牌超越單向單一管道的傳訊方式時的客戶參與新表面與使用案例。 探索行銷與產品團隊如何建立更可見、情境式與持續的體驗，進而促進各管道的持續參與和更豐富的即時互動。</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/zh-hant/docs/events/experience-league-live-recordings/episodes/exl-live-episode-04-08-26" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">觀看</span>
-                
+                </a>
             </div>
         </div>
     </div>
@@ -70,11 +77,11 @@ CARDS
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="https://experienceleague.adobe.com/zh-hant/docs/events/experience-league-live-recordings/episodes/exl-live-episode-03-12-26" target="_blank" rel="referrer" title="了解 Adobe Journey Optimizer 中的行銷活動協調 (2026 年 3 月 12 日)">了解 Adobe Journey Optimizer 中的行銷活動協調 (2026 年 3 月 12 日)</a>
                     </p>
-                    <p class="is-size-6">在這場 Experience League 直播研討會中，了解 Journey Optimizer 中的行銷活動協調如何管理從客群建立到發佈的一對多大型多管道行銷方案。</p>
+                    <p class="is-size-6">在這場 Experience League 直播研討會中，了解 Journey Optimizer 中的行銷活動協調如何管理從客群建立到啟動的一對多大型多管道行銷方案。</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/zh-hant/docs/events/experience-league-live-recordings/episodes/exl-live-episode-03-12-26" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">觀看</span>
-                
+                </a>
             </div>
         </div>
     </div>
@@ -125,7 +132,7 @@ CARDS
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/zh-hant/docs/events/experience-league-live-recordings/episodes/exl-live-episode-10-30-25" title="下一個實驗時代：代理式 AI 如何推動更智慧的測試和增長 (2025 年 10 月 30 日)" target="_blank" rel="referrer">
+                    <a href="https://experienceleague.adobe.com/zh-hant/docs/events/experience-league-live-recordings/episodes/exl-live-episode-10-30-25" title="下一個實驗時代：代理式 AI 如何推動更智慧的測試和成長 (2025 年 10 月 30 日)" target="_blank" rel="referrer">
                         <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3476426/?format=jpeg&nocache=1775836545563" alt="下一個實驗時代：代理式 AI 如何推動更智慧的測試和增長 (2025 年 10 月 30 日)"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
@@ -134,13 +141,13 @@ CARDS
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/zh-hant/docs/events/experience-league-live-recordings/episodes/exl-live-episode-10-30-25" target="_blank" rel="referrer" title="下一個實驗時代：代理式 AI 如何推動更智慧的測試和增長 (2025 年 10 月 30 日)">下一個實驗時代：代理式 AI 如何推動更智慧的測試和增長 (2025 年 10 月 30 日)</a>
+                        <a href="https://experienceleague.adobe.com/zh-hant/docs/events/experience-league-live-recordings/episodes/exl-live-episode-10-30-25" target="_blank" rel="referrer" title="下一個實驗時代：代理式 AI 如何推動更智慧的測試和增長 (2025 年 10 月 30 日)">下一個實驗時代：代理式 AI 如何推動更智慧的測試和成長 (2025 年 10 月 30 日)</a>
                     </p>
                     <p class="is-size-6">在這場 Experience League 即時研討會中，我們推出了 Adobe Journey Optimizer Experimentation Accelerator，這是新的 AI 優先應用程式，旨在轉變實驗、產品和增長團隊測試、學習及最佳化行銷活動和客戶歷程的方式。</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/zh-hant/docs/events/experience-league-live-recordings/episodes/exl-live-episode-10-30-25" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">觀看</span>
-                
+                </a>
             </div>
         </div>
     </div>
@@ -163,7 +170,7 @@ CARDS
                 </div>
                 <a href="https://experienceleague.adobe.com/zh-hant/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-30-25" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">觀看</span>
-                
+                </a>
             </div>
         </div>
     </div>
@@ -186,7 +193,7 @@ CARDS
                 </div>
                 <a href="https://experienceleague.adobe.com/zh-hant/docs/events/experience-league-live-recordings/episodes/exl-live-episode-07-31-25" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">觀看</span>
-                
+                </a>
             </div>
         </div>
     </div>
@@ -194,7 +201,7 @@ CARDS
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/zh-hant/docs/events/experience-league-live-recordings/episodes/exl-live-episode-06-18-25" title="主頻率上限和衝突優先順序 (2025 年 6 月 18 日)" target="_blank" rel="referrer">
+                    <a href="https://experienceleague.adobe.com/zh-hant/docs/events/experience-league-live-recordings/episodes/exl-live-episode-06-18-25" title="掌握頻率上限和衝突優先順序 (2025 年 6 月 18 日)" target="_blank" rel="referrer">
                         <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464052/?format=jpeg&nocache=1775836545598" alt="主頻率上限和衝突優先順序 (2025 年 6 月 18 日)"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
@@ -203,13 +210,13 @@ CARDS
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/zh-hant/docs/events/experience-league-live-recordings/episodes/exl-live-episode-06-18-25" target="_blank" rel="referrer" title="主頻率上限和衝突優先順序 (2025 年 6 月 18 日)">主頻率上限和衝突優先順序 (2025 年 6 月 18 日)</a>
+                        <a href="https://experienceleague.adobe.com/zh-hant/docs/events/experience-league-live-recordings/episodes/exl-live-episode-06-18-25" target="_blank" rel="referrer" title="掌握頻率上限和衝突優先順序 (2025 年 6 月 18 日)">掌握頻率上限與衝突優先順序 (2025 年 6 月 18 日)</a>
                     </p>
                     <p class="is-size-6">在這場會議中，Adobe 專家 Ariel Sultan 和 Aaron Forrest 深入探討 Adobe Journey Optimizer 的新功能，協助您精準地控管客戶訊息並排定其優先順序。 他們展示如何減少傳訊疲勞、解決衝突，並提供引發共鳴的有影響力的體驗。</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/zh-hant/docs/events/experience-league-live-recordings/episodes/exl-live-episode-06-18-25" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">觀看</span>
-                
+                </a>
             </div>
         </div>
     </div>
@@ -232,7 +239,7 @@ CARDS
                 </div>
                 <a href="https://experienceleague.adobe.com/zh-hant/docs/events/experience-league-live-recordings/episodes/exl-live-episode-47-2025-06-05" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">觀看</span>
-                
+                </a>
             </div>
         </div>
     </div>
@@ -251,11 +258,11 @@ CARDS
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="https://experienceleague.adobe.com/zh-hant/docs/events/experience-league-live-recordings/episodes/exl-live-episode-02-27-25" target="_blank" rel="referrer" title="在 Adobe Experience Platform 中使用 AI 助理發掘運作洞察 (2025 年 2 月 27 日)">在 Adobe Experience Platform 中使用 AI 助理發掘運作洞察 (2025 年 2 月 27 日)</a>
                     </p>
-                    <p class="is-size-6">我們的專家討論了 AI 助理如何發掘寶貴的運作洞察，從而大幅提高生產力和重新定義 Adobe Experience Platform 及其平台式應用程式中的工作。</p>
+                    <p class="is-size-6">我們的專家討論了 AI 助理如何發掘寶貴的運作洞察，進而提升生產力，並重新定義 Adobe Experience Platform 及其平台式應用程式中的工作方式。</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/zh-hant/docs/events/experience-league-live-recordings/episodes/exl-live-episode-02-27-25" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">觀看</span>
-                
+                </a>
             </div>
         </div>
     </div>
@@ -278,7 +285,7 @@ CARDS
                 </div>
                 <a href="https://experienceleague.adobe.com/zh-hant/docs/events/experience-league-live-recordings/episodes/exl-live-episode-10-30-24" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">觀看</span>
-                
+                </a>
             </div>
         </div>
     </div>
@@ -301,7 +308,7 @@ CARDS
                 </div>
                 <a href="https://experienceleague.adobe.com/zh-hant/docs/events/experience-league-live-recordings/episodes/exl-live-episode-40-2024-10-24" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">觀看</span>
-                
+                </a>
             </div>
         </div>
     </div>
@@ -324,7 +331,7 @@ CARDS
                 </div>
                 <a href="https://experienceleague.adobe.com/zh-hant/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-26-24" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">觀看</span>
-                
+                </a>
             </div>
         </div>
     </div>
@@ -347,7 +354,7 @@ CARDS
                 </div>
                 <a href="https://experienceleague.adobe.com/zh-hant/docs/events/experience-league-live-recordings/episodes/exl-live-episode-08-28-24" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">觀看</span>
-                
+                </a>
             </div>
         </div>
     </div>
@@ -370,7 +377,7 @@ CARDS
                 </div>
                 <a href="https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-8-23-23.html?lang=zh-Hant" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">觀看</span>
-                
+                </a>
             </div>
         </div>
     </div>
@@ -393,7 +400,7 @@ CARDS
                 </div>
                 <a href="https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-05-12-22.html?lang=zh-Hant" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">觀看</span>
-                
+                </a>
             </div>
         </div>
     </div>

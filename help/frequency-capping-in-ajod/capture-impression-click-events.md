@@ -6,16 +6,29 @@ role: User
 level: Beginner
 doc-type: Tutorial
 recommendations: noDisplay, noCatalog
-last-substantial-update: 2025-07-18T00:00:00Z
+last-substantial-update: 2025-07-18T00:00:00.000Z
 jira: KT-18526
 exl-id: 7e6014b5-c5a6-467b-8e31-58c5d966464c
-source-git-commit: bef6d831c639d40514552dae3ff20132626a4a09
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+feature_v2:
+  - id: a984631b-2bae-4860-9b15-69c41a799dcb
+    internal-label: APIs and SDKs
+subfeature_v2:
+  - id: a7a194a0-75e2-4913-8a83-14714fbf68e6
+    internal-label: Decisioning API
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
 workflow-type: tm+mt
-source-wordcount: '451'
+source-wordcount: '472'
 ht-degree: 0%
-
 ---
-
 # 擷取曝光次數和互動事件
 
 若要啟用AJO Decisioning中的選件曝光數與點按數報告功能，必須設定下列元件：
@@ -29,12 +42,12 @@ ht-degree: 0%
 
 結構描述必須包括`Web Details`欄位群組，以擷取頁面URL、反向連結等。
 
-## 2.資料流設定
+## &#x200B;2. 資料流設定
 
 - 必須在Adobe Experience Platform中建立&#x200B;**資料串流**。
 - 此資料流必須連結至以上設定的資料集，以確保所有Web SDK事件皆正確擷取至正確的目的地。
 
-## &#x200B;3. Adobe Experience Platform Tags屬性
+## &#x200B;3. Adobe Experience Platform標籤屬性
 
 - AEP Web SDK擴充功能已設定為使用先前步驟中建立的資料流。
 - Experience Cloud ID服務已設定

@@ -6,20 +6,32 @@ role: User
 level: Beginner, Intermediate
 doc-type: Feature Video
 duration: 395
-last-substantial-update: 2025-08-28T00:00:00Z
+last-substantial-update: 2025-08-28T00:00:00.000Z
 exl-id: 5bac9b73-9c68-4901-90f8-07949639bd69
-source-git-commit: 0b3170fdcc60de2efe10ae542caa8c139f51ac78
-workflow-type: ht
-source-wordcount: '933'
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+feature_v2:
+  - id: a9f73820-6899-47c2-a597-3fec28ab756a
+    internal-label: Reporting
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
+workflow-type: tm+mt
+source-wordcount: '1245'
 ht-degree: 100%
-
 ---
-
 # 報告和監視
 
 探索 Adobe Journey Optimizer 報告如何協助您輕鬆追蹤、分析客戶歷程並採取行動。
 
-這些教學課程可為行銷人員提供工具，以便即時監視績效、深入瞭解詳細的歷程和管道深入分析、匯出資料、設定警報，並利用進階分析來做出更明智的決策。
+這些教學課程可為行銷人員提供工具，以便即時監視績效、深入瞭解詳細的歷程和管道洞察、匯出資料、設定警報，並利用進階分析來做出更明智的決策。
 
 
 ## 教學課程
@@ -98,7 +110,7 @@ CARDS
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/tutorials/report-and-monitor/journey-reports" target="_blank" rel="referrer" title="使用歷程報告監視和分析您的歷程">使用歷程報告監視和分析您的歷程</a>
                     </p>
-                    <p class="is-size-6">了解如何追蹤個別歷程的績效，使用者如何與歷程中的不同步驟互動，包括登入和退出統計資料、錯誤及執行的動作。</p>
+                    <p class="is-size-6">了解如何追蹤個別歷程的績效，以及使用者如何與歷程中的不同步驟互動，包括進入和退出統計資料、錯誤及執行的動作。</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/tutorials/report-and-monitor/journey-reports" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">觀看</span>

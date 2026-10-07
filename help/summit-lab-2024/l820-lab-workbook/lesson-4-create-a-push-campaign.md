@@ -9,13 +9,23 @@ duration: 0
 recommendations: noDisplay, noCatalog
 jira: KT-14980
 exl-id: 0f82d6a5-18c0-45f2-968e-a678fc2d5768
-source-git-commit: 7b3d668e8400d9f86c764f5dc4c4455b50cd0cdc
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+feature_v2:
+  - id: 66e1fd99-672d-5d64-aa58-eca107f0fbae
+    internal-label: Push
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
 workflow-type: tm+mt
-source-wordcount: '778'
-ht-degree: 2%
-
+source-wordcount: '825'
+ht-degree: 4%
 ---
-
 # 第4課 — 建立推播行銷活動
 
 在上一個練習中，您是咖啡愛好者、Fréscopa客戶。 您透過品牌網站和Fréscopa應用程式與品牌互動，並收到許多交易式訊息。 這些訊息會透過使用者與網站或應用程式的互動觸發。
@@ -147,7 +157,7 @@ ht-degree: 2%
 
 #### 新增收件者的名字，個人化您傳送的訊息
 
-1. 按一下&#x200B;**內文**&#x200B;欄位旁的&#x200B;**[!UICONTROL 個人化對話方塊]**。
+1. 按一下&#x200B;**[!UICONTROL 內文]**&#x200B;欄位旁的&#x200B;**個人化對話方塊**。
 
    ![個人化按鈕](/help/summit-lab-2024/l820-lab-workbook/assets/2-3-personalization-button.png)
 
@@ -181,7 +191,7 @@ ht-degree: 2%
 
 +++
 
-### 4.2.4.檢閱並啟用
+### 4.2.4. 檢閱和啟用
 
 如果您對訊息內容感到滿意，可以啟用訊息：
 
