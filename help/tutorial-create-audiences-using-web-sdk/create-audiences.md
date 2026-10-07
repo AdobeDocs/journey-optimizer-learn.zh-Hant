@@ -48,7 +48,7 @@ Adobe Experience Platform中的受眾是根據動作、偏好設定或設定檔�
   * 對CD感興趣的客戶
 
 
-* 確定每個對象的評估方法已設定為&#x200B;_**Edge**_，以便即時取得資格。
+* 確定每個對象的評估方法已設定為&#x200B;_&#x200B;**Edge**&#x200B;_，以便即時取得資格。
   ![邊緣對象](assets/audience-edge.png)
 
 * 使用PreferredFinancialInstrument欄位，根據使用者選取的投資興趣（例如股票、債券或光碟）來劃分使用者
@@ -62,7 +62,7 @@ Adobe Experience Platform中的受眾是根據動作、偏好設定或設定檔�
 
 >[!NOTE]
 >
->>如果PreferredFinancialInstrument欄位未顯示在events標籤中，請按一下設定圖示並切換Show the full XDM schema。
+>&#x200B;>如果PreferredFinancialInstrument欄位未顯示在events標籤中，請按一下設定圖示並切換Show the full XDM schema。
 
 
 
