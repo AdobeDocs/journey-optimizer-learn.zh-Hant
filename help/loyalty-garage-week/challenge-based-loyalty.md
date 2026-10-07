@@ -1,35 +1,45 @@
 ---
-title: Challenge-Based Loyalty
-description: Designing Behavioral Gamification Systems That Drive Long-Term Engagement
+title: 挑戰型忠誠度
+description: 設計可促進長期參與的行為Gamification系統
 feature: Overview
 role: User
 hide: true
 index: false
 exl-id: 57586174-2727-4f3d-96b4-7ca248941ab6
-source-git-commit: 3917e11cdf8c0450c19ce653a0964f6dc9da6a3c
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+feature_v2:
+  - id: bb359667-ec7d-4d4b-8663-5850fc219d32
+    internal-label: Administration
+subfeature_v2:
+  - id: fdac7813-bd56-47ae-9f6d-fa94ad1c5dee
+    internal-label: Overview
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
 workflow-type: tm+mt
 source-wordcount: '2110'
 ht-degree: 0%
-
 ---
+# 挑戰型忠誠度
 
-# Challenge-Based Loyalty
-
-## Designing Behavioral Gamification Systems That Drive Long-Term Engagement
+## 設計可促進長期參與的行為Gamification系統
 
 ### 執行摘要
 
-The next generation of loyalty programs is increasingly defined not by points or discounts, but by behavioral design and challenge-based engagement systems that activate deeper psychological motivations. Traditional earn-and-burn mechanics remain foundational, but modern loyalty growth is occurring in programs that encourage members to complete quests, streaks, missions, and multi-step goals that create habit loops and emotional investment. Brands like Nike, Duolingo, Starbucks, Peloton, and ClassPass have demonstrated that challenge participants engage more frequently, transact more often, explore broader product categories, and retain at significantly higher rates than non-challenge users. For many brands, challenge-based loyalty is the highest-ROI engagement mechanic available—driving both near-term actions and long-term loyalty.
+新一代的忠誠度計畫越來越不是以點數或折扣來定義，而是以行為設計和基於挑戰的參與系統來定義，這些系統可激發更深層次的心理動機。 傳統的贏取與燒錄機制仍然是基礎，但現代忠誠度的成長發生在鼓勵成員完成任務、條紋、使命和多步驟目標的計畫中，這些目標會建立習慣回圈和情感投資。 Nike、Duolingo、Starbucks、Peloton和ClassPass等品牌已經證明，挑戰參與者參與更頻繁、交易更頻繁、探索更廣的產品類別，並且保留率遠高於非挑戰使用者。 對許多品牌而言，挑戰型忠誠度是最高投資報酬率的參與機制，可同時推動近期行動及長期忠誠度。
 
-This article presents a deeply detailed strategic and operational blueprint for designing, implementing, and scaling challenge-based loyalty programs in enterprise environments. We explore the behavioral psychology that underpins challenge engagement, examine proven challenge archetypes, lay out the data and orchestration infrastructure required to operate challenge systems, analyze brand case studies, and explain how AI will transform challenge design and personalization in the coming years. Finally, we conclude with a tactical playbook that loyalty leaders can use to launch or improve challenge systems in their own organizations.
+本文提供在企業環境中設計、實作及擴展挑戰型忠誠計畫之極為詳細的策略與營運藍圖。 我們探索支撐挑戰參與的行為心理學、檢查經驗證的挑戰原型、安排操作挑戰系統所需的資料和協調基礎結構、分析品牌個案研究，並說明AI在未來幾年將如何改變挑戰設計和個人化。 最後，我們以戰術戰術劇本結束，忠誠度主管可以使用戰術劇本在他們的組織中啟動或改進挑戰系統。
 
-## 1. Industry Context &amp; Problem Framing
+## &#x200B;1. 產業背景與問題框架
 
-Loyalty programs for decades relied on predictable transactional incentives: customers earned points for purchases, redeemed rewards when balances reached thresholds, and occasionally received tier bonuses. This model drove significant commercial value during periods when competition was lower, customer journeys were simpler, and digital channels were fewer. But as omnichannel engagement has accelerated and consumers have become more sophisticated, loyalty programs that rely solely on transactional mechanics now struggle to maintain engagement. Younger consumers in particular—Millennials and Gen Z—are conditioned by social apps, mobile games, creator ecosystems, and fitness platforms to expect dynamic, interactive, and psychologically compelling experiences.
+數十年來的忠誠計畫都仰賴可預測的交易獎勵：客戶因購買而獲得點數、當餘額達到臨界值時兌換獎勵，以及偶爾獲得層級獎金。 在競爭較低、客戶歷程較簡單、數位頻道較少的時期，此模式帶來顯著的商業價值。 但隨著全通路參與度加速以及消費者變得更加複雜，僅依賴交易機制的忠誠計畫現在難以維持參與。 尤其是年輕消費者 — 千禧一代和Z世代 — 受到社交應用程式、行動遊戲、創作生態系統和健身平台的限制，期望獲得動態、互動和心理上吸引人的體驗。
 
-In this environment, challenge-based loyalty has gained prominence because it taps directly into intrinsic motivations. Instead of rewarding customers only for purchases, brands reward them for behaviors—exploration, usage, learning, participation, and habit formation. Challenges convert loyalty from a passive reward system into an active engagement ecosystem. They invite customers into a narrative: complete this task, achieve this milestone, work toward this streak, unlock this badge, become this kind of customer. The loyalty program becomes a game-like progression engine rather than a static points vault.
+在這樣的環境中，挑戰型忠誠度因為直接利用內在動機而獲得顯赫地位。 品牌不會只因為購買而獎勵客戶，而是會因為行為而獎勵客戶 — 探索、使用、學習、參與和習慣形成。 挑戰將忠誠度從被動獎勵系統轉換為主動參與生態系統。 他們會邀請客戶加入敘述：完成此任務、達成此里程碑、努力達成此連結、解鎖此徽章、成為此類客戶。 熟客方案會成為遊戲般的進度引擎，而非靜態點數儲存庫。
 
-Moreover, challenge-based loyalty addresses a core issue in traditional programs: linear engagement decay. In most earn-and-burn systems, customers engage heavily at the beginning, then settle into a habitual pattern, then eventually stagnate unless jolted by promotions. Challenges disrupt that decay curve by injecting periodic novelty, giving customers new reasons to return, and anchoring engagement to goals rather than discounts. 從財務觀點來看，挑戰型忠誠度也能產生更可預測的行為模式，並可讓品牌透過行為模型而非折扣導向型經濟來最佳化獎勵成本。
+此外，基於挑戰的忠誠度可解決傳統計畫中的核心問題：線性參與衰減。 在大部分的賺取並燃燒系統中，客戶一開始會大量參與，然後進入習慣模式，最後會停滯不前，除非受到促銷活動的干擾。 挑戰會注入週期性的新穎性，為客戶提供新的回歸理由，並將參與固定於目標而非折扣，藉此破壞衰減曲線。 從財務觀點來看，挑戰型忠誠度也能產生更可預測的行為模式，並可讓品牌透過行為模型而非折扣導向型經濟來最佳化獎勵成本。
 
 大多數企業面臨的問題不是&#x200B;_是否有_&#x200B;挑戰型忠誠度（很明顯有），而是如何實作及擴展忠誠度，使其在策略上合理、技術上可行、經濟上可行，且在營運上可持續。 建立挑戰引擎需要資料存取、即時行為追蹤、歷程協調、獎勵發佈系統、跨頻道訊息，以及有關獎勵價值和挑戰設計的治理。 本文會針對此需求進行說明。
 

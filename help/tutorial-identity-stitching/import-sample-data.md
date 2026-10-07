@@ -5,17 +5,30 @@ feature: Profiles
 role: User
 level: Beginner
 doc-type: Tutorial
-last-substantial-update: 2025-05-19T00:00:00Z
+last-substantial-update: 2025-05-19T00:00:00.000Z
 recommendations: noDisplay, noCatalog
 jira: KT-18089
 exl-id: 33c8c386-f417-45a8-83cf-7312d415b47a
-source-git-commit: 783cf83169c9e12e07bf4ffc162adfe1b0c33d8f
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+feature_v2:
+  - id: d2971708-e780-44bb-9e2a-72f139796afd
+    internal-label: Customer
+subfeature_v2:
+  - id: ef9a83ca-eefa-47cf-aa34-f1a34715583a
+    internal-label: Profiles
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
 workflow-type: tm+mt
-source-wordcount: '292'
+source-wordcount: '305'
 ht-degree: 4%
-
 ---
-
 # 將範例CRM資料匯入AEP設定檔資料集
 
 若要開始身分拼接，請將範例CRM設定檔資料匯入繫結至Adobe Experience Platform中啟用設定檔的結構描述的資料集
@@ -28,8 +41,8 @@ ht-degree: 4%
 
 ## 建立已啟用設定檔的結構描述
 
-建立名為&#x200B;**_FinWiseProfileSchema_**&#x200B;的個別設定檔結構描述。 包含annualIncome、email、firstName、lastName和loyaltyStatus等欄位。
-新增身分欄位&#x200B;**_crmid_**，如圖所示。 將crmid欄位標示為身分和主要。
+建立名為&#x200B;**_FinWiseProfileSchema_**的個別設定檔結構描述。 包含annualIncome、email、firstName、lastName和loyaltyStatus等欄位。
+新增身分欄位**_crmid_**，如圖所示。 將crmid欄位標示為身分和主要。
 
 
 ![設定檔結構描述](assets/finwise-profile-schema.png)
@@ -51,7 +64,7 @@ ht-degree: 4%
 * 根據先前建立的&#x200B;**_FinWiseProfileSchema_**，建立名為&#x200B;**_FinWiseCustomerDataSetWithAnnualIncome_**&#x200B;的資料集。請確定該資料集已啟用設定檔功能。
 
 * 導覽至連線 — >來源 — >本機系統
-* 選取本機檔案上傳下的&#x200B;**_新增資料_**。 請務必選取&#x200B;_&#x200B;**FinWiseCustomerDataSetWithAnnualIncome**&#x200B;_作為目標資料集。
+* 選取本機檔案上傳下的&#x200B;**_新增資料_**。 請務必選取&#x200B;_**FinWiseCustomerDataSetWithAnnualIncome**_作為目標資料集。
   ![擷取 — csv](assets/ingest-csv-into-dataset.png)
 * 導覽至下一個畫面。 上傳[csv檔案](assets/finwise_profiles.csv)並驗證對應
   ![對映](assets/mappings.png)

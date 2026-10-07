@@ -1,18 +1,28 @@
 ---
 title: Journey Optimizer 挑戰 - 簡介和先決條件
-description: 挑戰提供了實施您所學知識所需的情境和要求。 每個挑戰都說明了您實作的獨特使用案例。
+description: 挑戰提供情境以及練習所學內容所需的要求。 每個挑戰都說明了您實作的獨特使用案例。
 feature: Journeys
 role: User
 level: Beginner
-last-substantial-update: 2023-02-01T00:00:00Z
+last-substantial-update: 2023-02-01T00:00:00.000Z
 exl-id: 87a79560-c098-4e72-abec-6b750ec730ee
-source-git-commit: 201470e35095b38617d1a1bb5d7b16c1e60f431e
-workflow-type: ht
-source-wordcount: '547'
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+feature_v2:
+  - id: d998adac-2f81-400b-a669-d07bb196e4eb
+    internal-label: Journeys
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
+workflow-type: tm+mt
+source-wordcount: '569'
 ht-degree: 100%
-
 ---
-
 # Journey Optimizer 挑戰 - 簡介和先決條件
 
 挑戰提供了實施您所學知識所需的情境和要求。 挑戰可幫助您評估您的技能水準並找出知識差距。
@@ -25,7 +35,7 @@ ht-degree: 100%
 
 ### 系統需求
 
-* 存取 Journey Optimizer 沙箱 - 建議您在專屬的訓練沙箱中完成挑戰。
+* 存取 Journey Optimizer 沙箱 - 建議您在專屬的培訓沙箱中完成挑戰。
 * 必須為您的執行個體佈建 AEM Assets Essentials。
 * 必須為異動及行銷訊息[設定電子郵件頻道](https://experienceleague.adobe.com/docs/journey-optimizer/using/configuration/channel-surfaces.html?lang=zh-Hant)。
 
@@ -47,7 +57,7 @@ ht-degree: 100%
 
 Luma 是一家虛擬的運動服裝公司，在多個國家設有門店，並提供線上網站和行動應用程式。 Luma 使用 Adobe Journey Optimizer 來為客戶提供連結、情境式和個人化的體驗。
 
-Luma 正尋求推廣其最新的服裝和用具系列，並努力推動現有客戶的銷售。 我們聘請您在 Journey Optimizer 中實施 Luma 行銷和保留行銷活動。
+Luma 正尋求推廣其最新的服裝和用具系列，並努力推動現有客戶的銷售。 您受聘在 Journey Optimizer 中實施 Luma 行銷和保留行銷活動。
 
 ## 您的挑戰
 
@@ -56,7 +66,7 @@ Luma 正尋求推廣其最新的服裝和用具系列，並努力推動現有客
 <td>
  <div>
       <a href="summer-collection-announcement-challenge.md">
-        <img alt="夏季系列發佈的影像" src="./assets/email-assets/luma-transactional-onboarding-3.png"/>
+        <img alt="夏季系列公告的影像" src="./assets/email-assets/luma-transactional-onboarding-3.png"/>
       </a>
       </div>
   </td>
@@ -76,7 +86,7 @@ Luma 正尋求推廣其最新的服裝和用具系列，並努力推動現有客
     <td>
     <div>
     <a>
-      <img alt="歡迎畫面" src="./assets/email-assets/luma-transactional-onboarding-1.png"/>
+      <img alt="歡迎！" src="./assets/email-assets/luma-transactional-onboarding-1.png"/>
     </a>
     </div>
     <td>

@@ -13,26 +13,34 @@ autotag-review: '2026-05-18T17:30:10.495Z'
 TQID: 'https://experienceleague.adobe.com/8MNLu9g1kw8c2aET-dT-c-RqIHOTjgB1XdK8qbNEUcE'
 product_v2:
   - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
 feature_v2:
   - id: d556b755-390a-43f0-be32-a08cf6236126
+    internal-label: Configuration
   - id: fe338112-e2ce-4876-8989-fc4d497613f1
+    internal-label: Email
+  - id: 736fce34-6237-51e6-acd3-371abb174feb
+    internal-label: Rules
 subfeature_v2:
   - id: e23d48b5-7858-4d45-9c56-9e2b4be8500e
+    internal-label: Business rules
+  - id: 3850e5c3-bf3f-5077-b08f-0917b13faa8a
+    internal-label: Frequency Rules
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: 880ae31cbaadba400f072d59c0b114978bb90fb5
+    internal-label: Beginner
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
 workflow-type: tm+mt
-source-wordcount: 144
+source-wordcount: '144'
 ht-degree: 100%
-
 ---
-
 # 設定業務規則 - 頻率上限
 
 了解如何使用 Adobe Journey Optimizer 業務規則來設定頻率上限並防止過度向客戶提供服務。 此影片會逐步說明如何建立全域和自訂規則集 (例如將所有電子郵件限制為每日一封電子郵件，或個別設定促銷電子郵件的上限)，並說明如何將這些規則套用至行銷活動，以有效管理客戶疲勞。
 
->[!VIDEO](https://video.tv.adobe.com/v/3433406/?captions=chi_hant&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3433395/?learn=on)
 
 如需詳細資訊，請參閱[產品文件](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer/using/configuration/frequency-rules)。

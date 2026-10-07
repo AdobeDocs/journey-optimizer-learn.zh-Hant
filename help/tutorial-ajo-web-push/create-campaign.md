@@ -5,16 +5,26 @@ feature: Push
 role: User
 level: Beginner
 doc-type: Tutorial
-last-substantial-update: 2026-04-21T00:00:00Z
+last-substantial-update: 2026-04-21T00:00:00.000Z
 jira: KT-20879
 exl-id: 94fda23f-e26a-494b-8e5c-6c442bae61c4
-source-git-commit: 136459518341f00af69fcbf2e629bf0ccc2bd27f
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+feature_v2:
+  - id: 66e1fd99-672d-5d64-aa58-eca107f0fbae
+    internal-label: Push
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
 workflow-type: tm+mt
 source-wordcount: '218'
 ht-degree: 1%
-
 ---
-
 # 建立行銷活動
 
 在此步驟中，您將在Adobe Journey Optimizer中建立行銷活動，將排程的網頁推播通知傳送給已選擇加入的使用者。 行銷活動會鎖定符合資格的對象，並在預先定義的時間傳送訊息，以啟用計畫和對象為基礎的參與。
@@ -56,4 +66,4 @@ ht-degree: 1%
 
 ## 測試行銷活動
 
-若要測試行銷活動，請先在提示時選擇加入[&#128279;](http://localhost:3000)，在網頁上啟用通知。 在您選擇加入後，請等待行銷活動在其排程時間執行。 行銷活動執行時，您應會在瀏覽器中收到推播通知。
+若要測試行銷活動，請先在提示時選擇加入](http://localhost:3000)，在[網頁上啟用通知。 在您選擇加入後，請等待行銷活動在其排程時間執行。 行銷活動執行時，您應會在瀏覽器中收到推播通知。

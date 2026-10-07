@@ -5,15 +5,25 @@ jira: KT-8109
 feature: Journeys
 role: User
 level: Beginner
-last-substantial-update: 2023-02-01T00:00:00Z
+last-substantial-update: 2023-02-01T00:00:00.000Z
 exl-id: 6fd58b8e-7178-495d-a85d-eb67fc4f3acf
-source-git-commit: 201470e35095b38617d1a1bb5d7b16c1e60f431e
-workflow-type: ht
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+feature_v2:
+  - id: d998adac-2f81-400b-a669-d07bb196e4eb
+    internal-label: Journeys
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
+workflow-type: tm+mt
 source-wordcount: '443'
 ht-degree: 100%
-
 ---
-
 # 建立忠誠度狀態歡迎電子郵件 - 挑戰
 
 | 挑戰 | 建立忠誠度狀態歡迎電子郵件 |
@@ -26,7 +36,7 @@ ht-degree: 100%
 
 ## 故事
 
-Luma 提供忠誠計畫，作為吸引及留住客戶的方式。 該計畫提供四個不同的等級：銅、銀、金和白金。 每個忠誠度等級都會獲得不同的獎勵、折扣和其他特殊獎勵，作為對其重複消費的獎勵。
+Luma 提供忠誠計畫，作為吸引及留住客戶的方式。 該方案提供四個不同的等級：銅、銀、金和白金。 每個忠誠度等級都會獲得不同的獎勵、折扣和其他特殊獎勵，作為對其重複消費的獎勵。
 
 為了強調特殊的白金層級，Luma 希望在客戶達到白金層級時，向他們傳送歡迎電子郵件。
 
@@ -48,7 +58,7 @@ Luma 提供忠誠計畫，作為吸引及留住客戶的方式。 該計畫提�
 
    1. 客戶應會收到標示為`Luma - Platinum Status - Welcome`的電子郵件，主旨列為`Welcome to Platinum Status, {firstName}!`以及創意團隊提供的電子郵件內文。 這是[!UICONTROL 異動]電子郵件。
 
-   1. 上傳 HTML 檔案時，您會注意到電子郵件指的是「鑽石」狀態，而非「白金」。 請更新[!UICONTROL 電子郵件設計工具]中的電子郵件，而不必向創意團隊請求新檔案。
+   1. 上傳 HTML 檔案時，您會注意到電子郵件指的是「鑽石」等級，而非「白金」等級。 請更新[!UICONTROL 電子郵件設計工具]中的電子郵件，而不必向創意團隊請求新檔案。
 
 >[!TAB 成功標準]
 
@@ -77,7 +87,7 @@ Luma 提供忠誠計畫，作為吸引及留住客戶的方式。 該計畫提�
 
 >[!TAB 檢查您的工作]
 
-區段可能會以這種方式呈現：
+這是區段應呈現的樣子：
 
 ![Luma - 白金狀態 - 區段](/help/challenges/assets/segment-luma-platinum-status.png)
 

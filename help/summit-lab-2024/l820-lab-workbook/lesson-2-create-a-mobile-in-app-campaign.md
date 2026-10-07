@@ -10,13 +10,26 @@ recommendations: noDisplay, noCatalog
 jira: KT-14983
 thumbnail: KT-14983.jpeg
 exl-id: fe18eca7-229c-4867-ab34-1862bad63124
-source-git-commit: 7b3d668e8400d9f86c764f5dc4c4455b50cd0cdc
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+feature_v2:
+  - id: d0a62d3c-b79e-47e4-929e-40ef3cffa037
+    internal-label: Communication channels
+subfeature_v2:
+  - id: cc5c44e2-54a1-4927-b794-442cd87d8f74
+    internal-label: In App channel
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
 workflow-type: tm+mt
-source-wordcount: '1432'
-ht-degree: 1%
-
+source-wordcount: '1520'
+ht-degree: 2%
 ---
-
 # 第2課 — 建立行動應用程式內行銷活動
 
 在本課程中，您將建立並觸發行動應用程式內訊息。
@@ -33,7 +46,7 @@ ht-degree: 1%
 2. 使用下列詳細資料登入：
    <br>
    **使用者名稱：** L820+**`<your seat number>`**@adobeeventlab.com
-   **密碼：**   Adobe2024！
+   **密碼：** Adobe2024！
    <br>
 您可以在實驗室機器案頭上找到登入的詳細資料。 使用Adobe ID和密碼。
    ![案頭](/help/summit-lab-2024/l820-lab-workbook/assets/desk-top.png)
@@ -109,7 +122,7 @@ ht-degree: 1%
 
 1. 在下列文字欄位中，新增您可以記住的&#x200B;*`<custom string value>`*。
 
-1. 若要儲存值，請按一下&#x200B;**[!UICONTROL 新增**] `<custom string value>`。
+1. 若要儲存值，請按一下**[!UICONTROL 新增**] `<custom string value>`。
 
    此自訂字串值稍後會用來觸發您的訊息。
 
@@ -147,9 +160,9 @@ ht-degree: 1%
 
 #### 2.3.3.2撰寫訊息並發佈行銷活動
 
-1. 在媒體區段中，貼入下列URL： `https://t3.ftcdn.net/jpg/02/79/42/52/240_F_279425217_Hr9VBkknMr4fTpuZbxZXfcYdC7jSvGl2.jpg`
+1. 在媒體區段中，貼入下列URL：  `https://t3.ftcdn.net/jpg/02/79/42/52/240_F_279425217_Hr9VBkknMr4fTpuZbxZXfcYdC7jSvGl2.jpg`
    <br>
-當您按一下離開值欄位時，您的影像應該會出現。
+   當您按一下離開值欄位時，您的影像應該會出現。
 
    預覽中顯示![個媒體](/help/summit-lab-2024/l820-lab-workbook/assets/3-1-3-2-media.png)
 
@@ -320,7 +333,7 @@ ht-degree: 1%
 
 **產品檔案：**
 
-* [開始使用應用程式內頻道](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer/using/in-app/get-started-in-app)
-* [建立行動應用程式內訊息](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer/using/in-app/create-in-app)
-* [設計您的應用程式內內容](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer/using/in-app/design-in-app)
-* [檢查並傳送您的應用程式內通知](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer/using/in-app/send-in-app)
+* [開始使用應用程式內頻道](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/get-started-in-app)
+* [建立行動應用程式內訊息](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/create-in-app)
+* [設計您的應用程式內內容](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/design-in-app)
+* [檢查並傳送應用程式內通知](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/send-in-app)

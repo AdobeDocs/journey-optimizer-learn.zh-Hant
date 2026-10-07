@@ -6,13 +6,23 @@ role: User
 hide: true
 index: false
 exl-id: de51792e-2cac-410f-b32e-7d443721ff81
-source-git-commit: 3917e11cdf8c0450c19ce653a0964f6dc9da6a3c
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+feature_v2:
+  - id: bb359667-ec7d-4d4b-8663-5850fc219d32
+    internal-label: Administration
+subfeature_v2:
+  - id: fdac7813-bd56-47ae-9f6d-fa94ad1c5dee
+    internal-label: Overview
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
 workflow-type: tm+mt
 source-wordcount: '2062'
 ht-degree: 0%
-
 ---
-
 # 現代忠誠計畫的財務模型
 
 ## 適用於預測負債、獎勵經濟及遞增價值的完整、CFO就緒架構。
@@ -117,22 +127,22 @@ ht-degree: 0%
 
 以挑戰為基礎的忠誠度（任務、條紋、任務）已成為促進參與度的強大動力。 但許多組織部署挑戰時並不瞭解其財務影響。
 
-挑戰會鼓勵成員完成產生獎金倍數的動作，藉此放大收入速度。 若不是由增量採購行為或獎勵成本控制所抵銷，這會大幅增加負債。 挑戰的經濟學取決於參與率、完成率、回報值，以及挑戰完成時的增量收入。 正確的模型需要預估完整的funnel：有多少成員會看到挑戰、註冊、完成第一步、完成第二步，以及完成整個挑戰。 Reward cost expands as completion rates rise, so challenge design must intentionally balance engagement with profitability.
+挑戰會鼓勵成員完成產生獎金倍數的動作，藉此放大收入速度。 若不是由增量採購行為或獎勵成本控制所抵銷，這會大幅增加負債。 挑戰的經濟學取決於參與率、完成率、回報值，以及挑戰完成時的增量收入。 正確的模型需要預估完整的funnel：有多少成員會看到挑戰、註冊、完成第一步、完成第二步，以及完成整個挑戰。 報酬成本會隨著完成率的提高而增加，因此挑戰設計必須刻意平衡參與度和盈利能力。
 
-Challenges are powerful when used correctly—but potentially catastrophic when reward value and completion velocity are poorly modeled.
+正確使用時，挑戰是強大的，但如果獎勵值和完成速度模型化不當，則可能是災難性的。
 
-## 7. Partner Economics: The Hidden Profit Engine
+## &#x200B;7. 合作夥伴經濟：隱藏的利潤引擎
 
-Partner ecosystems—travel, retail, entertainment, financial services—can fundamentally alter loyalty economics. In some industries, partner revenue is the primary profit engine. For example, airlines generate billions by selling miles to credit card partners. For retailers, cross-brand promotions or co-funded rewards can reduce CPP dramatically. A well-managed partner ecosystem can transform a loyalty program from a cost center to a profit center. But a poorly structured partnership can increase liability and dilute brand equity.
+合作夥伴的生態系統 — 旅遊、零售、娛樂、金融服務 — 可以從根本上改變忠誠度經濟模式。 在某些產業中，合作夥伴收入是主要的利潤引擎。 例如，航空公司通過向信用卡合作夥伴銷售英里數來創造數十億的利潤。 對於零售商而言，跨品牌促銷活動或共同資助的獎勵可大幅降低CPP。 管理良好的合作夥伴生態系統，可將忠誠計畫從成本中心轉變為利潤中心。 但不良的合作關係可能會增加責任，稀釋品牌權益。
 
-## 8. How AI Will Transform Loyalty Economics
+## &#x200B;8. AI如何改變忠誠度經濟學
 
-AI is reshaping loyalty economics in profound ways. Predictive liability modeling allows brands to forecast redemption patterns with unprecedented accuracy. Micro-segmentation enables personalized reward valuation—offering more to customers who drive incremental revenue and less to those who do not. AI-driven churn prediction informs which rewards produce the highest retention lift at the lowest cost. Offer recommendation engines optimize reward mix in real time. Generative AI can even model hypothetical loyalty structures—testing dozens of tier architectures or earn structures to identify the most financially optimal design.
+AI正以深遠的方式重塑忠誠度經濟學。 預測性責任模型可讓品牌以前所未有的準確性預測贖回模式。 微觀細分可啟用個人化獎勵評估，為帶來遞增收入的客戶提供更多報酬，為不帶來遞增收入的客戶提供更少的報酬。 AI導向的流失預測會告知哪些回報能以最低成本產生最高的保留率提升度。 優惠建議引擎會即時最佳化獎勵組合。 創作AI甚至可以模擬假想的忠誠度結構 — 測試數十個層級架構或贏取結構以識別財務上最理想的設計。
 
-AI reduces economic waste, improves contribution margin, and allows loyalty programs to operate like sophisticated, automated financial systems.
+AI可減少經濟浪費、改善貢獻利潤，並讓忠誠計畫像複雜的自動化金融體系一樣運作。
 
-## 9. This Quarter&#39;s Financial Playbook
+## &#x200B;9. 本季的財務劇本
 
-Loyalty leaders should begin with a financial reset. First, build a comprehensive liability and breakage model. Second, run earn and burn forecasts at the segment level. Third, evaluate tier economics and identify cost-negative benefits. Fourth, run controlled experiments to quantify incremental revenue. Finally, align with finance on shared metrics, governance cadence, and scenario planning.
+忠誠領導者應該從財務重設開始。 首先，建立完整的責任與損壞模型。 第二，在區段層級執行收入與燒錄預測。 第三，評估階層經濟並找出成本負收益。 第四，執行受控實驗以量化遞增收入。 最後，在共用量度、治理步調和情境規劃上與財務保持一致。
 
-When loyalty and finance operate as partners—not adversaries—loyalty programs become predictable, profitable, and strategically indispensable.
+當忠誠度和財務以合作夥伴（而非對手）的身分運作時，忠誠計畫就變得可預測、有利可圖，而且在策略上也不可或缺。

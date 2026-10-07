@@ -10,13 +10,26 @@ recommendations: noDisplay, noCatalog
 jira: KT-13983
 thumbnail: KT-13983.jpeg
 exl-id: 0f84adfb-edb1-47fa-b696-58eec2b33bb1
-source-git-commit: 7b3d668e8400d9f86c764f5dc4c4455b50cd0cdc
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+feature_v2:
+  - id: d0a62d3c-b79e-47e4-929e-40ef3cffa037
+    internal-label: Communication channels
+subfeature_v2:
+  - id: cc5c44e2-54a1-4927-b794-442cd87d8f74
+    internal-label: In App channel
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
 workflow-type: tm+mt
-source-wordcount: '699'
-ht-degree: 2%
-
+source-wordcount: '778'
+ht-degree: 5%
 ---
-
 # 第3課 — 建立網頁應用程式內行銷活動
 
 現在您已建立應用程式的行動體驗，在本課程中，您將建立您在Fréscopa網站上看到的其中一個體驗。 您可以建立網站應用程式內行銷活動。 您可以設計和自訂訊息，並定義觸發訊息的觸發因子。
@@ -116,7 +129,7 @@ ht-degree: 2%
 
    如果您使用模式或全熒幕版面配置，則可新增按鈕。 您可以使用此URL開啟產品頁面： **https://dsn.adobe.com/web/adobe-summit-2024/P2WsaDPf_**
 
-1. 當您完成編輯訊息時，請按一下[檢閱]以啟動&#x200B;**[!UICONTROL 。]**
+1. 當您完成編輯訊息時，請按一下[檢閱]以啟動&#x200B;]**。**[!UICONTROL 
 
 1. 如果檢閱畫面上一切正常，請按一下&#x200B;**[!UICONTROL 啟動]**&#x200B;以發佈您的網頁應用程式內訊息。
 
@@ -154,7 +167,7 @@ ht-degree: 2%
 
 **產品檔案：**
 
-* [開始使用應用程式內頻道](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer/using/in-app/get-started-in-app)
-* [建立網頁應用程式內訊息](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer/using/in-app/create-in-app-web)
-* [設計您的應用程式內內容](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer/using/in-app/design-in-app)
-* [檢查並傳送您的應用程式內通知](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer/using/in-app/send-in-app)
+* [開始使用應用程式內頻道](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/get-started-in-app)
+* [建立網頁應用程式內訊息](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/create-in-app-web)
+* [設計您的應用程式內內容](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/design-in-app)
+* [檢查並傳送應用程式內通知](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/in-app/send-in-app)

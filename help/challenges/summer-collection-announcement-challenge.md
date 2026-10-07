@@ -1,22 +1,39 @@
 ---
 title: 建立夏季集合公告 - 挑戰
-description: 向現有客戶客群傳送夏季系列發佈，以推廣新的 Luma 夏季系列。
+description: 向現有客戶客群傳送夏季系列公告，以推廣新的 Luma 夏季系列。
 jira: KT-8109
 feature: Segments, Journeys, Email
 role: User
 level: Beginner
-last-substantial-update: 2023-02-01T00:00:00Z
+last-substantial-update: 2023-02-01T00:00:00.000Z
 exl-id: ae457be7-2c67-4950-a072-1d7030b0e17b
-source-git-commit: dc5c129309b9f1dfd6e392b8446b68c60111f82e
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+feature_v2:
+  - id: d998adac-2f81-400b-a669-d07bb196e4eb
+    internal-label: Journeys
+  - id: fe338112-e2ce-4876-8989-fc4d497613f1
+    internal-label: Email
+  - id: fda7be7c-b81e-42c0-95a9-616e5b893c03
+    internal-label: Build expressions
+subfeature_v2:
+  - id: a9db6739-b0ee-4ac1-bf1b-d880e21c6a00
+    internal-label: Segments
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
 workflow-type: tm+mt
 source-wordcount: '1154'
 ht-degree: 100%
-
 ---
+# 建立夏季系列公告 - 挑戰
 
-# 建立夏季集合公告 - 挑戰
-
-| 挑戰 | 建立夏季系列發佈 |
+| 挑戰 | 建立夏季系列公告 |
 |---|---|
 | 人物誌 | Journey Manager |
 | 所需技能 | <ul><li>[建立區段](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html?lang=zh-Hant)</li><li> [匯入及編寫 HTML 電子郵件內容](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/create-emails/import-and-author-html-email-content.html?lang=zh-Hant)</li><li>[使用案例 - 讀取區段](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/journeys/use-case-read-segment.html?lang=zh-Hant)</li> |
@@ -84,13 +101,13 @@ stringCompare("equals", loyalty.tier, ["diamond", "gold", "platinum", "silver"],
 >[!ENDTABS]
 
 
-### 步驟 2：建立歷程 - 夏季系列發佈
+### 步驟 2：建立歷程 - 夏季系列公告
 
 >[!BEGINTABS]
 
->[!TAB 任務]
+>[!TAB 工作]
 
-#### 傳送夏季系列發佈
+#### 傳送夏季系列公告
 
 一家機構向您提供了四份 HTML 檔案，其中包含電子郵件的設計：
 
@@ -109,18 +126,18 @@ stringCompare("equals", loyalty.tier, ["diamond", "gold", "platinum", "silver"],
       * 使用提供的 HTML 檔案 `SeasonalCollectionEmail.html` 用於電子郵件內文。
    1. 等候兩天，然後傳送後續電子郵件訊息，其中包含更具針對性的內容：
       * 男性客戶應接收 **Luma 男士系列**&#x200B;電子郵件。
-         * 訊息標題：*Luma 男士系列*
-         * 主旨列：*(收件者的名字)，探索男士新運動用具！*
-         * 電子郵件內文：`MensCollectionEmail.html` 用於電子郵件內文。
+        * 訊息標題：*Luma 男士系列*
+        * 主旨列：*(收件者的名字)，探索男士新運動用具！*
+        * 電子郵件內文：`MensCollectionEmail.html` 用於電子郵件內文。
       * 女性客戶應收到 **Luma 女士系列**&#x200B;電子郵件。
-         * 訊息標題：*Luma 女士系列*
-         * 主旨列：*(收件者的名字)，探索 Luma 女士系列！*
-         * 電子郵件內文：`WomensCollectionEmail.html`
+        * 訊息標題：*Luma 女士系列*
+        * 主旨列：*(收件者的名字)，探索 Luma 女士系列！*
+        * 電子郵件內文：`WomensCollectionEmail.html`
       * 其他客戶應收到 **Luma - 八折系列**&#x200B;電子郵件。
-         * 訊息標題： *Luma - 八折系列*
-         * 主旨列： *(收件者的名字)，享受八折產品建議！*
-         * 電子郵件內文：`20OOffCollectionEmail.html`
-   1. 在上方傳送目標電子郵件後，請等待兩天再開啟電子郵件
+        * 訊息標題： *Luma - 八折系列*
+        * 主旨列： *(收件者的名字)，享受八折產品建議！*
+        * 電子郵件內文：`20OOffCollectionEmail.html`
+   1. 傳送上述目標電子郵件後，請等待兩天，看看電子郵件是否已開啟
    1. 如果目標電子郵件未在兩天內開啟，請傳送 **Luma - 八折系列電子郵件**&#x200B;作為最終的重新定位嘗試
 
 
@@ -151,7 +168,7 @@ stringCompare("equals", loyalty.tier, ["diamond", "gold", "platinum", "silver"],
 3. 向自己傳送一份校樣。
 
 結果:\
-您應會收到電子郵件。 主旨列應為：*Stanleigh，探索男士新運動用具！* 與電子郵件內文應與您在預覽中看到的內容相符。
+您應會收到電子郵件。 主旨列應為：*Stanleigh，探索男士新運動用具！* 且電子郵件內文應與您在預覽中看到的內容相符。
 
 >[!NOTE]
 >你可能需要幾分鐘才能收到校樣。
@@ -190,13 +207,13 @@ stringCompare("equals", loyalty.tier, ["diamond", "gold", "platinum", "silver"],
 1. 將歷程置於測試模式。
 1. 選取&#x200B;**[!UICONTROL 一次單個輪廓]**。
 1. 等待時間：將計時器設為120秒 (在欄位中輸入)。
-1. 觸發輪廓入口
+1. 觸發輪廓進入
 1. 您可以使用以下 *Luma CRM Ids* 作為輪廓識別碼來測試每個分支：
    * 女性：Leora Dietsche，身分識別值：`a8f14eab3b483c2b96171b575ecd90b1`
    * 男性：Stanleigh Stooke，身分識別值： `4f34057d9d9e792c28ba18ecae378e98`
    * 未指定性別：Louise Petti，身分識別值： `d1f132f9f9502bba047a6ec86c4b61f9`
 
-1. 觸發輪廓入口後，您應會收到第一封電子郵件。 標題應根據您選取的輪廓進行個人化設定。
+1. 觸發輪廓進入後，您應會收到第一封電子郵件。 標題應根據您選取的輪廓進行個人化設定。
 1. 歷程應繼續進入個別分支，您應會收到相關電子郵件 (例如，如果您選擇 *Jenna*，您應會收到 *Luma 女士系列* 電子郵件)。
 1. 開啟第二封電子郵件，歷程應該會結束。
 1. 您可以重複步驟 4。 - 7. 對於全部三個輪廓，以檢查分支是否正常運作。
@@ -207,9 +224,9 @@ stringCompare("equals", loyalty.tier, ["diamond", "gold", "platinum", "silver"],
 
 * Luma - 新的季節性系列公告
 * 根據您使用的測試輪廓，您應會收到下列其中一封電子郵件：
-   * Leora：Luma 女士系列
-   * Stanleigh：Luma 男士系列
-   * Louise：Luma — 精選系列八折
+  * Leora：Luma 女士系列
+  * Stanleigh：Luma 男士系列
+  * Louise：Luma — 精選系列八折
 * 如果您未開啟第二封電子郵件：Luma — 精選系列八折
 
 >[!TAB 檢查您的工作]

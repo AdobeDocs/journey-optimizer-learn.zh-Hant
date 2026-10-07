@@ -5,11 +5,26 @@ feature: Profiles
 role: User
 level: Beginner
 doc-type: Tutorial
-last-substantial-update: 2025-09-24
+last-substantial-update: 2025-09-24T00:00:00.000Z
 recommendations: noDisplay, noCatalog
 jira: KT-19287
 exl-id: c6d4f720-3780-4012-a2bd-8eae23599144
-source-git-commit: d4cc60f4448caec92f704026783e2bbe029427f5
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+feature_v2:
+  - id: d2971708-e780-44bb-9e2a-72f139796afd
+    internal-label: Customer
+subfeature_v2:
+  - id: ef9a83ca-eefa-47cf-aa34-f1a34715583a
+    internal-label: Profiles
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
 workflow-type: tm+mt
 source-wordcount: '290'
 ht-degree: 10%
@@ -20,8 +35,8 @@ ht-degree: 10%
 
 ## 建立電子郵件通道設定
 
-* 登入&#x200B;_&#x200B;**Journey Optimizer**&#x200B;_
-* 瀏覽至&#x200B;_&#x200B;**管理 — >管道 — >建立管道設定**&#x200B;_
+* 登入&#x200B;_**Journey Optimizer**_
+* 瀏覽至&#x200B;_**管理 — >管道 — >建立管道設定**_
 * 從頻道清單中選取&#x200B;**電子郵件**。 提供有意義的名稱和說明。
 * 填寫電子郵件設定。
 * 提供執行詳細資料，如下所示。 電子郵件會傳送到儲存在欄位中的設定檔電子郵件地址
@@ -30,8 +45,8 @@ ht-degree: 10%
 
 ## 建立事件
 
-* 登入&#x200B;_&#x200B;**Journey Optimizer**&#x200B;_
-* 瀏覽至&#x200B;_&#x200B;**管理 — >設定**&#x200B;_
+* 登入&#x200B;_**Journey Optimizer**_
+* 瀏覽至&#x200B;_**管理 — >設定**_
 * 按一下事件卡片的管理按鈕，然後按一下建立事件。 指定下列值
 * ![歷程事件](assets/journey-event1.png)
 
@@ -40,9 +55,9 @@ ht-degree: 10%
 
 ## 建立歷程
 
-* 登入&#x200B;_&#x200B;**Journey Optimizer**&#x200B;_
-* 導覽至&#x200B;_&#x200B;**歷程管理 — >歷程 — >建立歷程**&#x200B;_
-* 將&#x200B;_&#x200B;**UserLoggedIn**&#x200B;_&#x200B;事件拖放到畫布上
+* 登入&#x200B;_**Journey Optimizer**_
+* 導覽至&#x200B;_**歷程管理 — >歷程 — >建立歷程**_
+* 將&#x200B;_**UserLoggedIn**_&#x200B;事件拖放到畫布上
 * 從動作功能表拖放電子郵件。 設定電子郵件動作，以使用先前建立的電子郵件通道設定。
 * 發佈歷程。
 

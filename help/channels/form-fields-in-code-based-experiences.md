@@ -1,26 +1,38 @@
 ---
-title: 請將表單欄位新增至程式碼型體驗頻道範本
+title: 將表單欄位新增至程式碼型體驗管道範本
 description: 了解開發人員如何透過啟用程式碼型體驗管道內的可編輯欄位，簡化與行銷團隊的合作。
 feature: Code-based Experiences
 role: Developer
 level: Beginner, Intermediate
 doc-type: Feature Video
 duration: 428
-last-substantial-update: 2025-06-17T00:00:00Z
+last-substantial-update: 2025-06-17T00:00:00.000Z
 jira: KT-18362
 hide: false
 exl-id: 046ba026-a166-4b32-be07-393246e3fd3b
-source-git-commit: 22d85639209aec92b8b0d8aa22494ebe3d7195f9
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+feature_v2:
+  - id: 1210f62b-45d9-5d36-8d8d-0f9049ffa368
+    internal-label: Code-based Experiences
+role_v2:
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
 workflow-type: tm+mt
 source-wordcount: '125'
 ht-degree: 100%
-
 ---
-
 # 將表單欄位新增至程式碼型體驗頻道範本
 
 瞭解開發人員如何透過啟用程式碼型體驗頻道內的可編輯欄位，簡化與行銷團隊的合作。 瞭解如何在內容範本中定義可編輯的 JSON 和 HTML 欄位，讓行銷人員能夠更新標題和說明等行銷活動元素，而無需接觸程式碼。 瞭解內嵌決策政策如何直接在範本中增強個人化，從而提升效率、減少錯誤並加速行銷活動傳遞。
 
->[!VIDEO](https://video.tv.adobe.com/v/3464002/?captions=chi_hant&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3463990/?learn=on&enablevpops)
 
 如需詳細資訊，請參閱詳細[產品文件](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer/using/channels/code-based-experience/create-code-based-experiences/code-based-form-fields)。

@@ -5,16 +5,26 @@ feature: Push
 role: User
 level: Beginner
 doc-type: Tutorial
-last-substantial-update: 2026-04-21T00:00:00Z
+last-substantial-update: 2026-04-21T00:00:00.000Z
 jira: KT-20879
 exl-id: 5cda28e4-ea2f-4277-8951-a23525ca655a
-source-git-commit: 676c21ca09e0df8d404b05081d71b147755d65d5
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+feature_v2:
+  - id: 66e1fd99-672d-5d64-aa58-eca107f0fbae
+    internal-label: Push
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
 workflow-type: tm+mt
-source-wordcount: '375'
+source-wordcount: '405'
 ht-degree: 0%
-
 ---
-
 # Adobe Journey Optimizer中的網頁推播
 
 網頁推播通知是即時重新與使用者互動的強大方法，本教學課程將逐步引導您使用Adobe Journey Optimizer (AJO)實作這些通知。 首先，您可以使用網頁SDK擷取推播通知的使用者選擇加入偏好設定，確保順暢且合規的訂閱體驗。 接下來，您將建立行銷活動，向選擇加入的使用者傳送推播通知，以啟用受眾型參與。 最後，您將瞭解如何運用AEP Tags來觸發自訂價格下降事件，這在AJO中起始歷程，並根據即時使用者行為提供及時、個人化的推播通知。

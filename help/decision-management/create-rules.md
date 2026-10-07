@@ -7,13 +7,23 @@ thumbnail: 329373.jpg
 role: User
 level: Beginner
 exl-id: 1b4cd1cd-f082-46ec-a331-9733d7c87bde
-source-git-commit: fd9d277be00449155c49b3809fe647d7342b6acd
-workflow-type: ht
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+feature_v2:
+  - id: 69102627-e6ba-56f5-ae85-9cc5357f529e
+    internal-label: Offers
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
+workflow-type: tm+mt
 source-wordcount: '139'
 ht-degree: 100%
-
 ---
-
 # 建立決策規則
 
 瞭解如何針對決策管理建立[決策規則](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/create-components/creating-decision-rules.html?lang=zh-Hant)。 規則或「決策規則」是個人化產品建議的必要建置區塊元件之一。 規則是以 Platform 即時客戶輪廓中的事件和屬性所建立，可形成產品建議的資格限制。 例如，規則可用來限制給生活在下雪地區的客戶提供雪鏟的產品建議。

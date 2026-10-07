@@ -5,26 +5,39 @@ feature: Audiences
 role: User
 level: Beginner
 doc-type: Tutorial
-last-substantial-update: 2025-04-30T00:00:00Z
+last-substantial-update: 2025-04-30T00:00:00.000Z
 recommendations: noDisplay, noCatalog
 jira: KT-18258
 exl-id: 04fad076-e897-4831-9147-768721858a80
-source-git-commit: 9f82d07711a4f29eda7dcf0e887ca31ccbb6099f
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+feature_v2:
+  - id: d2971708-e780-44bb-9e2a-72f139796afd
+    internal-label: Customer
+subfeature_v2:
+  - id: b32bb433-f8c6-4931-8e52-e657230a3bf2
+    internal-label: Audiences
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
 workflow-type: tm+mt
 source-wordcount: '286'
 ht-degree: 0%
-
 ---
-
 # 建立Adobe Experience Platform標籤
 
 Adobe Experience Platform Tags （先前稱為Adobe Launch）有助於在網站上管理和部署*行銷與分析技術，而不需要變更網站的程式碼。
 
-此[影片說明建立Adobe Experience Tags的程式](https://experienceleague.adobe.com/zh-hant/playlists/experience-platform-get-started-with-tags)
+此[影片說明建立Adobe Experience Tags的程式](https://experienceleague.adobe.com/en/playlists/experience-platform-get-started-with-tags)
 
 * 登入資料收集
-* 按一下_&#x200B;**標籤 — >新增屬性**
-* 建立名為&#x200B;_&#x200B;**personalization-on-weather**&#x200B;_&#x200B;的Adobe Experience Platform標籤。
+* 按一下_**標籤 — >新增屬性**
+* 建立名為&#x200B;_**personalization-on-weather**_&#x200B;的Adobe Experience Platform標籤。
 * 將下列擴充功能新增至標籤
 
 ![標籤延伸模組](assets/tags-extensions1.png)

@@ -5,17 +5,30 @@ feature: Audiences
 role: User
 level: Beginner
 doc-type: Tutorial
-last-substantial-update: 2025-04-30T00:00:00Z
+last-substantial-update: 2025-04-30T00:00:00.000Z
 recommendations: noDisplay, noCatalog
 jira: KT-17923
 exl-id: 33b084ea-e712-4de0-8836-8795efaac7e2
-source-git-commit: 163edfb3367d03729d68c9339ee2af4a0fe3a1b3
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+feature_v2:
+  - id: d2971708-e780-44bb-9e2a-72f139796afd
+    internal-label: Customer
+subfeature_v2:
+  - id: b32bb433-f8c6-4931-8e52-e657230a3bf2
+    internal-label: Audiences
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
 workflow-type: tm+mt
 source-wordcount: '408'
 ht-degree: 0%
-
 ---
-
 # 測試解決方案
 
 若要驗證實施，請開啟包含偏好設定表單的網頁。 使用瀏覽器的DevTools （主控台和網路標籤）來監視表單提交程式。 提交偏好設定（例如，選取「庫存」）後，請確認AEP Web SDK (alloy.sendEvent)已成功觸發，且已將正確資料傳送至Adobe Experience Platform。 在AEP中，導覽至「對象」區段，並使用Edge Segmentation快速確認您的設定檔符合預期對象（例如「感興趣的股票」）資格。 您也可以檢查關聯資料集中的傳入事件資料，以確保它包含正確的偏好設定值。 對每個資產類別（股票、債券、CD）重複此程式，以確保完整的工作流程正常運作。
