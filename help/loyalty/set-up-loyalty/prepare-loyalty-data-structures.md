@@ -34,4 +34,4 @@ ht-degree: 0%
 
 瞭解如何設定在Adobe Experience Platform中接收忠誠度會員和事件資料所需的XDM結構描述和已啟用設定檔的資料集。
 
->[!VIDEO](https://video.tv.adobe.com/v/3504120/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3504147/?captions=chi_hant&learn=on)

@@ -133,7 +133,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./set-up-loyalty/prepare-loyalty-data-structures.md" title="準備熟客資料結構" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3504120/?format=jpeg" alt="準備熟客資料結構"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3504147/?captions=chi_hant&format=jpeg" alt="準備熟客資料結構"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -156,7 +156,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./set-up-loyalty/connect-and-map-loyalty-data.md" title="連線並對應忠誠度資料" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3504118/?format=jpeg" alt="連線並對應忠誠度資料"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3504138/?captions=chi_hant&format=jpeg" alt="連線並對應忠誠度資料"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -179,7 +179,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./set-up-loyalty/verify-loyalty-data-and-configure-performance-reporting.md" title="驗證忠誠度資料並設定績效報表" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3504119/?format=jpeg" alt="驗證忠誠度資料並設定績效報表"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3504129/?captions=chi_hant&format=jpeg" alt="驗證忠誠度資料並設定績效報表"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
