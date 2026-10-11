@@ -41,6 +41,6 @@ ht-degree: 19%
 
 瞭解如何建立標準整合，以便在Adobe Journey Optimizer管道製作中使用外部資料和內容。 這可協助您增強個人化，並提高傳出管道的參與度。 請觀看下列影片以瞭解更多資訊。
 
->[!VIDEO](https://video.tv.adobe.com/v/3484118/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3484129/?captions=chi_hant&learn=on&enablevpops)
 
 如需詳細資訊，請參閱[標準整合檔案](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer/using/content-management/combine/integrations/integrations-create)。
