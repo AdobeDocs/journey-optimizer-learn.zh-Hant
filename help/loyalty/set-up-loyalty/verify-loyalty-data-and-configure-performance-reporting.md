@@ -34,4 +34,4 @@ ht-degree: 0%
 
 瞭解如何將範例忠誠度設定檔和事件資料傳送至Adobe Experience Platform，確認其出現在資料集和統一客戶設定檔中，然後選取資料集並在忠誠度績效設定中排定KPI的優先順序。
 
->[!VIDEO](https://video.tv.adobe.com/v/3504119/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3504129/?captions=chi_hant&learn=on)

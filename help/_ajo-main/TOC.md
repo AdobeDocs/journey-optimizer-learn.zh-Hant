@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer 教學課程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 這些是 Journey Optimizer 教學課程。
 auto-video-transcripts: true
-source-git-commit: f63c9bad8aa86867296132baa3f2a3be58883a9d
-workflow-type: ht
-source-wordcount: '1579'
-ht-degree: 100%
+source-git-commit: cec289fc6f0240c67a5fe6a297ba9a1512d9005f
+workflow-type: tm+mt
+source-wordcount: '1583'
+ht-degree: 99%
 ---
 
 # Journey Optimizer 教學課程 {#tutorials}
@@ -78,6 +78,7 @@ ht-degree: 100%
   + [訂閱和登陸頁面](/help/profiles-audiences-subscriptions/subscriptions-and-landing-pages.md)
 + 管道 {#channels}
   + [行動應用程式最佳化 — 概觀](/help/channels/mobile-app-optimization-overview.md)
+  + [根據輪廓偏好設定或傾向分數最佳化管道](/help/channels/channel-optimization.md)
   + 程式碼型體驗頻道{#code-based-experience-channel}
     + [建立程式碼型體驗行銷活動](/help/channels/create-a-code-based-experience-campaign.md)
     + [將表單欄位新增至程式碼型體驗頻道範本](/help/channels/form-fields-in-code-based-experiences.md)
@@ -146,9 +147,10 @@ ht-degree: 100%
     + [用於內容產生的 AI 助理 - 概觀](/help/content-management/ai-assistant-for-content-generation-overview.md)
     + [請使用 AI 助理建立內容，以便進行內容產生](/help/content-management/create-content-using-ai-assistant-for-content-generation.md)
     + [品牌方針建立與管理](/help/content-management/brand-guideline-creation-and-management.md)
-  + [根據輪廓偏好設定或傾向分數最佳化管道](/help/channels/channel-optimization.md)
   + [使用 GenStudio 建立電子郵件](/help/content-management/create-an-email-using-genstudio.md)
-  + [啟用管道製作中的外部資料整合](/help/content-management/external-data-integrations-in-channel-authoring.md)
+  + 外部資料整合 {#external-data-integrations}
+    + [建立標準整合](/help/content-management/external-data-integrations/create-a-standard-integration.md)
+    + [建立瀏覽整合](/help/content-management/external-data-integrations/create-a-browsing-integration.md)
   + [在 Journey Optimizer 中建立符合品牌形象的內容 — 教學課程](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/create-on-brand-content/overview)
 + 將內容個人化 {#personalize-content}
   + [個人化編輯器 — 概觀](/help/personalize-content/personalization-editor-overview.md)

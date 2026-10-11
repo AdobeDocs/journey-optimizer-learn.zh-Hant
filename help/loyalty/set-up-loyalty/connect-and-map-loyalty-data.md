@@ -34,4 +34,4 @@ ht-degree: 0%
 
 瞭解如何建立HTTP API連線和資料流程，然後將傳入的忠誠度設定檔和事件欄位對應到您的資料集。
 
->[!VIDEO](https://video.tv.adobe.com/v/3504118/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3504138/?captions=chi_hant&learn=on)
