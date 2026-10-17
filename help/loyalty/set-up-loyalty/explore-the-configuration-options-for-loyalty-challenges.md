@@ -32,4 +32,4 @@ ht-degree: 0%
 
 探索支援忠誠度挑戰的設定選項，包括全域設定、報告、獎勵、事件對應、產品詳細目錄和排除。 如需詳細設定指引，請觀看獎勵提供者和事件對應的專屬影片。
 
->[!VIDEO](https://video.tv.adobe.com/v/3504405/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3504423/?captions=chi_hant&learn=on&enablevpops)
