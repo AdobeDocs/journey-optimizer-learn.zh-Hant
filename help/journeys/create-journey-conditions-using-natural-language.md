@@ -29,4 +29,4 @@ ht-degree: 0%
 
 瞭解Adobe Journey Optimizer的AI功能如何在不撰寫運算式語言的情況下將純英文提示轉換為歷程條件。 此影片示範如何使用忠誠度會員資格和休眠使用者檢查來建立更相關的客戶路徑。
 
->[!VIDEO](https://video.tv.adobe.com/v/3504894/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3504903/?captions=chi_hant&learn=on&enablevpops)
