@@ -6,7 +6,7 @@ auto-video-transcripts: true
 source-git-commit: a56917f03581d014c45e777437f090dba863f4a2
 workflow-type: tm+mt
 source-wordcount: '1589'
-ht-degree: 98%
+ht-degree: 99%
 ---
 
 # Journey Optimizer 教學課程 {#tutorials}
@@ -79,7 +79,7 @@ ht-degree: 98%
   + [訂閱和登陸頁面](/help/profiles-audiences-subscriptions/subscriptions-and-landing-pages.md)
 + 管道 {#channels}
   + [行動應用程式最佳化 — 概觀](/help/channels/mobile-app-optimization-overview.md)
-  + [根據輪廓偏好設定或傾向分數最佳化管道](/help/channels/channel-optimization.md)
+  + [根據輪廓偏好設定或傾向分數，最佳化管道](/help/channels/channel-optimization.md)
   + 程式碼型體驗頻道{#code-based-experience-channel}
     + [建立程式碼型體驗行銷活動](/help/channels/create-a-code-based-experience-campaign.md)
     + [將表單欄位新增至程式碼型體驗頻道範本](/help/channels/form-fields-in-code-based-experiences.md)
