@@ -1,6 +1,6 @@
 ---
 title: 建立瀏覽整合
-description: 瞭解如何為外部API設定瀏覽整合、將其連結至標準整合，以及讓行銷人員在AJO編輯器中搜尋、瀏覽及選取專案，而不需手動輸入值。
+description: 瞭解如何為外部 API 設定瀏覽整合、將其連結至標準整合，並讓行銷人員在 AJO 編輯器中搜尋、瀏覽及選取項目，而不必手動輸入值。
 feature: Personalization, API, Channel Configuration
 role: Admin, User
 level: Intermediate
@@ -32,15 +32,15 @@ level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
 source-git-commit: 53fc4917e68a32d967633cf7188eabf997bfaf14
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '95'
-ht-degree: 0%
+ht-degree: 100%
 ---
 
 # 建立瀏覽整合
 
-瞭解如何為外部API設定瀏覽整合、將其連結至標準整合，以及讓行銷人員在AJO編輯器中搜尋、瀏覽及選取專案，而不需手動輸入值。
+瞭解如何為外部 API 設定瀏覽整合、將其連結至標準整合，並讓行銷人員在 AJO 編輯器中搜尋、瀏覽及選取項目，而不必手動輸入值。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3504295/?learn=on&enablevpops)
 
-如需詳細資訊，請參閱[瀏覽整合檔案](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer/using/content-management/combine/integrations/integrations-browsing)。
+如需詳細資訊，請參閱[瀏覽整合文件](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer/using/content-management/combine/integrations/integrations-browsing)。

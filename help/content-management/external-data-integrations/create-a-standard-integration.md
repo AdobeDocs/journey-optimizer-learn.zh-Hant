@@ -1,6 +1,6 @@
 ---
 title: 建立標準整合
-description: 瞭解如何建立標準整合，以在Adobe Journey Optimizer管道製作中使用外部資料和內容，並增強跨傳出管道的個人化。
+description: 瞭解如何建立標準整合，以便在 Adobe Journey Optimizer 的管道製作中使用外部資料和內容，並增強跨傳出管道的個人化。
 feature: Personalization, API, Channel Configuration
 role: Admin, User
 level: Intermediate
@@ -33,14 +33,14 @@ level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
 source-git-commit: 53fc4917e68a32d967633cf7188eabf997bfaf14
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '91'
-ht-degree: 19%
+ht-degree: 100%
 ---
 # 建立標準整合
 
-瞭解如何建立標準整合，以便在Adobe Journey Optimizer管道製作中使用外部資料和內容。 這可協助您增強個人化，並提高傳出管道的參與度。 請觀看下列影片以瞭解更多資訊。
+瞭解如何建立標準整合，以便在 Adobe Journey Optimizer 的管道製作中使用外部資料和內容。這可協助您增強個人化，並提高傳出管道的參與度。 請觀看下列影片以瞭解更多資訊。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3484129/?captions=chi_hant&learn=on&enablevpops)
 
-如需詳細資訊，請參閱[標準整合檔案](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer/using/content-management/combine/integrations/integrations-create)。
+如需詳細資訊，請參閱[標準整合文件](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer/using/content-management/combine/integrations/integrations-create)。

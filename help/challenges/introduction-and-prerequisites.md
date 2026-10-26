@@ -19,7 +19,7 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '569'
 ht-degree: 100%
 ---
@@ -74,7 +74,7 @@ Luma 正尋求推廣其最新的服裝和用具系列，並努力推動現有客
    <strong><a href="summer-collection-announcement-challenge.md">建立夏季系列發佈</strong>
     </a>
       <p>
-      <em>建立歷程，將夏季系列發佈電子郵件傳送至現有客戶客群。 </em>
+      <em>建立歷程，將夏季系列發佈電子郵件傳送至現有客戶客群。</em>
       <p>
       <b>所需技能：</b>
       <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html?lang=zh-Hant"> 建立區段</li>
@@ -96,7 +96,7 @@ Luma 正尋求推廣其最新的服裝和用具系列，並努力推動現有客
     </a>
     </div>
     <p>
-    <em>當忠誠客戶移至新階層時，請傳送電子郵件，祝賀並告知他們新的權益。</em>
+    <em>當忠誠客戶移至新等級時，請傳送電子郵件，祝賀並告知他們新的權益。</em>
     <p>
     <b>所需技能：</b>
       <li><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/profiles-segments-subscriptions/create-segments.html?lang=zh-Hant"> 建立區段</li>
