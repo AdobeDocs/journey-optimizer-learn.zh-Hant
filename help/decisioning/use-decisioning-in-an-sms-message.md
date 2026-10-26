@@ -28,7 +28,7 @@ level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
 source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '47'
 ht-degree: 100%
 ---
@@ -36,4 +36,4 @@ ht-degree: 100%
 
 了解如何使用 AJO 決策將簡訊內容個人化和最佳化。 提升簡訊訊息，以改善參與度和達成業務目標。
 
->[!VIDEO](https://video.tv.adobe.com/v/3479540/?captions=chi_hant&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3479529/?learn=on&enablevpops)

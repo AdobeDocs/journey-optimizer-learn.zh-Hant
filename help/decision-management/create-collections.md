@@ -20,7 +20,7 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '74'
 ht-degree: 100%
 ---
@@ -30,4 +30,4 @@ ht-degree: 100%
 
 集合用於以邏輯群組管理優惠，且是建置決策管理活動所必需的。 動態集合可讓您根據標籤來分類產品建議，而靜態集合則可讓您手動整理產品建議。
 
->[!VIDEO](https://video.tv.adobe.com/v/3474879?captions=chi_hant&quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/329376?quality=12&learn=on){transcript=true}

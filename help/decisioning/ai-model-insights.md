@@ -31,7 +31,7 @@ level_v2:
   - id: d378ca77-2da1-4f39-ad92-1917fe974a38
     internal-label: Experienced
 source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '69'
 ht-degree: 100%
 ---
@@ -39,4 +39,4 @@ ht-degree: 100%
 
 瞭解如何分析 AI 模型訓練狀態、流量分配和效能，以最佳化 Journey Optimizer 中的個人化決策。 瞭解如何使用AI功能識別問題、疑難排解模型並提高轉換率。 此影片將引導您有效管理 AI 模型，以推動業務演進。
 
->[!VIDEO](https://video.tv.adobe.com/v/3479860/?captions=chi_hant&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3479849/?learn=on&enablevpops)

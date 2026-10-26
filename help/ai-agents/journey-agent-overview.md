@@ -27,7 +27,7 @@ topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
     internal-label: Insights
 source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '103'
 ht-degree: 100%
 ---
@@ -36,4 +36,4 @@ ht-degree: 100%
 
 瞭解如何使用 Journey 代理 (內建於 Adobe Journey Optimizer 中的採用 AI 技術的助理) 來分析即時歷程、識別客群衝突和輪廓流失，以及使用自然語言建立完整的多步驟歷程。 在此影片中，您將瞭解 Journey 代理如何提供透明的深入解析、可操作的建議和引導式核准，幫助您對現有歷程進行疑難排解，並更快地建立新歷程，所有這一切都無需離開 AI 助理
 
->[!VIDEO](https://video.tv.adobe.com/v/3486305/?captions=chi_hant&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3486294/?learn=on&enablevpops)

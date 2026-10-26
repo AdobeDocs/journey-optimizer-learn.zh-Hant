@@ -22,7 +22,7 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '52'
 ht-degree: 100%
 ---
@@ -30,4 +30,4 @@ ht-degree: 100%
 
 瞭解如何將 Journey Optimizer 連線至多媒體簡訊服務提供者，以及如何建立多媒體簡訊頻道介面。
 
->[!VIDEO](https://video.tv.adobe.com/v/3438057/?captions=chi_hant&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3428872/?learn=on)

@@ -1,6 +1,6 @@
 ---
 title: 建立協調的行銷活動
-description: 瞭解如何使用Adobe Journey Optimizer搭配工作流程來設計和執行行銷活動，以建立受眾、操控資料和多管道傳送。
+description: 瞭解如何使用 Adobe Journey Optimizer 搭配用於建立客群、資料操作和多管道傳送的工作流程，來設計和執行行銷活動。
 feature: Campaigns
 role: User
 level: Beginner, Intermediate
@@ -10,9 +10,9 @@ last-substantial-update: 2026-05-02
 jira: KT-20991
 exl-id: e14a4923-fbfd-4fa7-9266-ef20d22d52e2
 source-git-commit: 0db5fb0d647929c7712b69531423c5c99e2dad90
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '89'
-ht-degree: 75%
+ht-degree: 100%
 ---
 # 建立協調的行銷活動
 

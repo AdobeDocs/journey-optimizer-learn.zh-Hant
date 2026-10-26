@@ -28,7 +28,7 @@ level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
 source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '99'
 ht-degree: 100%
 ---
@@ -36,6 +36,6 @@ ht-degree: 100%
 
 瞭解如何鎖定範本中的內容。 本教學課程涵蓋如何完整或部分鎖定範本、使用唯讀和內容鎖定模式，還有如何管理鎖定範本內的可編輯區域。
 
->[!VIDEO](https://video.tv.adobe.com/v/3451618/?captions=chi_hant&learn=on&enablevpops){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3451591/?learn=on&enablevpops){transcript=true}
 
 如需詳細資訊，請參閱[產品文件](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer/using/content-management/content-templates/content-locking)。

@@ -26,7 +26,7 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '69'
 ht-degree: 100%
 ---
@@ -34,4 +34,4 @@ ht-degree: 100%
 
 了解 Adobe Journey Optimizer 如何運用內嵌的 Adobe Experience Manager 簡化數位資產管理，讓您可直接從存放庫搜尋、瀏覽及取得資產。 了解如何建立行銷活動、使用現有範本設計電子郵件，以及輕鬆上傳或編輯資產，讓強大且具影響力的內容創作觸手可及。
 
->[!VIDEO](https://video.tv.adobe.com/v/3477022/?captions=chi_hant&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3477010/?learn=on)

@@ -1,5 +1,5 @@
 ---
-title: 根據輪廓偏好設定或傾向分數最佳化管道
+title: 根據輪廓偏好設定或傾向分數，最佳化管道
 description: 瞭解 Adobe Journey Optimizer 的管道最佳化功能如何協助您使用手動優先順序、輪廓屬性或 Adobe 的 AI 模型，以最有效的管道觸及客戶，讓您的訊息深入每個客戶最有可能參與的地方。
 feature: Channels
 role: Developer
@@ -36,15 +36,15 @@ topic_v2:
   - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
     internal-label: Optimization
 source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '96'
 ht-degree: 100%
 ---
 
-# 根據輪廓偏好設定或傾向分數最佳化管道
+# 根據輪廓偏好設定或傾向分數，最佳化管道
 
 {{limited-availability}}
 
 瞭解 Adobe Journey Optimizer 的管道最佳化功能如何協助您使用手動優先順序、輪廓屬性或 Adobe 的 AI 模型，以最有效的管道觸及客戶，讓您的訊息深入每個客戶最有可能參與的地方。
 
->[!VIDEO](https://video.tv.adobe.com/v/3492141/?captions=chi_hant&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3492132/?learn=on&enablevpops)

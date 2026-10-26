@@ -28,7 +28,7 @@ level_v2:
   - id: d378ca77-2da1-4f39-ad92-1917fe974a38
     internal-label: Experienced
 source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '79'
 ht-degree: 100%
 ---
@@ -38,4 +38,4 @@ ht-degree: 100%
 
 了解如何運用事先定義的程式碼範例，編輯虛擬設定檔承載，並即時預覽個人化程式碼輸出。
 
->[!VIDEO](https://video.tv.adobe.com/v/3475963/?captions=chi_hant&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3457868/?learn=on&enablevpops)

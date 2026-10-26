@@ -25,7 +25,7 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '82'
 ht-degree: 100%
 ---
@@ -33,6 +33,6 @@ ht-degree: 100%
 
 瞭解什麼是動作、如何使用 Journey Optimizer 的編輯輪廓及跳轉動作，以及如何設定自訂動作。
 
->[!VIDEO](https://video.tv.adobe.com/v/3430271?captions=chi_hant&quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3428396?quality=12&learn=on){transcript=true}
 
 如需如何[設定自訂動作](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer/using/configuration/configure-journeys/action-journeys/about-custom-action-configuration){target="_blank"}的詳細資訊，請造訪產品文件。

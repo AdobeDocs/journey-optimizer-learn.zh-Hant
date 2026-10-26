@@ -31,7 +31,7 @@ level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
 source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '97'
 ht-degree: 100%
 ---
@@ -39,6 +39,6 @@ ht-degree: 100%
 
 了解如何針對入站動作進行優先排序，確保客戶有資格使用相同管道設定進行多項入站動作時，能向客戶傳遞最優先的內容。
 
->[!VIDEO](https://video.tv.adobe.com/v/3445012/?captions=chi_hant&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3435529/?learn=on&enablevpops)
 
 請參閱產品文件，深入了解如何[將優先順序分數指派給歷程與行銷活動](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer/using/conflict-prioritization/priority-scores)。

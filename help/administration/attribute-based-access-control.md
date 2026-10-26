@@ -28,7 +28,7 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '60'
 ht-degree: 100%
 ---
@@ -36,4 +36,4 @@ ht-degree: 100%
 
 了解如何設定以屬性為基礎的存取控制，以限制對特定 Experience Platform 資源的存取。 如需詳細資訊，請造訪[存取控制文件](https://experienceleague.adobe.com/docs/experience-platform/access-control/abac/overview.html?lang=zh-Hant)。
 
->[!VIDEO](https://video.tv.adobe.com/v/3451850?captions=chi_hant&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/345641?learn=on)

@@ -34,7 +34,7 @@ topic_v2:
   - id: b5520579-b31f-4df7-9281-f0d9f91e2edc
     internal-label: Customer engagement
 source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '86'
 ht-degree: 100%
 ---
@@ -42,4 +42,4 @@ ht-degree: 100%
 
 了解如何使用 Adobe Journey Optimizer 的勿打擾時間功能，防止在指定的時間段向客戶傳送訊息，協助行銷人員避免在不適當的時間傳送通訊，並提高客戶參與度。
 
->[!VIDEO](https://video.tv.adobe.com/v/3475863/?captions=chi_hant&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3475851/?learn=on&enablevpops)

@@ -32,7 +32,7 @@ level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
 source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '134'
 ht-degree: 100%
 ---
@@ -41,6 +41,6 @@ ht-degree: 100%
 
 瞭解如何讓片段中的 HTML 元件可編輯，以動態更新內容和樣式。 您將瞭解如何建構 HTML、設定內嵌可編輯欄位，以及將它們連結至預設內容和 CSS，然後在即時行銷活動環境中測試及驗證您的變更。
 
->[!VIDEO](https://video.tv.adobe.com/v/3464379/?captions=chi_hant&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3464363/?learn=on&enablevpops)
 
 請參閱[產品文件](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer/using/content-management/fragments/customizable-fragments){target="_blank"}以瞭解關於此功能的更多資訊。

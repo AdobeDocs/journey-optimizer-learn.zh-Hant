@@ -35,7 +35,7 @@ topic_v2:
   - id: e6ff21d3-dec6-4298-8590-7c749fffaf78
     internal-label: Content and assets
 source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '66'
 ht-degree: 100%
 ---
@@ -44,4 +44,4 @@ ht-degree: 100%
 
 瞭解如何將 Adobe Experience Manager 內容片段與 Adobe Journey 搭配使用，以個人化和最佳化敏捷通訊中的內容。
 
->[!VIDEO](https://video.tv.adobe.com/v/3492224/?captions=chi_hant&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3492215/?learn=on&enablevpops)

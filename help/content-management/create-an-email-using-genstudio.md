@@ -32,7 +32,7 @@ level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
 source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '142'
 ht-degree: 100%
 ---
@@ -46,6 +46,6 @@ ht-degree: 100%
 
 探索將電子郵件範本從 [!DNL Journey Optimizer] 匯出至 [!DNL GenStudio for Performance Marketing]、使用 [!DNL GenStudio]的範本製作符合品牌規要求的電子郵件，並將其順暢地匯入 [!DNL Journey Optimizer]。
 
->[!VIDEO](https://video.tv.adobe.com/v/3456060/?captions=chi_hant&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3456038/?learn=on&enablevpops)
 
 若要深入了解 [!DNL GenStudio for Performance Marketing]，請瀏覽 [[!DNL Adobe GenStudio for Performance Marketing] 使用手冊](https://experienceleague.adobe.com/zh-hant/docs/genstudio-for-performance-marketing/user-guide/home){target="_blank"} 或參閱 [Adobe GenStudio 進行績效行銷教學課程](https://experienceleague.adobe.com/zh-hant/docs/genstudio-for-performance-marketing-learn/tutorials/overview)。

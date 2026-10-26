@@ -20,7 +20,7 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '68'
 ht-degree: 100%
 ---
@@ -28,4 +28,4 @@ ht-degree: 100%
 
 瞭解各大品牌如何善用決策管理，定義並管理優惠，應用即時客戶資料，同時提供符合客戶期望的合適體驗。
 
->[!VIDEO](https://video.tv.adobe.com/v/3470052?captions=chi_hant&quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/326841?quality=12&learn=on){transcript=true}

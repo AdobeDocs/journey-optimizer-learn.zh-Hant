@@ -22,7 +22,7 @@ level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
 source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '85'
 ht-degree: 100%
 ---
@@ -30,6 +30,6 @@ ht-degree: 100%
 
 從統一的量度、歷程視覺化到自訂洞察和進階分析，都能瞭解如何逐步瀏覽至 Adobe Journey Optimizer 增強的報告工具
 
->[!VIDEO](https://video.tv.adobe.com/v/3443162/?captions=chi_hant&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3430413/?learn=on)
 
 如需詳細文件，請參閱 [Customer Journey Analytics 進行分析](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer/using/reporting/channel-report/report-cja-manage#analyze){target="_blank"}。

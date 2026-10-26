@@ -31,9 +31,9 @@ topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
     internal-label: Insights
 source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '226'
-ht-degree: 75%
+ht-degree: 100%
 ---
 
 # 使用 Adobe Marketing Agent for Microsoft 365 Copilot 規劃客群
@@ -44,7 +44,7 @@ ht-degree: 75%
 
 觀看以下內嵌影片以瞭解 Adobe Marketing Agent 的現場示範。
 
->[!VIDEO](https://video.tv.adobe.com/v/3491194/?captions=chi_hant&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3491171/?learn=on&enablevpops)
 
-如需如何開始使用的詳細資訊，請觀看[開始使用Adobe Marketing Agent for Microsoft 365 Copilot](https://experienceleague.adobe.com/zh-hant/docs/platform-learn/tutorials/ai-assistant/adobe-marketing-agent/adobe-marketing-agent-get-started){target="_blank"}。
-若要瞭解行銷人員如何使用Adobe Marketing Agent for Microsoft 365 Copilot來規劃行銷活動、檢閱成效及監控飛行中歷程，請使用Adobe Marketing Agent for Microsoft 365 Copilot觀看[行銷工作流程](https://experienceleague.adobe.com/zh-hant/docs/platform-learn/tutorials/ai-assistant/adobe-marketing-agent/adobe-marketing-agent-workflows){target="_blank"}。
+如需進一步瞭解如何開始，請觀看[開始使用 Adobe Marketing Agent for Microsoft 365 Copilot](https://experienceleague.adobe.com/zh-hant/docs/platform-learn/tutorials/ai-assistant/adobe-marketing-agent/adobe-marketing-agent-get-started){target="_blank"}。
+若要瞭解行銷人員如何使用 Adobe Marketing Agent for Microsoft 365 Copilot 規劃行銷活動、檢閱績效，以及監視進行中的歷程，請觀看[使用 Adobe Marketing Agent for Microsoft 365 Copilot 的行銷工作流程](https://experienceleague.adobe.com/zh-hant/docs/platform-learn/tutorials/ai-assistant/adobe-marketing-agent/adobe-marketing-agent-workflows){target="_blank"}。

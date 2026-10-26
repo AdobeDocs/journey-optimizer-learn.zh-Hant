@@ -35,7 +35,7 @@ level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
 source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '92'
 ht-degree: 100%
 ---
@@ -43,6 +43,6 @@ ht-degree: 100%
 
 了解如何針對入站動作進行優先排序，確保當客戶符合使用相同管道設定的多項入站動作資格時，能向客戶傳遞最優先的內容。
 
->[!VIDEO](https://video.tv.adobe.com/v/3447626/?captions=chi_hant&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3435530/?learn=on&enablevpops)
 
 請參閱產品文件以了解關於[歷程上限與仲裁](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer/using/conflict-prioritization/capping-rules/journey-capping)的更多資訊。

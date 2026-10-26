@@ -27,7 +27,7 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '120'
 ht-degree: 100%
 ---
@@ -36,4 +36,4 @@ ht-degree: 100%
 
 瞭解如何在 Adobe Journey Optimizer 中建立並傳送 Android 即時更新，以提供即時且持續的客戶體驗，讓使用者在活動進行時掌握最新狀況。 本教學課程示範如何設定 Android 即時更新管道、建立並啟用行銷活動，以及使用 API 在客戶歷程中開始、更新和結束即時體驗
 
->[!VIDEO](https://video.tv.adobe.com/v/3503655/?captions=chi_hant&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3503646/?learn=on&enablevpops)

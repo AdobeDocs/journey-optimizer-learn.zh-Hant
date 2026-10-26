@@ -25,7 +25,7 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '95'
 ht-degree: 100%
 ---
@@ -33,6 +33,6 @@ ht-degree: 100%
 
 了解如何在 Adobe Experience Platform 中使用 XDM 個別輪廓類別和各種欄位群組來建立結構描述。
 
->[!VIDEO](https://video.tv.adobe.com/v/3430222?captions=chi_hant&quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/27012?quality=12&learn=on){transcript=true}
 
 如需詳細的產品文件，請參閱[開始使用結構](https://experienceleague.adobe.com/docs/journey-optimizer/using/data-management/get-started-schemas.html?lang=zh-Hant)、[在 UI 中建立結構](https://experienceleague.adobe.com/docs/experience-platform/xdm/tutorials/create-schema-ui.html?lang=zh-Hant)及[使用 API 建立結構](https://experienceleague.adobe.com/docs/experience-platform/xdm/tutorials/create-schema-api.html?lang=zh-Hant)。

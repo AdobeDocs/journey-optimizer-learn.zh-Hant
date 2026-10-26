@@ -28,7 +28,7 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 source-git-commit: d4f3ee0d644b4f962763e6807f014efe132a9a05
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '58'
 ht-degree: 100%
 ---
@@ -36,4 +36,4 @@ ht-degree: 100%
 
 瞭解如何使用 Litmus 測試各收件匣間的電子郵件呈現、如何根據測試輪廓預覽您的個人化電子郵件、傳送校樣及發佈您的電子郵件。
 
->[!VIDEO](https://video.tv.adobe.com/v/3430345?captions=chi_hant&quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3425026?quality=12&learn=on){transcript=true}
