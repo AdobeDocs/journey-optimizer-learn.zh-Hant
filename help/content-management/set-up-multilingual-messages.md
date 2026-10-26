@@ -36,4 +36,4 @@ Adobe Journey Optimizer 多種語言訊息功能可讓您在單一行銷活動�
 
 了解如何設定翻譯專案進行自動化翻譯，以及了解多種語言訊息的手動翻譯和自動化翻譯專案所需的語言設定。
  
->[!VIDEO](https://video.tv.adobe.com/v/3430661/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3453554/?captions=chi_hant&learn=on)

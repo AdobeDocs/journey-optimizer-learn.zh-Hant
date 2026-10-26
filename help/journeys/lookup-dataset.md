@@ -33,4 +33,4 @@ ht-degree: 100%
 
 **建立查詢資料集**
 
->[!VIDEO](https://video.tv.adobe.com/v/3478760)
+>[!VIDEO](https://video.tv.adobe.com/v/3478771?captions=chi_hant)
