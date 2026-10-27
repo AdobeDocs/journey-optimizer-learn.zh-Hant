@@ -3,9 +3,9 @@ user-guide-title: Journey Optimizer 教學課程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 這些是 Journey Optimizer 教學課程。
 auto-video-transcripts: true
-source-git-commit: a56917f03581d014c45e777437f090dba863f4a2
+source-git-commit: 05581307a9ec85afe92c517b69bf4f4921226d03
 workflow-type: tm+mt
-source-wordcount: '1589'
+source-wordcount: '1598'
 ht-degree: 99%
 ---
 
@@ -47,6 +47,7 @@ ht-degree: 99%
   + [使用快速模擬加速歷程測試](/help/journeys/accelerate-journey-testing-with-quick-simulation.md)
   + [發佈歷程](/help/journeys/publish-a-journey.md)
   + [內容決活動](/help/journeys/content-decision-activity.md)
+  + [使用管道最佳化來觸及客戶參與的地方](/help/journeys/use-channel-optimization.md)
   + [在歷程中使用資料集查詢](/help/journeys/lookup-dataset.md)
   + [掌握多屬性篩選功能](/help/journeys/mastering-multi-attribute-filtering.md)
   + [在歷程中搭配聯合客群使用多實體目標定位](/help/journeys/multi-entity-targeting-in-journeys.md)
