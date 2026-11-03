@@ -1,6 +1,6 @@
 ---
-title: 與CX Enterprise Co-worker一起提出忠誠度挑戰及表面分析
-description: 瞭解如何使用CX Enterprise Co-worker來建立、設定和啟動使用自然語言的忠誠度挑戰，包括受眾、獎勵、時間表和自動化歷程設定。
+title: 使用CX Enterprise Coworker建立忠誠度挑戰並呈現深入分析
+description: 瞭解如何使用CX Enterprise Coworker在Adobe Journey Optimizer中建立並推出忠誠度挑戰。
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -29,16 +29,14 @@ topic_v2:
     internal-label: Customer experience
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
     internal-label: Insights
-source-git-commit: b37854eacf05b80bcb24c94fe9248cfe18c7ac02
+source-git-commit: 6b3d2ad0ea5d8f185d6c8482e2f4f92f4bb75ded
 workflow-type: tm+mt
-source-wordcount: 72
+source-wordcount: '72'
 ht-degree: 0%
-
 ---
 
+# 使用CX Enterprise Coworker建立忠誠度挑戰並呈現深入分析
 
-# 與CX Enterprise Co-worker一起提出忠誠度挑戰及表面分析
+使用直白語言提示來建立、設定和啟動CX Enterprise Coworker的忠誠度挑戰。 在此影片中，瞭解如何設定對象、獎勵和排程、自動化歷程設定，以及檢閱挑戰見解。
 
-瞭解如何使用CX Enterprise Co-worker來建立、設定和啟動使用自然語言的忠誠度挑戰，包括受眾、獎勵、時間表和自動化歷程設定。
-
->[!VIDEO](https://video.tv.adobe.com/v/3496547/?captions=chi_hant&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496528/?learn=on&enablevpops)
