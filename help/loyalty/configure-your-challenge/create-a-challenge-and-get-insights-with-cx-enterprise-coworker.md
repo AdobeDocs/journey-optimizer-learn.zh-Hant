@@ -39,4 +39,4 @@ ht-degree: 0%
 
 使用直白語言提示來建立、設定和啟動CX Enterprise Coworker的忠誠度挑戰。 在此影片中，瞭解如何設定對象、獎勵和排程、自動化歷程設定，以及檢閱挑戰見解。
 
->[!VIDEO](https://video.tv.adobe.com/v/3496528/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496547/?captions=chi_hant&learn=on&enablevpops)
