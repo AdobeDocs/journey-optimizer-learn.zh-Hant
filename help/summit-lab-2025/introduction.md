@@ -37,6 +37,6 @@ ht-degree: 38%
 
 在六個課程中，您將學習如何提升業務通訊，從簡單的對外傳訊提升到複雜的全通道體驗。 透過實務範例，您深入瞭解如何建立客戶歷程，將主動式外聯與回應式參與緊密結合。
 
->[!VIDEO](https://video.tv.adobe.com/v/3457828/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3505727/?captions=chi_hant&learn=on&enablevpops)
 
 在[這裡](/help/summit-lab-2025/assets/summit-lab-manual-l535-final-v4.pdf)下載活頁簿。

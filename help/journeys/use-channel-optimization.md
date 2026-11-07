@@ -31,4 +31,4 @@ ht-degree: 0%
 
 瞭解如何使用動作群組來結合電子郵件、推播和簡訊，然後透過手動優先順序、客戶偏好設定或AI參與分數來最佳化頻道選擇。
 
->[!VIDEO](https://video.tv.adobe.com/v/3505310/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3505319/?captions=chi_hant&learn=on&enablevpops)

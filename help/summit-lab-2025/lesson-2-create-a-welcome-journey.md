@@ -35,6 +35,6 @@ ht-degree: 0%
 
 在本練習中，您將根據現有歷程開始建立歡迎歷程。 一開始先定義輸入條件，然後使用AI內容加速器先建置撰寫電子郵件訊息。
 
->[!VIDEO](https://video.tv.adobe.com/v/3457896/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3505851/?captions=chi_hant&learn=on&enablevpops)
 
 如需此主題的詳細指引，請參閱[建立歷程簡介](/help/journeys/introduction-to-building-a-journey.md)和[使用案例 — 對象資格](/help/journeys/use-case-audience-qualification.md)。

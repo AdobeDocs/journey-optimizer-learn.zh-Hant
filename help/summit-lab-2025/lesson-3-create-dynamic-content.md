@@ -39,6 +39,6 @@ ht-degree: 0%
 
 在此練習中，您以套用動態內容至SMS為例，但可將其套用至所有管道。
 
->[!VIDEO](https://video.tv.adobe.com/v/3457913/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3505860/?captions=chi_hant&learn=on&enablevpops)
 
 請參閱[使用條件規則產生器建立動態內容](/help/personalize-content/create-dynamic-content.md)，以取得有關本主題的更多指引。
