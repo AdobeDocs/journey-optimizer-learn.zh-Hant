@@ -39,7 +39,7 @@ ht-degree: 0%
 
 在本課程中，您會將內容實驗套用至推送訊息。
 
->[!VIDEO](https://video.tv.adobe.com/v/3457924/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3505877/?captions=chi_hant&learn=on&enablevpops)
 
 
 如需此主題的詳細指引，請參閱[實驗 — 概覽](/help/experimentation/introduction-to-experimentation.md)、[設定電子郵件行銷活動的內容實驗](/help/experimentation/content-experiments-for-emails.md)和[推播通知 — 概覽](/help/channels/push-notifications-overview.md)。
