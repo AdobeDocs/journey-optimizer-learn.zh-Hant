@@ -276,7 +276,7 @@ ht-degree: 98%
     + [建立和發佈教戰手冊執行個體](https://experienceleague.adobe.com/zh-hant/docs/platform-learn/tutorials/use-case-playbooks/create-and-publish-a-playbook-instance){target="_blank"}
 + 練習、實驗與挑戰 {#exercises-and-challenges}
   + [設定訓練沙箱](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites)
-  + {hide-from-toc}[挑戰](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites){target="_blank"}
+  + {hide-from-toc}[挑戰target="_blank"](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites)
   + Summit Labs {#summit-labs}
     + [透過 Adobe Journey Optimizer (2024) 建立個人化行動時刻](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/build-personalized-mobile-moments/lab-overview){target="_blank"}
     + [請在 Adobe Journey Optimizer (2025 年版) 中，將協調流程縮放為全頻道參與](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
