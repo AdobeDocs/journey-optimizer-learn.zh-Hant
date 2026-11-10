@@ -3,9 +3,9 @@ user-guide-title: Journey Optimizer 教學課程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 這些是 Journey Optimizer 教學課程。
 auto-video-transcripts: true
-source-git-commit: 75df71a17b6a7b1b60f88b45a9b82ecbe725233a
+source-git-commit: bc518d7987b6f50e782ed5302f25de6185cd20ed
 workflow-type: tm+mt
-source-wordcount: '1604'
+source-wordcount: '1600'
 ht-degree: 98%
 ---
 
@@ -14,8 +14,8 @@ ht-degree: 98%
 + [Journey Optimizer 教學課程](/help/_ajo-main/overview.md)
 + Journey Optimizer 簡介 {#introduction-to-journey-optimizer}
   + [Journey Optimizer – 概觀](/help/introduction/journey-optimizer-overview.md)
-  + [Journey Optimizer 簡介](/help/introduction/introduction.md)
-  + [重要功能和使用者介面](/help/introduction/key-capabilities-and-user-interface.md)
+  + {hide-from-toc}[Journey Optimizer 簡介](/help/introduction/introduction.md)
+  + [主要功能](/help/introduction/key-capabilities.md)
   + {hide-from-toc}[架構](/help/introduction/architecture.md)
   + [為行銷人員提供的行動裝置功能](/help/channels/mobile-capabilities.md)
   + [為開發人員提供的行動裝置功能](/help/channels/mobile-capabilities-for-developers.md)
@@ -276,7 +276,7 @@ ht-degree: 98%
     + [建立和發佈教戰手冊執行個體](https://experienceleague.adobe.com/zh-hant/docs/platform-learn/tutorials/use-case-playbooks/create-and-publish-a-playbook-instance){target="_blank"}
 + 練習、實驗與挑戰 {#exercises-and-challenges}
   + [設定訓練沙箱](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites)
-  + {hide-from-toc}[挑戰target="_blank"](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites)
+  + {hide-from-toc}[挑戰](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites){target="_blank"}
   + Summit Labs {#summit-labs}
     + [透過 Adobe Journey Optimizer (2024) 建立個人化行動時刻](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/build-personalized-mobile-moments/lab-overview){target="_blank"}
     + [請在 Adobe Journey Optimizer (2025 年版) 中，將協調流程縮放為全頻道參與](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
