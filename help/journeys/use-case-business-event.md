@@ -31,4 +31,4 @@ ht-degree: 100%
 
 了解如何在 Journey Optimizer 使用企業事件。 企業事件可讓品牌根據非人員相關事件觸發歷程，例如當新聞出版物刊出新內容時通知訂閱者，或在體育賽事期間傳送通訊。 了解如何將業商業事件的資料用於歷程中的個人化傳訊功能。
 
->[!VIDEO](https://video.tv.adobe.com/v/334234/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3508288/?captions=chi_hant&learn=on)
