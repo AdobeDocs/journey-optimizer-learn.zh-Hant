@@ -32,4 +32,4 @@ ht-degree: 100%
 
 瞭解 Adobe Journey Optimizer 的主要功能，從客戶資料和客群到歷程、管道、內容、決策和忠誠度，以及 AI 可在何處支援您的工作。
 
->[!VIDEO](https://video.tv.adobe.com/v/3424995?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3430323?captions=chi_hant&learn=on){transcript=true}
