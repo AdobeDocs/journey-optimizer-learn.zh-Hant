@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer 教學課程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 這些是 Journey Optimizer 教學課程。
 auto-video-transcripts: true
-source-git-commit: bc518d7987b6f50e782ed5302f25de6185cd20ed
-workflow-type: ht
-source-wordcount: '1600'
-ht-degree: 100%
+source-git-commit: 71ab3fccd68cf11ccc392533220ce455e302fb66
+workflow-type: tm+mt
+source-wordcount: '1605'
+ht-degree: 99%
 ---
 
 # Journey Optimizer 教學課程 {#tutorials}
@@ -16,6 +16,7 @@ ht-degree: 100%
   + [Journey Optimizer – 概觀](/help/introduction/journey-optimizer-overview.md)
   + {hide-from-toc}[Journey Optimizer 簡介](/help/introduction/introduction.md)
   + [主要功能](/help/introduction/key-capabilities.md)
+  + [角色和使用者介面](/help/introduction/roles-and-the-user-interface-feature-video.md)
   + {hide-from-toc}[架構](/help/introduction/architecture.md)
   + [為行銷人員提供的行動裝置功能](/help/channels/mobile-capabilities.md)
   + [為開發人員提供的行動裝置功能](/help/channels/mobile-capabilities-for-developers.md)
