@@ -1,6 +1,6 @@
 ---
 title: 使用管道最佳化來觸及客戶參與的地方
-description: 瞭解如何使用動作群組來結合電子郵件、推播和簡訊，然後透過手動優先順序、客戶偏好設定或AI參與分數來最佳化頻道選擇。
+description: 瞭解如何使用動作群組來結合電子郵件、推播和簡訊，然後透過手動優先順序、客戶偏好設定或 AI 參與分數來最佳化頻道選擇。
 role: User
 level: Intermediate
 doc-type: Feature Video
@@ -22,13 +22,13 @@ level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
 source-git-commit: 05581307a9ec85afe92c517b69bf4f4921226d03
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '68'
-ht-degree: 0%
+ht-degree: 100%
 ---
 
 # 使用管道最佳化來觸及客戶參與的地方
 
-瞭解如何使用動作群組來結合電子郵件、推播和簡訊，然後透過手動優先順序、客戶偏好設定或AI參與分數來最佳化頻道選擇。
+瞭解如何使用動作群組來結合電子郵件、推播和簡訊，然後透過手動優先順序、客戶偏好設定或 AI 參與分數來最佳化頻道選擇。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3505319/?captions=chi_hant&learn=on&enablevpops)

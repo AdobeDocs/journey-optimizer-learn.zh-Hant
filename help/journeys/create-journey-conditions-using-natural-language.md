@@ -1,6 +1,6 @@
 ---
 title: 使用自然語言建立歷程條件
-description: 瞭解如何使用自然語言提示在Adobe Journey Optimizer中建立歷程條件。 使用AI檢查忠誠度會員資格並識別休眠使用者。
+description: 瞭解如何使用自然語言提示在 Adobe Journey Optimizer 中建立歷程條件。使用 AI 檢查忠誠度會員資格並識別休眠使用者。
 role: User
 level: Intermediate
 doc-type: Feature Video
@@ -20,13 +20,13 @@ level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
 source-git-commit: a56917f03581d014c45e777437f090dba863f4a2
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '72'
-ht-degree: 0%
+ht-degree: 100%
 ---
 
 # 使用自然語言建立歷程條件
 
-瞭解Adobe Journey Optimizer的AI功能如何在不撰寫運算式語言的情況下將純英文提示轉換為歷程條件。 此影片示範如何使用忠誠度會員資格和休眠使用者檢查來建立更相關的客戶路徑。
+瞭解 Adobe Journey Optimizer 的 AI 功能如何在不撰寫運算式語言的情況下將簡單英文提示轉換為歷程條件。此影片示範如何使用忠誠度會員資格和休眠使用者檢查來建立更相關的客戶路徑。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3504903/?captions=chi_hant&learn=on&enablevpops)

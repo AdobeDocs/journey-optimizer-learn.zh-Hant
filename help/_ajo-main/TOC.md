@@ -4,9 +4,9 @@ user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 這些是 Journey Optimizer 教學課程。
 auto-video-transcripts: true
 source-git-commit: bc518d7987b6f50e782ed5302f25de6185cd20ed
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1600'
-ht-degree: 98%
+ht-degree: 100%
 ---
 
 # Journey Optimizer 教學課程 {#tutorials}
@@ -20,7 +20,7 @@ ht-degree: 98%
   + [為行銷人員提供的行動裝置功能](/help/channels/mobile-capabilities.md)
   + [為開發人員提供的行動裝置功能](/help/channels/mobile-capabilities-for-developers.md)
   + [取得 AI 助理的說明](/help/ai-agents/ai-assistant.md)
-+ [Journey Optimizer中的CX Enterprise Coworker](/help/_ajo-main/coworker.md)
++ [Journey Optimizer 中的 CX Enterprise Coworker](/help/_ajo-main/coworker.md)
 + [Journey Optimizer — 行動學習中心](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/mobile-learning-hub/overview){target="_blank"}
 + 行銷活動 {#create-campaigns}
   + 動作行銷活動 {#action-campaigns}
@@ -276,7 +276,7 @@ ht-degree: 98%
     + [建立和發佈教戰手冊執行個體](https://experienceleague.adobe.com/zh-hant/docs/platform-learn/tutorials/use-case-playbooks/create-and-publish-a-playbook-instance){target="_blank"}
 + 練習、實驗與挑戰 {#exercises-and-challenges}
   + [設定訓練沙箱](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites)
-  + {hide-from-toc}[挑戰target="_blank"](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites)
+  + {hide-from-toc}[挑戰](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites){target="_blank"}
   + Summit Labs {#summit-labs}
     + [透過 Adobe Journey Optimizer (2024) 建立個人化行動時刻](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/build-personalized-mobile-moments/lab-overview){target="_blank"}
     + [請在 Adobe Journey Optimizer (2025 年版) 中，將協調流程縮放為全頻道參與](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
