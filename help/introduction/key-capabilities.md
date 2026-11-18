@@ -1,6 +1,6 @@
 ---
 title: 主要功能
-description: 探索Adobe Journey Optimizer功能，包括受眾、歷程、管道、內容、決策、忠誠度和AI輔助工作流程。
+description: 探索Adobe Journey Optimizer 功能，包括客群、歷程、管道、內容、決策、忠誠度和 AI 輔助工作流程。
 jira: KT-7606
 thumbnail: 3424995.jpeg
 feature: Overview
@@ -23,13 +23,13 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 source-git-commit: bc518d7987b6f50e782ed5302f25de6185cd20ed
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '48'
-ht-degree: 8%
+ht-degree: 100%
 ---
 
 # 主要功能
 
-瞭解Adobe Journey Optimizer的主要功能，從客戶資料和受眾到歷程、管道、內容、決策和忠誠度，以及AI可在何處支援您的工作。
+瞭解 Adobe Journey Optimizer 的主要功能，從客戶資料和客群到歷程、管道、內容、決策和忠誠度，以及 AI 可在何處支援您的工作。
 
->[!VIDEO](https://video.tv.adobe.com/v/3430323?captions=chi_hant&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3424995?learn=on){transcript=true}
