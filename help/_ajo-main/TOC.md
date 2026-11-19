@@ -3,10 +3,10 @@ user-guide-title: Journey Optimizer 教學課程
 user-guide-breadcrumb: Journey Optimizer Learn
 user-guide-description: 這些是 Journey Optimizer 教學課程。
 auto-video-transcripts: true
-source-git-commit: bc518d7987b6f50e782ed5302f25de6185cd20ed
-workflow-type: ht
-source-wordcount: '1600'
-ht-degree: 100%
+source-git-commit: 71ab3fccd68cf11ccc392533220ce455e302fb66
+workflow-type: tm+mt
+source-wordcount: '1605'
+ht-degree: 99%
 ---
 
 # Journey Optimizer 教學課程 {#tutorials}
@@ -16,6 +16,7 @@ ht-degree: 100%
   + [Journey Optimizer – 概觀](/help/introduction/journey-optimizer-overview.md)
   + {hide-from-toc}[Journey Optimizer 簡介](/help/introduction/introduction.md)
   + [主要功能](/help/introduction/key-capabilities.md)
+  + [角色和使用者介面](/help/introduction/roles-and-the-user-interface-feature-video.md)
   + {hide-from-toc}[架構](/help/introduction/architecture.md)
   + [為行銷人員提供的行動裝置功能](/help/channels/mobile-capabilities.md)
   + [為開發人員提供的行動裝置功能](/help/channels/mobile-capabilities-for-developers.md)
@@ -276,7 +277,7 @@ ht-degree: 100%
     + [建立和發佈教戰手冊執行個體](https://experienceleague.adobe.com/zh-hant/docs/platform-learn/tutorials/use-case-playbooks/create-and-publish-a-playbook-instance){target="_blank"}
 + 練習、實驗與挑戰 {#exercises-and-challenges}
   + [設定訓練沙箱](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites)
-  + {hide-from-toc}[挑戰](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites){target="_blank"}
+  + {hide-from-toc}[挑戰target="_blank"](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites)
   + Summit Labs {#summit-labs}
     + [透過 Adobe Journey Optimizer (2024) 建立個人化行動時刻](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/build-personalized-mobile-moments/lab-overview){target="_blank"}
     + [請在 Adobe Journey Optimizer (2025 年版) 中，將協調流程縮放為全頻道參與](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction){target="_blank"}
