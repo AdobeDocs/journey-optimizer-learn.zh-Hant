@@ -33,4 +33,4 @@ ht-degree: 0%
 
 瞭解如何導覽Adobe Journey Optimizer、瞭解四個主要使用者角色，並尋找與您的角色相關的工具和設定。 在建置您的第一個使用案例之前，探索組織、沙箱和許可權如何塑造您的工作區。
 
->[!VIDEO](https://video.tv.adobe.com/v/3508506?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3508516?captions=chi_hant&learn=on){transcript=true}
