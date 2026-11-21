@@ -44,4 +44,4 @@ ht-degree: 0%
 
 在本練習中，您會將選取策略連結至程式碼型體驗，以進行即時網頁橫幅個人化。
 
->[!VIDEO](https://video.tv.adobe.com/v/3508540/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3508549/?captions=chi_hant&learn=on)
